@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777624252027-jnfltkizq",
+  "providerId": "claude",
+  "title": "Guten Morgen! Lass mich kurz schauen wo ihr akt...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777624252027,
+  "updatedAt": 1777731293743,
+  "lastResponseAt": 1777731293743,
+  "sessionId": "43be3fa7-b9a4-4e52-996d-20aca5d297b2",
+  "providerState": {
+    "providerSessionId": "43be3fa7-b9a4-4e52-996d-20aca5d297b2"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 406,
+    "cacheReadInputTokens": 128847,
+    "contextWindow": 200000,
+    "contextTokens": 129256,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777553231020-s8gndsz7m",
+  "providerId": "claude",
+  "title": "# Abenteuer-Vorbereitung in Ryssea\n\nHey! Gerne ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777553231025,
+  "updatedAt": 1777567668874,
+  "lastResponseAt": 1777567668874,
+  "sessionId": "be6dbf9b-b8c1-4b52-82a1-515f2fd2b4b7",
+  "providerState": {
+    "providerSessionId": "be6dbf9b-b8c1-4b52-82a1-515f2fd2b4b7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 76388,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 76398,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}
