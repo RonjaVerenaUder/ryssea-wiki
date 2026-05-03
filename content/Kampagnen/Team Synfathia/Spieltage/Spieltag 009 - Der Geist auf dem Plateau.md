@@ -1,10 +1,10 @@
 ---
-tags: [spieltag]
+tags: [spieltag, spieler]
 typ: spieltag
 kampagne: "[[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]]"
 abenteuer: "[[Kampagnen/Team Synfathia/Abenteuer/Staub und Sterne|Staub und Sterne]]"
 gespielt_am: ""
-publish: false
+publish: true
 ---
 
 # Spieltag 009 — Der Geist auf dem Plateau
