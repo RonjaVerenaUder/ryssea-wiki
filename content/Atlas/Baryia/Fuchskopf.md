@@ -3,6 +3,7 @@ tags: [ort]
 typ: ort
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Fuchskopf

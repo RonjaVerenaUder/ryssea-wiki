@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Ocea 1, Ocea 2, diverse Gewässer]
 magiefähig: true
+publish: true
 ---
 
 # Sharnai

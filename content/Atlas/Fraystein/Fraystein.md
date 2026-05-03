@@ -3,6 +3,7 @@ tags: [splitter]
 typ: splitter
 status: entwurf
 nebeltore: []
+publish: true
 ---
 
 # Fraystein
@@ -28,7 +29,9 @@ An Europa angelehnt. Überbleibsel eines früheren DSA-Rollenspiels (Das Schwarz
 
 ## Wichtige Orte
 
-<!-- TODO: Wichtige Orte aus dem DSA-Erbe eintragen -->
+- [[Trallop]] — Stadt, Heimatregion von [[Dana Lonnert]]
+
+<!-- TODO: Weitere wichtige Orte aus dem DSA-Erbe eintragen -->
 
 ## Notizen
 

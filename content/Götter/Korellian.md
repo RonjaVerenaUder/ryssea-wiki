@@ -4,6 +4,7 @@ typ: gott
 status: entwurf
 aspekte: [Seelen, Tod, Dschungel]
 domäne: "Phantaura-Dschungel / Baryia (als Kore)"
+publish: true
 ---
 
 # Korellian

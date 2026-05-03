@@ -2,6 +2,7 @@
 tags: [magie]
 typ: magie
 status: entwurf
+publish: true
 ---
 
 # Alltagsmagie

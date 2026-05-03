@@ -3,6 +3,7 @@ tags: [ort, region]
 typ: region
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Unter-Baryia

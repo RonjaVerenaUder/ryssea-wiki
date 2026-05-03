@@ -6,6 +6,7 @@ volk: "[[Askasi]]"
 ort: "[[Fuchskopf]]"
 fraktion: ""
 lebendig: true
+publish: true
 ---
 
 # Elsafil ag Bisha

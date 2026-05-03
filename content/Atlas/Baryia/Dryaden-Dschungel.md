@@ -3,6 +3,7 @@ tags: [ort, wildnis]
 typ: wildnis
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Dryaden-Dschungel

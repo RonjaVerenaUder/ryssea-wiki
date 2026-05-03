@@ -2,6 +2,7 @@
 tags: [artefakt, gm-geheim]
 typ: artefakt
 status: entwurf
+publish: true
 ---
 
 # Dissonanz-Nadel

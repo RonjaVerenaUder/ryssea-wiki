@@ -7,6 +7,7 @@ ursprung: "Von Elementarlords erschaffen, aus einer frühen Iteration"
 element: "Erde, Metall, Feuer"
 verbreitung: []
 magiefähig: true
+publish: true
 ---
 
 # Zwerge

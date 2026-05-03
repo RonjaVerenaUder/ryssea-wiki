@@ -1,6 +1,7 @@
 ---
 tags: [moc, magie]
 typ: moc
+publish: true
 ---
 
 # Magiesystem

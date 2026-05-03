@@ -6,6 +6,7 @@ volk: "[[Menschen]]"
 ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Kaarsi]]"
 lebendig: false
+publish: true
 ---
 
 # Anef

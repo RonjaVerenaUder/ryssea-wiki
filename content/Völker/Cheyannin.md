@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 art: elementar
 verbreitung: [unklar]
+publish: true
 ---
 
 # Cheyannin

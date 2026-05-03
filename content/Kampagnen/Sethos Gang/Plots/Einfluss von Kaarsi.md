@@ -5,6 +5,7 @@ status: aktiv
 kampagne: "[[Sethos Gang]]"
 priorität: hoch
 eingeführt_in: "[[Abenteuer/Missing Cat]]"
+publish: true
 ---
 
 # Plot: Einfluss von Kaarsi
@@ -13,9 +14,8 @@ eingeführt_in: "[[Abenteuer/Missing Cat]]"
 
 [[Kaarsi]] unterwandert seit Jahrhunderten das Reich [[Baryia (Reich)]] von innen. Er gibt sich als [[Horus]] aus und hat ein falsches Götterpantheon aufgebaut. In der Gegenwart eskaliert seine Strategie: Über Golem-Herzen und korrumpierte Priester infiltriert der Kaarsi-Kult systematisch Schlüsselpositionen im Reich — vom Hof bis in die [[Askasi]]-Stämme im Gebirge.
 
-## Ziel / Auflösung
-
-Die Spieler müssen erkennen dass "Horus" ein Betrüger ist, den echten Horus befreien und Kaarsis Netzwerk zerschlagen. Endgültige Auflösung: Kaarsi wird als falscher Horus entlarvt und besiegt.
+> [!warning]- Spoiler: Auflösung
+> Die Spieler müssen erkennen dass "Horus" ein Betrüger ist, den echten Horus befreien und Kaarsis Netzwerk zerschlagen. Endgültige Auflösung: Kaarsi wird als falscher Horus entlarvt und besiegt.
 
 ## Beteiligte
 
@@ -39,26 +39,24 @@ Die Spieler müssen erkennen dass "Horus" ein Betrüger ist, den echten Horus be
 - [[Karasim]] ist an die Taskasianer gefallen
 - Die Horus-Priesterschaft agiert verdächtig
 
-## Tatsächliche Hintergründe (GM-Wissen)
-
-- "Horus" ist Kaarsi — seit Jahrhunderten
-- Der echte Horus liegt unter Karasim unter Dissonanz versiegelt
-- Alle Pharaonen seit Kaarsis Machtübernahme wurden durch das Pilgerreise-Ritual korrumpiert (trinken Blut des echten Horus)
-- Chepreh hat sich in 3 Teile gespalten und eine Prophezeiung hinterlassen
-- Korellian/Kore kennt Teile der Wahrheit und wartet auf Cheprehs Prophezeiung
-- Rehotep ist der letzte Rest der alten Blutlinie — Kaarsi weiß das nicht
+> [!danger]- GM-Wissen
+> - "Horus" ist Kaarsi — seit Jahrhunderten
+> - Der echte Horus liegt unter Karasim unter Dissonanz versiegelt
+> - Alle Pharaonen seit Kaarsis Machtübernahme wurden durch das Pilgerreise-Ritual korrumpiert (trinken Blut des echten Horus)
+> - Chepreh hat sich in 3 Teile gespalten und eine Prophezeiung hinterlassen
+> - Korellian/Kore kennt Teile der Wahrheit und wartet auf Cheprehs Prophezeiung
+> - Rehotep ist der letzte Rest der alten Blutlinie — Kaarsi weiß das nicht
 
 ## Fortschritt
 
 - [[Abenteuer/Missing Cat]] — Erster Kontakt: Golem-Herz bei Tamaklast entdeckt, Kaarsi-Unterwanderung in den Askasi-Stämmen aufgedeckt
 - [[Spieltag 001]] — Kaarsi-Priesterschaft am Neith-Tempel, Experimente mit der Seuche der Landweber
 
-## Nächste Entwicklungen (wenn ignoriert)
-
-- Kaarsis Einfluss breitet sich weiter aus
-- Mehr Schlüsselpersonen werden durch Golem-Herzen ersetzt
-- Die offene Invasion durch Taskasia beginnt
-- Rehotep wird gezielt ins Visier genommen
+> [!warning]- Spoiler: Nächste Entwicklungen
+> - Kaarsis Einfluss breitet sich weiter aus
+> - Mehr Schlüsselpersonen werden durch Golem-Herzen ersetzt
+> - Die offene Invasion durch Taskasia beginnt
+> - Rehotep wird gezielt ins Visier genommen
 
 ## Verknüpfungen
 

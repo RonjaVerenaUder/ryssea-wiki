@@ -2,6 +2,7 @@
 tags: [magie, regelwerk]
 typ: magie
 status: platzhalter
+publish: true
 ---
 
 # Magieklassen

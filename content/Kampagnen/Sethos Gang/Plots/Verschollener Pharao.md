@@ -5,6 +5,7 @@ status: aktiv
 kampagne: "[[Sethos Gang]]"
 priorität: hoch
 eingeführt_in: ""
+publish: true
 ---
 
 # Plot: Verschollener Pharao
@@ -13,9 +14,8 @@ eingeführt_in: ""
 
 Pharao [[Rehotep]] ist auf einer Expedition verschollen. Die Expedition führte in die heiligen Tempelanlagen bei der [[Quelle des Lebens]]. Die Spieler suchen nach ihm und versuchen herauszufinden was passiert ist.
 
-## Ziel / Auflösung
-
-Rehotep finden — lebendig oder tot. Klären was bei der Expedition passiert ist und wer sie verraten hat.
+> [!warning]- Spoiler: Auflösung
+> Rehotep finden — lebendig oder tot. Klären was bei der Expedition passiert ist und wer sie verraten hat.
 
 ## Beteiligte
 
@@ -37,21 +37,19 @@ Rehotep finden — lebendig oder tot. Klären was bei der Expedition passiert is
 - Der Pharao war bereits in den heiligen Tempelanlagen der Quelle
 - Den Weg kennen eigentlich nur Auserwählte der Horus-Priesterschaft (also aktuell Kaarsi-Priester)
 
-## Tatsächliche Hintergründe (GM-Wissen)
-
-- Rehotep ist der letzte Nachkomme der alten Pharaonen-Blutlinie von Ram'Aches
-- Kaarsi hat die Expedition sabotiert — Rehotep ist zu gefährlich als unkorrumpierter Pharao
-- Die Quelle des Lebens ist einer der 3 Tempel des Korruptions-Rituals
+> [!danger]- GM-Wissen
+> - Rehotep ist der letzte Nachkomme der alten Pharaonen-Blutlinie von Ram'Aches
+> - Kaarsi hat die Expedition sabotiert — Rehotep ist zu gefährlich als unkorrumpierter Pharao
+> - Die Quelle des Lebens ist einer der 3 Tempel des Korruptions-Rituals
 
 ## Fortschritt
 
 - [[Spieltag 001]] — Amenei aufgefunden, erste Hinweise auf den Verrat
 
-## Nächste Entwicklungen (wenn ignoriert)
-
-- Rehotep stirbt oder wird von Kaarsi gefangen gehalten
-- [[Mes'Atemu]] übernimmt die Macht — tief in der Korruption
-- Kaarsis Plan zur offenen Machtübernahme beschleunigt sich
+> [!warning]- Spoiler: Nächste Entwicklungen
+> - Rehotep stirbt oder wird von Kaarsi gefangen gehalten
+> - [[Mes'Atemu]] übernimmt die Macht — tief in der Korruption
+> - Kaarsis Plan zur offenen Machtübernahme beschleunigt sich
 
 ## Verknüpfungen
 

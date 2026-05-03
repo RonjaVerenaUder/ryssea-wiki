@@ -4,6 +4,7 @@ typ: gott
 status: entwurf
 aspekte: [Blut, Tod, Wiederauferstehung]
 domäne: "Taskasia"
+publish: true
 ---
 
 # Kaarsi

@@ -3,6 +3,7 @@ tags: [splitter]
 typ: splitter
 status: entwurf
 nebeltore: []
+publish: true
 ---
 
 # Sharanma

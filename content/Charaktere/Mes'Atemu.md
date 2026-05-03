@@ -6,6 +6,7 @@ volk: "[[Menschen]]"
 ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: true
+publish: true
 ---
 
 # Mes'Atemu

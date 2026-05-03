@@ -3,6 +3,7 @@ tags: [fraktion, reich]
 typ: reich
 status: platzhalter
 hauptquartier: ""
+publish: true
 ---
 
 # Taskasia

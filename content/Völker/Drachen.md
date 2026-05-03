@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: []
 magiefähig: true
+publish: true
 ---
 
 # Drachen

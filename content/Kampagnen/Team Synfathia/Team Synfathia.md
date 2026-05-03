@@ -1,24 +1,26 @@
 ---
 tags: [kampagne]
 typ: kampagne
-status: platzhalter
-setting: ""
+status: entwurf
+setting: "[[Fraystein]]"
 ton: ""
 start_datum: ""
+publish: true
 ---
 
 # Kampagne: Team Synfathia
 
 ## Beschreibung
 
-<!-- Noch zu befüllen -->
+Kampagne auf dem Splitter [[Fraystein]], einem europäisch inspirierten Menschenreich.
 
 ## Spielercharaktere
 
-<!-- Noch zu befüllen -->
+- [[Dana Lonnert]] — Magierin, gespielt von Sarah
 
 ## Abenteuer
 
 <!-- Noch keine -->
 
 ## Notizen
+

@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [fast alle Splitter]
 magiefähig: true
+publish: true
 ---
 
 # Menschen
@@ -33,6 +34,7 @@ Menschen bilden je nach Splitter völlig unterschiedliche Kulturen aus:
 - Sultansreich auf [[Sultannii]] (Hauptstadt: Sarakant)
 - Seefahrernation auf [[Marinna]]
 - Zwei rivalisierende Reiche auf dem [[China-Japan Splitter]]
+- Fraystain auf [[Fraystein]] — Europäisch inspiriertes Menschenreich
 - Und viele weitere
 
 ## Notizen

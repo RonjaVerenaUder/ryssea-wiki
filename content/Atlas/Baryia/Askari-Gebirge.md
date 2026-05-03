@@ -3,6 +3,7 @@ tags: [ort, gebirge]
 typ: gebirge
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Askari-Gebirge

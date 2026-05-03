@@ -4,6 +4,7 @@ typ: gott
 status: entwurf
 aspekte: [Land, Erde, Schöpfung]
 domäne: "Baryia"
+publish: true
 ---
 
 # Chepreh

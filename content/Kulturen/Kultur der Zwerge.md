@@ -4,6 +4,7 @@ typ: kultur
 status: entwurf
 volk: "[[Zwerge]]"
 splitter: ""
+publish: true
 ---
 
 # Kultur der Zwerge

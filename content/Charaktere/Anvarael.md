@@ -6,6 +6,7 @@ volk: "[[Phaerie]]"
 ort: "[[Karasim]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: true
+publish: true
 ---
 
 # Anvarael

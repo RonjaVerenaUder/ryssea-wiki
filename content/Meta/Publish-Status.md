@@ -4,151 +4,50 @@ tags: [meta]
 
 # Publish-Status
 
-Übersicht welche Notizen noch geprüft werden müssen bevor sie auf `wiki.ryssea.de` veröffentlicht werden. Notizen die fertig geprüft und published sind, werden hier entfernt — sie haben `publish: true` im Frontmatter.
+Seit Mai 2026 gilt: **Alles wird published** außer den unten genannten Ausnahmen. Auch unfertigen Notizen (status: platzhalter/entwurf) bekommen `publish: true` — die Spieler wissen dass die Wiki ein Work-in-Progress ist.
+
+Offene Platzhalter und Entwürfe werden in [[Meta/Aufgaben]] getrackt.
 
 ## Nie publishen
 
-Notizen die grundsätzlich nicht auf die Website gehören:
+- Meta/ (alle Dateien)
+- Anhänge/
+- CLAUDE.md
+- Spieltage/ (in allen Kampagnen)
 
-### Meta & Vault-Verwaltung
-- Meta/Aufgaben
-- Meta/Publish-Status (diese Datei)
-- Alle Templates in Meta/Templates/
+## Nur nach manueller Freigabe
 
-## Manuell freigeben (Kampagnen)
+### Abenteuer (aktive könnten gespoilert werden)
 
-Kampagnen-Notizen werden nur manuell published — wenn sie fertig gespielt wurden oder die Spieler Zugriff brauchen.
+#### Sethos Gang
+- [ ] [[Abenteuer - Der Weg zur Quelle]] — abgeschlossen, kann freigegeben werden?
+- [ ] [[Missing Cat]] — abgeschlossen, kann freigegeben werden?
 
-### Sethos Gang
-- [[Sethos Gang]] — Kampagnen-Hub
-- Abenteuer: [[Missing Cat]], [[Abenteuer - Der Weg zur Quelle]]
-- Spieltage: [[Spieltag 001 - Der Weg zur Quelle]]
-- Plots: [[Einfluss von Kaarsi]], [[Verschollener Pharao]], [[Seuche der Landweber]], [[Webtore]], [[Krieg Baryia vs Taskasia]]
+#### Nebelkinder
+- [ ] [[Part 0 - Escape vom Schiff]]
+- [ ] [[Part 1 - Stadterkundung]]
 
-### Nebelkinder
-- [[🎯 Nebelkinder Kampagne]] — Kampagnen-Hub
-- Abenteuer: [[Part 0 - Escape vom Schiff]], [[Part 1 - Stadterkundung]]
+## Published mit Spoiler-Callout
 
-### Team Synfathia
-- [[Team Synfathia]] — Platzhalter
+Plot-Notizen werden published, brauchen aber `> [!warning]- Spoiler` um den Inhalt.
 
-## Zum Prüfen
+### Sethos Gang Plots
+- [ ] [[Einfluss von Kaarsi]] — Spoiler-Callout prüfen/einbauen
+- [ ] [[Verschollener Pharao]] — Spoiler-Callout prüfen/einbauen
+- [ ] [[Seuche der Landweber]] — Spoiler-Callout prüfen/einbauen
+- [ ] [[Webtore]] — Spoiler-Callout prüfen/einbauen
+- [ ] [[Krieg Baryia vs Taskasia]] — Spoiler-Callout prüfen/einbauen
 
-Worldbuilding-Notizen die noch geprüft werden müssen bevor sie published werden. Sortiert nach Ordner. Notizen mit (P) sind Platzhalter und brauchen erst Inhalt.
+## Notizen mit GM-Callouts (zur Referenz)
 
-### Atlas
-- [ ] [[Atlas von Ryssea]] — MOC
-- [x] [[Baryia (Splitter)]] — Splitter-Notiz ✓ published
-- [ ] [[Aziza]] (P) — GM-Callout eingebaut
-- [ ] [[Karasim]] (P) — GM-Callout eingebaut
-- [ ] [[China-Japan Splitter]]
-- [ ] [[Elementarebene]]
-- [ ] [[Fares]] (P)
-- [ ] [[Fraystein]]
-- [ ] [[Fuchskopf]] (P)
-- [ ] [[Karaska]] (P)
-- [ ] [[Kronrimar]] (P)
-- [ ] [[Marinna]]
-- [ ] [[Marayam]]
-- [ ] [[Nordkontinent]]
-- [ ] [[Ocea 1]]
-- [ ] [[Ocea 2]]
-- [ ] [[Parcia]]
-- [ ] [[Sharanma]]
-- [ ] [[Splitter der N'Shkani]]
-- [ ] [[Sultannii]]
-- [ ] [[Traumebene]]
-- [ ] [[Askari-Gebirge]] (P)
-- [ ] [[Dryaden-Dschungel]] (P)
-- [ ] [[Nerayan]] (P)
-- [ ] [[Phantaura-Dschungel]] (P)
-- [ ] [[U-Maat-Re-Ka]] (P)
-- [ ] [[Unter-Baryia]] (P)
-- [ ] [[Zentaurensteppe]] (P)
+Diese Notizen sind published und enthalten eingeklappte GM-Wissen oder Spoiler-Callouts:
 
-### Völker
-- [ ] [[Völker von Ryssea]] — MOC
-- [ ] [[Dämonen]]
-- [ ] [[Drachen]]
-- [ ] [[Fey]]
-- [ ] [[Goblins]]
-- [ ] [[Haatias]]
-- [ ] [[Kireen]]
-- [ ] [[Kyulie]]
-- [ ] [[Menschen]]
-- [ ] [[N'Shkani]]
-- [ ] [[Nord]]
-- [ ] [[Orks]]
-- [ ] [[Phaerie]]
-- [ ] [[Phantaura (Volk)]]
-- [ ] [[Redcaps]]
-- [ ] [[Sharnai]]
-- [ ] [[Skriit]]
-- [ ] [[Tirn]]
-- [ ] [[Tirnûn]]
-- [ ] [[Trolle]]
-- [ ] [[Zentauren]]
-- [ ] [[Zwerge]]
-- [ ] [[Cheyannin]] — Muss nach Fraktionen/ verschoben werden
-
-### Kulturen
-- [ ] [[Kulturen von Ryssea]] — MOC
-- [ ] [[Askasi]]
-- [ ] [[Kultur der Zwerge]]
-
-### Götter
-- [ ] [[Götter von Ryssea]] — MOC, GM-Callouts eingebaut
-- [ ] [[Kaarsi]] — GM-Callouts eingebaut
-- [ ] [[Horus]] — GM-Callouts eingebaut
-- [ ] [[Chepreh]] — GM-Callouts eingebaut
-- [ ] [[Korellian]] — GM-Callouts eingebaut
-- [ ] [[Bastet]]
-- [ ] [[Seth]] (P)
-- [ ] [[Neraiyda]] (P)
-- [ ] [[Mikayrion]] (P)
-
-### Fraktionen
-- [ ] [[Fraktionen von Ryssea]] — MOC
-- [x] [[Baryia (Reich)]] — GM-Callouts eingebaut ✓ published
-- [ ] [[Taskasia]] (P)
-- [ ] [[Phantaura (Reich)]] (P)
-- [ ] [[Kultisten des Weltenfressers]]
-
-### Kosmologie (publishbar)
-- [ ] [[Kosmologie von Ryssea]] — MOC
-- [ ] [[Zwielicht]]
-- [ ] [[Weltenweber]]
-- [ ] [[Weltenwille]]
-- [ ] [[Die Elemente]]
-- [ ] [[Elementarlords]]
-- [ ] [[Kirellian]] (P)
-
-### Magie
-- [ ] [[Magiesystem]] — MOC
-- [ ] [[Alltagsmagie]]
-- [ ] [[Landweber]] — GM-Callouts eingebaut
-- [ ] [[Schicksalspunkte]]
-- [ ] [[Magische Gaben]] (P)
-- [ ] [[Magieklassen]] (P)
-
-### Artefakte
-- [ ] [[Dissonanz-Nadel]] — Komplett-Callout (gm-geheim)
-- [ ] [[Elementarkernkompass]]
-
-### Geschichte
-- [ ] [[Timeline von Ryssea]]
-
-### Charaktere
-- [ ] [[Ram'Aches]] — GM-Callouts eingebaut
-- [ ] [[Rehotep]] — GM-Callouts eingebaut
-- [ ] [[Anvarael]] — GM-Callouts eingebaut
-- [ ] [[Ton-Ren-Anem]] — GM-Callouts eingebaut
-- [ ] [[Anef]] — GM-Callouts eingebaut
-- [ ] [[Tamaklast]] — Spoiler-Callouts eingebaut
-- [ ] [[Mes'Atemu]] — GM-Callout eingebaut
-- [ ] [[Kana]] — Spoiler-Callout eingebaut
-- [ ] [[Elsafil]] — Spoiler-Callout eingebaut
-- [ ] [[Almoud]]
-- [ ] [[Mahit]]
-- [x] [[Sethos]] — Spielercharakter, GM-Callouts eingebaut ✓ published
-- [x] [[Resul]] (P) — Begleiter ✓ published
+- [[Götter von Ryssea]] — GM-Callouts
+- [[Kaarsi]], [[Horus]], [[Chepreh]], [[Korellian]] — GM-Callouts
+- [[Baryia (Reich)]] — GM-Callouts
+- [[Aziza]], [[Karasim]] — GM-Callouts
+- [[Ram'Aches]], [[Rehotep]], [[Anvarael]], [[Ton-Ren-Anem]], [[Anef]], [[Mes'Atemu]] — GM-Callouts
+- [[Tamaklast]], [[Kana]], [[Elsafil]] — Spoiler-Callouts
+- [[Landweber]] — GM-Callouts
+- [[Dissonanz-Nadel]] — Komplett-Callout (gm-geheim)
+- [[Sethos]] — GM-Callouts

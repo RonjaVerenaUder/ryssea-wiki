@@ -1,6 +1,7 @@
 ---
 tags: [moc, götter]
 typ: moc
+publish: true
 ---
 
 # Götter von Ryssea
@@ -42,6 +43,9 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 ### Taskasia
 - [[Kaarsi]] — Blutgott der Taskasianer
 
+### Fraystein
+- [[Reykon]] — Gottheit auf Fraystein (Details noch offen)
+
 <!-- TODO: Weitere Pantheons der einzelnen Völker/Kulturen -->
 
 ## Einzelne Götter
@@ -56,3 +60,4 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 - [[Mikayrion]] — "Der Wächter", Partner von Neraiyda (Baryia)
 - [[Seth]] — Gott auf Baryia, Sethtiere sind ihm zugeordnet
 - [[Bastet]] — Göttin der Heilung, des Schutzes und der Spionage (Baryia)
+- [[Reykon]] — Gottheit auf Fraystein

@@ -5,6 +5,7 @@ status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
 reich: "[[Baryia (Reich)]]"
 größe: ""
+publish: true
 ---
 
 # Karasim

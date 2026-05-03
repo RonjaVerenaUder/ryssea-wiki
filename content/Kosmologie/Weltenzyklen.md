@@ -2,6 +2,7 @@
 tags: [kosmologie, gm-geheim]
 typ: kosmologie
 status: entwurf
+publish: true
 ---
 
 # Weltenzyklen

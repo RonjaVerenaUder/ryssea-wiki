@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Splitter der N'Shkani]
 magiefähig: true
+publish: true
 ---
 
 # N'Shkani

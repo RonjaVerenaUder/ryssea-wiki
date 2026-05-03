@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Nordkontinent]
 magiefähig: true
+publish: true
 ---
 
 # Nord

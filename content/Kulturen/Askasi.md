@@ -4,6 +4,7 @@ typ: kultur
 status: entwurf
 volk: "[[Menschen]]"
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Askasi

@@ -4,6 +4,7 @@ typ: gott
 status: platzhalter
 aspekte: []
 domäne: ""
+publish: true
 ---
 
 # Seth

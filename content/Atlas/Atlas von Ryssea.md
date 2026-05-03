@@ -1,6 +1,7 @@
 ---
 tags: [moc, atlas]
 typ: moc
+publish: true
 ---
 
 # Atlas von Ryssea

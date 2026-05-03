@@ -3,6 +3,7 @@ tags: [ort, dorf]
 typ: dorf
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Karaska

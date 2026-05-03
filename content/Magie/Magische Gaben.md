@@ -2,6 +2,7 @@
 tags: [magie]
 typ: magie
 status: platzhalter
+publish: true
 ---
 
 # Magische Gaben

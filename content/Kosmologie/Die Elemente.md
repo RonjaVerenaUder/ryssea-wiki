@@ -2,6 +2,7 @@
 tags: [kosmologie, magie]
 typ: kosmologie
 status: entwurf
+publish: true
 ---
 
 # Die Elemente

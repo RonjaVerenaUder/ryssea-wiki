@@ -3,6 +3,7 @@ tags: [fraktion, reich]
 typ: reich
 status: platzhalter
 hauptquartier: "[[Phantaura-Dschungel]]"
+publish: true
 ---
 
 # Phantaura (Reich)

@@ -2,6 +2,7 @@
 typ: artefakt
 tags: [artefakt]
 status: entwurf
+publish: true
 ---
 
 # Elementarkernkompass

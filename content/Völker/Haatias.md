@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Marayam]
 magiefähig: true
+publish: true
 ---
 
 # Haatias

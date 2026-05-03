@@ -4,6 +4,7 @@ typ: gott
 status: entwurf
 aspekte: [Heilung, Schutz, Heimlichkeit, Spionage]
 domäne: ""
+publish: true
 ---
 
 # Bastet

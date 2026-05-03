@@ -1,6 +1,7 @@
 ---
 tags: [moc, kulturen]
 typ: moc
+publish: true
 ---
 
 # Kulturen von Ryssea

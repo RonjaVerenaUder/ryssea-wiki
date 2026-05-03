@@ -3,6 +3,7 @@ tags: [ort, stadt]
 typ: stadt
 status: platzhalter
 splitter: "[[Baryia (Splitter)]]"
+publish: true
 ---
 
 # Aziza

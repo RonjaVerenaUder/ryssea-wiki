@@ -5,6 +5,7 @@ status: aktiv
 setting: "[[Baryia (Reich)]]"
 ton: "Politische Intrigen, göttliche Machenschaften, moralische Konflikte"
 start_datum: ""
+publish: true
 ---
 
 # Kampagne: Sethos Gang — Erwachen der Landweber

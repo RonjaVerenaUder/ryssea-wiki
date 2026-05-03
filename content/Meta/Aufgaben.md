@@ -23,6 +23,7 @@ tags: [meta]
 ### Kampagnen
 - [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen
 - [ ] Nebelkinder: Abenteuer-Notizen mit Abenteuer-Template aktualisieren
+- [ ] Team Synfathia: Spielertagebuch einpflegen, weitere Charaktere anlegen
 - [ ] Phase 3: Regelwerk-Struktur erarbeiten
 
 ### Tools & Technik
@@ -87,6 +88,12 @@ Notizen die angelegt aber noch nicht befüllt sind:
 ### Charaktere
 - [[Resul]] — Sethtier, Vertrauter von Sethos
 - [[Mes'Atemu]] — Älterer Sohn von Rehotep
+
+### Götter (Fraystein)
+- [[Reykon]] — Gottheit auf Fraystein, verehrt von Dana Lonnert
+
+### Atlas (Fraystein)
+- [[Trallop]] — Stadt auf Fraystein, Heimatregion von Dana Lonnert
 
 ## In Arbeit
 - [[Baryia (Splitter)]] — Splitter-Notiz mit neuem Template befüllt, Details folgen

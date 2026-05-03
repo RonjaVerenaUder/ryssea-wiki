@@ -1,6 +1,7 @@
 ---
 tags: [moc, kosmologie]
 typ: moc
+publish: true
 ---
 
 # Kosmologie von Ryssea

@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Ocea 1, Ocea 2]
 magiefähig: true
+publish: true
 ---
 
 # Kireen

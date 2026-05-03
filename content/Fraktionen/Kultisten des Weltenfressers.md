@@ -2,6 +2,7 @@
 typ: kult
 tags: [fraktion, kult, gm-geheim]
 status: entwurf
+publish: true
 ---
 
 # Kultisten des Weltenfressers

@@ -1,6 +1,7 @@
 ---
 tags: [moc, fraktionen]
 typ: moc
+publish: true
 ---
 
 # Fraktionen von Ryssea

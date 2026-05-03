@@ -3,6 +3,7 @@ tags: [elementarlord, kosmologie]
 typ: elementarlord
 status: platzhalter
 element: Wasser
+publish: true
 ---
 
 # Kirellian

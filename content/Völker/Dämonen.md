@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Traumebene]
 magiefähig: true
+publish: true
 ---
 
 # Dämonen

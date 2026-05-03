@@ -2,6 +2,7 @@
 tags: [kosmologie]
 typ: kosmologie
 status: entwurf
+publish: true
 ---
 
 # Weltenweber

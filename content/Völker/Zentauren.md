@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Baryia (Splitter)]
 magiefähig: true
+publish: true
 ---
 
 # Zentauren

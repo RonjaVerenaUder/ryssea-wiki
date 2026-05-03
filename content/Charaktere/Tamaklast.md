@@ -6,6 +6,7 @@ volk: "[[Askasi]]"
 ort: "[[Fuchskopf]]"
 fraktion: ""
 lebendig: false
+publish: true
 ---
 
 # Tamaklast ag Bisha

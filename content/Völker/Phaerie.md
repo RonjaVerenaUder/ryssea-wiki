@@ -4,6 +4,7 @@ typ: volk
 status: entwurf
 verbreitung: [Sharanma, diverse]
 magiefähig: true
+publish: true
 ---
 
 # Phaerie

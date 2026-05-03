@@ -1,6 +1,7 @@
 ---
 tags: [moc, kosmologie, elementarlord]
 typ: moc
+publish: true
 ---
 
 # Elementarlords

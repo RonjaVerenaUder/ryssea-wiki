@@ -6,6 +6,7 @@ volk: "[[Menschen]]"
 ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: false
+publish: true
 ---
 
 # Ton-Ren-Anem

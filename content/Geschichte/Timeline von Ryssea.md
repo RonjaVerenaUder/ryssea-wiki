@@ -1,6 +1,7 @@
 ---
 tags: [moc, geschichte]
 typ: moc
+publish: true
 ---
 
 # Timeline von Ryssea

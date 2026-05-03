@@ -1,6 +1,7 @@
 ---
 tags: [moc, völker]
 typ: moc
+publish: true
 ---
 
 # Völker von Ryssea

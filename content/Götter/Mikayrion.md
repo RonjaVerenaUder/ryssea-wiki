@@ -4,6 +4,7 @@ typ: gott
 status: platzhalter
 aspekte: []
 domäne: "[[Nerayan]]"
+publish: true
 ---
 
 # Mikayrion

@@ -4,6 +4,7 @@ typ: gott
 status: entwurf
 aspekte: [Sieg, Kampf, Schutz]
 domäne: "Baryia"
+publish: true
 ---
 
 # Horus

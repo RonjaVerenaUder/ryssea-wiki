@@ -2,6 +2,7 @@
 tags: [atlas, ebene]
 typ: ebene
 status: entwurf
+publish: true
 ---
 
 # Traumebene

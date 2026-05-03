@@ -2,6 +2,7 @@
 tags: [magie, gm-geheim]
 typ: magie
 status: entwurf
+publish: true
 ---
 
 # Landweber

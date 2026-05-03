@@ -105,7 +105,19 @@ Beim Erstellen oder Bearbeiten von Notizen müssen **immer** auch die zugehörig
 
 ### Spoiler und GM-Wissen auf der Website
 
-Das Vault wird als Wiki unter `wiki.ryssea.de` veröffentlicht (Quartz + GitHub Pages). Nur Notizen mit `publish: true` im Frontmatter erscheinen auf der Website. Innerhalb publizierter Notizen können Abschnitte für Spieler versteckt werden:
+Das Vault wird als Wiki unter `wiki.ryssea.de` veröffentlicht (Quartz + GitHub Pages). Nur Notizen mit `publish: true` im Frontmatter erscheinen auf der Website.
+
+**Publish-Policy — Neue Notizen bekommen automatisch `publish: true` AUSSER:**
+- **Spieltage/** — Nie publishen (interne Session-Protokolle)
+- **Abenteuer/** — Nur nach manueller Freigabe durch Ronja (aktive Abenteuer nicht spoilern)
+- **Meta/** — Nie publishen (Vault-interne Verwaltung)
+- **Anhänge/** — Nie publishen
+- **CLAUDE.md** — Nie publishen
+- **Plots/** — Publishen MIT Spoiler-Callout (`> [!warning]- Spoiler` um den gesamten Inhalt)
+
+Notizen die published aber inhaltlich noch unfertig sind (status: platzhalter/entwurf) werden in [[Meta/Aufgaben]] getrackt. Die Spieler wissen dass die Wiki ein Work-in-Progress ist.
+
+Innerhalb publizierter Notizen können Abschnitte für Spieler versteckt werden:
 
 **Eingeklappte Callouts** — standardmäßig zugeklappt, Spieler müssen klicken:
 ```markdown
@@ -125,7 +137,7 @@ Das `-` nach dem Callout-Typ macht den Block eingeklappt. Ohne `-` ist er offen.
 - Für GM-Geheimnisse in publizierten Notizen: `> [!danger]- GM-Wissen` verwenden
 - Für Spoiler: `> [!warning]- Spoiler: [Beschreibung]` verwenden
 - Für optionales Hintergrundwissen: `> [!info]- Hintergrundwissen` verwenden
-- Ganze Notizen die nicht auf die Website sollen: kein `publish: true` setzen (oder weglassen)
+- Ganze Notizen die nicht auf die Website sollen: kein `publish: true` setzen (siehe Publish-Policy oben)
 
 **Publish-Workflow:** Vollständige Anleitung zum Veröffentlichen (Content kopieren, committen, pushen, lokal testen) in [[Meta/Wiki veröffentlichen]]. Publish-Status aller Notizen in [[Meta/Publish-Status]].
 
