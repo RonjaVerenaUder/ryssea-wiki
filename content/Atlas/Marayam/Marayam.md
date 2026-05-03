@@ -27,9 +27,7 @@ Splitter der [[Haatias]], einem elefantenartigen Volk mit friedlichem, pazifisti
 
 ## Wichtige Orte
 
-- Hauptstadt der [[Kyulie]]
-
-<!-- TODO: Name der Kyulie-Hauptstadt -->
+- [[Thièn Nam Kar]] — Hauptstadt und einzige feste Stadt der [[Kyulie]]
 
 ## Notizen
 

@@ -89,11 +89,30 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Resul]] — Sethtier, Vertrauter von Sethos
 - [[Mes'Atemu]] — Älterer Sohn von Rehotep
 
-### Götter (Fraystein)
-- [[Reykon]] — Gottheit auf Fraystein, verehrt von Dana Lonnert
+### Götter
+- [[Reykon]] — Götterfürst des fraystainischen Pantheons
+- [[Yatralian]] — Gott der Landweber bei den Kyulie
+- [[Der Große Kyubi]] — Hauptgott der Kyulie (= Mikayrion)
+
+### Kosmologie
+- [[Karim Al'Altheyran]] — Elementarlord des Schattens
 
 ### Atlas (Fraystein)
-- [[Trallop]] — Stadt auf Fraystein, Heimatregion von Dana Lonnert
+- [[Greifensteyn]] — Hauptstadt von Fraystein
+- [[Braunsfurt]] — Stadt, Sitz des Adelsgeschlechts von Braunsfurt
+- [[Trallop]] — Stadt, Heimatregion von Dana Lonnert
+- [[Die wilden Berge der Blitze]] — Gebirge, Heimat von Fenvarion (Splitter undefiniert)
+
+### Atlas (Marayam)
+- [[Thièn Nam Kar]] — Hauptstadt der Kyulie
+
+### Atlas (Sultannii)
+- [[Yharnam]] — Unterirdische Stadt der Tirnûn
+
+### Charaktere (Team Synfathia)
+- [[Donnerhall]] — Vertrauter von Fenvarion al'Ichilin
+- [[Lumi]] — Hochmagischer Rotluchs, Gefährte von Edorian
+- [[Eisstern]] — Eiselementar-Einhorn, Vertrauter von Nagy
 
 ## In Arbeit
 - [[Baryia (Splitter)]] — Splitter-Notiz mit neuem Template befüllt, Details folgen

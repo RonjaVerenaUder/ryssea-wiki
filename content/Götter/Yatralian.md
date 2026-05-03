@@ -2,22 +2,22 @@
 tags: [gott]
 typ: gott
 status: platzhalter
-aspekte: []
+aspekte: [Landweben]
 domäne: ""
 publish: true
 ---
 
-# Reykon
+# Yatralian
 
 ## Überblick
 
-Götterfürst des fraystainischen Pantheons auf [[Fraystein]] — der höchste Gott der Fraystainer.
+Gott der [[Landweber]] im kyulischen Pantheon. Untergottheit des [[Der Große Kyubi|Großen Kyubi]]. [[Bian Linh]] dient ihm als reisende Kartografin.
 
 <!-- TODO: Aspekte, Herkunft, Macht ausarbeiten -->
 
 ## Aspekte
 
-<!-- Noch zu ergänzen -->
+- Landweben
 
 ## Herkunft
 
@@ -29,8 +29,7 @@ Götterfürst des fraystainischen Pantheons auf [[Fraystein]] — der höchste G
 
 ## Anhänger & Priester
 
-- [[Dana Lonnert]] — Magierin auf Fraystein
-- [[Edorian von Luchsenhaupt]] — Reykon-Priester und Professor der magischen Analyse (ehem. SC)
+- [[Bian Linh]] — Reisende Kartografin in seinem Dienst
 
 ## Domäne
 
@@ -38,7 +37,8 @@ Götterfürst des fraystainischen Pantheons auf [[Fraystein]] — der höchste G
 
 ## Beziehungen
 
-<!-- Noch zu ergänzen -->
+- Untergeordnet dem [[Der Große Kyubi|Großen Kyubi]]
+- Teil des kyulischen Pantheons
 
 ## Notizen
 

@@ -23,11 +23,13 @@ Recht großer Kontinent, bestehend aus vielen Stadtstaaten und Reichen die inzwi
 ## Völker & Kulturen
 
 - [[Menschen]] — Hauptvolk dieses Splitters
+- [[Tirnûn]] — Leben unterirdisch (z.B. [[Yharnam]])
 - Diverse Kulturen der ehemaligen Stadtstaaten, nun unter dem Sultanat geeint
 
 ## Wichtige Orte
 
 - Sarakant — Hauptstadt des Sultansreichs
+- [[Yharnam]] — Unterirdische Stadt der [[Tirnûn]]
 
 ## Notizen
 

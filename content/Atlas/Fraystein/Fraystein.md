@@ -29,6 +29,8 @@ An Europa angelehnt. Überbleibsel eines früheren DSA-Rollenspiels (Das Schwarz
 
 ## Wichtige Orte
 
+- [[Greifensteyn]] — Hauptstadt
+- [[Braunsfurt]] — Stadt, Sitz des Adelsgeschlechts von Braunsfurt
 - [[Trallop]] — Stadt, Heimatregion von [[Dana Lonnert]]
 
 <!-- TODO: Weitere wichtige Orte aus dem DSA-Erbe eintragen -->

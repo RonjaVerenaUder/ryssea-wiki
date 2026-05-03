@@ -21,7 +21,7 @@ Offene Platzhalter und Entwürfe werden in [[Meta/Aufgaben]] getrackt.
 
 #### Sethos Gang
 - [ ] [[Abenteuer - Der Weg zur Quelle]] — abgeschlossen, kann freigegeben werden?
-- [ ] [[Missing Cat]] — abgeschlossen, kann freigegeben werden?
+- [x] [[Missing Cat]] — freigegeben
 
 #### Nebelkinder
 - [ ] [[Part 0 - Escape vom Schiff]]

@@ -13,7 +13,7 @@ Die Elementarlords sind die 10 Hüter der Elemente, erwacht aus den [[Die Elemen
 | Element  | Lord          | Status                                       |
 | -------- | ------------- | -------------------------------------------- |
 | Licht    |               | <!-- TODO -->                                |
-| Schatten |               | <!-- TODO -->                                |
+| Schatten | [[Karim Al'Altheyran]] | Elementarlord des Schattens |
 | Feuer    |               | <!-- TODO -->                                |
 | Eis      |               | <!-- TODO -->                                |
 | Pflanze  |               | <!-- TODO -->                                |
