@@ -32,16 +32,15 @@ War auf Kriegszug unterwegs und ist dabei gestorben. Ein Kaarsi-Priester hat sei
 - [[Kana]] — Verlobte. Nennt ihn "Tama". Merkt dass etwas nicht stimmt
 - [[Almoud]] — Alter Schamane, Freund von Elsafil. Gegen den Krieg
 
-## Geheimnisse
-
-- Ist eigentlich tot — Körper von Kaarsi-Priester übernommen
-- Hat ein **Golem-Herz** in der Brust, nur durch dessen Entfernung zu töten
-- Kontrolliert Elsafil durch Beherrschungsmagie
-- Ein Netz aus Beherrschungsmagie breitet sich über die Stämme aus
+> [!warning]- Spoiler: Abenteuer Missing Cat
+> - Ist eigentlich tot — Körper von Kaarsi-Priester übernommen
+> - Hat ein **Golem-Herz** in der Brust, nur durch dessen Entfernung zu töten
+> - Kontrolliert [[Elsafil]] durch Beherrschungsmagie
+> - Ein Netz aus Beherrschungsmagie breitet sich über die Stämme aus
 
 ## Aufenthaltsort
 
-Lager der Askasi am [[Fuchskopf]], [[Baryia]].
+Lager der Askasi am [[Fuchskopf]], [[Baryia (Splitter)]].
 
 ## Notizen
 

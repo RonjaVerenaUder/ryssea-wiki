@@ -3,7 +3,7 @@ tags: [npc]
 typ: npc
 status: entwurf
 volk: "[[Menschen]]"
-ort: "[[Baryia]]"
+ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: true
 ---
@@ -38,7 +38,6 @@ Als ältester Sohn des Pharaos geht er selbstverständlich davon aus, der nächs
 
 Am Hof des Pharaos in der Hauptstadt.
 
-## Notizen
-
-- Spiegelt die historische Konstellation von [[Ton-Ren-Anem]] und [[Anef]] — nur mit vertauschten Rollen: Diesmal ist der ältere Bruder der problematische
-- Potentielles Werkzeug für Kaarsi? Die Parallelen zur historischen Manipulation liegen nahe.
+> [!danger]- GM-Wissen
+> - Spiegelt die historische Konstellation von [[Ton-Ren-Anem]] und [[Anef]] — nur mit vertauschten Rollen: Diesmal ist der ältere Bruder der problematische
+> - Potentielles Werkzeug für [[Kaarsi]]? Die Parallelen zur historischen Manipulation liegen nahe.

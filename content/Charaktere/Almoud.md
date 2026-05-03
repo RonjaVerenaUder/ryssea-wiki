@@ -29,7 +29,7 @@ Weise, besonnener Anführer. Gegen den Krieg, obwohl er die Beschwerden der Aska
 ## Geheimnisse
 ## Aufenthaltsort
 
-Lager der Askasi am [[Fuchskopf]], [[Baryia]].
+Lager der Askasi am [[Fuchskopf]], [[Baryia (Splitter)]].
 
 ## Notizen
 

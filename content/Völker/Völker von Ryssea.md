@@ -30,9 +30,9 @@ Ryssea beherbergt eine Vielzahl von Völkern — von den uralten [[Phaerie]] bis
 - [[Kyulie]] — Fuchsartiges Händlervolk, Hauptstadt auf [[Marayam]]
 - [[Nord]] — Eisbärartig, auf dem [[Nordkontinent]]
 - [[N'Shkani]] — Löwenartig, auf dem [[Splitter der N'Shkani]], aus der letzten Iteration
-- [[Phantaura]] — Pantherartig, aztekisch angelehnt, auf [[Baryia]]
+- [[Phantaura (Volk)]] — Pantherartig, aztekisch angelehnt, auf [[Baryia (Splitter)]]
 - [[Sharnai]] — Unterwasservolk (Fluss/Tiefsee/Meer), auf [[Ocea 1]] und [[Ocea 2]]
-- [[Zentauren]] — Verschiedene Arten (Steppen, Berg, Auenläufer), auf [[Baryia]]
+- [[Zentauren]] — Verschiedene Arten (Steppen, Berg, Auenläufer), auf [[Baryia (Splitter)]]
 - [[Tirn]] — Unterirdisches kleines Volk, hobbitartig
 - [[Tirnûn]] — Durch göttliches Ritual erwachte [[Tirn]], 5 Arten
 

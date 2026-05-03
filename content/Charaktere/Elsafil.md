@@ -28,13 +28,16 @@ Als Tamaklast von seinem Kriegszug "zurückkehrte", vertraute Elsafil seinem Bru
 
 ## Beziehungen
 
-- [[Tamaklast]] — Jüngerer Bruder (tot, von Kaarsi-Priester übernommen)
+- [[Tamaklast]] — Jüngerer Bruder
+
+> [!warning]- Spoiler: Missing Cat
+> Tamaklast ist eigentlich tot — sein Körper wird von einem Kaarsi-Priester gesteuert. Elsafil wurde von ihm magisch kontrolliert.
 - [[Almoud]] — Guter Freund, alter Schamane
 
 ## Geheimnisse
 ## Aufenthaltsort
 
-Lager der Askasi am [[Fuchskopf]], [[Baryia]].
+Lager der Askasi am [[Fuchskopf]], [[Baryia (Splitter)]].
 
 ## Notizen
 

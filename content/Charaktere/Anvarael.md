@@ -14,7 +14,8 @@ lebendig: true
 
 Phaerie und [[Cheyannin]] — Mitglied eines Phaerie-Ordens spezialisiert auf Beschützung. Kurzform "Rael" (wie bei Phaerie üblich). Einer der drei Gründer des Pharaonenreichs [[Baryia (Reich)]], zusammen mit [[Ram'Aches]] und [[Rak'Shanvarion]]. Wurde später als der Gott [[Horus]] verehrt — Gott des Sieges, des Kampfes und Beschützer des Pharaos.
 
-Liegt seit Jahrhunderten unter einer [[Dissonanz-Nadel|Dissonanz]] versiegelt unter [[Karasim]]. [[Kaarsi]] hat seine Identität übernommen.
+> [!danger]- GM-Wissen: Aktueller Zustand
+> Liegt seit Jahrhunderten unter einer [[Dissonanz-Nadel|Dissonanz]] versiegelt unter [[Karasim]]. [[Kaarsi]] hat seine Identität übernommen.
 
 ## Erscheinung
 
@@ -40,11 +41,10 @@ Zog sich mit der Zeit mehr zurück, überließ der Familie mehr Eigenverantwortu
 - [[Kaarsi]] — Gefängnismeister
 - Pharaonenfamilie — Über Generationen beschützt
 
-## Geheimnisse
-
-- Liegt unter Karasim unter permanenter Dissonanz — seit Jahrhunderten
-- Sein Blut wird von jedem neuen Pharao bei der Pilgerreise getrunken
-- **Zustand völlig unklar** — nach Jahrhunderten unter Dissonanz könnte er wahnsinnig sein
+> [!danger]- GM-Wissen: Geheimnisse
+> - Liegt unter Karasim unter permanenter Dissonanz — seit Jahrhunderten
+> - Sein Blut wird von jedem neuen Pharao bei der Pilgerreise getrunken
+> - **Zustand völlig unklar** — nach Jahrhunderten unter Dissonanz könnte er wahnsinnig sein
 
 ## Aufenthaltsort
 

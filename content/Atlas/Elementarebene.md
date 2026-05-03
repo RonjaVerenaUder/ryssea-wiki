@@ -1,6 +1,6 @@
 ---
-tags: [atlas, kosmologie]
-typ: konzept
+tags: [atlas, ebene]
+typ: ebene
 status: entwurf
 ---
 

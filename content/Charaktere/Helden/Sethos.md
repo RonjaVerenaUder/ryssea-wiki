@@ -1,11 +1,12 @@
 ---
+publish: true
 tags: [spielercharakter]
 typ: spielercharakter
 status: entwurf
-spieler: ""
+spieler: "Christoph"
 kampagne: "Sethos Gang"
 volk: "[[Menschen]]"
-heimat: "[[Baryia]]"
+heimat: "[[Baryia (Splitter)]]"
 gott: "Seth, [[Horus]]"
 lebendig: true
 ---
@@ -14,16 +15,19 @@ lebendig: true
 
 ## Steckbrief
 
-| | |
-|---|---|
-| **Rufname** | Sethos |
-| **Volk** | [[Menschen]] (Bariyaner) |
-| **Heimatstadt** | Früher: Umaatreka · Jetzt: Aziza |
-| **Alter** | 25 Jahre |
-| **Berufung** | Schutz des Landes und des Volkes von [[Baryia (Reich)\|Barya'Aches]] |
-| **Gott** | Seth und der wahre [[Horus]] |
-| **Spieler** | <!-- TODO --> |
-| **Kampagne** | Sethos Gang |
+![[Sethos.jpg|300]]
+
+|                 |                                                                      |
+| --------------- | -------------------------------------------------------------------- |
+| **Rufname**     | Sethos                                                               |
+| **Volk**        | [[Menschen\|Bariyaner]]                                              |
+| **Heimatstadt** | Früher: [[U-Maat-Re-Ka]] · Jetzt: [[Aziza]]                            |
+| **Alter**       | 25 Jahre                                                             |
+| **Berufung**    | Schutz des Landes und des Volkes von [[Baryia (Reich)\|Barya'Aches]] |
+| **Gott**        | Seth und der wahre [[Horus]]                                         |
+| **Vertrauter**  | [[Resul]], ein Sethtier                                              |
+| **Spieler**     | Christoph                                                            |
+| **Kampagne**    | Sethos Gang                                                          |
 
 ## Heldenbogen
 
@@ -32,34 +36,51 @@ lebendig: true
 
 ## Aussehen
 
+![[Sethos 2.png|300]]
+
 <!-- TODO: Aussehen ergänzen -->
 
 ## Persönlichkeit
 
 - **Leibspeise:** Ein gutes Steak
 - **Das mag ich nicht:** Heuchelei, meinen Bruder
+- **Besondere Talente:** [[Landweber]], Priester von Seth und [[Horus]], Anführen, Streitwagenlenker
+- **Darin bin ich untalentiert:** Nicht der beste Handwerker
 - **Davor fürchte ich mich:** Dass meine Heimat die Ordnung der Maat verliert
 
 ## Familie & Herkunft
 
-Sethos ist ein Prinz von [[Baryia (Reich)\|Barya'Aches]] und Statthalter von [[Aziza]]. Gilt öffentlich als Tunichtgut und Partyprinz. Wurde von seinem Vater bewusst von Vetternwirtschaft-Jobs ferngehalten (wollte zum Militär → Vater sagte nein, wollte Statthalter werden → Vater sagte nein) und im Hintergrund bestens ausgebildet. Was niemand weiß: [[Rehotep]] plant Sethos insgeheim als seinen Nachfolger.
+Sethos ist ein Prinz von [[Baryia (Reich)\|Barya'Aches]] und Statthalter von [[Aziza]]. Gilt öffentlich als Tunichtgut und Partyprinz.
 
-Unwissentlich möglicherweise der letzte Nachkomme der alten Pharaonen-Blutlinie von [[Ram'Aches]] — und damit potentiell der Auslöser von [[Chepreh|Cheprehs]] Prophezeiung.
+> [!danger]- GM-Wissen: Wahre Rolle
+> Wurde von seinem Vater bewusst von Vetternwirtschaft-Jobs ferngehalten (wollte zum Militär → Vater sagte nein, wollte Statthalter werden → Vater sagte nein) und im Hintergrund bestens ausgebildet. [[Rehotep]] plant Sethos insgeheim als seinen Nachfolger.
+>
+> Unwissentlich möglicherweise der letzte Nachkomme der alten Pharaonen-Blutlinie von [[Ram'Aches]] — und damit potentiell der Auslöser von [[Chepreh|Cheprehs]] Prophezeiung.
 
-- **[[Rehotep]]** — Pharao und Vater von Sethos. Hat ihn heimlich als Nachfolger vorgesehen.
+- **[[Rehotep]]** — Pharao und Vater von Sethos.
 - **Tuja'Rekha** — Mutter von Sethos und Mes'Atemu
-- **[[Mes'Atemu]]** — Älterer Bruder von Sethos (Verhältnis: angespannt). Gibt sich als Kronprinz aus, ist tief in der Korruption des Hofes verstrickt.
+- **[[Mes'Atemu]]** — Älterer Bruder von Sethos (Verhältnis: angespannt).
+
+> [!danger]- GM-Wissen: Mes'Atemu
+> Gibt sich als Kronprinz aus, ist tief in der Korruption des Hofes verstrickt.
 
 ## Wichtige Fähigkeiten & Vorteile
 
-- **Landweber** — Kann das Land formen und beeinflussen
-- **Priester von Seth und Horus** — Doppelter göttlicher Segen
 - **Engelsstimme** — Außergewöhnlich überzeugend
 - **Herausragendes Aussehen**
-- **Affinität zu Land: Barya'Aches** — Besondere Verbindung zu seiner Heimat
+- **[[Landweber]]** — Kann das Land formen und beeinflussen
+- **Liebling der Gottheit**
+- **Affinität zu Land: [[Baryia (Reich)\|Barya'Aches]]** — Besondere Verbindung zu seiner Heimat
 - **Altersresistenz**
-- **Anführer und Taktiker** — Herausragend im Anführen, Koordinieren und in Kriegswissenschaften
-- **Berittener Bogenschütze** — Meisterhaft mit dem Reiterbogen vom Streitwagen aus
+
+## Wichtige Nachteile
+
+- **Feind ([[Kaarsi]])** — Der falsche Horus hat es auf die Blutlinie abgesehen
+- **Stigma (Sandhand)** — Sichtbares Zeichen seiner Landweber-Kraft
+- **Moralkodex (Seth)** — Gebunden an die Regeln seines Gottes
+- **Fanatiker**
+- **Gerechtigkeitswahn**
+- **Feind (unbekannte Fraktion am Königshof)**
 
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
 

@@ -3,7 +3,7 @@ tags: [npc, gm-geheim]
 typ: npc
 status: entwurf
 volk: "[[Menschen]]"
-ort: "[[Baryia]]"
+ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: false
 ---
@@ -29,10 +29,9 @@ Der herrschende Pharao (sein Vater) starb zuerst an der Seuche. Ton-Ren-Anem fol
 - [[Anef]] — Jüngerer Bruder. Wurde von Kaarsi gegen ihn manipuliert.
 - [[Horus]] / [[Anvarael]] — Beschützer der Familie
 
-## Geheimnisse
-
-- Alle Erinnerungen an ihn wurden von Kaarsi getilgt
-- [[Sethos]] trägt sein **Sechem** — ein mächtiges Artefakt das seinen Namen trägt
+> [!danger]- GM-Wissen: Geheimnisse
+> - Alle Erinnerungen an ihn wurden von [[Kaarsi]] getilgt
+> - [[Sethos]] trägt sein **Sechem** — ein mächtiges Artefakt das seinen Namen trägt
 
 ## Aufenthaltsort
 

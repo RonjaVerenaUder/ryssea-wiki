@@ -10,7 +10,7 @@ verbreitung: [unklar]
 
 ## Überblick
 
-Ein [[Phaerie]]-Orden spezialisiert auf Beschützung. Cheyannin widmen ihr Leben dem Schutz anderer — ob Einzelpersonen, Familien oder ganze Reiche. Der bekannteste Cheyannin ist [[Anvarael]] ("Rael"), der als Beschützer der Pharaonenfamilie von [[Baryia]] über Jahrhunderte diente und später als Gott [[Horus]] verehrt wurde.
+Ein [[Phaerie]]-Orden spezialisiert auf Beschützung. Cheyannin widmen ihr Leben dem Schutz anderer — ob Einzelpersonen, Familien oder ganze Reiche. Der bekannteste Cheyannin ist [[Anvarael]] ("Rael"), der als Beschützer der Pharaonenfamilie von [[Baryia (Splitter)]] über Jahrhunderte diente und später als Gott [[Horus]] verehrt wurde.
 
 ## Zugehörigkeit
 

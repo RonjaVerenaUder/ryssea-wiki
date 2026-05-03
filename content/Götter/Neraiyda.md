@@ -10,7 +10,7 @@ domäne: "[[Nerayan]]"
 
 ## Überblick
 
-Freundliche, pazifistische Göttin auf [[Baryia]]. Gründerin und Beschützerin von [[Nerayan]]. Nahm während der großen Völkerkriege Flüchtlinge auf und schuf ein friedliches Reich unter göttlichem Schutz.
+Freundliche, pazifistische Göttin auf [[Baryia (Splitter)]]. Gründerin und Beschützerin von [[Nerayan]]. Nahm während der großen Völkerkriege Flüchtlinge auf und schuf ein friedliches Reich unter göttlichem Schutz.
 
 ## Aspekte
 ## Herkunft

@@ -1,6 +1,6 @@
 ---
 typ: artefakt
-tags: [artefakt, magie-technik, kompass, elementar, legendär]
+tags: [artefakt]
 status: entwurf
 ---
 
@@ -145,7 +145,7 @@ Der Kompass wurde entwickelt als Antwort auf die **Fragmentierungskrise**:
 
 - [[Aeltharis]] — Erschaffungsort
 - [[Kampagnen/Nebelkinder/Part 0 - Escape vom Schiff]] — wird in Phase 5 gefunden
-- [[Der Weltenverschlinger]] — Grund für die Fragmentierung
+- [[Weltenfresser]] — Grund für die Fragmentierung
 - [[Magie/Magiesystem]] — wie das Artefakt auf Magie basiert
-- [[Kultisten des Weltenverschlingers]] — suchen danach
+- [[Kultisten des Weltenfressers]] — suchen danach
 

@@ -10,13 +10,13 @@ Viele Völker Rysseas haben je nach Splitter und Region unterschiedliche Kulture
 ## Kulturen nach Volk
 
 - **[[Menschen]]**
-  - [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] auf [[Baryia]]
+  - [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] auf [[Baryia (Splitter)]]
 - **[[Zwerge]]**
   - [[Kultur der Zwerge]] — Gemeinsame Kultur aller 6 Bergstädte, verbunden durch Webtore
 
 ## Kulturen nach Splitter
 
-- **[[Baryia]]**
+- **[[Baryia (Splitter)]]**
   - [[Askasi]] — Nomadische Bergstämme im Askari-Gebirge
 - **Splitter noch unklar**
   - [[Kultur der Zwerge]] — Bergstädte (Splitter noch zu klären)

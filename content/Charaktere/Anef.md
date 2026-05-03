@@ -3,7 +3,7 @@ tags: [npc, gm-geheim]
 typ: npc
 status: entwurf
 volk: "[[Menschen]]"
-ort: "[[Baryia]]"
+ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Kaarsi]]"
 lebendig: false
 ---
@@ -33,10 +33,9 @@ Anef war in allem brillant — Waffen, Politik, Kriegsführung — nur eben kein
 - [[Kaarsi]] — Sein Manipulator und "bester Kumpel"
 - [[Horus]] / [[Anvarael]] — Hatte eigentlich ein gutes Verhältnis zu Rael, der sich auch um ihn gekümmert hatte. Horus machte ihm am Ende keinen Vorwurf.
 
-## Geheimnisse
-
-- War 12 Jahre alt bei der Tat — ein manipuliertes Kind, kein bewusster Verräter
-- Horus' letzter Gedanke galt nicht dem Vorwurf an Anef, sondern dem Selbstvorwurf dass er die Familienprobleme hätte sehen müssen
+> [!danger]- GM-Wissen: Geheimnisse
+> - War 12 Jahre alt bei der Tat — ein manipuliertes Kind, kein bewusster Verräter
+> - Horus' letzter Gedanke galt nicht dem Vorwurf an Anef, sondern dem Selbstvorwurf dass er die Familienprobleme hätte sehen müssen
 
 ## Aufenthaltsort
 

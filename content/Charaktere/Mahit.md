@@ -3,7 +3,7 @@ tags: [npc]
 typ: npc
 status: entwurf
 volk: "[[Askasi]]"
-ort: "[[Baryia]]"
+ort: "[[Baryia (Splitter)]]"
 fraktion: ""
 lebendig: true
 ---

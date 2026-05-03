@@ -25,8 +25,8 @@ Aeltharis war das Zentrum einer Hochzivilisation, spezialisiert auf:
 - **Navigation durch Elementarströme:** Fähigkeit zu reisen zwischen Weltfragmenten
 - **Elementarforschung:** Der Elementarkreis als Herz der Stadt
 
-### Der Weltenverschlinger & der Krieg
-- Ein kosmisches Übel (der Weltenverschlinger) begann die Welt zu zerstören
+### Der Weltenfresser & der Krieg
+- Ein kosmisches Übel (der Weltenfresser) begann die Welt zu zerstören
 - Aeltharis erkannte: Die ganze Welt kann nicht gerettet werden
 - **Strategie:** Welt in kleine Splitter zersplittern um das Übel zu bremsen
 - **Die Flucht:** Mehrere Weltenfahrtschiffe wurden gebaut um Überlebende zu retten
@@ -223,7 +223,7 @@ Die Stadt war konzentrisch um den Elementarkreis gebaut:
 ---
 
 ### 10. Der Krater des Krieges
-**Schlachtfeld gegen den Weltenverschlinger**
+**Schlachtfeld gegen den Weltenfresser**
 
 **Größe:** ca. 400 m Durchmesser  
 **Was dort passierte:** Ein massiver Schlag traf die Stadt

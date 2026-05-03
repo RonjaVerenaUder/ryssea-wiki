@@ -22,13 +22,13 @@ Magiefähig. Menschen haben keine angeborene Elementarzugehörigkeit, sind dafü
 
 ## Verbreitung
 
-Auf fast jedem Splitter Rysseas vertreten. Zu den bekannten Siedlungsgebieten gehören unter anderem [[Sultannii]], [[Marinna]], [[Baryia]], der [[China-Japan Splitter]] und viele weitere.
+Auf fast jedem Splitter Rysseas vertreten. Zu den bekannten Siedlungsgebieten gehören unter anderem [[Sultannii]], [[Marinna]], [[Baryia (Splitter)]], der [[China-Japan Splitter]] und viele weitere.
 
 ## Kulturen
 
 Menschen bilden je nach Splitter völlig unterschiedliche Kulturen aus:
-- [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] auf [[Baryia]]. Schamanistischer Ahnenkult, Blutopfer, Totemtiere.
-- Pharaonenreich auf [[Baryia]] — Ägyptisch inspirierte Hochkultur am großen Fluss
+- [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] auf [[Baryia (Splitter)]]. Schamanistischer Ahnenkult, Blutopfer, Totemtiere.
+- Pharaonenreich auf [[Baryia (Splitter)]] — Ägyptisch inspirierte Hochkultur am großen Fluss
 - Kriegerreich [[Taskasia]] — Hethiter-inspiriertes Reich im Nordwesten Baryias
 - Sultansreich auf [[Sultannii]] (Hauptstadt: Sarakant)
 - Seefahrernation auf [[Marinna]]

@@ -29,30 +29,29 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 ## Magie
 
 - [[Magie/Magiesystem|Magiesystem]] — Grundprinzip, Magieklassen, Gaben
+- [[Magie/Landweber|Landweber]] — Magier die das Gewebe der Welt formen
 - [[Magie/Magieklassen|Magieklassen]]
 - [[Magie/Magische Gaben|Magische Gaben]]
 - [[Magie/Alltagsmagie|Alltagsmagie]]
 - [[Magie/Schicksalspunkte|Schicksalspunkte]]
 
-## Spielercharaktere
+## Artefakte
 
-- [[Charaktere/Helden/Sethos|Sethos]] — Prinz von Barya'Aches (Sethos Gang)
+- [[Artefakte/Dissonanz-Nadel|Dissonanz-Nadel]] — Dunkles Artefakt das das Weltgewebe durchbricht
+- [[Artefakte/Elementarkernkompass|Elementarkernkompass]] — Navigationsartefakt für Reisen zwischen Splittern
+
+## Charaktere
+
+- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Sethos Gang)
 
 ## Kampagnen
 
-- [[Kampagnen/Sethos Gang/Missing Cat|Sethos Gang: Missing Cat]]
-- [[Kampagnen/Nebelkinder/🎯 Nebelkinder Kampagne|Nebelkinder]]
+- [[Kampagnen/Sethos Gang/Sethos Gang|Sethos Gang — Erwachen der Landweber]] — Baryia, Kaarsi-Konflikt
+- [[Kampagnen/Nebelkinder/🎯 Nebelkinder Kampagne|Nebelkinder]] — Alte Iteration, Aeltharis
+- [[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]] — Platzhalter
 
 ## Meta
 
 - [[Meta/Aufgaben|Aufgaben]] — Offene TODOs und Platzhalter
-- [[Meta/Templates/Splitter|Template: Splitter]]
-- [[Meta/Templates/Volk|Template: Volk]]
-- [[Meta/Templates/Ort|Template: Ort]]
-- [[Meta/Templates/Stadt|Template: Stadt]]
-- [[Meta/Templates/Kultur|Template: Kultur]]
-- [[Meta/Templates/NPC|Template: NPC]]
-- [[Meta/Templates/Gott|Template: Gott]]
-- [[Meta/Templates/Ereignis|Template: Ereignis]]
-- [[Meta/Templates/Fraktion|Template: Fraktion]]
-- [[Meta/Templates/Spielercharakter|Template: Spielercharakter]]
+- [[Meta/Publish-Status|Publish-Status]] — Übersicht was auf die Website kommt
+- [[Meta/Tags und Typen|Tags und Typen]] — Alle erlaubten typ-Werte und Tags

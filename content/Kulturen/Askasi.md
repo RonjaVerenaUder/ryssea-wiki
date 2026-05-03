@@ -3,20 +3,20 @@ tags: [kultur]
 typ: kultur
 status: entwurf
 volk: "[[Menschen]]"
-splitter: "[[Baryia]]"
+splitter: "[[Baryia (Splitter)]]"
 ---
 
 # Askasi
 
 ## Überblick
 
-Die Askasi sind [[Menschen]] die seit Generationen in den Bergen des [[Askari-Gebirge]]s auf [[Baryia]] leben und sich an das Gebirgsleben angepasst haben. Sie sind nomadische Bergbewohner — relativ groß gewachsen, leben von Jagd und Viehzucht. Stehen unter der Schutzherrschaft des Pharaonenreichs [[Baryia (Reich)]], werden aber weitgehend sich selbst überlassen.
+Die Askasi sind [[Menschen]] die seit Generationen in den Bergen des [[Askari-Gebirge]]s auf [[Baryia (Splitter)]] leben und sich an das Gebirgsleben angepasst haben. Sie sind nomadische Bergbewohner — relativ groß gewachsen, leben von Jagd und Viehzucht. Stehen unter der Schutzherrschaft des Pharaonenreichs [[Baryia (Reich)]], werden aber weitgehend sich selbst überlassen.
 
 Es gibt eine Vielzahl von Askasi-Stämmen, von denen drei große Hauptstämme die wichtigsten sind.
 
 ## Volk & Region
 
-[[Menschen]] im [[Askari-Gebirge]] auf [[Baryia]]. Nomadisch in den Bergen lebend.
+[[Menschen]] im [[Askari-Gebirge]] auf [[Baryia (Splitter)]]. Nomadisch in den Bergen lebend.
 
 ## Gesellschaftsstruktur
 

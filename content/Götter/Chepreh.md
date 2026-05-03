@@ -10,7 +10,10 @@ domäne: "Baryia"
 
 ## Überblick
 
-Gott des Landes. Ehemals der [[Phaerie]] und [[Landweber]] **[[Rak'Shanvarion]]** ("Rak"), der zusammen mit dem ersten Pharao [[Ram'Aches]] und dem [[Cheyannin]] [[Anvarael]] ("Rael", später [[Horus]]) die streitenden Völker auf [[Baryia]] einte und das Pharaonenreich [[Baryia (Reich)]] gründete. Offiziell Erster Visier — Stellvertreter und Berater des Pharaos.
+Ehemaliger Gott des Landes in [[Baryia (Reich)]]. Zusammen mit dem ersten Pharao [[Ram'Aches]] und [[Horus]] gründete er das Pharaonenreich. Offiziell Erster Visier — Stellvertreter und Berater des Pharaos. In der Gegenwart ist sein Name in Baryia vergessen.
+
+> [!danger]- GM-Wissen: Wahre Identität
+> War der [[Phaerie]] und [[Landweber]] **[[Rak'Shanvarion]]** ("Rak"). Alle Erinnerungen an Chepreh wurden von [[Kaarsi]] getilgt — niemand in Baryia weiß dass er je existiert hat.
 
 ## Aspekte
 
@@ -20,7 +23,7 @@ Gott des Landes. Ehemals der [[Phaerie]] und [[Landweber]] **[[Rak'Shanvarion]]*
 
 ## Herkunft
 
-War ein Phaerie namens Rak'Shanvarion — schon zur Zeit der Reichsgründung alt und erfahren. Zusammen mit Ram'Aches hat er Baryia buchstäblich als Land zusammengebaut, stabilisiert und geformt. Sie gründeten auch die [[Landweber-Akademie]], die sowohl pharaonische als auch nicht-pharaonische Landweber ausbildete.
+Chepreh war schon zur Zeit der Reichsgründung alt und erfahren. Zusammen mit Ram'Aches hat er Baryia buchstäblich als Land zusammengebaut, stabilisiert und geformt. Sie gründeten auch die [[Landweber-Akademie]], die sowohl pharaonische als auch nicht-pharaonische Landweber ausbildete.
 
 ## Karma & Macht
 
@@ -28,36 +31,35 @@ Als Gott des Landes hatte Chepreh eine fundamentale Verbindung zum Gewebe Baryia
 
 ## Anhänger & Priester
 
-Alle Erinnerungen an Chepreh wurden von [[Kaarsi]] (als falscher Horus) getilgt. In der Gegenwart weiß niemand in Baryia dass Chepreh je existiert hat. Auch das Wissen um Landweber ist vollständig verloren gegangen.
+In der Gegenwart vergessen. Keine aktiven Anhänger oder Priester bekannt.
 
 ## Domäne
 
-Die Heilige Pyramide in [[Aziza]] (der alten Hauptstadt) — von Chepreh selbst erbaut. Sein Thron steht noch dort, sein mumifizierter Körper sitzt darauf — ein Fragment seines gespaltenen Selbst.
+Die Heilige Pyramide in [[Aziza]] (der alten Hauptstadt) — von Chepreh selbst erbaut.
 
 ## Beziehungen
 
 - [[Ram'Aches]] — Bester Freund und erster Pharao. Zusammen haben sie Baryia geformt.
-- [[Anvarael]] / [[Horus]] — Zweiter bester Freund und Beschützer. Cheyannin der die Pharaonenfamilie über Generationen bewachte.
-- [[Korellian]] — Guter Freund. Gott der [[Phantaura]]. Chepreh vertraute ihm den dritten Teil seines gespaltenen Selbst an.
+- [[Horus]] — Zweiter bester Freund und Beschützer der Pharaonenfamilie.
 - Pharaonenfamilie — Hat über Jahrhunderte die Kinder der Pharaonen mitausgebildet
 
-## Geheimnisse
+> [!danger]- GM-Wissen: Weitere Beziehungen
+> - [[Korellian]] — Guter Freund. Gott der [[Phantaura (Volk)|Phantaura]]. Chepreh vertraute ihm den dritten Teil seines gespaltenen Selbst an.
 
-- **Lebt noch — in drei Teilen gespalten:**
-  1. **Logik/Wissen** → versteckt in einem Artefakt (Ort unbekannt)
-  2. **Empathie/Persönlichkeit** → in seinem mumifizierten Körper auf dem Thron in Aziza
-  3. **Der Verbinder** (kennt das Zusammenführungs-Ritual) → im uralten Pyramiden-Bluttempel der Phantaura, bewacht von [[Korellian]]
-- Hat die **Landweber-Fäden Baryias versiegelt** — kein Landweber kann die Struktur übernehmen, bis die Prophezeiung erfüllt wird
-- Seine **Prophezeiung**: Wenn ein Pharao mit der richtigen Blutlinie UND Landweber-Fähigkeiten an die Macht kommt, kann Chepreh zurückkehren und die Versiegelung aufgehoben werden
-- Wurde durch eine [[Dissonanz-Nadel]] im Nacken getötet, eingeschleust von Kaarsi-Priestern
+> [!danger]- GM-Wissen: Geheimnisse
+> - **Lebt noch — in drei Teilen gespalten:**
+>   1. **Logik/Wissen** → versteckt in einem Artefakt (Ort unbekannt)
+>   2. **Empathie/Persönlichkeit** → in seinem mumifizierten Körper auf dem Thron in Aziza
+>   3. **Der Verbinder** (kennt das Zusammenführungs-Ritual) → im uralten Pyramiden-Bluttempel der Phantaura, bewacht von [[Korellian]]
+> - Hat die **Landweber-Fäden Baryias versiegelt** — kein Landweber kann die Struktur übernehmen, bis die Prophezeiung erfüllt wird
+> - Seine **Prophezeiung**: Wenn ein Pharao mit der richtigen Blutlinie UND Landweber-Fähigkeiten an die Macht kommt, kann Chepreh zurückkehren und die Versiegelung aufgehoben werden
+> - Wurde durch eine [[Dissonanz-Nadel]] im Nacken getötet, eingeschleust von Kaarsi-Priestern
+> - [[Sethos]] als möglicher Landweber der alten Blutlinie könnte die Prophezeiung auslösen
+> - Das Sechem des [[Ton-Ren-Anem]] (Sethos' Artefakt) — könnte es der Wissens-Teil sein?
 
 ## Aufenthaltsort
 
-Mumifiziert auf seinem Thron in der Heiligen Pyramide von [[Aziza]]. (Nur der Empathie/Persönlichkeits-Teil)
+Unbekannt. Sein Kult und seine Spuren sind aus Baryia verschwunden.
 
-## Notizen
-
-- Zentral für den Hauptplot der Kampagne
-- Die Spieler müssen alle drei Teile finden und zusammenführen
-- [[Sethos]] als möglicher Landweber der alten Blutlinie könnte die Prophezeiung auslösen
-- Das Sechem des Ton-Ren-Anem (Sethos' Artefakt) — könnte es der Wissens-Teil sein?
+> [!danger]- GM-Wissen
+> Mumifiziert auf seinem Thron in der Heiligen Pyramide von [[Aziza]]. (Nur der Empathie/Persönlichkeits-Teil)

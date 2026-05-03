@@ -25,13 +25,16 @@ War mit Tamaklast ("Tama") verlobt, sie sollten nächstes Jahr heiraten. Waren e
 
 ## Beziehungen
 
-- [[Tamaklast]] — Verlobter (nennt ihn "Tama"). Eigentlich tot, was sie aber nicht weiß
+- [[Tamaklast]] — Verlobter (nennt ihn "Tama")
+
+> [!warning]- Spoiler: Missing Cat
+> Tamaklast ist eigentlich tot — Kana weiß das nicht.
 - [[Almoud]] — Großvater
 
 ## Geheimnisse
 ## Aufenthaltsort
 
-Lager der Askasi am [[Fuchskopf]], [[Baryia]].
+Lager der Askasi am [[Fuchskopf]], [[Baryia (Splitter)]].
 
 ## Notizen
 

@@ -3,7 +3,7 @@ tags: [npc, gm-geheim]
 typ: npc
 status: entwurf
 volk: "[[Menschen]]"
-ort: "[[Baryia]]"
+ort: "[[Baryia (Splitter)]]"
 fraktion: "[[Baryia (Reich)]]"
 lebendig: false
 ---
@@ -12,7 +12,7 @@ lebendig: false
 
 ## Überblick
 
-Der erste Pharao von [[Baryia (Reich)]]. Mensch und [[Landweber]]. Einte zusammen mit seinen beiden besten Freunden — dem Phaerie [[Rak'Shanvarion]] ("Rak", später [[Chepreh]]) und dem Cheyannin [[Anvarael]] ("Rael", später [[Horus]]) — die streitenden Völker auf [[Baryia]] zu einem großen Reich. Wurde durch Magie sehr alt, starb aber irgendwann wie jeder Mensch.
+Der erste Pharao von [[Baryia (Reich)]]. Mensch und [[Landweber]]. Einte zusammen mit seinen beiden besten Freunden — dem Phaerie [[Rak'Shanvarion]] ("Rak", später [[Chepreh]]) und dem Cheyannin [[Anvarael]] ("Rael", später [[Horus]]) — die streitenden Völker auf [[Baryia (Splitter)]] zu einem großen Reich. Wurde durch Magie sehr alt, starb aber irgendwann wie jeder Mensch.
 
 ## Erscheinung
 
@@ -36,16 +36,14 @@ Nach seinem Tod führten Rak und Rael sein Reich weiter und begleiteten seine Na
 - [[Anvarael]] / [[Horus]] — Bester Freund und Beschützer.
 - Pharaonenfamilie — Seine Nachkommen regierten über Generationen
 
-## Geheimnisse
-
-- Alle Erinnerungen an Ram'Aches wurden von [[Kaarsi]] getilgt. Niemand in der Gegenwart weiß dass er existiert hat.
-- [[Rehotep]] ist unwissentlich der letzte Nachkomme seiner Blutlinie.
+> [!danger]- GM-Wissen: Geheimnisse
+> - Alle Erinnerungen an Ram'Aches wurden von [[Kaarsi]] getilgt. Niemand in der Gegenwart weiß dass er existiert hat.
+> - [[Rehotep]] ist unwissentlich der letzte Nachkomme seiner Blutlinie.
 
 ## Aufenthaltsort
 
 Tot. Grabstätte unbekannt.
 
-## Notizen
-
-- Die Spieler müssen herausfinden wer Ram'Aches war — alle Aufzeichnungen sind vernichtet
-- Sethos trägt das Sechem des [[Ton-Ren-Anem]] — ein Artefakt aus Ram'Aches' Linie
+> [!danger]- GM-Wissen: Notizen
+> - Die Spieler müssen herausfinden wer Ram'Aches war — alle Aufzeichnungen sind vernichtet
+> - Sethos trägt das Sechem des [[Ton-Ren-Anem]] — ein Artefakt aus Ram'Aches' Linie

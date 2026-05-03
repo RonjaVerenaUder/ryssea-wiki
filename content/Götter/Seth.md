@@ -10,7 +10,7 @@ domäne: ""
 
 ## Überblick
 
-Gott auf [[Baryia]], verehrt im Pharaonenreich [[Baryia (Reich)]]. [[Sethos]] ist Priester von Seth (und [[Horus]]). Sethtiere sind ihm zugeordnete Wesen (z.B. [[Resul]]).
+Gott auf [[Baryia (Splitter)]], verehrt im Pharaonenreich [[Baryia (Reich)]]. [[Sethos]] ist Priester von Seth (und [[Horus]]). Sethtiere sind ihm zugeordnete Wesen (z.B. [[Resul]]).
 
 ## Aspekte
 ## Herkunft

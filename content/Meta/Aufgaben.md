@@ -5,54 +5,83 @@ tags: [meta]
 # Aufgaben
 
 ## Offene TODOs
-- [x] Splitter-Template überarbeiten (Sections, Frontmatter, Fragebogen-Funktion)
-- [x] Splitter-Template an Baryia testen
-- [x] Volk-Template überarbeiten und an Zwergen getestet
-- [x] Spielercharakter-Template erstellt und an Sethos getestet
-- [x] Alle Templates überarbeitet: Ort, Stadt, Kultur, NPC, Gott, Ereignis, Fraktion
+
+### Vault-Struktur & Pflege
+- [ ] Cheyannin überarbeiten — von Völker/ nach Fraktionen/ verschieben (`typ: orden`), ist ein Phaerie-Orden, nicht ein Volk. Wichtige fehlende Infos ergänzen (Ronja hat noch Input)
+- [ ] Publish-Workflow: ~80 Notizen in [[Publish-Status]] Stück für Stück durchgehen und für die Website freigeben
+
+### Worldbuilding — Inhalt
 - [ ] Kosmologie-Notizen ausformulieren (bisher Stichpunkte)
 - [ ] Splitter-Notizen mit Details befüllen (weitere Splitter nach Baryia-Vorbild)
 - [ ] Völker-Notizen ausarbeiten (bisher Kurzprofile)
-- [ ] Nebeltore-Verbindungen zwischen Splittern kartieren
-- [ ] Phase 2: Kampagnen-Bereich ausarbeiten
-- [ ] Phase 3: Regelwerk-Struktur erarbeiten
 - [ ] Götter-Pantheons der einzelnen Völker aufschreiben
 - [ ] Magiesystem detailliert dokumentieren (Klassen, Gaben)
+- [ ] Nebeltore-Verbindungen zwischen Splittern kartieren
 - [ ] Arbeitsnamen vergeben: Nordkontinent, China/Japan-Splitter, Splitter der N'Shkani
 - [ ] Baryia: Fehlende Namen klären (großer Fluss, Vulkangebirge, Krater)
+
+### Kampagnen
+- [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen
+- [ ] Nebelkinder: Abenteuer-Notizen mit Abenteuer-Template aktualisieren
+- [ ] Phase 3: Regelwerk-Struktur erarbeiten
+
+### Tools & Technik
+- [ ] Übersichtskarten für Splitter erstellen — Kartentool evaluieren
 - [ ] Baryia: Feinheiten der Karte klären wenn Kartentool feststeht
-- [x] Klären: Was sind Cheyannin? → Phaerie-Orden, Notiz in Völker/ angelegt
-- [x] Baryia: Name des Feuerlords bestätigt → Rhaige
-- [x] Baryia (Splitter) vs. Baryia (Reich) sauber getrennt — Splitter hat Geografie + Splitter-weite Geschichte, Reich hat politische Geschichte + Kaarsi-Konflikt
-- [ ] Cheyannin überarbeiten — von Völker/ nach Fraktionen/ verschieben, ist ein Phaerie-Orden, nicht ein Volk. Wichtige fehlende Infos ergänzen (Ronja hat noch Input)
-- [ ] Übersichtskarten für Splitter erstellen — Tool evaluieren
+
+## Abgeschlossen
+- [x] Splitter-Template überarbeiten, an Baryia getestet
+- [x] Volk-Template überarbeiten, an Zwergen getestet
+- [x] Spielercharakter-Template erstellt, an Sethos getestet
+- [x] Alle Templates überarbeitet: Ort, Stadt, Kultur, NPC, Gott, Ereignis, Fraktion
+- [x] Phase 2: Kampagnen-Bereich — Templates, Ordnerstruktur, CLAUDE.md
+- [x] Sethos Gang: Plot-Notizen für alle 5 aktiven Plotfäden angelegt
+- [x] Sethos Gang: Spieltag 001 aus altem Vault übernommen
+- [x] Klären: Cheyannin = Phaerie-Orden
+- [x] Baryia: Feuerlord = Rhaige
+- [x] Baryia (Splitter) vs. Baryia (Reich) sauber getrennt
+- [x] Vault für Publishen vorbereitet — GM-Wissen-Callouts in ~20 Notizen eingebaut
+- [x] Weltenfresser/Weltenverschlinger zusammengemergt, alle Referenzen aktualisiert
+- [x] Publish-Status-Tracking in Meta/ erstellt
+- [x] Dissonanz-Nadel nach Artefakte/ verschoben, Artefakte-Ordner dokumentiert
+- [x] Atlas/ in Splitter-Unterordner umstrukturiert (12 Splitter + 14 Baryia-Orte)
+- [x] Tag/Typ-System überarbeitet — granulare Typen für Atlas (stadt, dorf, region, wildnis, gebirge etc.) und Fraktionen (reich, orden, kult, gilde, kirche)
+- [x] Meta/Tags und Typen als zentrale Referenz erstellt
 
 ## Offene Platzhalter
 Notizen die angelegt aber noch nicht befüllt sind:
-- [[Atlas/Kronrimar]] — Stadt im Vulkangebirge, Heiligtum des Feuerlords
-- [[Atlas/Nerayan]] — Pazifistisches Reich der Göttin Neraiyda
-- [[Atlas/Zentaurensteppe]] — Steppe mit glühendem Krater
-- [[Atlas/Phantaura-Dschungel]] — Tödlicher Dschungel der Phantaura
-- [[Atlas/Askari-Gebirge]] — Gebirge zwischen Taskasia und Ober-Baryia
-- [[Atlas/Dryaden-Dschungel]] — Dschungel im Süden von Baryia
-- [[Fraktionen/Taskasia]] — Hethiter-inspiriertes Kriegerreich
-- [[Fraktionen/Phantaura (Reich)]] — Abgeschottetes Dschungelreich
-- [[Götter/Neraiyda]] — Göttin von Nerayan
-- [[Götter/Mikayrion]] — "Der Wächter", Partner von Neraiyda
-- [[Atlas/Unter-Baryia]] — Zerstörter Südteil des Pharaonenreichs
-- [[Charaktere/Helden/Resul]] — Sethtier, Vertrauter von Sethos
-- [[Atlas/Aziza]] — Stadt auf Baryia, Sethos ist Stadthalter
-- [[Atlas/Umaatreka]] — Stadt auf Baryia, frühere Heimat von Sethos
-- [[Götter/Seth]] — Gott auf Baryia
-- [[Charaktere/Mes'Atemu]] — Älterer Sohn von Rehotep
-- [[Atlas/Landweber-Akademie]] — Noch nicht als eigene Ort-Notiz angelegt
-- [[Atlas/Quelle des Lebens]] — Einer der 3 Horus-Tempel, in Unter-Baryia
+
+### Atlas (Baryia)
+- [[Kronrimar]] — Stadt im Vulkangebirge, Heiligtum des Feuerlords
+- [[Nerayan]] — Pazifistisches Reich der Göttin Neraiyda
+- [[Zentaurensteppe]] — Steppe mit glühendem Krater
+- [[Phantaura-Dschungel]] — Tödlicher Dschungel der Phantaura
+- [[Askari-Gebirge]] — Gebirge zwischen Taskasia und Baryia
+- [[Dryaden-Dschungel]] — Dschungel im Süden von Baryia
+- [[Unter-Baryia]] — Zerstörter Südteil des Pharaonenreichs
+- [[Aziza]] — Stadt, Sethos ist Statthalter
+- [[U-Maat-Re-Ka]] — Stadt, frühere Heimat von Sethos
+- [[Landweber-Akademie]] — Noch nicht als eigene Ort-Notiz angelegt
+- [[Quelle des Lebens]] — Einer der 3 Horus-Tempel, in Unter-Baryia
+
+### Fraktionen
+- [[Taskasia]] — Hethiter-inspiriertes Kriegerreich
+- [[Phantaura (Reich)]] — Abgeschottetes Dschungelreich
+
+### Götter
+- [[Neraiyda]] — Göttin von Nerayan
+- [[Mikayrion]] — "Der Wächter", Partner von Neraiyda
+- [[Seth]] — Gott auf Baryia
+
+### Charaktere
+- [[Resul]] — Sethtier, Vertrauter von Sethos
+- [[Mes'Atemu]] — Älterer Sohn von Rehotep
 
 ## In Arbeit
-- [[Atlas/Baryia]] — Splitter-Notiz mit neuem Template befüllt, Details folgen
-- [[Atlas/Atlas von Ryssea]] — Grundstruktur steht
-- [[Kosmologie/Kosmologie von Ryssea]] — Grundstruktur steht
-- [[Völker/Völker von Ryssea]] — Grundstruktur steht
+- [[Baryia (Splitter)]] — Splitter-Notiz mit neuem Template befüllt, Details folgen
+- [[Atlas von Ryssea]] — Grundstruktur steht
+- [[Kosmologie von Ryssea]] — Grundstruktur steht
+- [[Völker von Ryssea]] — Grundstruktur steht
 
 ## Ideen und Pläne
 - Dataview-Queries für automatische Übersichten (z.B. alle NPCs pro Splitter)

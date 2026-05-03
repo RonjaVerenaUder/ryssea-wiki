@@ -12,7 +12,7 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 ### Baryia
 - [[Baryia (Reich)]] — Das Pharaonenreich, gegründet von [[Ram'Aches]] mit [[Chepreh|Rak'Shanvarion]] und [[Horus]]
 - [[Taskasia]] — Hethiter-inspiriertes Kriegerreich, historische Feinde Baryias
-- [[Phantaura (Reich)]] — Abgeschottetes Dschungelreich der [[Phantaura]]
+- [[Phantaura (Reich)]] — Abgeschottetes Dschungelreich der [[Phantaura (Volk)|Phantaura]]
 - [[Nerayan]] — Pazifistisches Reich unter Schutz von [[Neraiyda]] und [[Mikayrion]]
 
 ### Andere Splitter
@@ -26,7 +26,7 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 
 ## Kulte & Geheimorganisationen
 
-- [[Kultisten des Weltenverschlingers]]
+- [[Kultisten des Weltenfressers]]
 
 ## Weitere Fraktionen
 

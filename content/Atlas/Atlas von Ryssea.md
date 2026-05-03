@@ -22,7 +22,7 @@ Die Welt Ryssea besteht nicht aus klassischen Kontinenten, sondern aus Splittern
 | [[Parcia]]                | Karibische Inselgruppe, Handelsknoten       | Piraten, Händler                       |
 | [[Sultannii]]             | Großer Kontinent, Sultanat                  | [[Menschen]]                           |
 | [[Nordkontinent]]         | Tundra, arktisches Meer                     | [[Nord]]                               |
-| [[Baryia]]                | Ägypten-ähnlich, Kriege formten Reiche      | [[Menschen]], [[Zentauren]], [[Phantaura]] |
+| [[Baryia (Splitter)]]                | Ägypten-ähnlich, Kriege formten Reiche      | [[Menschen]], [[Zentauren]], [[Phantaura (Volk)|Phantaura]] |
 | [[Marayam]]               | Friedlicher Splitter                        | [[Haatias]], [[Kyulie]]                |
 | [[China-Japan Splitter]]  | Zwei Reiche aus Drachenwette                | Zwei rivalisierende Völker             |
 | [[Splitter der N'Shkani]] | Afrikanischer Kontinent                     | [[N'Shkani]]                           |

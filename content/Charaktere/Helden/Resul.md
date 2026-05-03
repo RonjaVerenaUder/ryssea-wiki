@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [begleiter]
 typ: begleiter
 status: platzhalter
@@ -18,6 +19,8 @@ Sethtier und Vertrauter von [[Sethos]]. Dient als elementare Verbindung (Erde/Sa
 Sethtier — ein Wesen das dem Gott Seth zugeordnet ist.
 
 ## Aussehen
+
+![[Resul.png|300]]
 ## Fähigkeiten
 ## Persönlichkeit
 
