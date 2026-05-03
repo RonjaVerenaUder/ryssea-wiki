@@ -1,3 +1,54 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Hintergrundbild — Light: Pergament, Dark: Grau
+body {
+  background-image: url("/Anhänge/RysseaPerga.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+[saved-theme="dark"] body {
+  background-image: url("/Anhänge/RysseaGrau.png");
+}
+
+// Glasige Container — linke Sidebar-Komponenten
+.left.sidebar .page-title,
+.left.sidebar .flex-component,
+.left.sidebar .explorer {
+  background: rgba(200, 200, 200, 0.4);
+  backdrop-filter: blur(0.5px);
+  border-radius: 8px;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+[saved-theme="dark"] .left.sidebar .page-title,
+[saved-theme="dark"] .left.sidebar .flex-component,
+[saved-theme="dark"] .left.sidebar .explorer {
+  background: rgba(40, 40, 45, 0.4);
+  backdrop-filter: blur(0.5px);
+}
+
+// Glasiger Container — Inhaltsverzeichnis rechts
+.right.sidebar .toc {
+  background: rgba(200, 200, 200, 0.4);
+  backdrop-filter: blur(0.5px);
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+[saved-theme="dark"] .right.sidebar .toc {
+  background: rgba(40, 40, 45, 0.4);
+  backdrop-filter: blur(0.5px);
+}
+
+// Graph View kleiner
+.graph > .graph-outer {
+  height: 150px;
+
+  & > #graph-container {
+    height: 100% !important;
+  }
+}

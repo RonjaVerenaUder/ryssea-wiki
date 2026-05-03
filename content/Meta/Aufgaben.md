@@ -29,6 +29,17 @@ tags: [meta]
 - [ ] Übersichtskarten für Splitter erstellen — Kartentool evaluieren
 - [ ] Baryia: Feinheiten der Karte klären wenn Kartentool feststeht
 
+### Wiki-Design (`wiki.ryssea.de`)
+- [x] Farbschema gewählt — Light: Blautöne auf Pergament, Dark: Rottöne auf Grau
+- [ ] Schriftart aussuchen (Google Fonts)
+- [x] Hintergrundbild — Light: RysseaPerga.png, Dark: RysseaGrau.png
+- [x] Glasige Container — links (Titel, Suche, Explorer) und rechts (TOC), helles Grau mit minimalem Blur
+- [ ] Sidebar-Rahmen (CSS, wie be-far.com)
+- [ ] Logo/Seitenicon oben — `PageTitle.tsx` anpassen (Bild statt Text)
+- [ ] Obere Navigationsleiste mit Kategorien — `LinksHeader.tsx` erstellen
+- [ ] Startseite als Hub gestalten (`index.md`)
+- [ ] Eigenes Favicon in `/static/` ablegen
+
 ## Abgeschlossen
 - [x] Splitter-Template überarbeiten, an Baryia getestet
 - [x] Volk-Template überarbeiten, an Zwergen getestet

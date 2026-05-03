@@ -4,8 +4,8 @@
   "title": "Guten Morgen! Ich lese erst mal die neue Notiz,...",
   "titleGenerationStatus": "success",
   "createdAt": 1777792622926,
-  "updatedAt": 1777796724671,
-  "lastResponseAt": 1777796724671,
+  "updatedAt": 1777796945960,
+  "lastResponseAt": 1777796945960,
   "sessionId": "8c43a1de-834f-4725-acf1-a30896a3c5c2",
   "providerState": {
     "providerSessionId": "8c43a1de-834f-4725-acf1-a30896a3c5c2",
@@ -1996,12 +1996,12 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 220,
-    "cacheReadInputTokens": 124817,
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 78,
+    "cacheReadInputTokens": 132116,
     "contextWindow": 200000,
-    "contextTokens": 125038,
-    "percentage": 63,
+    "contextTokens": 132197,
+    "percentage": 66,
     "contextWindowIsAuthoritative": true
   }
 }
