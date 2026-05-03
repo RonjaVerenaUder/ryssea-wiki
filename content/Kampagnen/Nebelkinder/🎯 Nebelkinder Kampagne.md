@@ -3,7 +3,7 @@ typ: kampagne
 tags: [nebelkinder, kampagne]
 status: aktiv
 spieler: 3
-publish: true
+publish: false
 ---
 
 # Nebelkinder – Kampagnen-Übersicht

@@ -2,7 +2,7 @@
 typ: ort
 tags: [stadt, aeltharis, untergegangen, zivilisation]
 status: entwurf
-publish: true
+publish: false
 ---
 
 # Aeltharis – Die untergegangene Stadt
