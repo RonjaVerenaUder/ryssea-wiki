@@ -40,6 +40,10 @@ In Baryia galt: Nur ein Landweber darf Pharao werden. Die Blutlinie der Pharaone
 
 Landweber sind eng mit dem Gewebe der Welt verbunden. **[[Dissonanz-Nadel|Dissonanzen]]** — Brüche im Weltgewebe — sind für sie und für [[Phaerie]] extrem gefährlich, da sie die Verbindung zum Gewebe stören und zerstören können.
 
+## Landweber bei den Kyulie
+
+Auch bei den [[Kyulie]] auf [[Marayam]] gibt es Landweber. Ihr Schutzgott ist [[Yatralian]], der "Gott der Landweber". [[Bian Linh]] ist eine Kyulie-Landweberin — sie kann Portale ("Webtore") öffnen und das Land formen/stabilisieren. Während des Abenteuers "Staub und Sterne" entschied sie sich, das [[Verborgenes Tal|Verborgene Tal]] auf [[Sultannii]] mit Hilfe eines Phaerie-Lehrers zu stabilisieren und zu verankern.
+
 ## Notizen
 
 - In der Gegenwart ist das Wissen um Landweber in Baryia komplett verloren

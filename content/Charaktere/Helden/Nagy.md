@@ -118,7 +118,11 @@ Zu seiner leiblichen Familie hat Nagy seit Jahren keinen Kontakt. Was er als Fam
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird aus dem Spielertagebuch ergänzt -->
+- **Spieltag 011:** Findet magische Schusswaffe in verlassenem Sklavenlager
+- **Spieltag 011:** Kämpft gegen Chimären-Wachen in der Mine
+- **Spieltag 013:** Tötet mehrere Wachen, hilft beim Sturm auf den Turm
+- **Spieltag 014:** Geht zur Mine um verbleibende Sklaven zu holen, erhält Bericht über seltsam verhaltende Tirnûn
+- **Spieltag 014:** Verlässt die Gruppe um die Tirnûn-Sache zu untersuchen
 
 ## Notizen
 

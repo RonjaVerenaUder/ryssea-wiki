@@ -70,7 +70,14 @@ publish: true
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird aus dem Spielertagebuch ergänzt -->
+- **Spieltag 011:** Kämpft in der Mine, wird von Nagys Klauen verletzt und von ätzendem Blut der Wachen bespritzt
+- **Spieltag 011:** Geierartiges Federvieh setzt sich auf sie — ermöglicht ihr auf dem Sand zu laufen
+- **Spieltag 013:** Springt auf den Magier und überwältigt ihn (entscheidender Moment)
+- **Spieltag 014:** Spürt den "Geist" des Feuerlords, kann nachts nicht schlafen
 
 ## Notizen
 
+- Hat Klauen (N'Shkani-Merkmal)
+- Feuerelementar als Begleiter
+- Geierartiges Federvieh hat sich ihr angeschlossen
+- Geist des Feuerlords beobachtet sie 

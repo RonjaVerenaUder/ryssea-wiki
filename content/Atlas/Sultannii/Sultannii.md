@@ -30,6 +30,12 @@ Recht großer Kontinent, bestehend aus vielen Stadtstaaten und Reichen die inzwi
 
 - Sarakant — Hauptstadt des Sultansreichs
 - [[Yharnam]] — Unterirdische Stadt der [[Tirnûn]]
+- [[Salek]] — Hafenstadt, regiert von Prinz Fahd
+- [[Al'Faiha]] — Stadt mit Artefaktakademie und Sternenbrunnen
+- [[Ostwacht]] — Vorposten an der Wüstengrenze
+- [[Gorische Wüste]] — Wüstenregion im Osten
+- [[Gorisches Hochplateau]] — Felsregion mit Mine im Herzen der Wüste
+- [[Verborgenes Tal]] — Dschungeltal unter rotem Nebel
 
 ## Notizen
 

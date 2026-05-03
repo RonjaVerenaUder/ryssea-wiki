@@ -57,7 +57,7 @@ publish: true
 
 ## Familie & Herkunft
 
-Hat 1 bzw. 2 Brüder. Weitere Details zur Herkunft unbekannt — Yuliya selbst weiß nicht wie alt sie ist.
+Hat 1 bzw. 2 Brüder. Einer ihrer Brüder wurde in eine Hirschgestalt gebannt und als Zugtier in der Mine des [[Verborgenes Tal|Verborgenen Tals]] versklavt. Yuliya besitzt ein Fragment seines Seelengefäßes (ein Geweihstück mit roten Bändern). Weitere Details zur Herkunft unbekannt — Yuliya selbst weiß nicht wie alt sie ist.
 
 ## Wichtige Fähigkeiten & Vorteile
 
@@ -101,7 +101,9 @@ Keinen Vertrauten.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird aus dem Spielertagebuch ergänzt -->
+- **Spieltag 012:** Schließt sich der Gruppe an im [[Verborgenes Tal|Verborgenen Tal]], auf der Suche nach ihrem Bruder (dem Dämonenhirsch)
+- **Spieltag 013:** Nimmt das Seelengefäß-Fragment (Geweihstück) an sich als der Magier stürzt
+- **Spieltag 014:** Erfährt von [[Fenvarion al'Ichilin|Fenvarion]] vom Großen Krieg zwischen Phaerie und Dämonen — war ihr vorher unbekannt
 
 ## Notizen
 

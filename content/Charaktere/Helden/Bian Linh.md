@@ -14,7 +14,7 @@ publish: true
 
 # Bian Linh
 
-*Ehemaliger Spielercharakter — Sarah spielt jetzt [[Dana Lonnert]].*
+*Ehemaliger Spielercharakter — Sarah spielt jetzt [[Dana Lonnert]]. Linh bleibt im [[Verborgenes Tal|Verborgenen Tal]] um es mit einem Phaerie-Lehrer zu stabilisieren.*
 
 ![[Bian Linh.png]]
 
@@ -105,7 +105,11 @@ Aufgewachsen in einer typischen kyelischen Großfamilie. 5 Geschwister und so vi
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird aus dem Spielertagebuch ergänzt -->
+- **Spieltag 011:** Reitet auf Reifir, spürt Magie an den Obelisken, öffnet Webtore für die Gruppe
+- **Spieltag 013:** Nimmt Landwebebuch aus dem Turm mit
+- **Spieltag 014:** Entscheidet sich im [[Verborgenes Tal|Verborgenen Tal]] zu bleiben um es zu stabilisieren und zu verankern, bekommt einen Phaerie-Lehrer
 
 ## Notizen
 
+- Landweberin — kann Portale/Webtore öffnen und das Land formen
+- Bleibt nach dem Abenteuer "Staub und Sterne" im Verborgenen Tal (Charakter-Ausstieg)

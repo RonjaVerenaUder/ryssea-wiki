@@ -127,7 +127,9 @@ Phaerianisches Katana mit Blitz-Elementaraffinität.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird aus dem Spielertagebuch ergänzt -->
+- **Spieltag 014:** Kommt über den geheimen Eingang ins [[Verborgenes Tal|Verborgene Tal]], sieht den "Geist" des Feuerlords
+- **Spieltag 014:** Kann die Ritualkreise und Schriften grob übersetzen, vergisst sie danach aber sofort wieder (Phaerie-Vergessens-Effekt)
+- **Spieltag 014:** Erzählt [[Yuliya Astel]] vom Großen Krieg zwischen Phaerie und Dämonen
 
 ## Notizen
 

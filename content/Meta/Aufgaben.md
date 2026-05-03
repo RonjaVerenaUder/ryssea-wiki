@@ -23,7 +23,9 @@ tags: [meta]
 ### Kampagnen
 - [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen
 - [ ] Nebelkinder: Abenteuer-Notizen mit Abenteuer-Template aktualisieren
-- [ ] Team Synfathia: Spielertagebuch einpflegen, weitere Charaktere anlegen
+- [x] Team Synfathia: Spielertagebuch "Staub und Sterne" einpflegen (14 Spieltage)
+- [ ] Team Synfathia: Rhiannoc als SC-Notiz anlegen (Infos von Ronja ausstehend)
+- [ ] Team Synfathia: Name des Antagonisten (Magier im Turm) klären
 - [ ] Phase 3: Regelwerk-Struktur erarbeiten
 
 ### Tools & Technik
@@ -108,11 +110,37 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Atlas (Sultannii)
 - [[Yharnam]] — Unterirdische Stadt der Tirnûn
+- [[Salek]] — Hafenstadt, Prinz Fahd
+- [[Al'Faiha]] — Stadt mit Artefaktakademie und Sternenbrunnen
+- [[Ostwacht]] — Vorposten an der Wüstengrenze
+- [[Chefe]] — Karawanserei
+- [[Challef]] — Ort an der Karawanenroute
+- [[Gorische Wüste]] — Wüstenregion im Osten
+- [[Gorisches Hochplateau]] — Felsregion mit Mine
+- [[Verborgenes Tal]] — Dschungeltal unter rotem Nebel
 
 ### Charaktere (Team Synfathia)
 - [[Donnerhall]] — Vertrauter von Fenvarion al'Ichilin
 - [[Lumi]] — Hochmagischer Rotluchs, Gefährte von Edorian
 - [[Eisstern]] — Eiselementar-Einhorn, Vertrauter von Nagy
+- [[Reifir]] — Fliegendes Reittier von Rhiannoc
+- Rhiannoc — Ehemaliger SC von Christoph (Infos ausstehend)
+
+### NPCs (Team Synfathia / Staub und Sterne)
+- [[Prinz Fahd vom Salek]] — Herrscher von Salek
+- [[Kapitän Quasiim el'Asraf]] — Kapitän der Maraloun
+- [[William von Ehrenstayn]] — Gestaltwandler, Geheimdienst
+- [[Neeko]] — Kyulie-Gaukler
+- [[Shira]] — Gauklerin
+- [[Blinde Dryade]] — Seherin in Al'Faiha
+- [[Rashim]] — Karawanenführer, Weise Raben
+- [[Jasper da Merinal]] — Entführter Junge (befreit)
+- Antagonist (Magier im Turm) — Name noch zu klären
+
+### Fraktionen (Team Synfathia)
+- [[Eyrial]] — Rebellen auf Sultannii
+- [[Weise Raben]] — Geheimorganisation
+- [[5-Nationen]] — Politisches Bündnis
 
 ## In Arbeit
 - [[Baryia (Splitter)]] — Splitter-Notiz mit neuem Template befüllt, Details folgen

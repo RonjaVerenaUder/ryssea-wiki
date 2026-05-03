@@ -28,6 +28,15 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 ## Kulte & Geheimorganisationen
 
 - [[Kultisten des Weltenfressers]]
+- [[Weise Raben]] — Geheimorganisation auf [[Sultannii]]
+
+## Rebellengruppen
+
+- [[Eyrial]] — Rebellen auf [[Sultannii]] (grüne Segel, weißer Hirsch)
+
+## Politische Bündnisse
+
+- [[5-Nationen]] — Bündnis, Details unklar
 
 ## Weitere Fraktionen
 

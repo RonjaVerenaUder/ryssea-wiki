@@ -2,7 +2,7 @@
 tags: [kampagne]
 typ: kampagne
 status: entwurf
-setting: "[[Fraystein]]"
+setting: "[[Fraystein]], [[Sultannii]]"
 ton: ""
 start_datum: ""
 publish: true
@@ -23,9 +23,19 @@ Kampagne auf dem Splitter [[Fraystein]], einem europäisch inspirierten Menschen
 - [[Kaito]] — Kyulie, gespielt von Lukas
 - [[Theobald von Braunsfurt]] — Fraystainer Adliger ([[Menschen]]), gespielt von Christian
 
+## Ehemalige Spielercharaktere
+
+- [[Bian Linh]] — Kyulie-Kartografin, gespielt von Sarah (gewechselt zu [[Dana Lonnert]])
+- [[Edorian von Luchsenhaupt]] — Reykon-Priester, gespielt von Christoph (gewechselt zu [[Fenvarion al'Ichilin]])
+- [[Nagy]] — Tirnûn-Jäger, gespielt von Felix (gewechselt zu [[Yuliya Astel]])
+- Rhiannoc — Phaerie, gespielt von Christoph (temporär, Details folgen)
+
 ## Abenteuer
 
-<!-- Noch keine -->
+- [[Kampagnen/Team Synfathia/Abenteuer/Staub und Sterne|Staub und Sterne]] — Reise durch [[Sultannii]], Rettung von [[Jasper da Merinal]] aus einem verborgenen Tal (abgeschlossen)
 
 ## Notizen
+
+- Setting beginnt auf [[Fraystein]], Abenteuer führen auch nach [[Sultannii]]
+- Adaptiert teilweise DSA-Elemente (Fraystein ≈ Aventurien)
 
