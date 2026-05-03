@@ -4,6 +4,7 @@ typ: abenteuer
 status: entwurf
 kampagne: "Sethos Gang"
 quelle: "Handschriftliche Notizen Ronja"
+publish: true
 ---
 
 # Missing Cat
