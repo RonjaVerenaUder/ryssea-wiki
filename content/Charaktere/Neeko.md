@@ -1,7 +1,7 @@
 ---
 tags: [npc]
 typ: npc
-status: platzhalter
+status: entwurf
 volk: "[[Kyulie]]"
 ort: "[[Al'Faiha]]"
 fraktion: ""
@@ -13,11 +13,16 @@ publish: true
 
 ## Überblick
 
-Kyulie-Gaukler in [[Al'Faiha]] auf [[Sultannii]]. Reist zusammen mit [[Shira]].
+Kyulischer Gaukler, Illusionist und Züchter fliegender magischer Fische in [[Al'Faiha]] auf [[Sultannii]]. Tritt am [[Sternenbrunnen]] auf, wo seine Shows die Zuschauer über Stunden magisch verzaubern. Reist zusammen mit [[Shira]].
+
+## Persönlichkeit
+
+Bunt schillernde Erscheinung. Großzügig — verschenkt selbstgemachte magische Artefakte an Bekannte (Lotusblütenbrosche, Koi-Ring), deren Komplexität bei magischer Analyse überwältigt.
 
 ## Beziehungen
 
 - [[Shira]] — Gaukler-Partnerin
+- [[Bob]] — Sein magischer Koi-Begleiter
 
 ## Aufenthaltsort
 
@@ -25,4 +30,7 @@ Kyulie-Gaukler in [[Al'Faiha]] auf [[Sultannii]]. Reist zusammen mit [[Shira]].
 
 ## Notizen
 
-- Quelle: Spielertagebuch Team Synfathia
+- Seine Geschenke (Lotusblütenbrosche für Linh, Koi-Ring für Edorian) überfordern bei Analyse die Augen der Analysten für Stunden
+- Tritt am Sternenbrunnen auf — magische Show die alle Zuschauer verzaubert
+- Züchtet fliegende magische Fische
+- Quelle: Spielertagebuch Team Synfathia, Spieltag 002
