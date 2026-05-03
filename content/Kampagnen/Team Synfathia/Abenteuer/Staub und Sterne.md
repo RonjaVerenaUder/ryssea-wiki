@@ -5,7 +5,7 @@ status: abgeschlossen
 kampagne: "[[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]]"
 start_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 001|Spieltag 001]]"
 end_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 014|Spieltag 014]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer: Staub und Sterne
