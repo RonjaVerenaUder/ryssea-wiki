@@ -4,8 +4,8 @@
   "title": "# Team Synfathia: Spielertagebuch und Charakter...",
   "titleGenerationStatus": "success",
   "createdAt": 1777816500526,
-  "updatedAt": 1777823557196,
-  "lastResponseAt": 1777823557196,
+  "updatedAt": 1777823600157,
+  "lastResponseAt": 1777823600157,
   "sessionId": "0720b303-740f-4e9d-8f20-66d56e7c2731",
   "providerState": {
     "providerSessionId": "0720b303-740f-4e9d-8f20-66d56e7c2731",
@@ -1145,11 +1145,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 4648,
-    "cacheReadInputTokens": 146712,
+    "cacheCreationInputTokens": 4633,
+    "cacheReadInputTokens": 152339,
     "contextWindow": 200000,
-    "contextTokens": 151361,
-    "percentage": 76,
+    "contextTokens": 156973,
+    "percentage": 78,
     "contextWindowIsAuthoritative": true
   }
 }

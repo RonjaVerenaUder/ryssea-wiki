@@ -3,8 +3,8 @@ tags: [abenteuer]
 typ: abenteuer
 status: abgeschlossen
 kampagne: "[[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]]"
-start_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 001|Spieltag 001]]"
-end_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 014|Spieltag 014]]"
+start_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 001 - Salek und die Maraloun|Spieltag 001]]"
+end_spieltag: "[[Kampagnen/Team Synfathia/Spieltage/Spieltag 014 - Befreiung und Aufbruch|Spieltag 014]]"
 publish: true
 ---
 
@@ -87,20 +87,20 @@ Der Magier hätte weiter Sklaven geschürft und seinen Einfluss ausgebaut. Der T
 
 ## Zugehörige Spieltage
 
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 001|Spieltag 001]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 002|Spieltag 002]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 003|Spieltag 003]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 004|Spieltag 004]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 005|Spieltag 005]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 006|Spieltag 006]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 007|Spieltag 007]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 008|Spieltag 008]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 009|Spieltag 009]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 010|Spieltag 010]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 011|Spieltag 011]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 012|Spieltag 012]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 013|Spieltag 013]]
-- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 014|Spieltag 014]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 001 - Salek und die Maraloun|Spieltag 001 — Salek und die Maraloun]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 002 - Überfahrt nach Al'Faiha|Spieltag 002 — Überfahrt nach Al'Faiha]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 003 - Die Sternenprophezeiung|Spieltag 003 — Die Sternenprophezeiung]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 004 - Aufbruch nach Osten|Spieltag 004 — Aufbruch nach Osten]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 005 - Ostwacht|Spieltag 005 — Ostwacht]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 006 - Die Karawane|Spieltag 006 — Die Karawane]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 007 - Challef|Spieltag 007 — Challef]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 008 - Die Gorische Wüste|Spieltag 008 — Die Gorische Wüste]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 009 - Der Geist auf dem Plateau|Spieltag 009 — Der Geist auf dem Plateau]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 010 - Die Mine|Spieltag 010 — Die Mine]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 011 - Obelisken und das verborgene Tal|Spieltag 011 — Obelisken und das verborgene Tal]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 012 - Der Turm|Spieltag 012 — Der Turm]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 013 - Fall des Magiers|Spieltag 013 — Fall des Magiers]]
+- [[Kampagnen/Team Synfathia/Spieltage/Spieltag 014 - Befreiung und Aufbruch|Spieltag 014 — Befreiung und Aufbruch]]
 
 ## Mögliche Ausgänge
 
