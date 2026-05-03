@@ -21,7 +21,7 @@ Die Welt Ryssea besteht nicht aus klassischen Kontinenten, sondern aus Splittern
 | [[Ocea 1]]                | Ozeanwelt, Tiefsee                          | [[Sharnai]] (Tiefsee)                  |
 | [[Ocea 2]]                | Ozeanwelt, schwebende Inseln                | [[Sharnai]] (Meeres-Nomaden)           |
 | [[Parcia]]                | Karibische Inselgruppe, Handelsknoten       | Piraten, Händler                       |
-| [[Sultannii]]             | Großer Kontinent, Sultanat                  | [[Menschen]]                           |
+| [[Sultannii]]             | Großer Kontinent, Sultanat, Gorische Wüste  | [[Menschen]], [[Tirnûn]]               |
 | [[Nordkontinent]]         | Tundra, arktisches Meer                     | [[Nord]]                               |
 | [[Baryia (Splitter)]]                | Ägypten-ähnlich, Kriege formten Reiche      | [[Menschen]], [[Zentauren]], [[Phantaura (Volk)|Phantaura]] |
 | [[Marayam]]               | Friedlicher Splitter                        | [[Haatias]], [[Kyulie]]                |

@@ -43,13 +43,22 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 
 ## Charaktere
 
-- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Sethos Gang)
+### Sethos Gang
+- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza
+
+### Team Synfathia
+- [[Charaktere/Helden/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)
+- [[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion al'Ichilin]] — Phaerie-Priester (Christoph)
+- [[Charaktere/Helden/Jashari N'Baka|Jashari N'Baka]] — N'Shkani (Ruka)
+- [[Charaktere/Helden/Yuliya Astel|Yuliya Astel]] — Dämonin (Felix)
+- [[Charaktere/Helden/Kaito|Kaito]] — Kyulie (Lukas)
+- [[Charaktere/Helden/Theobald von Braunsfurt|Theobald von Braunsfurt]] — Adliger (Christian)
 
 ## Kampagnen
 
 - [[Kampagnen/Sethos Gang/Sethos Gang|Sethos Gang — Erwachen der Landweber]] — Baryia, Kaarsi-Konflikt
 - [[Kampagnen/Nebelkinder/🎯 Nebelkinder Kampagne|Nebelkinder]] — Alte Iteration, Aeltharis
-- [[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]] — Platzhalter
+- [[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]] — Fraystein & Sultannii, Abenteuer "Staub und Sterne"
 
 ## Meta
 
