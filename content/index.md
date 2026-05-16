@@ -46,7 +46,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 ### Nebelkinder
 - [[Charaktere/Helden/Jharan|Jharan]] — Kaheryt-Kommandant, Luft-Ozelot (Christoph)
 - [[Charaktere/Helden/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
-- Helix Beta II — KI / System-Administrator
+- [[Charaktere/Helden/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
 
 ### Sethos Gang
 - [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)

@@ -103,7 +103,7 @@ Magische Tätowierungen auf seiner Haut. Bekannt:
 ## Beziehungen
 
 ### Zur Gruppe
-- **Helix Beta II (KI)** — Kannte er vorher nicht. Sieht sie als "Datensatz, eventuell unvollständig." Noch unsicher, hinterfragt warum sie überlebt hat. Keine Ahnung wofür programmiert.
+- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte er vorher nicht. Sieht sie als "Datensatz, eventuell unvollständig." Noch unsicher, hinterfragt warum sie überlebt hat. Keine Ahnung wofür programmiert.
 - **Maria Colwall (Landweberin)** — Kannte er vorher nicht. Sieht sie als "Kind." Respektiert ihre Rolle als Landweberin (Cheyannin beschützen Landweber), aber persönlich noch keine Bindung. War ausgewählt, also wird sie gut sein.
 
 ### Zu NPCs
