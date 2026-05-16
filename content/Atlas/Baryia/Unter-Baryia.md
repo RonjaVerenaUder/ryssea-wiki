@@ -1,4 +1,4 @@
----
+﻿---
 tags: [ort, region]
 typ: region
 status: platzhalter
@@ -14,7 +14,7 @@ Ehemals der südliche Teil des Pharaonenreichs [[Baryia (Reich)]]. Durch Tsunami
 
 ## Lage
 
-Südlich von Baryia, unterhalb des Vulkangebirges und des [[Phantaura-Dschungel]]s. Im Süden angrenzend an den [[Dryaden-Dschungel]] und das Meer.
+Südlich von Baryia, unterhalb des Vulkangebirges und des [[Panthaura-Dschungel]]s. Im Süden angrenzend an den [[Dryaden-Dschungel]] und das Meer.
 
 ## Bevölkerung
 

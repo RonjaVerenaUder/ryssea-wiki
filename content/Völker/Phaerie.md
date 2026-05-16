@@ -36,6 +36,10 @@ Hauptsächlich auf [[Sharanma]], aber auch auf anderen Splittern vertreten.
 - Verehrung des [[Weltenweber|Weltenwebers]] als König
 - Komplexe Gesellschaft — Details noch zu dokumentieren
 
+## Untergruppen
+
+- **[[Kaheryt]]** — Phaerie mit Tierseele. Jäger und Richter der Phaerie-Gesellschaft. Organisiert in Rudeln. Können die Wilde Jagd rufen.
+
 ## Notizen
 
 - Einstige Wächter der Schöpfung — diese Rolle hat sich gewandelt

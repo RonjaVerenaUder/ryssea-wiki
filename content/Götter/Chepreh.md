@@ -1,4 +1,4 @@
----
+﻿---
 tags: [gott, gm-geheim]
 typ: gott
 status: entwurf
@@ -45,13 +45,13 @@ Die Heilige Pyramide in [[Aziza]] (der alten Hauptstadt) — von Chepreh selbst 
 - Pharaonenfamilie — Hat über Jahrhunderte die Kinder der Pharaonen mitausgebildet
 
 > [!danger]- GM-Wissen: Weitere Beziehungen
-> - [[Korellian]] — Guter Freund. Gott der [[Phantaura (Volk)|Phantaura]]. Chepreh vertraute ihm den dritten Teil seines gespaltenen Selbst an.
+> - [[Korellian]] — Guter Freund. Gott der [[Panthaura (Volk)|Panthaura]]. Chepreh vertraute ihm den dritten Teil seines gespaltenen Selbst an.
 
 > [!danger]- GM-Wissen: Geheimnisse
 > - **Lebt noch — in drei Teilen gespalten:**
 >   1. **Logik/Wissen** → versteckt in einem Artefakt (Ort unbekannt)
 >   2. **Empathie/Persönlichkeit** → in seinem mumifizierten Körper auf dem Thron in Aziza
->   3. **Der Verbinder** (kennt das Zusammenführungs-Ritual) → im uralten Pyramiden-Bluttempel der Phantaura, bewacht von [[Korellian]]
+>   3. **Der Verbinder** (kennt das Zusammenführungs-Ritual) → im uralten Pyramiden-Bluttempel der Panthaura, bewacht von [[Korellian]]
 > - Hat die **Landweber-Fäden Baryias versiegelt** — kein Landweber kann die Struktur übernehmen, bis die Prophezeiung erfüllt wird
 > - Seine **Prophezeiung**: Wenn ein Pharao mit der richtigen Blutlinie UND Landweber-Fähigkeiten an die Macht kommt, kann Chepreh zurückkehren und die Versiegelung aufgehoben werden
 > - Wurde durch eine [[Dissonanz-Nadel]] im Nacken getötet, eingeschleust von Kaarsi-Priestern

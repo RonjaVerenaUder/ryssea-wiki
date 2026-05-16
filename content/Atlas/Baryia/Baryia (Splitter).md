@@ -12,9 +12,9 @@ inspiration: "Ägypten und Umland, Hethiter"
 
 ## Überblick
 
-Baryia ist ein Kontinent der durch Krieg geformt wurde. Über lange Zeit kämpften hier Menschen, [[Zentauren]] und andere Völker in endlosen Konflikten gegeneinander. Aus diesen Kriegen, Fluchtbewegungen und Eroberungen sind die heutigen Reiche entstanden — allen voran das große Pharaonenreich [[Baryia (Reich)]], das karge Kriegerreich [[Taskasia]], das abgeschottete [[Phantaura (Reich)]] und das pazifistische [[Nerayan]].
+Baryia ist ein Kontinent der durch Krieg geformt wurde. Über lange Zeit kämpften hier Menschen, [[Zentauren]] und andere Völker in endlosen Konflikten gegeneinander. Aus diesen Kriegen, Fluchtbewegungen und Eroberungen sind die heutigen Reiche entstanden — allen voran das große Pharaonenreich [[Baryia (Reich)]], das karge Kriegerreich [[Taskasia]], das abgeschottete [[Panthaura (Reich)]] und das pazifistische [[Nerayan]].
 
-Heute ist Baryia ein Kontinent der Gegensätze: das mächtige Pharaonenreich am großen Fluss, das karge Kriegerreich Taskasia, der tödliche [[Phantaura-Dschungel]], die weite [[Zentaurensteppe]] mit ihrem glühenden Krater, das pazifistische Nerayan unter göttlichem Schutz, und die verwilderten Ruinen von [[Unter-Baryia]] die langsam wiederentdeckt werden.
+Heute ist Baryia ein Kontinent der Gegensätze: das mächtige Pharaonenreich am großen Fluss, das karge Kriegerreich Taskasia, der tödliche [[Panthaura-Dschungel]], die weite [[Zentaurensteppe]] mit ihrem glühenden Krater, das pazifistische Nerayan unter göttlichem Schutz, und die verwilderten Ruinen von [[Unter-Baryia]] die langsam wiederentdeckt werden.
 
 ## Karte
 
@@ -32,8 +32,8 @@ Baryia erinnert geografisch an Ägypten und dessen Umland. Ein großer Fluss —
 - **Zentral:** Das Herzland des Pharaonenreichs am großen Fluss mit seinem Delta. Ägyptisch geprägte Landschaft.
 - **Östlich des Herzlands:** Die weite [[Zentaurensteppe]], in deren Mitte ein großer glühender Krater schwelt — Überrest eines göttlichen Eingriffs. Nördlich der Steppe liegt ein kleines Gebirge mit dem einzigen Zugang nach [[Nerayan]], das von Nebel umgeben ist.
 - **Nordosten:** Küstengebiet das von den [[Sultannii]] erobert und besiedelt wurde.
-- **Südlich des Herzlands:** Der [[Phantaura-Dschungel]] — ein extrem gefährlicher natürlicher Dschungel mit Riesenschlangen, giftigen Pflanzen und zahllosen Bestien.
-- **Seitlich, angrenzend an das Herzland und den Phantaura-Dschungel:** Ein großes Vulkangebirge (noch unbenannt) mit der Stadt [[Kronrimar]] und dem Heiligtum des Feuerlords.
+- **Südlich des Herzlands:** Der [[Panthaura-Dschungel]] — ein extrem gefährlicher natürlicher Dschungel mit Riesenschlangen, giftigen Pflanzen und zahllosen Bestien.
+- **Seitlich, angrenzend an das Herzland und den Panthaura-Dschungel:** Ein großes Vulkangebirge (noch unbenannt) mit der Stadt [[Kronrimar]] und dem Heiligtum des Feuerlords.
 - **[[Unter-Baryia]]:** Ehemals Teil des Pharaonenreichs, heute durch Tsunamis und magische Katastrophen ein anarchistischer Dschungel voller uralter Ruinen. Hier liegt die Heilige Quelle des Lebens.
 - **Südlichster Bereich:** Der [[Dryaden-Dschungel]], dann Meer.
 
@@ -55,7 +55,7 @@ Der **Feuerlord** [[Rhaige]] hat sein Heiligtum im Vulkangebirge südlich des He
 
 - [[Menschen]] — Dominantes Volk, vor allem in Baryia, [[Unter-Baryia]] und Taskasia
 - [[Zentauren]] — Leben nomadisch in der [[Zentaurensteppe]], fast ausgelöscht durch den göttlichen Eingriff, inzwischen wieder erholt
-- [[Phantaura (Volk)]] — Pantherartige Wesen im [[Phantaura-Dschungel]], einst Menschen die von [[Korellian]] verwandelt wurden
+- [[Panthaura (Volk)]] — Pantherartige Wesen im [[Panthaura-Dschungel]], einst Menschen die von [[Korellian]] verwandelt wurden
 - [[Sultannii]]-Ausläufer — Haben einen Küstenbereich im Nordosten erobert und besiedelt
 - [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]]
 - Dryaden im [[Dryaden-Dschungel]]
@@ -65,7 +65,8 @@ Der **Feuerlord** [[Rhaige]] hat sein Heiligtum im Vulkangebirge südlich des He
 - [[Kronrimar]] — Stadt im Vulkangebirge, Heiligtum des Feuerlords
 - [[Nerayan]] — Pazifistisches Reich unter göttlichem Schutz, von Nebel umgeben
 - [[Zentaurensteppe]] — Weite Steppe mit glühendem Krater im Zentrum
-- [[Phantaura-Dschungel]] — Tödlicher Dschungel, Heimat der Phantaura
+- [[Panthaura-Dschungel]] — Tödlicher Dschungel, Heimat der Panthaura
+- [[Große Goldene Pyramide]] — Uralter Bluttempel Korellians im Herzen des Panthaura-Dschungels
 - [[Askari-Gebirge]] — Gebirge das Taskasia vom Rest trennt, Heimat der [[Askasi]]
 - [[Karasim]] — Grenzfestung an der Grenze zu Taskasia
 - [[Fuchskopf]] — Versammlungsort der Askasi-Stämme
@@ -82,7 +83,7 @@ Der **Feuerlord** [[Rhaige]] hat sein Heiligtum im Vulkangebirge südlich des He
 
 - [[Baryia (Reich)]] — Das große Pharaonenreich. Das große Pharaonenreich.
 - [[Taskasia]] — Hethiter-inspiriertes Kriegerreich im Nordwesten. Historische Feinde des Pharaonenreichs.
-- [[Phantaura (Reich)]] — Das abgeschottete Reich im Phantaura-Dschungel. Handelt nur mit dem Pharaonenreich.
+- [[Panthaura (Reich)]] — Das abgeschottete Reich im Panthaura-Dschungel. Handelt nur mit dem Pharaonenreich.
 - [[Nerayan]] — Pazifistisches Flüchtlingsreich unter dem Schutz der Göttin [[Neraiyda]] und ihres Partners [[Mikayrion]].
 - [[Sultannii]] — See-Nation von einem anderen Splitter, hat einen Küstenbereich im Nordosten erobert.
 - [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] — Unabhängige Stammesgebiete
@@ -93,7 +94,7 @@ Das politische Gefüge Baryias ist geprägt von der langen Geschichte der Völke
 
 **Taskasia** im Nordwesten ist der historische Rivale — karg, wehrhaft, hinter Klippen und dem Askari-Gebirge verschanzt. Zwischen beiden Reichen liegt bewusst eine Pufferzone aus unabhängigen Stammesgebieten, die von beiden Seiten in Ruhe gelassen wird.
 
-Die **Phantaura** im Süden sind extrem abgeschottet. Niemand betritt ihren Dschungel und überlebt — außer den Phantaura selbst. Sie unterhalten lediglich Handelsbeziehungen mit dem Pharaonenreich.
+Die **Panthaura** im Süden sind extrem abgeschottet. Niemand betritt ihren Dschungel und überlebt — außer den Panthaura selbst. Sie unterhalten lediglich Handelsbeziehungen mit dem Pharaonenreich.
 
 Die **Zentauren** leben nomadisch in ihrer Steppe, seit der göttliche Eingriff ihre endlosen Kriege beendet und sie fast ausgelöscht hat. Sie haben sich erholt, halten sich aber aus den großen Machtspielen weitgehend heraus.
 
@@ -111,7 +112,7 @@ Die Geschichte des Splitters umfasst Ereignisse die den gesamten Kontinent betre
 
 Die endlosen Kriege auf Baryia, besonders angeheizt durch die [[Zentauren]], gingen so weit dass der Lord der Erde, der Lord des Feuers und andere uralte [[Phaerie]] die Nase voll hatten. Mitten in einen Großkonflikt warfen sie einen meteorartigen Feuerball, der bis heute als glühender Krater in der [[Zentaurensteppe]] schwelt. Die Zentauren wurden dabei fast ausgelöscht, die Kriege endeten schlagartig.
 
-### Die Verwandlung der Phantaura
+### Die Verwandlung der Panthaura
 
 Menschen die in den tödlichen Dschungel flohen beteten den uralten Panther-Gott [[Korellian]] an. Dieser verwandelte sie in pantherartige Wesen und gab ihnen die Fähigkeit im Dschungel zu überleben.
 

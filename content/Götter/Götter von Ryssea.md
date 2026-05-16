@@ -1,4 +1,4 @@
----
+﻿---
 tags: [moc, götter]
 typ: moc
 publish: true
@@ -29,7 +29,7 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 
 ### Baryia
 - [[Horus]] — Gott des Sieges, Beschützer des Pharaos, Götterfürst des Pantheons
-- [[Korellian]] / [[Kore]] — Gott der [[Phantaura (Volk)|Phantaura]] und Wächter der Seelen
+- [[Korellian]] / [[Kore]] — Gott der [[Panthaura (Volk)|Panthaura]] und Wächter der Seelen
 - [[Seth]] — Gott auf Baryia
 - [[Bastet]] — Göttin der Heilung, des Schutzes und der Spionage. Heiliges Tier: Katze
 - [[Neraiyda]] — Göttin von [[Nerayan]]
@@ -57,7 +57,7 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 
 - [[Horus]] — Gott des Sieges, Beschützer des Pharaos (Baryia)
 - [[Kaarsi]] — Blutgott der Taskasianer (Taskasia)
-- [[Korellian]] / [[Kore]] — Gott der [[Phantaura (Volk)|Phantaura]], Wächter der Seelen (Baryia)
+- [[Korellian]] / [[Kore]] — Gott der [[Panthaura (Volk)|Panthaura]], Wächter der Seelen (Baryia)
 
 > [!danger]- GM-Wissen
 > - [[Chepreh]] — Gott des Landes, ehem. Phaerie und Landweber [[Rak'Shanvarion]] (Baryia) — vergessen, existiert in 3 Teilen

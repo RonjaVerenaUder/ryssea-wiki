@@ -1,4 +1,4 @@
----
+﻿---
 tags: [moc, fraktionen]
 typ: moc
 publish: true
@@ -13,7 +13,7 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 ### Baryia
 - [[Baryia (Reich)]] — Das Pharaonenreich, gegründet von [[Ram'Aches]] mit [[Chepreh|Rak'Shanvarion]] und [[Horus]]
 - [[Taskasia]] — Hethiter-inspiriertes Kriegerreich, historische Feinde Baryias
-- [[Phantaura (Reich)]] — Abgeschottetes Dschungelreich der [[Phantaura (Volk)|Phantaura]]
+- [[Panthaura (Reich)]] — Abgeschottetes Dschungelreich der [[Panthaura (Volk)|Panthaura]]
 - [[Nerayan]] — Pazifistisches Reich unter Schutz von [[Neraiyda]] und [[Mikayrion]]
 
 ### Andere Splitter

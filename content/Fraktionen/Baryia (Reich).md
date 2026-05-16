@@ -72,7 +72,7 @@ Historisch: Von [[Ram'Aches]] und [[Rak'Shanvarion]] gegründet in [[Aziza]]. Bi
 ## Verbündete & Feinde
 
 - **Historische Feinde:** [[Taskasia]] — neidisch auf das reiche Land
-- **Handelspartner:** [[Phantaura (Reich)]] — Einziges Volk mit dem die [[Phantaura (Volk)|Phantaura]] Handel treiben
+- **Handelspartner:** [[Panthaura (Reich)]] — Einziges Volk mit dem die [[Panthaura (Volk)|Panthaura]] Handel treiben
 - **Interne Feinde:** Korrupte Höflinge
 
 > [!danger]- GM-Wissen
@@ -129,7 +129,7 @@ Das **Landweber-Gesetz** führte über die Jahre immer wieder zu Reibereien — 
 > 2. Er **spaltete sich in drei Teile**:
 >    - **Logik/Wissen** → versteckt in einem Artefakt
 >    - **Empathie/Persönlichkeit** → blieb in seinem Körper (mumifiziert auf dem Thron in Aziza)
->    - **Der Verbinder** → versteckt im Pyramiden-Bluttempel der [[Phantaura (Volk)|Phantaura]], anvertraut [[Korellian]]
+>    - **Der Verbinder** → versteckt im Pyramiden-Bluttempel der [[Panthaura (Volk)|Panthaura]], anvertraut [[Korellian]]
 > 3. Er machte eine **Prophezeiung**: Wenn wieder ein Pharao mit der richtigen Blutlinie UND Landweber-Fähigkeiten an die Macht kommt, kann Chepreh zurückkehren.
 >
 > **Phase 6 — Der Fall von Horus:**

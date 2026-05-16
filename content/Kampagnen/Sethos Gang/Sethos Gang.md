@@ -1,4 +1,4 @@
----
+﻿---
 tags: [kampagne]
 typ: kampagne
 status: aktiv
@@ -43,7 +43,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 | Spieler | Charakter  | Volk                     | Kurzbeschreibung                                                   |
 | ------- | ---------- | ------------------------ | ------------------------------------------------------------------ |
 |         | [[Sethos]] | [[Menschen]] (Bariyaner) | Prinz, Statthalter von Aziza, Doppelpriester Seth/Horus, Landweber |
-|         | Takanshur  | [[Phantaura (Volk)|Phantaura]]            | Kore-Priester                                                      |
+|         | Takanshur  | [[Panthaura (Volk)|Panthaura]]            | Kore-Priester                                                      |
 |         | Amila      |                          |                                                                    |
 |         | Karmallion |                          |                                                                    |
 |         | Horem      |                          |                                                                    |

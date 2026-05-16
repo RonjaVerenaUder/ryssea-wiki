@@ -1,4 +1,4 @@
----
+﻿---
 tags: [volk]
 typ: volk
 status: entwurf
@@ -35,5 +35,5 @@ Verschiedene Kulturen je nach Art:
 
 ## Notizen
 
-- Teilen sich [[Baryia (Splitter)]] mit den [[Phantaura (Volk)|Phantaura]]
+- Teilen sich [[Baryia (Splitter)]] mit den [[Panthaura (Volk)|Panthaura]]
 - Beziehung zwischen den verschiedenen Zentaurenarten noch beschreiben

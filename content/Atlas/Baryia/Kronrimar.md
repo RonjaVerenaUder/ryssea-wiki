@@ -1,4 +1,4 @@
----
+﻿---
 tags: [ort, stadt]
 typ: stadt
 status: platzhalter
@@ -14,7 +14,7 @@ Stadt im Vulkangebirge auf [[Baryia (Splitter)]]. Hier liegt das Heiligtum des F
 
 ## Lage
 
-Im Vulkangebirge (noch unbenannt), südlich/seitlich von Baryia, angrenzend an den [[Phantaura-Dschungel]].
+Im Vulkangebirge (noch unbenannt), südlich/seitlich von Baryia, angrenzend an den [[Panthaura-Dschungel]].
 
 ## Bevölkerung
 ## Besonderheiten

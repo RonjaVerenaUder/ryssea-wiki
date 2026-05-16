@@ -14,11 +14,14 @@ Viele Völker Rysseas haben je nach Splitter und Region unterschiedliche Kulture
   - [[Askasi]] — Nomadische Bergstämme im [[Askari-Gebirge]] auf [[Baryia (Splitter)]]
 - **[[Zwerge]]**
   - [[Kultur der Zwerge]] — Gemeinsame Kultur aller 6 Bergstädte, verbunden durch Webtore
+- **[[Panthaura (Volk)|Panthaura]]**
+  - [[Kultur der Panthaura]] — Rudelkultur im Panthaura-Dschungel, Kore-Glaube, Blutrituale
 
 ## Kulturen nach Splitter
 
 - **[[Baryia (Splitter)]]**
   - [[Askasi]] — Nomadische Bergstämme im Askari-Gebirge
+  - [[Kultur der Panthaura]] — Rudelkultur im Panthaura-Dschungel
 - **Splitter noch unklar**
   - [[Kultur der Zwerge]] — Bergstädte (Splitter noch zu klären)
 

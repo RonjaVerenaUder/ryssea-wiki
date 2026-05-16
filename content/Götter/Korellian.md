@@ -1,9 +1,9 @@
----
+﻿---
 tags: [gott, gm-geheim]
 typ: gott
 status: entwurf
 aspekte: [Seelen, Tod, Dschungel]
-domäne: "Phantaura-Dschungel / Baryia (als Kore)"
+domäne: "Panthaura-Dschungel / Baryia (als Kore)"
 publish: true
 ---
 
@@ -11,14 +11,14 @@ publish: true
 
 ## Überblick
 
-Uralter Gott der [[Phantaura (Volk)|Phantaura]]. Panther-Gott der die Menschen die in den [[Phantaura-Dschungel]] flohen in pantherartige Wesen verwandelte und ihnen die Fähigkeit gab, im tödlichen Dschungel zu überleben.
+Uralter Gott der [[Panthaura (Volk)|Panthaura]]. Panther-Gott der die Menschen die in den [[Panthaura-Dschungel]] flohen in pantherartige Wesen verwandelte und ihnen die Fähigkeit gab, im tödlichen Dschungel zu überleben.
 
-In [[Baryia (Splitter)]] als **Kore** verehrt — Wächter der Seelen, der die Toten auf dem Weg ins Jenseits vor Dämonen beschützt und sie zur Totenwaage führt.
+In [[Baryia (Splitter)]] als **Kore** verehrt — Wächter der Seelen, der die Toten auf dem Weg ins Jenseits vor Dämonen beschützt und sie zur Totenwaage führt. Die [[Panthaura (Volk)|Panthaura]] nennen ihn **den großen Kore**. **Korellian** ist sein wahrer, ursprünglicher Name — so kennen ihn nur seine ältesten Freunde und Vertrauten.
 
 ## Aspekte
 
 - Wächter der toten Seelen (als Kore in Baryia)
-- Gott des Dschungels und der Verwandlung (bei den Phantaura)
+- Gott des Dschungels und der Verwandlung (bei den Panthaura)
 - Beschützer vor Dämonen auf dem Weg ins Jenseits
 
 ## Herkunft
@@ -34,15 +34,15 @@ Als Wächter der Seelen hat er eine Domäne die nicht einfach übernommen oder a
 
 ## Anhänger & Priester
 
-### Bei den Phantaura
-Verehrt als Korellian, ihr Schöpfergott.
+### Bei den Panthaura
+Verehrt als **der große Kore**, ihr Schöpfergott.
 
 ### In Baryia
-Verehrt als **Kore** — Wächter der Seelen und Totengeleit. Hat Priester in Baryia. Einer der Spielerhelden ist ein Phantaura-Kore-Priester.
+Verehrt als **Kore** — Wächter der Seelen und Totengeleit. Hat Priester in Baryia. Einer der Spielerhelden ist ein Panthaura-Kore-Priester.
 
 ## Domäne
 
-- Uralter Pyramiden-Bluttempel im [[Phantaura-Dschungel]]
+- [[Große Goldene Pyramide]] im [[Panthaura-Dschungel]]
 - Totenreich/Seelenweg in Baryia
 
 > [!danger]- GM-Wissen
@@ -51,8 +51,8 @@ Verehrt als **Kore** — Wächter der Seelen und Totengeleit. Hat Priester in Ba
 ## Beziehungen
 
 - [[Chepreh]] / [[Rak'Shanvarion]] — Guter Freund
-- [[Phantaura (Volk)|Phantaura]] — Sein Volk, das er erschaffen hat
-- Spielerheld (Phantaura-Kore-Priester) — Einer seiner Priester ist direkt an der Kampagne beteiligt
+- [[Panthaura (Volk)|Panthaura]] — Sein Volk, das er erschaffen hat
+- Spielerheld (Panthaura-Kore-Priester) — Einer seiner Priester ist direkt an der Kampagne beteiligt
 
 > [!danger]- GM-Wissen: Weitere Beziehungen
 > - [[Kaarsi]] — Sitzt in dessen falschem Pantheon, ohne dass Kaarsi (vermutlich) weiß dass Korellian die Wahrheit kennt
@@ -68,8 +68,8 @@ Verehrt als **Kore** — Wächter der Seelen und Totengeleit. Hat Priester in Ba
 
 ## Aufenthaltsort
 
-Im [[Phantaura-Dschungel]] und als Kore im baryianischen Totenreich.
+[[Große Goldene Pyramide]] im [[Panthaura-Dschungel]] und als Kore im baryianischen Totenreich.
 
 ## Notizen
 
-- Doppelrolle: Korellian (Phantaura-Gott) und Kore (baryianischer Totenwächter) — gleiche Entität
+- Drei Namen, eine Entität: **Korellian** (wahrer Name, nur alten Freunden bekannt) — **der große Kore** (bei den Panthaura) — **Kore** (baryianischer Totenwächter)
