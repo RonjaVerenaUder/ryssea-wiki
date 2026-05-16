@@ -8,7 +8,7 @@ volk: "[[Menschen]]"
 heimat: "[[Aeltharis]]"
 gott: ""
 lebendig: true
-publish: false
+publish: true
 ---
 
 # Maria Colwall
@@ -28,7 +28,7 @@ publish: false
 
 ## Aussehen
 
-1,70 m groß, lange blonde Haare, grüngraue Augen.
+1,70 m groß, lange blonde Haare, grüngraue Augen. Keine äußeren Anzeichen ihrer Magie — komplett unauffällig. Trägt praktische Kleidung (Hose, Bluse, Mantel), nur wenn es sein muss etwas Zeremonielles.
 
 ## Persönlichkeit
 
@@ -39,55 +39,74 @@ publish: false
 - **Darin bin ich untalentiert:** Technische und mechanische Sachen
 - **Davor fürchte ich mich:** Wieder meine Heimat zu verlieren
 
+**Auftreten:** Zurückhaltend, pragmatisch, wirkt eher abweisend. Hält Leute auf Abstand. War früher fröhlicher — der Verlust ihrer ersten Heimat hat sie verändert und verschlossener gemacht.
+
+**Innere Konflikte:**
+- Verschlossen — zeigt Gefühle selten
+- Inaryans Opfer: Erst Schock, dann Wut ("Du hättest das nicht tun sollen"). Warum stirbt jemand für dich den du kaum kennst?
+- Wollte lieber kämpfen als auf dem Schiff fliehen — wurde aber als Navigatorin gebraucht. Verpflichtet, nicht freiwillig.
+- Ihre größte Angst ist bereits eingetreten: Aeltharis ist zerstört.
+
+**Motivation:** Erstmal überleben. Kein großes Ziel, keine Mission — danach mal sehen.
+
+**Moralkodex:** Landweben ist heilig. Wird nicht zum Kampf genutzt, wird nicht zum Töten genutzt.
+
 ## Familie & Herkunft
 
-Ihre richtige Familie ist tot. Die Colwalls sind zu einer Art Ersatzfamilie für sie geworden.
+Ihre richtige Familie ist tot (Umstände noch unklar). Die Colwalls sind zu einer Adoptivfamilie für sie geworden. Maria trägt ein Foto der Adoptivfamilie bei sich — ihr einziges persönliches Andenken.
 
-<!-- TODO: Wer sind die Colwalls? Eine Gilde, ein Haushalt, eine Gruppe Landweber? -->
-<!-- TODO: Wie ist ihre richtige Familie gestorben? Krieg? Weltenfresser? -->
+Hat keine feste Heimat — die erste Heimat ging verloren, dann lebte sie zuletzt in Aeltharis. Zwei Mal Heimat verloren.
+
+**Ausbildung:** Erst in der Heimat über einen Mentor, später bei den Phaerie in einer Landweber-Akademie professionell ausgebildet.
 
 ## Wichtige Fähigkeiten & Vorteile
 
-- **[[Landweber|Landweberin]]** — Besonderes Talent, ihre Hauptbegabung
+- **[[Landweber|Landweberin]]** — Besonderes Talent, ihre Hauptbegabung. Heilig — niemals als Waffe.
 - **Magie** — Breit aufgestellt (Druidenmagie + Landweben)
 - **Notfallsanitäterin** — Kann heilen und in Krisen medizinisch handeln
-- **Druidin** — Naturverbundenheit, vermutlich Pflanzen-/Naturmagie
+- **Druidin** — Naturverbundenheit, Pflanzen-/Naturmagie
+- **Medium** — Kann Geister/Übersinnliches wahrnehmen
 
 ## Wichtige Nachteile
 
-- Technisch/mechanisch unbegabt — Kontrastpunkt zur KI
-<!-- TODO: Weitere Nachteile ergänzen -->
+- **Dissonanzanfällig** — Empfindlich auf magische Störungen
+- **Medium** — Doppelschneidig: Wahrnehmung die man nicht abschalten kann
+- **Technisch/mechanisch unbegabt** — Kontrastpunkt zur KI
+- **Verschlossen** — Lässt kaum jemanden nah an sich ran
 
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
 
-<!-- TODO: Details ergänzen — hat sie spezielle Landweber-Werkzeuge, Druiden-Fokus? -->
+Keine besondere Ausrüstung oder Artefakte.
 
 ## Begleiter & Vertraute
 
-<!-- TODO: Hatte sie Begleiter? Druiden haben oft eine Naturverbindung -->
+Keine.
 
 ## Beziehungen
 
 ### Zur Gruppe
-- **Jharan (Kommandant)** —
-- **KI** —
+- **[[Charaktere/Helden/Jharan|Jharan]] (Kommandant)** — Kannte ihn vorher nicht persönlich, nur vom Hörensagen (berühmter Kaheryt-Anführer). Vertraut ihm als Cheyannin — die sind Landweber-Beschützer. Erwartet dass er gut kämpfen kann.
+- **Helix Beta II (KI)** — Kannte sie als Bordcomputer, hat vor dem Abflug etwas mit ihr interagiert. Hat ihr beim Erwachen geholfen → Grundvertrauen. Merkt dass die KI in der Spähdrohne eingeschränkt ist.
 
 ### Zu NPCs
-- **Inaryan** — Hat sich für sie geopfert (Schutzkuppel). Persönliche Beziehung unklar.
-- **Die Colwalls** — Ersatzfamilie
+- **Inaryan** — Kurze, professionelle Bekanntschaft. Die Zuteilung als Beschützer war erst kürzlich. Hat sich für sie geopfert — Schock und Wut darüber.
+- **Die Colwalls** — Adoptivfamilie, einzige echte emotionale Bindung.
 
 ## Charakterentwicklung
 
-- **Spieltag 001:** Erwacht aus Inaryans Schutzkuppel. Erste Handlung: mit der KI die Kontrollkonsole reparieren und den Kommandanten befreien.
+- **Spieltag 001:** Erwacht aus Inaryans Schutzkuppel. Erste Reaktion: Panik, Blackout, dann wach. Arbeitet pragmatisch mit der KI zusammen, repariert Konsole, befreit den Kommandanten. Resignation und Neugier wenn klar wird wie viel Zeit vergangen ist.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **Spieltag 001 — Erwachen:** Die Schutzkuppel wird durch Inaryans Phäriehorn gebrochen. Maria war eine Ewigkeit in Stasis — wie viel hat sie davon mitbekommen?
+- **Verlust der ersten Heimat** — Hat sie grundlegend verändert, von fröhlich zu verschlossen.
+- **Spieltag 001 — Erwachen:** Die Schutzkuppel wird durch Inaryans Phäriehorn gebrochen.
 
 ## Notizen
 
-- Mensch, 26 Jahre — mit Abstand die Jüngste und Kurzlebigste der Gruppe (Jharan ist 1400 Jahre alt, die KI vermutlich auch uralt)
-- Ihre größte Angst ("wieder meine Heimat verlieren") ist bereits eingetreten — Aeltharis ist zerstört. Wie geht sie damit um?
-- Ihre Schwäche (Technik) ergänzt sich perfekt mit der KI. Ihre Stärke (Natur/Landweben) könnte für den Wiederaufbau der Stadt zentral sein.
-- Druidin + Landweberin: Hat sie eine besondere Verbindung zum Elementarkreis? Spürt sie dessen Unordnung?
-- "Die Colwalls" als Ersatzfamilie — potentieller emotionaler Haken. Existieren sie noch irgendwo in der neuen Welt? (Nachkommen?)
+- Mensch, 26 Jahre — mit Abstand die Jüngste und Kurzlebigste der Gruppe (Jharan 1400+, KI vermutlich uralt)
+- Dissonanzanfällig + Medium in einer Stadt voller magischer Ruinen und alter Geister = kann sehr intensiv werden
+- Spürt dass der Elementarkreis in Unordnung ist (GM-Wissen), weiß aber noch nicht warum
+- Ihre Stärke (Natur/Landweben) könnte für den Wiederaufbau der Stadt zentral sein
+- Kontrast zu Jharan: Er will den Krieg gewinnen, sie will einfach nur überleben
+- "Die Colwalls" — existieren sie noch irgendwo in der neuen Welt? (Nachkommen?)
+- Ihre Magie ist intakt nach der Stasis, aber die neue Welt wird sich fremd und unbekannt anfühlen
