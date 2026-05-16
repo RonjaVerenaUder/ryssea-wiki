@@ -43,8 +43,13 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 
 ## Charaktere
 
+### Nebelkinder
+- [[Charaktere/Helden/Jharan|Jharan]] — Kaheryt-Kommandant, Luft-Ozelot (Christoph)
+- [[Charaktere/Helden/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
+- Helix Beta II — KI / System-Administrator
+
 ### Sethos Gang
-- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza
+- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)
 
 ### Team Synfathia
 - [[Charaktere/Helden/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)

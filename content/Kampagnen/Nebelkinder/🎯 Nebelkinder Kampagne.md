@@ -14,11 +14,11 @@ Drei sehr alte, sehr mächtige Charaktere aus einer vorherigen Weltiteration wac
 
 ## Die drei Charaktere
 
-| Charakter | Rolle | Besonderheit |
-|-----------|-------|--------------|
-| **Kommandeur** | Kriegsführer, Anführer | Führte letzte Schlacht gegen Weltenfresser, geopfert, jetzt in magischem Heilungsschlaf |
-| **KI** | System-Administrator | Installiert sich in magischen Drohnen-Bots, kann Schiff-Systeme nutzen |
-| **Landweberin** | Magische Navigation | Kann durch Elementarströme navigieren, sollte Fluchtschiffe führen |
+| Charakter | Spieler | Rolle | Besonderheit |
+|-----------|---------|-------|--------------|
+| **[[Charaktere/Helden/Jharan\|Jharan]]** | Christoph | Kommandant der Kaheryt-Cheyannen | [[Phaerie]] ([[Kaheryt]]), Luft-Ozelot, oberster Rudelführer. 30% Leistung nach Stasis. |
+| **Helix Beta II** | | KI / System-Administrator | Installiert sich in Drohnen-Bots (Spähdrohne, humanoid, Kampfform). Kann Schiff-Systeme nutzen. |
+| **[[Charaktere/Helden/Maria Colwall\|Maria Colwall]]** | | Landweberin, Druidin, Notfallsanitäterin | Mensch, 26 Jahre. Kann durch Elementarströme navigieren. |
 
 ## Kampagnen-Phasen
 
@@ -64,8 +64,21 @@ Flucht mit dem Schiff, Reisen zwischen Splittern, weitere Abenteuer
 
 ---
 
+## Aktive Plotfäden
+
+- [[Kampagnen/Nebelkinder/Plots/Rückkehr des Weltenfressers|Rückkehr des Weltenfressers]] — Kultisten wollen ihn aus der Leere befreien
+- [[Kampagnen/Nebelkinder/Plots/Kampf um Aeltharis|Kampf um Aeltharis]] — Stadt als Basis vs. Kultisten
+- [[Kampagnen/Nebelkinder/Plots/Die mysteriösen Quellen|Die mysteriösen Quellen]] — Woher wissen die Kultisten von der Bastion?
+- [[Kampagnen/Nebelkinder/Plots/Inaryan - Der Wiedergeborene|Inaryan]] — Wiedergeboren in der neuen Welt, ohne Erinnerungen
+
+## Spieltage
+
+- [[Kampagnen/Nebelkinder/Spieltage/Spieltag 001 - Erwachen|Spieltag 001 — Erwachen]] (gespielt)
+- [[Kampagnen/Nebelkinder/Spieltage/Spieltag 002 - Schatten im Schiff|Spieltag 002 — Schatten im Schiff]] (vorbereitet)
+
 ## Notizen
 
-- Erste Session heute: Part 0 konkretisieren
-- Später: Stadtstruktur in Part 1 ausarbeiten
+- Stadtstruktur in Part 1 weiter ausarbeiten
+- KI (Helix Beta II) Spieler-Name noch ergänzen
+- Maria Spieler-Name noch ergänzen
 
