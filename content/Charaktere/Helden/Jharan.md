@@ -103,8 +103,13 @@ Magische Tätowierungen auf seiner Haut. Bekannt:
 ## Beziehungen
 
 ### Zur Gruppe
-- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte er vorher nicht. Sieht sie als "Datensatz, eventuell unvollständig." Noch unsicher, hinterfragt warum sie überlebt hat. Keine Ahnung wofür programmiert.
-- **Maria Colwall (Landweberin)** — Kannte er vorher nicht. Sieht sie als "Kind." Respektiert ihre Rolle als Landweberin (Cheyannin beschützen Landweber), aber persönlich noch keine Bindung. War ausgewählt, also wird sie gut sein.
+- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte er vorher nicht. Sieht sie als "Datensatz, eventuell unvollständig." Noch unsicher, hinterfragt warum sie überlebt hat. Keine Ahnung wofür programmiert. **Vertrauen: bedingt.**
+- **[[Charaktere/Helden/Maria Colwall|Maria Colwall]] (Landweberin)** — Kannte er vorher nicht. Sieht sie als "Kind." Respektiert ihre Rolle als Landweberin (Cheyannin beschützen Landweber), aber persönlich noch keine Bindung. War ausgewählt, also wird sie gut sein. **Vertrauen: bedingt.**
+
+### Gruppendynamik
+- **Entscheidungen:** Entscheidet de facto, sagt aber pflichtbewusst "die Weberin sollte das sagen." Wenn Maria sich durchringt, folgt er sofort (tiefe kulturelle Prägung).
+- **Verlust:** Frisst alles in sich rein, sagt nichts, zeigt nichts. Kein Auffangmechanismus in der Gruppe.
+- **Konflikte:** Wird von Helix' kalter Logik genervt, aber respektiert die Effizienz.
 
 ### Zu NPCs
 - **Inaryan** — Hochrangiger Cheyannin, Freund mit kabbelhafter Rivalität (Nahkampf vs. Fernkampf/Schütze). Hat die Landweberin mit einer Schutzkuppel gerettet. Von Jharan aus: vermutlich tot.

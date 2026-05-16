@@ -85,8 +85,13 @@ Keine.
 ## Beziehungen
 
 ### Zur Gruppe
-- **[[Charaktere/Helden/Jharan|Jharan]] (Kommandant)** — Kannte ihn vorher nicht persönlich, nur vom Hörensagen (berühmter Kaheryt-Anführer). Vertraut ihm als Cheyannin — die sind Landweber-Beschützer. Erwartet dass er gut kämpfen kann.
-- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte sie als Bordcomputer, hat vor dem Abflug etwas mit ihr interagiert. Hat ihr beim Erwachen geholfen → Grundvertrauen. Merkt dass die KI in der Spähdrohne eingeschränkt ist.
+- **[[Charaktere/Helden/Jharan|Jharan]] (Kommandant)** — Kannte ihn vorher nicht persönlich, nur vom Hörensagen (berühmter Kaheryt-Anführer). Vertraut ihm als Cheyannin — die sind Landweber-Beschützer. Erwartet dass er gut kämpfen kann. **Vertrauen: ja.**
+- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte sie als Bordcomputer, hat vor dem Abflug etwas mit ihr interagiert. Hat ihr beim Erwachen geholfen → Grundvertrauen. Merkt dass die KI in der Spähdrohne eingeschränkt ist. **Vertrauen: durchaus.**
+
+### Gruppendynamik
+- **Entscheidungen:** Will nicht entscheiden, bekommt aber kulturell die Autorität aufgedrückt. Wenn sie sich doch durchringt, folgt Jharan sofort.
+- **Verlust:** Sagt nichts, zeigt nichts. Verschließt sich. Kein Auffangmechanismus in der Gruppe.
+- **Position:** Die Einzige die beiden anderen vertraut — bekommt aber am wenigsten Vertrauen zurück.
 
 ### Zu NPCs
 - **Inaryan** — Kurze, professionelle Bekanntschaft. Die Zuteilung als Beschützer war erst kürzlich. Hat sich für sie geopfert — Schock und Wut darüber.
