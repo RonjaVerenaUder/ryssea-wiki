@@ -23,7 +23,7 @@ lebendig: true
 | **Alter**       | 22 Jahre (wirkt ca. 16)                                                                   |
 | **Berufung**    | Söldnerin                                                                                 |
 | **Gott**        | [[Rhaige]] (Lord des Feuers)                                                              |
-| **Vertrauter**  | [[Willow]], ein Uhrwerkdrache                                                             |
+| **Vertrauter**  | [[Willow]], ein Feuerelementar                                                            |
 | **Spieler**     | Ruka                                                                                      |
 | **Kampagne**    | [[Kampagnen/Team Synfathia/Team Synfathia\|Team Synfathia]]                               |
 
@@ -48,7 +48,7 @@ Einfache, direkte Sprache. Bei komplexeren oder philosophischen Themen wirkt sie
 
 ### Weltwissen
 
-Kennt [[Sarakant]] gut. Hat einige Zeit in einem abgeschiedenen Tempel in [[Haatien]] verbracht und ist als Söldnerin umhergereist, hat dabei aber wenig über Land und Leute gelernt. Ihr Wissen ist praktisch, nicht akademisch.
+Kennt [[Sarakant]] gut. Hat einige Zeit im [[Tempel des fließenden Schwertes]] in [[Kronrimar]] verbracht und ist als Söldnerin umhergereist, hat dabei aber wenig über Land und Leute gelernt. Ihr Wissen ist praktisch, nicht akademisch.
 
 ## Persönlichkeit
 
@@ -65,12 +65,12 @@ Kennt [[Sarakant]] gut. Hat einige Zeit in einem abgeschiedenen Tempel in [[Haat
 
 ## Familie & Herkunft
 
-Jash wuchs als Sklavin in [[Sarakant]] auf und wurde in der [[Löwengarde]] ausgebildet — kein eigener Besitz, körperliche Züchtigung, hartes Training und versuchte Gehirnwäsche. Als sie hingerichtet werden sollte, floh sie und fand schließlich ihren Weg zum [[Tempel des fließenden Schwertes]] in [[Haatien]], wo sie unter [[Meister Pelldor]] eine neue Ausbildung begann.
+Jash wuchs als Sklavin in [[Sarakant]] auf und wurde in der [[Löwengarde]] ausgebildet — kein eigener Besitz, körperliche Züchtigung, hartes Training und versuchte Gehirnwäsche. Als sie hingerichtet werden sollte, floh sie und fand schließlich ihren Weg zum [[Tempel des fließenden Schwertes]] in [[Kronrimar]], wo sie unter [[Meister Pelldor]] eine neue Ausbildung begann.
 
 Jash hat keine bekannte Familie.
 
 - **[[Nuri N'Kaan]]** — Ehemaliger Ausbilder in der [[Löwengarde]] und ihr Retter. Trotz der Umstände eine verbliebene Verbundenheit.
-- **[[Meister Pelldor]]** — Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Haatien]]. Mentor und Ausbilder.
+- **[[Meister Pelldor]]** — Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Kronrimar]]. Mentor und Ausbilder.
 - **Chai und Charo** — Mitglieder des Tempels
 - **Desina** — Mitglied des Tempels
 
@@ -122,6 +122,10 @@ Jash hat keine bekannte Familie.
 ### [[Sin'an Krondimar]]
 <!-- TODO: Details ergänzen -->
 
+### Uhrwerkdrache
+Ein Artefakt in Form eines kleinen Drachen.
+<!-- TODO: Details ergänzen — Funktion, Herkunft -->
+
 ### Willows Geldkatze
 <!-- TODO: Details ergänzen -->
 
@@ -130,9 +134,8 @@ Kleidung aus dem [[Tempel des fließenden Schwertes]].
 
 ## Begleiter & Vertraute
 
-- [[Willow]] — Vernunftbegabter Vertrauter in Form eines Uhrwerkdrachen. Jash' erste Verbindung zu [[Rhaige]]. Unterstützt Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen.
+- [[Willow]] — Vernunftbegabter Vertrauter, Feuerelementar. Jash' erste Verbindung zu [[Rhaige]]. Unterstützt Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen. Ändert gelegentlich seine Form (Fuchs/Hippo/Löwe-Mischung).
 - Geierartiges Federvieh — hat sich Jash angeschlossen (ermöglicht Laufen auf Sand)
-- Feuerelementar — kleiner Begleiter, ändert seine Form (Fuchs/Hippo/Löwe-Mischung)
 
 ## Glaube & Magie
 
@@ -185,7 +188,8 @@ Am Anfang kannte Jash niemanden — alle waren neu für sie.
 ## Notizen
 
 - N'Shkani-Klauen als natürliche Waffe
-- Feuerelementar und geierartiges Federvieh als Begleiter
+- Willow (Feuerelementar) und geierartiges Federvieh als Begleiter
+- Uhrwerkdrache als separates Artefakt 
 - Geist des Feuerlords beobachtet sie — Bedeutung noch unklar
 - Mag Kinder sehr gern und hat einen starken Beschützerdrang ihnen gegenüber, kann aber nicht wirklich was mit ihnen anfangen
 

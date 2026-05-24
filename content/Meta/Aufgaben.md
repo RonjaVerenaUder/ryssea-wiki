@@ -80,6 +80,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[U-Maat-Re-Ka]] — Stadt, frühere Heimat von Sethos
 - [[Landweber-Akademie]] — Noch nicht als eigene Ort-Notiz angelegt
 - [[Quelle des Lebens]] — Einer der 3 Horus-Tempel, in Unter-Baryia
+- [[Tempel des fließenden Schwertes]] — Kampftempel in Kronrimar, dem Feuerlord geweiht
 
 ### Fraktionen
 - [[Taskasia]] — Hethiter-inspiriertes Kriegerreich
@@ -112,7 +113,6 @@ Notizen die angelegt aber noch nicht befüllt sind:
 ### Atlas (Marayam)
 - [[Thièn Nam Kar]] — Hauptstadt der Kyulie
 - [[Haatien]] — Region, Heimat der Haatias
-- [[Tempel des fließenden Schwertes]] — Kampftempel in Haatien
 
 ### Atlas (Sultannii)
 - [[Sarakant]] — Hauptstadt von Sultannii
@@ -131,7 +131,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Charaktere (Team Synfathia)
 - [[Donnerhall]] — Vertrauter von Fenvarion al'Ichilin
-- [[Willow]] — Uhrwerkdrache, Vertrauter von Jashari N'Baaka
+- [[Willow]] — Feuerelementar, Vertrauter von Jashari N'Baaka
 - [[Lumi]] — Hochmagischer Rotluchs, Gefährte von Edorian
 - [[Eisstern]] — Eiselementar-Einhorn, Vertrauter von Nagy
 - [[Reifir]] — Fliegendes Reittier von Rhiannoc

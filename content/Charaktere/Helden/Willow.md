@@ -7,19 +7,21 @@ publish: true
 
 # Willow
 
-Vernunftbegabter Vertrauter von [[Jashari N'Baaka]] in Form eines Uhrwerkdrachen.
+Vernunftbegabter Vertrauter von [[Jashari N'Baaka]], ein Feuerelementar.
 
 ## Grunddaten
 
-|                |                                              |
-| -------------- | -------------------------------------------- |
-| **Art**        | Uhrwerkdrache (vernunftbegabter Vertrauter)  |
-| **Begleiter von** | [[Jashari N'Baaka]]                      |
-| **Kampagne**   | [[Kampagnen/Team Synfathia/Team Synfathia\|Team Synfathia]] |
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| **Art**            | Feuerelementar (vernunftbegabter Vertrauter)                 |
+| **Begleiter von**  | [[Jashari N'Baaka]]                                          |
+| **Kampagne**       | [[Kampagnen/Team Synfathia/Team Synfathia\|Team Synfathia]]  |
 
 ## Beschreibung
 
 Willow ist Jash' erste Verbindung zu [[Rhaige]] (Lord des Feuers). Er unterstützt Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen.
+
+Willow ändert gelegentlich seine Form — unter anderem zu einer Fuchs/Hippo/Löwe-Mischung.
 
 Willow besitzt eine Geldkatze.
 

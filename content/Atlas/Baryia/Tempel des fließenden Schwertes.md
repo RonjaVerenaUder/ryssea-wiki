@@ -2,20 +2,21 @@
 tags: [ort, tempel]
 typ: tempel
 status: platzhalter
-splitter: "[[Atlas/Marayam/Marayam|Marayam]]"
+splitter: "[[Atlas/Baryia/Baryia (Splitter)|Baryia]]"
 publish: true
 ---
 
 # Tempel des fließenden Schwertes
 
-Ein abgeschiedener Tempel in [[Haatien]] auf dem Splitter [[Atlas/Marayam/Marayam|Marayam]].
+Ein dem [[Rhaige|Feuerlord]] geweihter Kampftempel in [[Kronrimar]], der Stadt des Feuers auf [[Atlas/Baryia/Baryia (Splitter)|Baryia]].
 
 ## Grunddaten
 
 |              |                                              |
 | ------------ | -------------------------------------------- |
-| **Splitter** | [[Atlas/Marayam/Marayam\|Marayam]]           |
-| **Region**   | [[Haatien]]                                  |
+| **Splitter** | [[Atlas/Baryia/Baryia (Splitter)\|Baryia]]   |
+| **Stadt**    | [[Kronrimar]]                                |
+| **Geweiht**  | [[Rhaige]] (Lord des Feuers)                 |
 | **Typ**      | Tempel / Kampfschule                         |
 | **Leitung**  | [[Meister Pelldor]]                          |
 

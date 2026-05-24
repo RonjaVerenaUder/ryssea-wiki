@@ -19,10 +19,10 @@ Region auf dem Splitter [[Atlas/Marayam/Marayam|Marayam]], Heimat der [[Haatias]
 
 ## Wichtige Orte
 
-- [[Tempel des fließenden Schwertes]] — Abgeschiedener Kampftempel unter [[Meister Pelldor]]
+<!-- TODO -->
 
 ## Bekannte Verbindungen
 
-- [[Jashari N'Baaka]] — Hat einige Zeit im abgeschiedenen Tempel in Haatien verbracht und ist als Söldnerin durch das Land gereist
+- [[Jashari N'Baaka]] — Ist als Söldnerin durch das Land gereist
 
 <!-- TODO: Geografie, Kultur, Politik, Städte -->

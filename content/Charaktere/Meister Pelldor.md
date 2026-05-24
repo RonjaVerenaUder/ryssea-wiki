@@ -7,13 +7,13 @@ publish: true
 
 # Meister Pelldor
 
-Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Haatien]] auf [[Atlas/Marayam/Marayam|Marayam]].
+Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Kronrimar]] auf [[Atlas/Baryia/Baryia (Splitter)|Baryia]].
 
 ## Grunddaten
 
 |              |                                              |
 | ------------ | -------------------------------------------- |
-| **Ort**      | [[Tempel des fließenden Schwertes]], [[Haatien]] |
+| **Ort**      | [[Tempel des fließenden Schwertes]], [[Kronrimar]] |
 | **Rolle**    | Tempelmeister, Mentor                        |
 | **Bezug**    | [[Jashari N'Baaka]] — Mentor und Ausbilder   |
 
