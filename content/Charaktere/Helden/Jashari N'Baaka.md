@@ -214,7 +214,7 @@ Jash bevorzugt schnelle, effiziente Sturmangriffe. Je nach Situation überfällt
 - **[[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion]]** — Sparringspartner und Kampfkamerad. Die beiden verstehen sich auf einer direkten, unkomplizierten Ebene. Wenig Worte, viel gegenseitiger Respekt.
 - **[[Charaktere/Helden/Yuliya Astel|Yuliya]]** — Enge Vertrauensperson. Yuliya ist die einzige, die von Jashs Brandzeichen weiß. Jash fühlt sich bei ihr sicher genug, um Schwäche zu zeigen.
 - **[[Charaktere/Helden/Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
-- **[[Charaktere/Helden/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, auch wenn sie seine Art manchmal anstrengend findet. Verlässlicher Verbündeter im Kampf.
+- **[[Charaktere/Helden/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, ist ihm gegenüber aber misstrauisch. Er hat still danebengestanden als es um ihre Vergangenheit ging — das hat sie nicht vergessen.
 
 ### Zu NPCs
 
