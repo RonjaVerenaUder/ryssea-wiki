@@ -23,6 +23,12 @@ Willow ist Jash' erste Verbindung zu [[Rhaige]] (Lord des Feuers). Er unterstüt
 
 Willow ändert gelegentlich seine Form — unter anderem zu einer Fuchs/Hippo/Löwe-Mischung.
 
+Bei Regen verwandelt sich Willow in eine Art Glas-Form — vermutlich um sich vor dem Wasser zu schützen.
+
 Willow besitzt eine Geldkatze.
 
-<!-- TODO: Aussehen, Fähigkeiten, wie haben sie sich gefunden? -->
+## Herkunft
+
+Die Begegnung war ein Unfall: Jash stieß im Wald auf einen Flammengeist — Willow — und die beiden fanden zueinander. Seitdem sind sie untrennbar.
+
+<!-- TODO: Fähigkeiten, weitere Details zur Glas-Form -->

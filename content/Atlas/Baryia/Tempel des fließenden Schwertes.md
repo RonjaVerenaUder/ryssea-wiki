@@ -25,6 +25,6 @@ Ein dem [[Rhaige|Feuerlord]] geweihter Kampftempel in [[Kronrimar]], der Stadt d
 - [[Meister Pelldor]] — Leiter des Tempels
 - [[Jashari N'Baaka]] — Ausgebildet im Tempel nach ihrer Flucht aus [[Sarakant]]
 - Chai und Charo — Tempelmitglieder
-- Desina — Tempelmitglied
+- [[Desina]] — Artefaktschmiedin
 
 <!-- TODO: Kampfstil, Philosophie, Aufnahmeregeln, Architektur -->

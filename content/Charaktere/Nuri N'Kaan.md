@@ -13,13 +13,14 @@ Ehemaliger Ausbilder in der [[Löwengarde]] in [[Sarakant]].
 
 |              |                                              |
 | ------------ | -------------------------------------------- |
-| **Volk**     | [[N'Shkani]] (?)                             |
+| **Volk**     | [[N'Shkani]]                                 |
 | **Ort**      | [[Sarakant]]                                 |
 | **Rolle**    | Ausbilder, [[Löwengarde]]                    |
-| **Bezug**    | [[Jashari N'Baaka]] — Ausbilder und Retter   |
+| **Status**   | Sklave                                       |
+| **Bezug**    | [[Jashari N'Baaka]] — Ausbilder und Beschützer |
 
 ## Beziehung zu Jashari
 
-Nuri war Jash' Ausbilder in der [[Löwengarde]] und hat ihr in einer kritischen Situation das Leben gerettet. Trotz der harten Umstände besteht eine verbliebene Verbundenheit zwischen den beiden.
+Nuri war Jashs Ausbilder in der [[Löwengarde]] — selbst ein [[N'Shkani]]-Sklave. Trotz der brutalen Umstände brachte er Jash bei, selbst zu denken, anstatt nur zu gehorchen. Er schützte sie, soweit es ihm möglich war. Diese verbliebene Verbundenheit ist einer der wenigen positiven Anker aus Jashs Vergangenheit.
 
-<!-- TODO: Details zur Person, aktuelle Situation, wie genau hat er Jash gerettet? -->
+<!-- TODO: Aktuelle Situation, Aussehen, Alter, weitere Details -->

@@ -19,10 +19,10 @@ Region auf dem Splitter [[Atlas/Marayam/Marayam|Marayam]], Heimat der [[Haatias]
 
 ## Wichtige Orte
 
-<!-- TODO -->
+- Unbenannter Tempel — Zufluchtsort von [[Jashari N'Baaka]] in ihrer Jugend. Name und Details noch unklar.
 
 ## Bekannte Verbindungen
 
-- [[Jashari N'Baaka]] — Ist als Söldnerin durch das Land gereist
+- [[Jashari N'Baaka]] — Fand als Jugendliche Zuflucht in einem Tempel in Haatien, bevor sie zum [[Tempel des fließenden Schwertes]] in [[Kronrimar]] weiterreiste
 
 <!-- TODO: Geografie, Kultur, Politik, Städte -->

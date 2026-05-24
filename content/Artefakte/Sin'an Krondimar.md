@@ -7,13 +7,18 @@ publish: true
 
 # Sin'an Krondimar
 
-Waffe von [[Jashari N'Baaka]].
+Wandelbare Waffe von [[Jashari N'Baaka]].
 
 ## Grunddaten
 
 |              |                                              |
 | ------------ | -------------------------------------------- |
-| **Typ**      | Waffe                                        |
+| **Typ**      | Waffe (wandelbar)                            |
 | **Besitzer** | [[Jashari N'Baaka]]                          |
+| **Form**     | Bevorzugt als Scimitar geführt               |
 
-<!-- TODO: Waffenart, Eigenschaften, Geschichte, Herkunft des Namens (Krondimar → Kronrimar / Rhaige-Verbindung?) -->
+## Eigenschaften
+
+Sin'an Krondimar ist ein wandelbares Artefakt, das verschiedene Waffenformen annehmen kann. Jash führt es bevorzugt als Scimitar.
+
+<!-- TODO: Herkunft, Namensherkunft (Krondimar → Kronrimar / Rhaige-Verbindung?), weitere Formen -->

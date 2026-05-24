@@ -19,6 +19,6 @@ Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]
 
 ## Beziehung zu Jashari
 
-Meister Pelldor hat Jashari nach ihrer Flucht aus [[Sarakant]] im [[Tempel des fließenden Schwertes]] aufgenommen und ausgebildet.
+Meister Pelldor hat Jashari nach ihrer Flucht aus [[Sarakant]] im [[Tempel des fließenden Schwertes]] aufgenommen und ausgebildet. Seine Ausbildung konzentrierte sich weniger auf Kampf als vielmehr auf Etikette, Wissenschaften und Politik — Dinge, die Jash in der [[Löwengarde]] nie gelernt hatte. Chai (eine Mitschülerin) meinte, Pelldor habe Jash damit eine solide Grundausbildung gegeben.
 
 <!-- TODO: Volk, Alter, Kampfstil, Philosophie -->

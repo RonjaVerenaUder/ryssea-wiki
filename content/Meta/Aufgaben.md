@@ -141,6 +141,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Zarkhas]] — Feind von Jashari
 - [[Nuri N'Kaan]] — Ehemaliger Ausbilder in der Löwengarde
 - [[Meister Pelldor]] — Tempelmeister, Mentor von Jashari
+- [[Desina]] — Artefaktschmiedin im Tempel des fließenden Schwertes
 
 ### Fraktionen (Sarakant)
 - [[Löwengarde]] — Militärische Einheit in Sarakant
