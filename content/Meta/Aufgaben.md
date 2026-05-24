@@ -160,13 +160,24 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Jasper da Merinal]] — Entführter Junge (befreit)
 - Antagonist (Magier im Turm) — Name noch zu klären
 
+### NPCs (Dana Lonnert)
+- [[Björn]] — Bester Freund von Dana, Akademie in Fraystein
+- [[Coran]] — Mentor von Dana an der Akademie
+- [[Syr]] — Mentorin von Dana an der Akademie
+
 ### Fraktionen (Phaerie)
 - [[Ichilineyan]] — Phaerianischer Dämonenjäger-Orden
+
+### Fraktionen (Fraystein)
+- [[Weiße Gilde]] — Magierorganisation in Fraystein
 
 ### Fraktionen (Team Synfathia)
 - [[Eyrial]] — Rebellen auf Sultannii
 - [[Weise Raben]] — Geheimorganisation
 - [[5-Nationen]] — Politisches Bündnis
+
+### Atlas (Fraystein)
+- [[Weiden]] — Region/Stadt, Familie von Braunsfurt bekannt
 
 ### Regelwerk
 - [[Regelwerk/Fraktale|Fraktale]] — Was sind Fraktale, Angebot, Wirkung, Beispiele
