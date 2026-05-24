@@ -91,6 +91,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 ### Charaktere
 - [[Resul]] — Sethtier, Vertrauter von Sethos
 - [[Mes'Atemu]] — Älterer Sohn von Rehotep
+- [[Ameni]] — Schreiber und Kindheitsfreund von Sethos
 
 ### Götter
 - [[Reykon]] — Götterfürst des fraystainischen Pantheons
