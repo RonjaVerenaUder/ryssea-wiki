@@ -44,8 +44,8 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 - [[Kaarsi]] — Blutgott der Taskasianer
 
 ### Kyulie
-- [[Der Große Kyubi]] — Hauptgott der Kyulie (= [[Mikayrion]] unter anderem Namen)
-- [[Yatralian]] — Gott der [[Landweber]], Untergottheit des Kyubi
+- [[Der Große Kyubie]] — Hauptgott der Kyulie (= [[Mikayrion]] unter anderem Namen)
+- [[Yatralian]] — Gott der [[Landweber]], Untergottheit des Kyubie
 - Weitere Untergottheiten noch zu dokumentieren
 
 ### Fraystein
@@ -62,7 +62,7 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 > [!danger]- GM-Wissen
 > - [[Chepreh]] — Gott des Landes, ehem. Phaerie und Landweber [[Rak'Shanvarion]] (Baryia) — vergessen, existiert in 3 Teilen
 - [[Neraiyda]] — Göttin und Beschützerin von [[Nerayan]] (Baryia)
-- [[Mikayrion]] — "Der Wächter", Partner von Neraiyda (Baryia) / [[Der Große Kyubi]] (Kyulie)
+- [[Mikayrion]] — "Der Wächter", Partner von Neraiyda (Baryia) / [[Der Große Kyubie]] (Kyulie)
 - [[Seth]] — Gott auf Baryia, Sethtiere sind ihm zugeordnet
 - [[Bastet]] — Göttin der Heilung, des Schutzes und der Spionage (Baryia)
 - [[Reykon]] — Gottheit auf Fraystein

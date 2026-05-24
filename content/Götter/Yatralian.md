@@ -11,7 +11,7 @@ publish: true
 
 ## Überblick
 
-Gott der [[Landweber]] im kyulischen Pantheon. Untergottheit des [[Der Große Kyubi|Großen Kyubi]]. [[Bian Linh]] dient ihm als reisende Kartografin.
+Gott der [[Landweber]] im kyulischen Pantheon. Untergottheit des [[Der Große Kyubie|Großen Kyubie]]. [[Bian Linh]] dient ihm als reisende Kartografin.
 
 <!-- TODO: Aspekte, Herkunft, Macht ausarbeiten -->
 
@@ -37,7 +37,7 @@ Gott der [[Landweber]] im kyulischen Pantheon. Untergottheit des [[Der Große Ky
 
 ## Beziehungen
 
-- Untergeordnet dem [[Der Große Kyubi|Großen Kyubi]]
+- Untergeordnet dem [[Der Große Kyubie|Großen Kyubie]]
 - Teil des kyulischen Pantheons
 
 ## Notizen

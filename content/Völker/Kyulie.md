@@ -33,12 +33,12 @@ Hauptstadt und einzige feste Stadt auf [[Marayam]]. Als fahrendes Händlervolk a
 
 ## Religion & Glaube
 
-- [[Der Große Kyubi]] — Hauptgott der Kyulie (ist dieselbe Entität wie [[Mikayrion]])
-- [[Yatralian]] — Gott der [[Landweber]], Untergottheit des Kyubi
+- [[Der Große Kyubie]] — Hauptgott der Kyulie (ist dieselbe Entität wie [[Mikayrion]])
+- [[Yatralian]] — Gott der [[Landweber]], Untergottheit des Kyubie
 - Weitere Untergottheiten des kyulischen Pantheons noch zu dokumentieren
 
 ## Notizen
 
 - Beziehung zu den [[Haatias]] auf [[Marayam]] noch zu beschreiben
 - Handelsrouten und -beziehungen noch zu dokumentieren
-- Mikayrion wird auf Baryia als "der Wächter" verehrt, bei den Kyulie als "der Große Kyubi" — selber Gott, andere Tradition
+- Mikayrion wird auf Baryia als "der Wächter" verehrt, bei den Kyulie als "der Große Kyubie" — selber Gott, andere Tradition

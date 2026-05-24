@@ -27,7 +27,9 @@ tags: [meta]
 - [x] Team Synfathia: Spielertagebuch "Staub und Sterne" einpflegen (14 Spieltage)
 - [ ] Team Synfathia: Rhiannoc als SC-Notiz anlegen (Infos von Ronja ausstehend)
 - [ ] Team Synfathia: Name des Antagonisten (Magier im Turm) klären
-- [ ] Phase 3: Regelwerk-Struktur erarbeiten
+- [x] Phase 3: Regelwerk-Struktur erarbeiten — Grundstruktur steht, Inhalte werden Stück für Stück eingepflegt
+- [ ] Regelwerk: Inhalte aus Notion, Word, Excel, OneNote und Google Sites zusammentragen
+- [ ] Regelwerk: Neue Ressource „Göttliche Macht" designen — Legende/Bekanntheit eines Charakters, im Spiel verdient (nicht gekauft), beeinflusst durch weiße/schwarze Schicksalspunkte, Meilensteine für göttliche Kräfte → Halbgott → Aufstieg. Skala und Details noch offen
 
 ### Tools & Technik
 - [ ] Übersichtskarten für Splitter erstellen — Kartentool evaluieren
@@ -96,7 +98,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 ### Götter
 - [[Reykon]] — Götterfürst des fraystainischen Pantheons
 - [[Yatralian]] — Gott der Landweber bei den Kyulie
-- [[Der Große Kyubi]] — Hauptgott der Kyulie (= Mikayrion)
+- [[Der Große Kyubie]] — Hauptgott der Kyulie (= Mikayrion)
 
 ### Kosmologie
 - [[Karim Al'Altheyran]] — Elementarlord des Schattens

@@ -65,6 +65,13 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 - [[Kampagnen/Nebelkinder/🎯 Nebelkinder Kampagne|Nebelkinder]] — Alte Iteration, Aeltharis
 - [[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]] — Fraystein & Sultannii, Abenteuer "Staub und Sterne"
 
+## Regelwerk
+
+- [[Regelwerk/Regelwerk|Regelwerk]] — Übersicht zum gesamten Regelsystem
+- [[Regelwerk/Charaktererstellung/Charaktererstellung|Charaktererstellung]] — Charakter bauen
+- [[Regelwerk/Kampf/Kampfregeln|Kampfregeln]] — Kampfsystem
+- [[Regelwerk/Magie/Magieregeln|Magieregeln]] — Magiesystem-Mechaniken
+
 ## Meta
 
 - [[Meta/Aufgaben|Aufgaben]] — Offene TODOs und Platzhalter

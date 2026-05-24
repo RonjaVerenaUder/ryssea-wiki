@@ -28,6 +28,25 @@ War es immer angespannt oder gab es eine Zeit in der ihr euch verstanden habt? W
 
 ---
 
+## Beziehungen zur Gruppe
+
+Beschreib dein Verhältnis zu jedem deiner Mitstreiter — was denkst du über sie, wie kommst du mit ihnen klar, gibt es etwas das dich stört oder das du besonders schätzt?
+
+**Wie stehst du zu Takanshur?**
+
+**Wie stehst du zu Amila?**
+
+**Wie stehst du zu Karmallion?**
+
+**Wie stehst du zu Horem?**
+
+**Wie stehst du zu Neitha?**
+
+**Du bist als Prinz automatisch der Anführer — sehen das alle in der Gruppe auch so?**
+Gibt es Reibung? Stellt jemand deine Autorität in Frage? Und wie gehst du damit um wenn jemand anderer Meinung ist?
+
+---
+
 ## Glaube & Identität
 
 **Du sagst dein Götterbild hat sich im Laufe der Abenteuer gewandelt — wie?**

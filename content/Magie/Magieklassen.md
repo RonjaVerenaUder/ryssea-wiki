@@ -7,6 +7,8 @@ publish: true
 
 # Magieklassen
 
-Die verschiedenen Magieklassen sind formalisierte Traditionen der Magie — unterschiedliche Wege mit der Welt zu kommunizieren. Sie können erlernt und kombiniert werden.
+Die verschiedenen Magieklassen sind formalisierte Traditionen der Magie — unterschiedliche Wege, mit der Welt zu kommunizieren. Sie können erlernt und kombiniert werden.
 
-<!-- TODO: Die einzelnen Magieklassen auflisten und beschreiben -->
+Die vollständige Übersicht aller Klassen mit ihren Beschreibungen und Klassenfähigkeiten findest du unter [[Regelwerk/Magie/Magieklassen|Magieklassen (Regelwerk)]].
+
+<!-- TODO: Lore-Perspektive ergänzen — welche Klassen wo verbreitet sind, kulturelle Bedeutung -->

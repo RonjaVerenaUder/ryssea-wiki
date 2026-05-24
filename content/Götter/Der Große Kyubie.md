@@ -7,21 +7,21 @@ domäne: ""
 publish: true
 ---
 
-# Der Große Kyubi
+# Der Große Kyubie
 
 ## Überblick
 
-Hauptgott der [[Kyulie]]. In Wahrheit ist der Große Kyubi dieselbe Entität wie [[Mikayrion]], "der Wächter" — aber die kyulische Tradition, Mythologie und Verehrung unterscheiden sich grundlegend von der baryianischen.
+Hauptgott der [[Kyulie]]. In Wahrheit ist der Große Kyubie dieselbe Entität wie [[Mikayrion]], "der Wächter" — aber die kyulische Tradition, Mythologie und Verehrung unterscheiden sich grundlegend von der baryianischen.
 
 Für die Kyulie ist er nicht der Partner von [[Neraiyda]] und Beschützer von [[Nerayan]], sondern ihr höchster Gott mit einem eigenen Pantheon von Untergottheiten.
 
 ## Aspekte
 
-<!-- Welche Aspekte hat der Große Kyubi für die Kyulie? -->
+<!-- Welche Aspekte hat der Große Kyubie für die Kyulie? -->
 
 ## Pantheon
 
-Unter dem Großen Kyubi gibt es mehrere Untergottheiten:
+Unter dem Großen Kyubie gibt es mehrere Untergottheiten:
 
 - [[Yatralian]] — Gott der [[Landweber]]
 - Weitere Untergottheiten noch zu dokumentieren

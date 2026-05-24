@@ -13,4 +13,6 @@ Schicksalspunkte sind die regeltechnische Abbildung davon, wie sehr die Welt ein
 
 Elementare Wesen (z.B. ein Feuer-[[Fey]]) können ihr Element recht frei und kreativ nutzen, müssen dafür aber Schicksalspunkte ausgeben um die Welt tatsächlich zu beeinflussen.
 
-<!-- TODO: Regelmechanik im Detail beschreiben -->
+Die vollständigen Regeln zu Schicksalspunkten und Schicksalsgaben findest du unter [[Regelwerk/Schicksalspunkte|Schicksalspunkte & Schicksalsgaben (Regelwerk)]].
+
+<!-- TODO: Lore-Perspektive ergänzen — Bedeutung im Weltenwillen, Zusammenhang mit Elementen -->

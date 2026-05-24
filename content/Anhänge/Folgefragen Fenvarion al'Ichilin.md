@@ -35,16 +35,23 @@ Wie äußert sich die im Alltag — merkst du sie selbst?
 
 ---
 
-## Beziehungen
+## Beziehungen zur Gruppe
 
-**Wie stehst du zu den einzelnen Gruppenmitgliedern?**
-Gibt es besondere Freundschaften, Spannungen, Respekt?
+Beschreib dein Verhältnis zu jedem deiner Mitstreiter — was denkst du über sie, wie kommst du mit ihnen klar, gibt es etwas das dich stört oder das du besonders schätzt?
 
-**Yuliya ist eine Dämonin — und du bist ein ehemaliger Dämonenjäger. Wie bist du damit klargekommen?**
-Was hat sich verändert?
+**Wie stehst du zu Dana Lonnert?**
+
+**Wie stehst du zu Jashari N'Baka?**
+
+**Wie stehst du zu Yuliya Astel?**
+Sie ist eine Dämonin — und du bist ein ehemaliger Dämonenjäger. Wie bist du damit klargekommen? Was hat sich verändert?
+
+**Wie stehst du zu Kaito?**
+
+**Wie stehst du zu Theobald von Braunsfurt?**
 
 **Du bist zum Anführer geworden — war das eine bewusste Entscheidung oder hat sich das ergeben?**
-Wie fühlst du dich in der Rolle?
+Wie fühlst du dich in der Rolle? Und akzeptieren das alle in der Gruppe?
 
 ---
 
