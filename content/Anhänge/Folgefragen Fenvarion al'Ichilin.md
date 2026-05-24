@@ -41,7 +41,7 @@ Beschreib dein Verhältnis zu jedem deiner Mitstreiter — was denkst du über s
 
 **Wie stehst du zu Dana Lonnert?**
 
-**Wie stehst du zu Jashari N'Baka?**
+**Wie stehst du zu Jashari N'Baaka?**
 
 **Wie stehst du zu Yuliya Astel?**
 Sie ist eine Dämonin — und du bist ein ehemaliger Dämonenjäger. Wie bist du damit klargekommen? Was hat sich verändert?

@@ -14,7 +14,7 @@ Die Elementarlords sind die 10 Hüter der Elemente, erwacht aus den [[Die Elemen
 | -------- | ------------- | -------------------------------------------- |
 | Licht    |               | <!-- TODO -->                                |
 | Schatten | [[Karim Al'Altheyran]] | Elementarlord des Schattens |
-| Feuer    |               | <!-- TODO -->                                |
+| Feuer    | [[Rhaige]]    | Rhaige Al'Kronriam, Heiligtum in [[Kronrimar]] |
 | Eis      |               | <!-- TODO -->                                |
 | Pflanze  |               | <!-- TODO -->                                |
 | Metall   |               | <!-- TODO -->                                |

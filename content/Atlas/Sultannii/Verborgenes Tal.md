@@ -35,6 +35,6 @@ Nach der Befreiung entschied [[Bian Linh]], den Ort mit Hilfe eines Phaerie-Lehr
 ## Notizen
 
 - Stockfinster bei Nacht
-- Geist des Feuerlords beobachtet [[Jashari N'Baka]] hier
+- Geist des Feuerlords beobachtet [[Jashari N'Baaka]] hier
 - Kühe grasen am ehemaligen See (jetzt Lavasee)
 - Quelle: Spielertagebuch Team Synfathia, Spieltag 011-014

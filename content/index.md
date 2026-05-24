@@ -54,7 +54,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 ### Team Synfathia
 - [[Charaktere/Helden/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)
 - [[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion al'Ichilin]] — Phaerie-Priester (Christoph)
-- [[Charaktere/Helden/Jashari N'Baka|Jashari N'Baka]] — N'Shkani (Ruka)
+- [[Charaktere/Helden/Jashari N'Baaka|Jashari N'Baaka]] — N'Shkani-Söldnerin (Ruka)
 - [[Charaktere/Helden/Yuliya Astel|Yuliya Astel]] — Dämonin (Felix)
 - [[Charaktere/Helden/Kaito|Kaito]] — Kyulie (Lukas)
 - [[Charaktere/Helden/Theobald von Braunsfurt|Theobald von Braunsfurt]] — Adliger (Christian)

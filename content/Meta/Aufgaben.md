@@ -111,8 +111,11 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Atlas (Marayam)
 - [[Thièn Nam Kar]] — Hauptstadt der Kyulie
+- [[Haatien]] — Region, Heimat der Haatias
+- [[Tempel des fließenden Schwertes]] — Kampftempel in Haatien
 
 ### Atlas (Sultannii)
+- [[Sarakant]] — Hauptstadt von Sultannii
 - [[Yharnam]] — Unterirdische Stadt der Tirnûn
 - [[Salek]] — Hafenstadt, Prinz Fahd
 - [[Al'Faiha]] — Stadt mit Artefaktakademie und Sternenbrunnen
@@ -123,12 +126,27 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Gorisches Hochplateau]] — Felsregion mit Mine
 - [[Verborgenes Tal]] — Dschungeltal unter rotem Nebel
 
+### Kosmologie (Elementarlords)
+- [[Rhaige]] — Elementarlord des Feuers, Rhaige Al'Kronriam
+
 ### Charaktere (Team Synfathia)
 - [[Donnerhall]] — Vertrauter von Fenvarion al'Ichilin
+- [[Willow]] — Uhrwerkdrache, Vertrauter von Jashari N'Baaka
 - [[Lumi]] — Hochmagischer Rotluchs, Gefährte von Edorian
 - [[Eisstern]] — Eiselementar-Einhorn, Vertrauter von Nagy
 - [[Reifir]] — Fliegendes Reittier von Rhiannoc
 - Rhiannoc — Ehemaliger SC von Christoph (Infos ausstehend)
+
+### NPCs (Jashari N'Baaka)
+- [[Zarkhas]] — Feind von Jashari
+- [[Nuri N'Kaan]] — Ehemaliger Ausbilder in der Löwengarde
+- [[Meister Pelldor]] — Tempelmeister, Mentor von Jashari
+
+### Fraktionen (Sarakant)
+- [[Löwengarde]] — Militärische Einheit in Sarakant
+
+### Artefakte (Team Synfathia)
+- [[Sin'an Krondimar]] — Waffe von Jashari N'Baaka
 
 ### NPCs (Team Synfathia / Staub und Sterne)
 - [[Prinz Fahd vom Salek]] — Herrscher von Salek
