@@ -13,6 +13,10 @@ Der Weltenweber ist das erste Wesen das sich aus dem [[Zwielicht]] gebildet hat.
 
 Irgendwann erwachte der Weltenweber im Zwielicht und erschuf aus ihm die [[Die Elemente|10 Elemente]], indem er sie abspaltete. Aus diesen Elementen erwachten die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]], die die Welt nach seinem Willen erschufen.
 
+## Weltliche Inkarnation
+
+Der Weltenweber wandelt in seiner momentanen weltlichen Inkarnation unter dem Namen **Fayruan Al'Fey** durch Ryssea.
+
 ## Rolle in der Welt
 
 - Die [[Phaerie]] verehren den Weltenweber als ihren "König"

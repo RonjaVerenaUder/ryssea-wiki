@@ -16,7 +16,7 @@ Das Regelwerk für die Welt von Ryssea. Ein eigenes System mit Schwert, Magie un
 
 ## Grundlagen
 
-- [[Würfelsystem & Proben]] — Wie gewürfelt wird, Proben, Erfolgsgrade
+- [[Würfelsystem & Proben]] — Probentypen, Erfolge, Kritische Erfolge, Patzer, Vorteil-/Nachteilswürfe
 - [[Regelwerk/Schicksalspunkte|Schicksalspunkte & Schicksalsgaben]] — Pool, direkter Einsatz und die 12 Schicksalsgaben
 
 ## Charaktererstellung
@@ -24,7 +24,7 @@ Das Regelwerk für die Welt von Ryssea. Ein eigenes System mit Schwert, Magie un
 - [[Regelwerk/Charaktererstellung/Charaktererstellung|Charaktererstellung]] — Übersicht zum Erstellen eines Charakters
 - [[Eigenschaften]] — Attribute und Grundwerte
 - [[Vorteile & Nachteile]] — Was den Charakter besonders macht
-- [[Talente]] — Fähigkeiten und ihre Werte
+- [[Talente]] — Talentsystem, Schwerpunkte und alle Talente mit Schwerpunktlisten
 - [[Ressourcen]] — Vermögen, Gefolge, Glaube, Kontakte und mehr
 
 ## Kampf
@@ -42,11 +42,13 @@ Das Regelwerk für die Welt von Ryssea. Ein eigenes System mit Schwert, Magie un
 
 ## Steigerung & Fortschritt
 
-- [[Meisterschaften]] — Spezialisierungen bei Talenten
+- [[Regelwerk/Steigerung|Heldenlevel & Steigerung]] — Abenteuerpunkte, Steigerungskosten, Heldenlevel und Lehrmeister
+- [[Meisterschaften]] — Crit-Meister, Assassinen und weitere (vollständige Liste folgt)
 
 ## Spielregeln
 
-- [[Zustände]] — Erschöpfung, Vergiftung, Furcht und andere Zustände
-- [[Tischregeln]] — Regeln und Absprachen am Spieltisch
+- [[Regelwerk/Token|Token]] — Glasstein-Token für Schicksalspunkte, Fraktale, Götter-Segen, Hilfe und Special Actions
+- [[Zustände]] — 16 Zustände von Angsterfüllt bis Verwundet, mit Stufen und Dauer
+- [[Tischregeln]] — Optionale Hausregeln (u.a. explodierende Crit-Würfel)
 
 ---

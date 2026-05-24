@@ -145,9 +145,9 @@ Wirf noch einmal einen Blick auf deinen Charakter. Bist du mit allem zufrieden? 
 
 ## Schritt 10 — Start-AP
 
-Schließlich erhält dein Charakter **100 Erfahrungspunkte**, um seine Werte nach den Steigerungsregeln zu steigern. Er beginnt auf **Heldenstufe 1**.
+Schließlich erhält dein Charakter **100 Abenteuerpunkte**, um seine Werte nach den [[Regelwerk/Steigerung|Steigerungsregeln]] zu steigern. Er beginnt auf **Heldenstufe 1**.
 
-Diese Start-Erfahrung dient vor allem dazu, die Kernkompetenzen deines Charakters weiter zu stärken und weitergehende Interessen abseits seiner üblichen Beschäftigung abzudecken. Die 100 Erfahrungspunkte werden zu den Gesamt-Erfahrungspunkten gerechnet. Überschüssige Punkte kannst du aufbewahren und später einsetzen.
+Diese Start-AP dienen vor allem dazu, die Kernkompetenzen deines Charakters weiter zu stärken und weitergehende Interessen abseits seiner üblichen Beschäftigung abzudecken. Die 100 Abenteuerpunkte werden zu den Gesamt-AP gerechnet. Überschüssige Punkte kannst du aufbewahren und später einsetzen.
 
 > [!abstract] Zusammenfassung
 > - **100 Start-Abenteuerpunkte** verteilen

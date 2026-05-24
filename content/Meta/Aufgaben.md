@@ -149,6 +149,9 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Weise Raben]] — Geheimorganisation
 - [[5-Nationen]] — Politisches Bündnis
 
+### Regelwerk
+- [[Regelwerk/Fraktale|Fraktale]] — Was sind Fraktale, Angebot, Wirkung, Beispiele
+
 ## In Arbeit
 - [[Baryia (Splitter)]] — Splitter-Notiz mit neuem Template befüllt, Details folgen
 - [[Atlas von Ryssea]] — Grundstruktur steht

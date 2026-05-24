@@ -1,7 +1,7 @@
 ---
 tags: [magie, regelwerk]
 typ: magie
-status: platzhalter
+status: entwurf
 publish: true
 ---
 

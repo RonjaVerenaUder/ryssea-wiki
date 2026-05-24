@@ -139,7 +139,7 @@ Für 1 Schicksalspunkt kann entweder zu einer Probe 2 Erfolgsgrade oder 10 SW-Pu
 ### Der Horus-Bogen
 <!-- TODO: Details ergänzen -->
 
-### Sechem des Ton-Rem-Anem
+### [[Sechem des Ton-Ren-Anem]]
 Kann auf 1 Element eingestimmt werden. Das Ritual dauert für jedes Element unterschiedlich lange. Nach und nach können mehrere Elemente im Sechem enthalten sein, ein Wechsel dauert dann nur noch 5 Ticks.
 
 Auf das gerade eingestimmte Element:

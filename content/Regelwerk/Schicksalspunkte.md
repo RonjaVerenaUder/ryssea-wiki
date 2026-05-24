@@ -10,9 +10,12 @@ publish: true
 Jeder Spielerheld, der auf Ryssea wandelt, ist etwas Besonderes — aber was macht diese Gestalten dazu? Natürlich steckt in jedem vielleicht etwas mehr Aufmerksamkeit von dem, der ihn geschaffen hat, aber das ist nur die Außenansicht. In diesem Kapitel geht es darum, was diese Geschöpfe von allen anderen Lebewesen abhebt: die Möglichkeit, die Welt direkt zu beeinflussen. Diese Fähigkeit wird durch Schicksalspunkte dargestellt.
 
 > [!abstract] Schicksalspunkte-Pool
-> - Jeder Held erhält auf **Heldenstufe 1** drei Schicksalspunkte.
-> - Mit jeder Stufe wird der Pool um **1** größer.
-> - Die Spielleitung entscheidet, wie schnell Schicksalspunkte regeneriert werden. Empfehlung: zu jedem Spielabend wieder auffüllen (abhängig vom Spieltempo der Gruppe).
+> - **Startwert:** 2 + Heldenstufe (= 3 bei Heldenstufe 1)
+> - **Maxwert:** Startwert + 3
+> - Mit jeder Stufe wird der Startwert um **1** größer.
+> - **Regeneration:** 1 Schicksalspunkt pro Spieltag. Bei Beginn eines Abenteuers zurück auf Startwert. Kann nach Ermessen der Spielleitung zusätzlich vergeben werden.
+> - Schicksalspunkte können in [[Regelwerk/Token#Götter-Segen|Götter-Segen]] umgewandelt werden.
+> - **Token:** Dunkelblau / Hellblau (siehe [[Regelwerk/Token|Token]])
 
 Schicksalspunkte können auf zwei Arten ausgegeben werden:
 1. **Direkter Einsatz** — um sofort einen regeltechnischen Effekt auszulösen
