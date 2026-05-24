@@ -16,9 +16,16 @@ Drei sehr alte, sehr mächtige Charaktere aus einer vorherigen Weltiteration wac
 
 | Charakter | Spieler | Rolle | Besonderheit |
 |-----------|---------|-------|--------------|
-| **[[Charaktere/Helden/Jharan\|Jharan]]** | Christoph | Kommandant der Kaheryt-Cheyannen | [[Phaerie]] ([[Kaheryt]]), Luft-Ozelot, oberster Rudelführer. 30% Leistung nach Stasis. |
-| **Helix Beta II** | | KI / System-Administrator | Installiert sich in Drohnen-Bots (Spähdrohne, humanoid, Kampfform). Kann Schiff-Systeme nutzen. |
+| **[[Charaktere/Helden/Karasuan\|Karasuan]]** | Christoph | Agent des Metalllord-Ordens | [[Phaerie]] ([[Kaheryt]]), Rabe. Geheimagent. |
+| **[[Charaktere/Helden/Helix Beta III\|Helix Beta III]]** | | KI / Wissens- und Lehragent | Magitech-KI in Drohnen-Körpern (Spähdrohne, Zwerg-Hauptdrohne, Wolf-Kampfdrohne). Fachgebiet: Artefakte & Werkstoffkunde. |
 | **[[Charaktere/Helden/Maria Colwall\|Maria Colwall]]** | | Landweberin, Druidin, Notfallsanitäterin | Mensch, 26 Jahre. Kann durch Elementarströme navigieren. |
+
+## Gruppendynamik
+
+> [!info] Hinweis
+> Gruppendynamik wird neu definiert sobald Karasuan ausgearbeitet ist. Die vorherige Dynamik (mit Jharan) ist durch den Charakterwechsel hinfällig.
+
+---
 
 ## Kampagnen-Phasen
 
@@ -79,6 +86,6 @@ Flucht mit dem Schiff, Reisen zwischen Splittern, weitere Abenteuer
 ## Notizen
 
 - Stadtstruktur in Part 1 weiter ausarbeiten
-- KI (Helix Beta II) Spieler-Name noch ergänzen
+- KI (Helix Beta III) Spieler-Name noch ergänzen
 - Maria Spieler-Name noch ergänzen
 

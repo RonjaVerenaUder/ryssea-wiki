@@ -1,7 +1,7 @@
 ---
-tags: [spielercharakter]
+tags: [spielercharakter, archiviert]
 typ: spielercharakter
-status: entwurf
+status: archiviert
 spieler: "Christoph"
 kampagne: "[[🎯 Nebelkinder Kampagne]]"
 volk: "[[Phaerie]]"

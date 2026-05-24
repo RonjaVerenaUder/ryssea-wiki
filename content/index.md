@@ -44,7 +44,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 ## Charaktere
 
 ### Nebelkinder
-- [[Charaktere/Helden/Jharan|Jharan]] — Kaheryt-Kommandant, Luft-Ozelot (Christoph)
+- [[Charaktere/Helden/Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
 - [[Charaktere/Helden/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
 - [[Charaktere/Helden/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
 

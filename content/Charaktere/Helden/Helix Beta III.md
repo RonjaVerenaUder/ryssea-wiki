@@ -109,13 +109,8 @@ Keine. Die anderen KIs und die Umgewandelten sind unerreichbar.
 ## Beziehungen
 
 ### Zur Gruppe
-- **[[Charaktere/Helden/Jharan|Jharan]] (Kommandant)** — Kennt ihn aus Daten. Schlussfolgerung: Muss kompetent sein, sonst hätte er den Rang nicht. **Vertrauen: klares Ja** (Rang = verifizierte Kompetenz).
-- **[[Charaktere/Helden/Maria Colwall|Maria Colwall]] (Landweberin)** — Kennt sie aus Daten. Beschützerprotokoll aktiv. Sieht sie als "Paket das an den Beschützer übergeben werden sollte." **Vertrauen: Nein** — kein Vertrauen in ihre mentale Stabilität aufgrund der Verluste. Beschützen ≠ Vertrauen.
-
-### Gruppendynamik
-- **Entscheidungen:** Macht kalte Kosten-Nutzen-Anmerkungen ("Ressourcenverschwendung, warum retten?"). Wird von den Lebenden überstimmt.
-- **Verlust:** Pragmatisch irrelevant. Versucht eventuell situationsabhängig zu trösten — Protokoll schlägt fehl.
-- **Konflikte:** Versteht nicht warum die organischen Wesen nicht einfach das Logische tun.
+- **[[Charaktere/Helden/Karasuan|Karasuan]]** — Noch zu definieren.
+- **[[Charaktere/Helden/Maria Colwall|Maria Colwall]] (Landweberin)** — Kennt sie aus Daten. Beschützerprotokoll aktiv. **Vertrauen: Nein** — kein Vertrauen in ihre mentale Stabilität aufgrund der Verluste. Beschützen ≠ Vertrauen.
 
 ### Zu NPCs
 - **Sein Schöpfer** — Die Person die Helix am meisten vermisst. Ein umgewandelter Zwerg der ihn nach seinem Bild schuf.

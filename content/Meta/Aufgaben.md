@@ -138,6 +138,9 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Jasper da Merinal]] — Entführter Junge (befreit)
 - Antagonist (Magier im Turm) — Name noch zu klären
 
+### Fraktionen (Phaerie)
+- [[Ichilineyan]] — Phaerianischer Dämonenjäger-Orden
+
 ### Fraktionen (Team Synfathia)
 - [[Eyrial]] — Rebellen auf Sultannii
 - [[Weise Raben]] — Geheimorganisation

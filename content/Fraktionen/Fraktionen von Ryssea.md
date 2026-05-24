@@ -38,6 +38,10 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 
 - [[5-Nationen]] — Bündnis, Details unklar
 
+## Orden
+
+- [[Ichilineyan]] — Phaerianischer Dämonenjäger-Orden
+
 ## Weitere Fraktionen
 
 <!-- Wird erweitert -->

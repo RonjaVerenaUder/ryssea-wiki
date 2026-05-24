@@ -17,7 +17,7 @@ Kampagne auf dem Splitter [[Fraystein]], einem europäisch inspirierten Menschen
 ## Spielercharaktere
 
 - [[Dana Lonnert]] — Magierin, gespielt von Sarah
-- [[Fenvarion al'Ichilin]] — Phaerie-Priester & ehem. Dämonenjäger, gespielt von Christoph
+- [[Fenvarion al'Ichilin]] — Phaerie-Priester des [[Lord von Zeit & Raum]], ehem. Dämonenjäger ([[Ichilineyan]]), gespielt von Christoph
 - [[Jashari N'Baka]] — N'Shkani, gespielt von Ruka
 - [[Yuliya Astel]] — Dämonin (Katzengestalt), Heilerin & Bardin, gespielt von Felix
 - [[Kaito]] — Kyulie, gespielt von Lukas

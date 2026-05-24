@@ -24,6 +24,20 @@ Noch im Detail zu dokumentieren. Als Elementarvolk dürfte ihre Erscheinung von 
 - Hochentwickelte [[Alltagsmagie]] — beheizte Teller, große Bäder und viele Annehmlichkeiten der modernen Welt, nur über Magie realisiert
 - Magie ist Allgemeingut in der Phaerie-Gesellschaft
 
+## Bestimmung
+
+Die Phaerie glauben — und wissen — dass sie als Elementarwesen aus dem Element gerufen und geboren werden, wenn die Welt sie braucht. Das kann ein Landstrich sein, eine Volksgruppe, eine einzelne Person, oder einfach der unterschwellige [[Weltenwille]]. Jeder Phaerie hat eine Aufgabe in der Welt, nach der er sucht.
+
+Da der Weltenwille nicht der Zeit unterliegt, werden Phaerie dort und dann geboren, wo es passend ist, damit sie alles lernen können was nötig ist, um ihre Aufgabe zu erfüllen. Daher sind die Phaerie als Volk besonders lernwillig — die Suche nach der eigenen Bestimmung treibt sie an. Manche suchen intensiver als andere. Auf dem Weg dorthin machen sie das, was ihnen richtig erscheint — dazu gehören durchaus auch politische Spiele und Intrigen.
+
+## Namenskonventionen
+
+Phaerie tragen neben Titeln auch ihre Zugehörigkeit zu den Elementen im Namen. Gehört ein Phaerie jedoch zu einem der speziellen Orden (wie den [[Cheyannin]] oder den [[Ichilineyan]]), überschreibt der Ordensname alle anderen Zugehörigkeiten.
+
+Manche Phaerie behalten ihren Elementarnamen und hängen den Ordensteil an, aber der letzte Anhang des vollen Namens ist immer der wichtigste — er zeigt, wo die letztliche Verpflichtung des Phaerie liegt.
+
+**Beispiel:** [[Fenvarion al'Ichilin]] — "al'Ichilin" verweist auf die Zugehörigkeit zu den [[Ichilineyan]] (Dämonenjäger-Orden).
+
 ## Verbreitung
 
 Hauptsächlich auf [[Sharanma]], aber auch auf anderen Splittern vertreten.
