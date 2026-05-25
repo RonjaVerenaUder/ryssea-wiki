@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 005 - Reise nach Aziza]]"
 nächstes: "[[Abenteuer 007 - Grabmahl von TonRenAmen]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 006 – Pyramide des Chepreh

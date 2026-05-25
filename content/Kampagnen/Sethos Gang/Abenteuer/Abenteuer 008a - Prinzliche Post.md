@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 007 - Grabmahl von TonRenAmen]]"
 nächstes: "[[Abenteuer 008b - Zwischenstopp Nepcatennu]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 008a – Der Auftrag: Prinzliche Post

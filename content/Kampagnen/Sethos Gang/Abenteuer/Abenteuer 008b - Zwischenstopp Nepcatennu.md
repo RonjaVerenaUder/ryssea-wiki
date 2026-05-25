@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 008a - Prinzliche Post]]"
 nächstes: "[[Abenteuer 009 - Das Dorf Abaki]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 008b – Der Auftrag: Zwischenstopp Nepcatennu

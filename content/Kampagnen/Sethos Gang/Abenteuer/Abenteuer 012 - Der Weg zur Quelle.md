@@ -7,7 +7,7 @@ start_spieltag: "[[Spieltag 001 - Der Weg zur Quelle]]"
 end_spieltag: ""
 vorheriges: "[[Abenteuer 011 - Der Prinz der Schmetterlinge]]"
 nächstes: ""
-publish: false
+publish: true
 ---
 
 # Abenteuer 012 – Der Weg zur Quelle

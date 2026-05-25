@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 008b - Zwischenstopp Nepcatennu]]"
 nächstes: "[[Abenteuer 010a - Ankunft in Karasim]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 009 – Das Dorf Abaki

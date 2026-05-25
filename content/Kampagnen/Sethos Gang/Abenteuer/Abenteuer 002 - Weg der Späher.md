@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 001 - Missing Cat]]"
 nächstes: "[[Abenteuer 003 - Gift des Skorpions]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 002 – Weg der Späher

@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 010b - Operation Wiedereingliederung]]"
 nächstes: "[[Abenteuer 012 - Der Weg zur Quelle]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 011 – Der Prinz der Schmetterlinge

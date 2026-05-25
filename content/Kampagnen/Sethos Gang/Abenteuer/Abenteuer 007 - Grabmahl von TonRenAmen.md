@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 006 - Pyramide des Chepreh]]"
 nächstes: "[[Abenteuer 008a - Prinzliche Post]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 007 – Grabmahl von TonRenAmen

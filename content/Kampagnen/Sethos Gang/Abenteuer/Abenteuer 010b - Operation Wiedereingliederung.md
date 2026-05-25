@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 010a - Ankunft in Karasim]]"
 nächstes: "[[Abenteuer 011 - Der Prinz der Schmetterlinge]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 010b – Die Befreiung Karasims: Operation Wiedereingliederung

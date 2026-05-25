@@ -7,7 +7,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 004 - Schlacht um Bech'Amet]]"
 nächstes: "[[Abenteuer 006 - Pyramide des Chepreh]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 005 – Reise nach Aziza

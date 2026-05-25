@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 009 - Das Dorf Abaki]]"
 nächstes: "[[Abenteuer 010b - Operation Wiedereingliederung]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 010a – Die Befreiung Karasims: Ankunft in Karasim
