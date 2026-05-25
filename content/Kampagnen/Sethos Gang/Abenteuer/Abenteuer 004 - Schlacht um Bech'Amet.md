@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 003 - Gift des Skorpions]]"
 nächstes: "[[Abenteuer 005 - Reise nach Aziza]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 004 – Schlacht um Bech'Amet

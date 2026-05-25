@@ -8,7 +8,7 @@ start_spieltag: ""
 end_spieltag: ""
 vorheriges: "[[Abenteuer 002 - Weg der Späher]]"
 nächstes: "[[Abenteuer 004 - Schlacht um Bech'Amet]]"
-publish: false
+publish: true
 ---
 
 # Abenteuer 003 – Gift des Skorpions
