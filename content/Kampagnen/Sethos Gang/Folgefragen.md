@@ -59,14 +59,18 @@ Offene Fragen für die Spieler — zur Ergänzung der Heldennotizen. Erledigte F
 
 ---
 
-## Melli — [[Amila]]
+## Melli — [[Amila]] ✓ (beantwortet 2026-05-25)
 
-- [ ] Familie & Herkunft — wer sind ihre Eltern, wie wurde sie Priesterin der Kuresi?
-- [ ] Moralischer Kompass — wo zieht sie die Grenze?
-- [ ] Fremden gegenüber — wie verhält sie sich?
-- [ ] Sammelwut: Was sammelt sie genau?
-- [ ] Kuresis Stab — Herkunft und Fähigkeiten?
-- [ ] Spieler-Meta: Erwartungen und No-Go?
+- [x] Weg zu Kuresi (Traumwelt, Kuresi verletzt gefunden) → eingearbeitet
+- [x] Kuresi: Hintergrund (alte baryanische Göttin, von Kaarsi vertrieben) → eingearbeitet
+- [x] Glaube im Alltag, Kuresis Stab Herkunft → eingearbeitet
+- [x] Sammelwut: was & warum → eingearbeitet
+- [x] Moralischer Kompass, Fremde, Fürsorglich als Nachteil → eingearbeitet
+- [x] Beziehungen, Spieler-Meta → eingearbeitet
+- [x] Fussel & Fiona → eingearbeitet
+- [ ] Familie & Herkunft *(Melli denkt noch drüber nach)*
+- [ ] Kuresis Stab Fähigkeiten *(kommt später)*
+- [ ] Fiona: Was genau ist ein Blumendrachling? *(kommt später)*
 
 ---
 

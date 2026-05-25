@@ -11,6 +11,10 @@ publish: false
 
 Basierend auf dem ausgefüllten Fragebogen. Enthält am Ende auch Fragen zu [[Fussel]] und [[Fiona (Blumendrachling)|Fiona]].
 
+> [!info] Status: Beantwortet (2026-05-25)
+> Alle Fragen wurden mit Melli durchgegangen und in [[Charaktere/Helden/Sethos Gang/Amila]] eingearbeitet.
+> Noch offen: Familie & Herkunft (Melli denkt noch drüber nach), Kuresis Stab Fähigkeiten (kommt später), Fiona Natur/Größe (kommt später).
+
 ---
 
 ## Herkunft & Kuresi
