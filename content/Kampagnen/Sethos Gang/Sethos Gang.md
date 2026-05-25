@@ -93,7 +93,22 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 
 ## Spieltage
 
+### GM-Spieltage (Vorbereitung & Protokoll)
+
 1. [[Spieltag 001 - Der Weg zur Quelle]] — 29.03.26 (gespielt)
+
+### Spieler-Chroniken (Tagebuch der Helden — Abenteuer 012)
+
+- [[Chronik 001 - Neithas Ankunft und die Insel der Nebel]] — 12.11.23
+- [[Chronik 002 - Rak und die Gaben der Phearie]] — 16.12.23
+- [[Chronik 003 - Bootsreise und die Gauhauptstadt]] — 25.05.24
+- [[Chronik 004 - Die verwandelte Priesterin]] — 19.10.24
+- [[Chronik 005 - Der Lich und die Befreiung der Gau]] — 29.12.24
+- [[Chronik 006 - Rueckkehr und Nachforschungen]] — 30.12.24
+- [[Chronik 007 - Geheimbuende in U'Maat-Reka]] — 31.12.24
+- [[Chronik 008 - Betreten des Neith-Tempels]] — 27.07.25
+- [[Chronik 009 - Tempel der Neith und der vergiftete Bruder]] — 16.11.25
+- [[Chronik 010 - Vorbereitung des Hinterhalts]] — 29.03.26
 
 ## Notizen
 

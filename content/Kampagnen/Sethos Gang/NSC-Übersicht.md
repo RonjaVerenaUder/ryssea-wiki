@@ -27,6 +27,7 @@ Schnellreferenz für alle NSCs der Kampagne. NSCs mit eigener Notiz im Vault sin
 | Massif | Hauptmann der Horusgarde |
 | Neferti | Bastet-Priesterin |
 | Rak-Chepre | *(s. GM-Wissen)* |
+| Am-Ken'Rei | Hohepriester der Garnison in Aziza |
 | Tahorti | Hauptmann der Sethos-Garde |
 | Tazeth'na | Zwilling; Seth-Hohepriester, Anführer Sethgarde |
 | Tseth'Kani | Zwilling; Seth-Hohepriester, Anführer Sethgarde |
@@ -130,6 +131,39 @@ Schnellreferenz für alle NSCs der Kampagne. NSCs mit eigener Notiz im Vault sin
 | Tuja-Reka | Frau von [[Rehotep]] |
 | Macha-Nebi | Stv. Geheimdienstleiterin; im Dienst von Mes'Atemu |
 | Meratum | Kampfmagier |
+
+**Familie von [[Neitha]] (Anwesen außerhalb der Stadt)**
+
+| Name | Rolle |
+|------|-------|
+| [[Jumoke]] | Vater von Neitha; Großmeister des [[Zeitgeheimbund]]s |
+| Nabirye-nebt-Neith | Mutter von Neitha; Anführerin des [[Neith-Geheimbund]]s |
+| Neishem-is-maut | Großmutter von Neitha; Mitglied des [[Neith-Geheimbund]]s |
+| Nuru-Anasch | Älterer Bruder von Neitha; Kavallerie-Offizier |
+| [[Amenei]] | Älterer Bruder von Neitha; vergifteter Gefangener der Horus-Delegation |
+| Leina | Köchin der Familie; "zweite Mutter" von Neitha |
+
+## Tempel der Neith (nahe U'Maat-Reka)
+*Verlassene Tempelanlage; seit ~60 Jahren entweiht. Vgl. [[Tempel der Neith]].*
+
+**Wacheinheit** *(strafversetzt)*
+
+| Name | Rolle |
+|------|-------|
+| Azim | Anführer der Wacheinheit |
+| Kobesch | Stellvertreter, Truppenmagier |
+| Citi | Soldatin; Neitha sympathisch |
+| + 3 weitere | Namentlich unbekannt |
+
+---
+
+## Gauhauptstadt (Provinz auf dem Weg nach U'Maat-Reka)
+*Name noch unbekannt. Vgl. [[Abenteuer 012 - Der Weg zur Quelle]].*
+
+| Name | Rolle |
+|------|-------|
+| Nabirye | Ehemalige Gauleiterin; in okkulte Machenschaften verstrickt |
+| Marka | Kontakt der Diebesgilde; traf sich mit Amila und Horem im *Klapprigen Krokodil* |
 
 ---
 

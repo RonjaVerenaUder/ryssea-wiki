@@ -7,6 +7,7 @@ tags: [meta]
 ## Offene TODOs
 
 ### Vault-Struktur & Pflege
+- [ ] **00 Index anlegen** — Zentraler Einstiegspunkt existiert noch nicht; alle MOC-Links sammeln
 - [ ] Cheyannin überarbeiten — von Völker/ nach Fraktionen/ verschieben (`typ: orden`), ist ein Phaerie-Orden, nicht ein Volk. Wichtige fehlende Infos ergänzen (Ronja hat noch Input)
 - [ ] Publish-Workflow: ~80 Notizen in [[Publish-Status]] Stück für Stück durchgehen und für die Website freigeben
 - [ ] Kanon-Review: Entwürfe nach und nach durchgehen und auf `status: fertig` setzen — Übersicht in [[Meta/Kanon-Status]]
@@ -22,7 +23,8 @@ tags: [meta]
 - [ ] Baryia: Fehlende Namen klären (großer Fluss, Vulkangebirge, Krater)
 
 ### Kampagnen
-- [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen
+- [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen (Abenteuer 001–011 noch offen; 012 ist befüllt)
+- [ ] Sethos Gang: Gauhauptstadt auf dem Weg nach U'Maat-Reka — Name vergeben und Ort-Notiz anlegen (bisher Platzhalter in NSC-Übersicht)
 - [ ] Nebelkinder: Abenteuer-Notizen mit Abenteuer-Template aktualisieren
 - [x] Team Synfathia: Spielertagebuch "Staub und Sterne" einpflegen (14 Spieltage)
 - [ ] Team Synfathia: Rhiannoc als SC-Notiz anlegen (Infos von Ronja ausstehend)
