@@ -81,8 +81,10 @@ Offene Fragen für die Spieler — zur Ergänzung der Heldennotizen. Erledigte F
 
 ---
 
-## Ruka — [[Neitha]]
+## Ruka — [[Neitha]] ✓ (beantwortet 2026-05-25)
 
-- [ ] Portalamulett: Herkunft und Fähigkeiten?
-- [ ] Gebundener Dolch: Wessen Dolch, was macht ihn besonders?
-- [ ] Erste Eindrücke von den anderen Gruppenmitgliedern (Tak, Horem, Amila, Kamaleon)?
+- [x] Neith: Aspekte, Liebling, Tanz, Eismagie → eingearbeitet
+- [x] Familie: Statusverlust, Ausbildung, Brüder, Leina → eingearbeitet
+- [x] Befehlsverweigerung + Strafversetzung → eingearbeitet
+- [x] Portalamulett + gebundener Dolch → eingearbeitet
+- [x] Beziehungen, Mes'Atemu, Persönlichkeits-Details → eingearbeitet
