@@ -49,18 +49,37 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 |         | [[Horem]]  | [[Menschen\|Bariyaner]]  | Agent, Chronomancer, Paladin, Medium                               |
 |         | [[Neitha]]   | [[Menschen\|Bariyaner]]  | Offizier der [[Horusgarde]], Geweihte der [[Neith]], Eismagie      |
 
+## Ehemalige Spielercharaktere
+
+| Spieler | Charakter | Volk | Austrittsgrund |
+| ------- | --------- | ---- | -------------- |
+| Sarah   | [[Ainur]] | [[Zentauren]] | Spielerin gewechselt zu Team Synfathia |
+|         | [[Ziglaus]] | [[Shar'nei]] | Spieler umgezogen |
+
 ## Abenteuer
 
-1. [[Missing Cat]] — Die verschwundene Katze (abgeschlossen)
-2. [[Abenteuer - Der Weg zur Quelle]] — (aktiv)
+1. [[Abenteuer 001 - Missing Cat|Missing Cat]] — Die verschwundene Katze *(abgeschlossen)*
+2. [[Abenteuer 002 - Weg der Späher]] — Weg der Späher *(abgeschlossen)*
+3. [[Abenteuer 003 - Gift des Skorpions]] — Gift des Skorpions *(abgeschlossen)*
+4. [[Abenteuer 004 - Schlacht um Bech'Amet]] — Schlacht um Bech'Amet *(abgeschlossen)*
+5. [[Abenteuer 005 - Reise nach Aziza]] — Reise nach Aziza *(abgeschlossen)*
+6. [[Abenteuer 006 - Pyramide des Chepreh]] — Pyramide des Chepreh *(abgeschlossen)*
+7. [[Abenteuer 007 - Grabmahl von TonRenAmen]] — Grabmahl von TonRenAmen *(abgeschlossen)*
+8. [[Abenteuer 008a - Prinzliche Post]] — Der Auftrag: Prinzliche Post *(abgeschlossen)*
+9. [[Abenteuer 008b - Zwischenstopp Nepcatennu]] — Der Auftrag: Zwischenstopp Nepcatennu *(abgeschlossen)*
+10. [[Abenteuer 009 - Das Dorf Abaki]] — Das Dorf Abaki *(abgeschlossen)*
+11. [[Abenteuer 010a - Ankunft in Karasim]] — Die Befreiung Karasims: Ankunft in Karasim *(abgeschlossen)*
+12. [[Abenteuer 010b - Operation Wiedereingliederung]] — Die Befreiung Karasims: Operation Wiedereingliederung *(abgeschlossen)*
+13. [[Abenteuer 011 - Der Prinz der Schmetterlinge]] — Der Prinz der Schmetterlinge *(abgeschlossen)*
+14. [[Abenteuer 012 - Der Weg zur Quelle]] — Der Weg zur Quelle *(aktiv)*
 
 ## Aktive Plotfäden
 
-- [[Einfluss von Kaarsi]] — Unterwanderung durch Golem-Herzen (Hauptplot)
-- [[Krieg Baryia vs Taskasia]] — eskaliert, Karasim gefallen
-- [[Verschollener Pharao]] — Rehotep auf Expedition verschwunden
-- [[Seuche der Landweber]] — Kaarsi-Priesterschaft experimentiert mit der alten Seuche
-- [[Webtore]] — Deaktivierte Tore in Tempeln, Aktivierung durch Cheprehs Buch
+- [[Einfluss von Kaarsi]] — Hauptplot; Kaarsi-Armee bei Bech'Amet zurückgeschlagen; Schattenmagier entkommen; Golem-Herzen-Mechanik bekannt und Gegenmaßnahme (Verbrennen) etabliert
+- [[Krieg Baryia vs Taskasia]] — Kaarsi-Armee greift offen an; Karasim weiterhin gefallen
+- [[Verschollener Pharao]] — Rehotep weiter verschollen; [[Mes'Atemu]] agiert zunehmend eigenmächtig als Regent
+- [[Seuche der Landweber]] — Akute Bedrohung: Sethos hat seine Landweber-Fähigkeiten offen eingesetzt (Disharmonie-Wahrnehmung, Schattenreinigung) — er ist jetzt ein aktives Ziel
+- [[Webtore]] — Neuentwicklung: Cheprehs Mumie (Empathie/Persönlichkeits-Teil) von Sethos aus Bech'Amet geborgen; Rückführung nach Aziza als nächster Schritt
 
 ## Verknüpfungen
 
@@ -78,5 +97,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 
 ## Notizen
 
-- Takanshur als Kore-Priester ist ein direkter Kanal zur wahren Geschichte
-- Sethos als möglicher Landweber und letzter der Blutlinie — Schlüssel zu Cheprehs Prophezeiung
+- Tak als Kore-Priester ist ein direkter Kanal zur wahren Geschichte; hat Blut-Eid auf Sethos geschworen (ab Abenteuer 004)
+- Sethos hat seine Landweber-Fähigkeiten erstmals aktiv eingesetzt — offiziell kein Landweber, aber die Fähigkeiten sind real
+- Sethos ist der letzte Nachkomme der alten Blutlinie von [[Ram'Aches]] — Schlüssel zu Cheprehs Prophezeiung
+- [[Mes'Atemu]] als wachsender interner Antagonist beobachten

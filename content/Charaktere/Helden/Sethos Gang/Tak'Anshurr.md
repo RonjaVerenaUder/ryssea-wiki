@@ -136,21 +136,29 @@ Tak kämpft mit Katzenkrallen im Nahkampf (Handgemenge), mit Speeren und kleinen
 
 ### Zur Gruppe
 
-- **[[Sethos]]** — Der Gottgesandte, dem Tak dient. Tak würde sein Leben für ihn geben.
-
-<!-- Weitere Beziehungen aus Spieltagen ergänzen -->
+- **[[Sethos]]** — Gottgesandter, dem Tak durch Blut-Eid ewige Treue geschworen hat. Tak folgte ihm ursprünglich aus Respekt vor seiner Integrität; nach Sethos' Tod und Rückkehr durch Kore ist daraus religiöse Überzeugung geworden. "Dieser Mensch wurde zurückgesendet, weil er noch etwas zum Willen Kores beizutragen hat."
+- **[[Neomi]]** — Unzertrennliche Gefährtin; schwor den Blut-Eid gemeinsam mit Tak. Neomi erkannte Sethos' göttliche Bedeutung sogar früher als Tak.
+- **[[Ainur]]** — Kämpfte Seite an Seite in der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]; Tak bewundert ihre absolute Furchtlosigkeit und bedingungslose Loyalität gegenüber Sethos.
 
 ### Zu NPCs
 
 - **Das Rudel** — Taks Familie im [[Panthaura-Dschungel]]
+- **[[Mes'Atemu]]** — Tief skeptisch. Wollte ihn nach der Schlacht töten, als er Sethos' Leibwache entzog; respektiert Sethos' Entscheidung dagegen, versteht sie aber nicht.
 
 ## Charakterentwicklung
 
-<!-- Wird fortlaufend ergänzt -->
+**Reluctanter Beobachter → Ewiger Gefährte** (Abenteuer 003–004)
+
+Tak betrat die Menschenwelt als neugieriger Außenseiter — fasziniert von der Fremdheit, aber überzeugt von seiner eigenen Überlegenheit. Sethos war der erste Mensch, der ihn nicht als Bedrohung behandelte, sondern als Gleichwertigen um Hilfe bat. Das weckte Respekt.
+
+In der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]] erlebte Tak dann etwas Beispielloses: Sethos starb, und [[Korellian|Kore]] — Taks eigener Gott — erschien ihm auf dem Weg zur Totenwaage und schickte ihn zurück. Für einen Kore-Priester ist das kein Zufall, das ist göttlicher Auftrag. Tak schwor daraufhin mit [[Neomi]] einen Blut-Eid: Sethos zu schützen, solange dieser dem gesegneten Weg folgt.
+
+Diese zwei Abenteuer definierten Taks gesamte Rolle in der Kampagne: nicht ein Begleiter aus Sympathie, sondern ein Wächter aus göttlicher Überzeugung.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 003 - Gift des Skorpions|Gift des Skorpions]]** — Erster Kontakt mit Sethos: kulturelles Missverständnis (Pferd), dann Vergiftung von [[Mes'Atemu]]. Tak identifiziert das Gift am Geruch. Sethos behandelt ihn als Gleichwertigen und bittet ihn um Hilfe — das ist der Moment, in dem Tak beschließt, freiwillig mitzugehen. Führte die Expedition in den Panthaura-Dschungel; markierte seinen Körper und den der Begleiter mit dem Panthaura-Schutz-Symbol.
+- **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Erste große Feldschlacht an der Seite von Menschen. Kämpfte mit [[Neomi]] Rücken an Rücken; jagte den Kaarsi-Schattenmagier (entkam). Erlebte Sethos' Tod und die Rückkehr durch Kore. Schwor daraufhin mit Neomi den Blut-Eid auf Sethos — der definierende Moment seiner Kampagnenzugehörigkeit.
 
 ## Notizen
 

@@ -4,7 +4,7 @@ typ: plot
 status: aktiv
 kampagne: "[[Sethos Gang]]"
 priorität: mittel
-eingeführt_in: "[[Spieltag 001]]"
+eingeführt_in: "[[Spieltag 001 - Der Weg zur Quelle]]"
 publish: true
 ---
 
@@ -41,7 +41,8 @@ In alten Tempeln existieren deaktivierte Webtore — magische Portale die einst 
 
 ## Fortschritt
 
-- [[Spieltag 001]] — Webtor im Tempel der Neith entdeckt, Aktivierung als Option identifiziert
+- [[Spieltag 001 - Der Weg zur Quelle]] — Webtor im Tempel der Neith entdeckt, Aktivierung als Option identifiziert
+- [[Abenteuer 004 - Schlacht um Bech'Amet]] — **Schlüsselentwicklung:** Cheprehs Mumie (Empathie/Persönlichkeits-Teil) wurde von Sethos aus Bech'Amet geborgen und gereinigt. Rückführung nach [[Aziza]] als nächster Schritt → direkter Weg zu Cheprehs Wissen und der Aktivierungssequenz der Webtore.
 
 > [!warning]- Spoiler: Nächste Entwicklungen
 > - Die Tore bleiben inaktiv

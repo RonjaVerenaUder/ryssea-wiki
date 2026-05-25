@@ -32,4 +32,8 @@ Sethtier — ein Wesen das dem Gott Seth zugeordnet ist.
 
 - [[Sethos]] — Sein Vertrauter/Partner
 
+## Wichtige Erlebnisse & Ereignisse
+
+- **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Erster Kampfeinsatz an der Seite von [[Sethos]]; kämpfte gemeinsam gegen das Sand-Schatten-Wesen des Kaarsi-Schattenmagiers. Aus [[Tak'Anshurr|Taks]] Perspektive: "ein Sandtier, das ihn begleitet" — erstes Auftreten aus Spieler-Sicht.
+
 ## Notizen

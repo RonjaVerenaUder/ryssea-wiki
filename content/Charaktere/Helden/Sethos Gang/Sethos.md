@@ -183,7 +183,9 @@ Sethos hält Abstand und deckt den Feind mit Pfeilen oder Magie ein. Das Wichtig
 
 ### Zur Gruppe
 
-Am Anfang kannte Sethos niemanden, aber sie haben inzwischen einiges zusammen durchgestanden.
+- **[[Tak'Anshurr|Tak]]** — Behandelte ihn von Beginn an als Gleichwertigen, nicht als Bedrohung. Bat ihn um Hilfe statt ihn zu befehlen. Tak hat daraufhin einen Blut-Eid auf Sethos geschworen — Sethos hat damit einen Wächter gewonnen, der aus göttlicher Überzeugung kämpft, nicht aus Pflicht.
+- **[[Neomi]]** — Teil des Eids; bewachte ihn nach seinem Tod die ganze Nacht.
+- **[[Ainur]]** — Blieb als Einzige an seiner Seite als [[Mes'Atemu]] ihm den Schutz entzog. Ihre Loyalität gilt der Person Sethos, nicht dem Amt.
 
 ### Zu NPCs
 - **[[Rehotep]]** — Vater und Pharao. Derzeit verschollen.
@@ -192,14 +194,15 @@ Am Anfang kannte Sethos niemanden, aber sie haben inzwischen einiges zusammen du
 
 ## Charakterentwicklung
 
-Sethos fiel in einer Schlacht und wurde durch ein Eingreifen von Seth wiederbelebt. Dabei verlor er seine Hand — Seth schenkte ihm eine magische Ersatzhand aus Sand (die Sandhand). Dieses Erlebnis hat ihn gezeichnet.
+Sethos fiel in der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]] und wurde zurückgeholt. Dabei verlor er seine Hand — Seth schenkte ihm die Sandhand. Dieses Erlebnis hat ihn gezeichnet.
 
 > [!danger]- GM-Wissen: Tod und Wiederbelebung
 > Seth hat einen Deal mit Anubis gemacht, um Sethos zurückzuholen. Seth wusste zu diesem Zeitpunkt bereits von Sethos' Landweber-Fähigkeiten und wie wichtig er für das Land ist. Die Gruppe war bei Sethos' Tod dabei, aber dass Seth dafür einen Deal mit Anubis eingehen musste, weiß niemand — Seth hat dazu nichts gesagt, auch nicht was der Deal beinhaltet hat.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **Tod und Wiederbelebung:** Fiel in einer Schlacht, wurde zurückgeholt. Verlor dabei seine Hand → Sandhand.
+- **[[Abenteuer 003 - Gift des Skorpions|Gift des Skorpions]]** — Erstkontakt mit [[Tak'Anshurr|Tak]]; führte die Expedition in den Panthaura-Dschungel um das Gegengift für [[Mes'Atemu]] zu beschaffen.
+- **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Führte die Verteidigung von [[Bech'Amet]] gegen eine Kaarsi-Armee. Fiel im Kampf — Von einem Kaarsi Dämon getötet. Seth machte einen Deal mit Anubis und schickte ihn zurück; verlor dabei seine Hand, Seth schenkte ihm die Sandhand. Entdeckte und barg die verschollene Mumie von [[Chepreh]]. [[Resul]] kämpfte zum ersten Mal an seiner Seite. [[Tak'Anshurr|Tak]] und [[Neomi]] schworen daraufhin ihren Blut-Eid.
 
 <!-- Wird fortlaufend aus Session-Notizen ergänzt -->
 

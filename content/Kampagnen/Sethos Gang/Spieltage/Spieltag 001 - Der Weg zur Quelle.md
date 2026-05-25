@@ -2,7 +2,7 @@
 tags: [spieltag]
 typ: spieltag
 kampagne: "[[Sethos Gang]]"
-abenteuer: "[[Abenteuer - Der Weg zur Quelle]]"
+abenteuer: "[[Abenteuer 012 - Der Weg zur Quelle]]"
 datum_gespielt: 2026-03-29
 ingame_datum: ""
 orte: ["[[Baryia (Reich)]]", "[[Tempel der Neith]]"]
