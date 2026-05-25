@@ -11,6 +11,10 @@ publish: false
 
 Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die noch dünn waren oder wo spannende Anknüpfungspunkte für die Kampagne liegen. Enthält am Ende auch Fragen zu [[Neomi]].
 
+> [!info] Status: Beantwortet (2026-05-25)
+> Alle Fragen wurden mit Christian durchgegangen und in [[Charaktere/Helden/Sethos Gang/Tak'Anshurr]] eingearbeitet.
+> Noch offen: Kores Auge Regelwerte, Stil des Wächters Regelwerte, Gottkind Regelwerte (alles Regelklärungen ausstehend).
+
 ---
 
 ## Herkunft & Der Dschungel

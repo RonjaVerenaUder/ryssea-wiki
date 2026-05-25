@@ -34,17 +34,15 @@ lebendig: true
 
 ## Aussehen
 
-Blauschwarzes Fell mit einem silbernen Mal um das linke Auge.
-
-<!-- TODO: Statur, Kleidung, weitere Details -->
+Tak ist ein Panthaura mit blauschwarzem Fell und einem silbernen Mal um das linke Auge. Er ist für seine Verhältnisse kräftig gebaut, die Körpersprache die eines geborenen Raubtiers.
 
 ### Erster Eindruck
 
-<!-- TODO -->
+Tak löst bei Menschen fast immer eine leichte Furchtreaktion aus — selbst bei solchen, die Panthaura kennen. Eine Mischung aus Ungläubigkeit, Ehrfurcht und, bei zu großer Nähe, offenem Erschrecken. Ob es am Raubtiergeruch liegt oder einfach an der Fremdartigkeit, ist ihm selbst nicht ganz klar.
 
 ### Sprechweise
 
-<!-- TODO -->
+Tak spricht nur wenn er etwas zu sagen hat — knapp, manchmal einsilbig. Sethos gegenüber ist er offen und direkt, äußert seine Meinung auch wenn sie unbequem ist, respektiert aber das letzte Wort. Fremden gegenüber spricht er so gut wie gar nicht, außer es ist unbedingt nötig. Menschen die er nach und nach kennenlernt öffnet er sich nur auf Frage — er erzählt nichts von sich aus, antwortet aber ehrlich und stellt Fragen wenn er Informationen braucht.
 
 ### Weltwissen
 
@@ -59,14 +57,16 @@ Taks Wissen ist praktisch und naturverbunden. In Schriften, menschlichen Kulture
 - **Größter Wunsch:** Dem Gottgesandten [[Sethos]] helfen, die Welt im Einklang zu halten
 - **Größte Angst:** [[Korellian|Kore]] gleichgültig zu werden, den Dschungel nicht wiederzusehen, [[Sethos]] zu verlieren
 - **Moralischer Kompass:** Moralkodex und Verpflichtungen gegenüber [[Korellian|Kore]]
-- **Fremden gegenüber:** <!-- TODO -->
-- **Wert des Lebens:** <!-- TODO -->
+- **Fremden gegenüber:** Kaum ein Wort — beobachtet, wartet, spricht nur wenn nötig.
+- **Wert des Lebens:** Leben ist grenzenlos schützenswert — auch der Tod dient dem Kreislauf. Im Kampf geht es ums Überwältigen, nicht ums Töten. Wer flieht, darf fliehen. Ausnahme: wer auf gesegneten Pfaden wandelt (vor allem Sethos), dem gebührt aktiver Schutz über alle anderen.
 
 ## Familie & Herkunft
 
-Taks Familie ist das Rudel. Er stammt aus dem [[Panthaura-Dschungel]] und kommt von der [[Große Goldene Pyramide|Goldenen Pyramide]] — dem heiligen Ort der [[Panthaura (Volk)|Panthaura]]. Als heiliger Beschützer des Dschungels dient er [[Korellian|Kore]].
+Taks Familie ist das Rudel. Er stammt aus dem [[Panthaura-Dschungel]] und kommt von der [[Große Goldene Pyramide|Goldenen Pyramide]] — dem absoluten Lebensmittelpunkt der [[Panthaura (Volk)|Panthaura]]-Kultur. Dort geboren und mit dem Rudel aufgewachsen, entwickelte er früh einen starken Beschützerinstinkt, der ihn zur Krieger- und Priesterkaste führte.
 
-<!-- TODO: Details zum Rudel, Aufwachsen, wie kam er zu Sethos? -->
+Die Panthaura sind sehr territorial. In die Menschenwelt ging Tak aus schierer Neugier und strategischem Kalkül: Er wollte verstehen, wie andere Kulturen funktionieren, welche Gefahren für das Rudel von außen drohen, und wie sich menschliche Armeen im Kampf verhalten. Was er lernen wollte, hat er in vollem Maß bekommen — und dabei [[Sethos]] getroffen.
+
+Er hofft, die Goldene Pyramide irgendwann wiederzusehen. Im Moment folgt er Kores Willen auf einem anderen Pfad.
 
 ## Wichtige Fähigkeiten & Vorteile
 
@@ -105,14 +105,15 @@ Taks Familie ist das Rudel. Er stammt aus dem [[Panthaura-Dschungel]] und kommt 
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
 
 ### Kores Auge
-<!-- TODO: Details — was kann es, wie funktioniert es? -->
+Tak erhielt Kores Auge als direkte Gabe, nachdem er Kore fragte wie er Sethos besser beschützen könne. Es ist für ihn vor allem Symbol: Bestätigung dass er auf dem richtigen Pfad ist, und Zeichen der persönlichen Nähe zu seinem Gott. Das Wahrnehmen mit dem Auge war anfangs anstrengend — mittlerweile trägt er es mit Stolz.
+<!-- TODO: Regelwerte -->
 
 ### Stil des Wächters
-<!-- TODO: Details — Kampfstil? Besondere Manöver? -->
+<!-- TODO: Details — Kampfstil, besondere Manöver -->
 
 ### Gottkind (Kore)
-Tak kann die Form eines Panthers annehmen — ein Geschenk von [[Korellian|Kore]].
-<!-- TODO: Details — Einschränkungen, Dauer, Fähigkeiten in Pantherform -->
+Tak kann die Form eines Panthers annehmen — ein Geschenk von [[Korellian|Kore]] und Zeichen seiner besonderen Abstammung. Nicht alle Panthaura besitzen diese Fähigkeit; nur wenige Auserwählte innerhalb der Priesterkaste können die ursprüngliche Form Kores annehmen. Diese Gottkinder bilden zusammen mit ihren Panther-Vertrauten besondere "Hüter"-Paare — Wächter, Ratgeber, Krieger — die dem Dschungel und Kore besonders nahe stehen. Taks Gottkind-Status ist für ihn weitere Bestätigung, dass Kore von Anfang an Pläne mit ihm hatte.
+<!-- TODO: Regelwerte -->
 
 ## Begleiter & Vertraute
 
@@ -120,9 +121,27 @@ Tak kann die Form eines Panthers annehmen — ein Geschenk von [[Korellian|Kore]
 
 Vernunftbegabter Vertrauter — eine erwachte Pantherdame, "lieblicher Schatten des Dschungels". Neomi ist fast genauso sehr Charakter wie Tak selbst und wird von Christian gleichberechtigt gespielt. Die beiden sind unzertrennlich.
 
+**Aussehen:** Etwas größer als ein normaler Panther, geschmeidig und elegant. Blauschwarzes Fell das in der Sonne glänzt, grünliche Augen. Strahlt Eleganz aus — und für ein erwachtes Tier eine außergewöhnliche Intelligenz.
+
+**Persönlichkeit:** Sie und Tak sind eine Einheit, streiten selten. Neomi spürt früher als Tak wenn Dinge wichtig werden, findet sich in der Menschenwelt schneller zurecht und ist insgesamt weltoffener — Tak ist ein bisschen stur, Neomi weniger. Hat einen wunderbaren Humor für eine Großkatze. Liebt Familienrudel und Kinder.
+
+**Eigene Wünsche:** Vollständig einverstanden mit dem gemeinsamen Weg an Sethos' Seite. Möchte irgendwann Kinder — aber nicht solange sie noch gebunden sind. Vermisst den Dschungel, auch wenn sie unter Menschen gut zurechtkommt.
+
+**Kommunikation:** Telepathisch mit Tak (Bilder, Sprache, Eindrücke). Mit anderen: Tierlaute und Gerüche. Versteht Menschen fast aufs Wort, kann aber als Tier nicht antworten. Könnte theoretisch Menschenform annehmen — tut es nicht.
+
+**Herkunft:** Tak und Neomi lernten sich kennen als er in Pantherform durch den Dschungel streifte. Sie spielten, neckten sich, jagten einander. Als er sich als Panthaura zu erkennen gab, war ihr das vollkommen egal — einer der Gründe warum sie sich so gut verstehen: Sie lieben sich wie sie sind.
+
 ## Glaube & Magie
 
-Tak ist [[Korellian|Kore]] verschrieben — dem einzigen alten Gott, der noch im bariyaner Pantheon sitzt. Als Kore-Priester mit erhöhter Weihe und Liebling der Gottheit hat Tak einen direkten Draht zu seinem Gott. Seine größte Angst ist es, Kore gleichgültig zu werden.
+Tak ist [[Korellian|Kore]] verschrieben — dem einzigen alten Gott, der noch im bariyaner Pantheon sitzt.
+
+**Entwicklung des Kontakts:** Als Kind sah er Kore gelegentlich an der Pyramide — Ehrfurcht, Dankbarkeit, Distanz. In der späten Jugend begannen Visionen: Kore erschien in Träumen, Tak sah Schatten im Dschungel und wollte ihnen folgen, war der Einzige der das erlebte — was ihn ein bisschen eigenbrötlerisch und "verrückt" wirken ließ. Im Erwachsenenalter verdichtete sich der Kontakt zu 2-3 echten Erscheinungen, die über Traumvisionen deutlich hinausgingen: Kore schenkte ihm das Auge als Antwort auf eine direkte Bitte, gab ihm den Baum in [[Aziza]], und hat ihn durch weitere Visionen geleitet. Kore sprach dabei auch klar aus was er von Tak erwartet — einschließlich der direkten Aufforderung, sein Schicksal zu akzeptieren statt sich dagegen zu sperren.
+
+**Die Gottkind-Erkenntnis:** Die Enthüllung dass Tak ein direkter Nachkomme Kores ist, hat sein Weltbild erschüttert — der göttliche Status rückte plötzlich näher ans Familienbild heran. Das war kurz desorientierend; mittlerweile kommt er gut damit klar.
+
+**Kore gleichgültig werden:** Taks größte Angst — aber er hat keine konkreten Vorstellungen was sie auslösen könnte. Sollte es je so weit kommen: Er würde zuerst den Blut-Eid an Sethos erfüllen und dann den Rest seines Lebens damit verbringen, Kores Aufmerksamkeit wieder zu erlangen.
+
+Als Kore-Priester mit erhöhter Weihe und Liebling der Gottheit hat Tak einen direkten Draht zu seinem Gott — einen der sich über die Jahre immer mehr vertieft hat.
 
 ## Kampfverhalten
 
@@ -130,15 +149,19 @@ Tak kämpft mit Katzenkrallen im Nahkampf (Handgemenge), mit Speeren und kleinen
 
 **Kampfrolle:** Frontlinie und Schadensausteiler — natürliche Waffen und göttliche Kräfte.
 
-**Soziale Rolle:** <!-- TODO -->
+**Soziale Rolle:** Beschützer — aber einer der Schwierigkeiten hat, Sethos in Menschenmassen zu schützen, weil sein Instinkt ist alle Fremden fernzuhalten, notfalls mit Gewalt. Diese Lücke füllt [[Neitha]].
 
 ## Beziehungen
 
 ### Zur Gruppe
 
-- **[[Sethos]]** — Gottgesandter, dem Tak durch Blut-Eid ewige Treue geschworen hat. Tak folgte ihm ursprünglich aus Respekt vor seiner Integrität; nach Sethos' Tod und Rückkehr durch Kore ist daraus religiöse Überzeugung geworden. "Dieser Mensch wurde zurückgesendet, weil er noch etwas zum Willen Kores beizutragen hat."
+- **[[Sethos]]** — Began als Paradebeispiel für das was Tak lernen wollte: wie Menschen im Verbund funktionieren, wie Armeen sich bewegen. Als Sethos zum Gottgesandten wurde, entschied Tak sofort zu bleiben und zu helfen. Aus diesem Entschluss ist eine enge Freundschaft geworden. Tak ist Sethos gegenüber völlig offen, widerspricht wenn nötig, respektiert aber jede Entscheidung — auch Befehle in Dingen die er nicht versteht. Sethos ist für Tak absolute Autorität, direkt nach Kore.
 - **[[Neomi]]** — Unzertrennliche Gefährtin; schwor den Blut-Eid gemeinsam mit Tak. Neomi erkannte Sethos' göttliche Bedeutung sogar früher als Tak.
 - **[[Ainur]]** — Kämpfte Seite an Seite in der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]; Tak bewundert ihre absolute Furchtlosigkeit und bedingungslose Loyalität gegenüber Sethos.
+- **[[Horem]]** — Taks Welt von Heimlichkeit, Spionage und Informationsbeschaffung ist ihm fremd. Aber er hat gelernt dass es für Sethos unbedingt notwendig ist — bei so vielen Menschen kann man unmöglich alleine den Überblick behalten. Horem ist für ihn ein extrem wichtiger Ratgeber für Sethos.
+- **[[Amila]]** — Beste Freundin von Neomi. Damit Familie.
+- **[[Kamaleon|Kama]]** — Ähnliche Gottestreue, ähnliche Grundwerte. Sie haben sich als Kampfgefährten bewährt; daraus wächst eine echte Freundschaft.
+- **[[Neitha]]** — Die perfekte Ergänzung für das was Tak nicht leisten kann: Sethos in der Menschenwelt beschützen ohne Aufsehen zu erregen. Neitha kennt Etikette, versteht Menschenmengen, und übernimmt die Wächterrolle auf die Art wie sie gedacht war.
 
 ### Zu NPCs
 
@@ -163,13 +186,13 @@ Diese zwei Abenteuer definierten Taks gesamte Rolle in der Kampagne: nicht ein B
 ## Notizen
 
 - Kore-Priester mit direktem Kanal zur wahren Geschichte (siehe Kampagnen-Notiz)
-- Gottkind: kann Pantherform annehmen
-- Kores Auge — besondere Fähigkeit, Details offen
-- Wahrer Name als Nachteil — Name ist ein Geheimnis/Schwachpunkt
-- Erhöhter Nahrungsbedarf — Panthaura-spezifisch?
+- Gottkind: kann Pantherform annehmen — gehört zu den wenigen Hüter-Paaren der Priesterkaste
+- Kores Auge — Regelwerte noch offen
+- Wahrer Name: "Tak'Anshurr" ist der Symbolname; wahrer Name bedeutet sinngemäß "Klaue die durch die Schatten wandert" — nur Neomi kennt ihn (ihr beim Besiegeln ihrer Verbindung gegeben)
+- Erhöhter Nahrungsbedarf — Panthaura-spezifisch
 - Christian spielt Tak und Neomi gleichberechtigt
 
 > [!info]- Spieler-Meta
 > **Spieler:** Christian
-> **Erhofft sich vom Spiel:** Nicht angegeben
-> **No-Go:** Nicht angegeben
+> **Erhofft sich vom Spiel:** Unkomplizierten Spaß, Action und vor allem epische Momente — klein aber wuchtig. Beispiele: die Gaben-Szene (Tak bekommt nichts), Kores Auge-Vision, die Pyramiden-Szene mit dem Sinnesschärfe-Ausrutscher. Nicht die Länge zählt, sondern der Knall.
+> **No-Go:** Spieler die nach einer GM-Entscheidung weiter blockieren. Diskutieren ist okay, aber wenn der Meister gesprochen hat, geht es weiter.

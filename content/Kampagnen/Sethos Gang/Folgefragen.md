@@ -12,41 +12,34 @@ Offene Fragen für die Spieler — zur Ergänzung der Heldennotizen. Erledigte F
 
 ---
 
-## Christoph — [[Sethos]]
+## Christoph — [[Sethos]] ✓ (beantwortet 2026-05-25)
 
 **Ausrüstung**
-- [ ] Horus-Bogen: Was kann er?
+- [x] Resul: Kommunikation, Persönlichkeit, Vorlieben → eingearbeitet
+- [ ] Horus-Bogen: Was kann er? *(Regelklärung ausstehend)*
 - [ ] PDF-Link zum Heldenbogen nachreichen
 
 **Charakter**
-- [ ] Der Mentor aus dem Seth-Tempel ist verschwunden — was denkt Sethos darüber? Sucht er ihn?
-- [ ] Was ist die brenzligste Geschichte hinter den "nicht so alltäglichen Wagenrennen"?
-
-**[[Resul]]**
-- [ ] Persönlichkeit abseits des Kampfes?
-- [ ] Kommuniziert Resul mit Sethos — Bilder, Gefühle, Worte?
-- [ ] Was mag Resul, was mag er gar nicht?
+- [x] Mentor, Götterbild, Maat, Partyprinz, Aziza, Gerechtigkeitswahn → eingearbeitet
+- [ ] Was ist die brenzligste Geschichte hinter den "nicht so alltäglichen Wagenrennen"? *(kommt aus dem Spiel)*
+- [ ] Militärische Erfahrung: Was hat er konkret geleitet/mitgemacht? *(kommt aus dem Spiel)*
 
 ---
 
-## Christian — [[Tak'Anshurr]] & [[Neomi]]
+## Christian — [[Tak'Anshurr]] & [[Neomi]] ✓ (beantwortet 2026-05-25)
 
-**Tak — Pflicht**
-- [ ] Erster Eindruck: Wie wirkt Tak auf Fremde?
-- [ ] Sprechweise: Wie redet er — kurz, blumig, direkt?
-- [ ] Fremde: Offen, misstrauisch, gleichgültig?
-- [ ] Wert des Lebens: Feinde vs. Unschuldige?
-- [ ] Kores Auge: Was kann es genau?
-- [ ] Stil des Wächters: Spezifische Kampfmanöver?
-- [ ] Gottkind (Panther): Dauer, Einschränkungen?
-- [ ] Wahrer Name: Was hat es damit auf sich — mechanisch oder narrativ?
-- [ ] Wie kam Tak überhaupt aus dem Dschungel raus, bevor er Sethos traf?
-- [ ] Spieler-Meta: Erwartungen und No-Go?
-
-**Neomi**
-- [ ] Aussehen?
-- [ ] Persönlichkeit abseits von "an Taks Seite"?
-- [ ] Hat sie eigene Wünsche oder Ängste, unabhängig von Tak?
+- [x] Herkunft, Dschungel-Abgang, Goldene Pyramide → eingearbeitet
+- [x] Kore-Kontakt: Entwicklung von Kindheit bis Gottkind-Erkenntnis → eingearbeitet
+- [x] Kores Auge: Bedeutung → eingearbeitet
+- [x] Wahrer Name → eingearbeitet
+- [x] Pantherform: Bedeutung, Hüter-Kultur → eingearbeitet
+- [x] Erster Eindruck, Sprechweise, Wert des Lebens → eingearbeitet
+- [x] Beziehungen zur Gruppe → eingearbeitet
+- [x] Spieler-Meta → eingearbeitet
+- [x] Neomi: Aussehen, Persönlichkeit, Wünsche, Kommunikation, Herkunft → eingearbeitet
+- [ ] Kores Auge Regelwerte *(Regelklärung ausstehend)*
+- [ ] Stil des Wächters Regelwerte *(Regelklärung ausstehend)*
+- [ ] Gottkind Regelwerte *(Regelklärung ausstehend)*
 
 ---
 
