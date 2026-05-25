@@ -55,6 +55,11 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 
 ### Sethos Gang
 - [[Charaktere/Helden/Sethos Gang/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)
+- [[Charaktere/Helden/Sethos Gang/Tak'Anshurr|Tak'Anshurr]] — Panthaura, Kore-Priester (Christian)
+- [[Charaktere/Helden/Sethos Gang/Horem|Horem]] — Agent, Chronomancer (Felix)
+- [[Charaktere/Helden/Sethos Gang/Amila|Amila]] — Druidin der Kuresi (Melli)
+- [[Charaktere/Helden/Sethos Gang/Kamaleon|Kamaleon]] — Phaerie-Hohepriester (Flori)
+- [[Charaktere/Helden/Sethos Gang/Neitha|Neitha]] — Horusgardistin, Eismagie (Ruka)
 
 ### Team Synfathia
 - [[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)
