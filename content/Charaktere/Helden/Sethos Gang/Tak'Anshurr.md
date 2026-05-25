@@ -182,6 +182,7 @@ Diese zwei Abenteuer definierten Taks gesamte Rolle in der Kampagne: nicht ein B
 
 - **[[Abenteuer 003 - Gift des Skorpions|Gift des Skorpions]]** — Erster Kontakt mit Sethos: kulturelles Missverständnis (Pferd), dann Vergiftung von [[Mes'Atemu]]. Tak identifiziert das Gift am Geruch. Sethos behandelt ihn als Gleichwertigen und bittet ihn um Hilfe — das ist der Moment, in dem Tak beschließt, freiwillig mitzugehen. Führte die Expedition in den Panthaura-Dschungel; markierte seinen Körper und den der Begleiter mit dem Panthaura-Schutz-Symbol.
 - **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Erste große Feldschlacht an der Seite von Menschen. Kämpfte mit [[Neomi]] Rücken an Rücken; jagte den Kaarsi-Schattenmagier (entkam). Erlebte Sethos' Tod und die Rückkehr durch Kore. Schwor daraufhin mit Neomi den Blut-Eid auf Sethos — der definierende Moment seiner Kampagnenzugehörigkeit.
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Erhielt von [[Rak'Shanvarion|Rak]] eine magische Rüstung als persönliche Gabe; war außerdem Teil der Gruppe die ein [[Portalamulett]] aus [[Chepreh]]s Pyramide erhielt. Rettete gemeinsam mit der Gruppe den Schreiber. Erlebte die Verwandlung durch den [[Verwandlungstalisman]]. Errang im Kampf gegen den Lich eine fünffache Tötung — entscheidend für die Befreiung der Gau. Entdeckte einen Reiter mit einem Brief, der auf [[Amenei]]s Lage als vergifteter Gefangener hinwies.
 
 ## Notizen
 

@@ -134,7 +134,7 @@ Agent und Kämpfer mit Schwerpunkt Anderthalbhänder (25). Kombiniert Nahkampf m
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Recherchierte in der Bibliothek von [[Aziza]] und las sich in die Landweberkrankheit ein. Nahm Kontakt zur Diebesgilde auf und beschaffte Informationen zu den politischen Vorgängen in der Gau. Sicherte Beweise gegen die Gauleiterin. Wurde von [[Jumoke]] — [[Neitha]]s Vater und Großmeister des [[Zeitgeheimbund]]s — persönlich in den Bund rekrutiert. Fertigte Forschungsnotizen zu Gift und Seuche an. Beteiligte sich an der Neubesetzung des Golems.
 
 ## Notizen
 

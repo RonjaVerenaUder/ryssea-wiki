@@ -211,8 +211,7 @@ Sethos fiel in der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet
 
 - **[[Abenteuer 003 - Gift des Skorpions|Gift des Skorpions]]** — Erstkontakt mit [[Tak'Anshurr|Tak]]; führte die Expedition in den Panthaura-Dschungel um das Gegengift für [[Mes'Atemu]] zu beschaffen.
 - **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Führte die Verteidigung von [[Bech'Amet]] gegen eine Kaarsi-Armee. Fiel im Kampf — Von einem Kaarsi Dämon getötet. Seth machte einen Deal mit Anubis und schickte ihn zurück; verlor dabei seine Hand, Seth schenkte ihm die Sandhand. Entdeckte und barg die verschollene Mumie von [[Chepreh]]. [[Resul]] kämpfte zum ersten Mal an seiner Seite. [[Tak'Anshurr|Tak]] und [[Neomi]] schworen daraufhin ihren Blut-Eid.
-
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Erste Falken-Transformation nach einer Vision in der Landwebearena. Unterweisung im Landweben durch [[Rak'Shanvarion|Rak]] (Phearie, blau-weißer Drache) in Aziza; erhielt Portalamulett. Erschuf via Landweben einen [[Kuresi]]-Altar am Fluss für [[Amila]]. Richtete gemeinsam mit Amila in der Gauhauptstadt einen neuen Kuresi-Tempel und den Anubis-Tempel ein. Reiste mit [[Kamaleon|Kama]] auf die Traumebene um eine aus dem Golemherz befreite Seth-Seele zu befragen. Aktivierte das verankerte Portal im [[Tempel der Neith]].
 
 ## Notizen
 

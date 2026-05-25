@@ -191,7 +191,7 @@ Neitha kämpft mit der Glefe als bevorzugte Waffe. Sie kämpft nicht aus dem Hin
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Stieß neu zur Gruppe und wurde als Offizier der [[Horusgarde]] aufgenommen. Begleitete die Gruppe auf die [[Insel der Nebel]] in der [[Traumebene]]. Lernte [[Am-Ken'Rei]] kennen. Verwahrt seitdem den [[Verwandlungstalisman]] der Gruppe. Besuchte ihre Familie in [[U-Maat-Re-Ka]] und erfuhr von der Existenz des [[Neith-Geheimbund]]s; erhielt von ihrem Vater [[Jumoke]] den Auftrag, den entweihten [[Tempel der Neith]] zu untersuchen. Bannte kurz den Golem im Kampf. Identifizierte den vergifteten Gefangenen als ihren Bruder [[Amenei]]. Plant gemeinsam mit der Gruppe einen Hinterhalt und bereitet ein Ritual vor.
 
 ## Notizen
 

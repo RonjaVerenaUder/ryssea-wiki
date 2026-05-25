@@ -160,7 +160,7 @@ Amila ist keine Nahkämpferin — sie ist tollpatschig und körperlich unbegabt.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Litt unter Schreckensträumen die auf Kuresis Leiden hindeuteten. Errichtete via Landweben einen [[Kuresi]]-Altar am Fluss der ihr die Reise auf die [[Insel der Nebel]] in der [[Traumebene]] ermöglichte; fand dort [[Kuresi]] verletzt und päppelte sie gesund. Gab eine Abdeckung aus Schildkrötenpanzer in Auftrag. Traf [[Marka]], Mitglied des [[Neith-Geheimbund]]s in der Gauhauptstadt. Richtete gemeinsam mit [[Sethos]] einen neuen [[Kuresi]]-Tempel in der Gauhauptstadt sowie den Anubis-Tempel ein. Braute das Gegengift für den vergifteten [[Amenei]].
 
 ## Notizen
 
