@@ -7,7 +7,6 @@ tags: [meta]
 ## Offene TODOs
 
 ### Vault-Struktur & Pflege
-- [ ] **00 Index anlegen** — Zentraler Einstiegspunkt existiert noch nicht; alle MOC-Links sammeln
 - [ ] Cheyannin überarbeiten — von Völker/ nach Fraktionen/ verschieben (`typ: orden`), ist ein Phaerie-Orden, nicht ein Volk. Wichtige fehlende Infos ergänzen (Ronja hat noch Input)
 - [ ] Publish-Workflow: ~80 Notizen in [[Publish-Status]] Stück für Stück durchgehen und für die Website freigeben
 - [ ] Kanon-Review: Entwürfe nach und nach durchgehen und auf `status: fertig` setzen — Übersicht in [[Meta/Kanon-Status]]

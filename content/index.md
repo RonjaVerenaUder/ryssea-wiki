@@ -44,6 +44,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 - [[Artefakte/Schattenrüstung|Schattenrüstung]]
 - [[Artefakte/Sechem des Ton-Ren-Anem|Sechem des Ton-Ren-Anem]] — Elementar-Sechem von Sethos
 - [[Artefakte/Sin'an Krondimar|Sin'an Krondimar]] — Waffe von Jashari N'Baaka
+- [[Artefakte/Verwandlungstalisman|Verwandlungstalisman]] — Verwandlungsartefakt; Sethos Gang
 
 ## Charaktere
 
