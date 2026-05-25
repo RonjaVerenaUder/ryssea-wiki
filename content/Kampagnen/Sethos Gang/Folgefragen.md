@@ -43,19 +43,11 @@ Offene Fragen für die Spieler — zur Ergänzung der Heldennotizen. Erledigte F
 
 ---
 
-## Felix — [[Horem]]
+## Felix — [[Horem]] ✓ (beantwortet 2026-05-25)
 
-**Pflicht**
-- [ ] Kerncharakterzüge — 3 Worte?
-- [ ] Was mag er? Was wünscht er sich am meisten?
-- [ ] Für wen arbeitet er als Agent — Organisation, Staat, Auftraggeber?
-- [ ] Moralischer Kompass — wo zieht er die Grenze?
-- [ ] Nichtschläfer — schläft er wirklich nie? Magisch oder biologisch?
-- [ ] Medium — was sieht/hört/erlebt er genau?
-- [ ] Paladin ohne Gott — welchem Gott ist er geweiht?
-- [ ] Spezielle Fähigkeiten und besondere Ausrüstung?
-- [ ] Hintergrund — wie wird man zum Agenten in Baryia?
-- [ ] Spieler-Meta: Erwartungen und No-Go?
+- [x] Agent-Hintergrund (Reich + Zeitorden, angeworben), Persönlichkeit, Wünsche → eingearbeitet
+- [x] Nichtschläfer/Medium/Paladin → eingearbeitet
+- [x] Beziehungen, Spieler-Meta → eingearbeitet
 
 ---
 

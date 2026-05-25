@@ -11,6 +11,9 @@ publish: false
 
 Basierend auf dem ausgefüllten Fragebogen. Diese Fragen füllen die noch offenen Bereiche und vertiefen das was bereits da ist.
 
+> [!info] Status: Beantwortet (2026-05-25)
+> Alle Fragen wurden mit Felix durchgegangen und in [[Charaktere/Helden/Sethos Gang/Horem]] eingearbeitet.
+
 ---
 
 ## Agent — Hintergrund & Auftrag
