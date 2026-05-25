@@ -49,20 +49,20 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 
 ### Nebelkinder
 - [[Charaktere/Helden/Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
-- [[Charaktere/Helden/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
-- [[Charaktere/Helden/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
-- [[Charaktere/Helden/Jharan|Jharan]] — Phaerie-Priester des Amun (Christoph, archiviert)
+- [[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
+- [[Charaktere/Helden/Nebelkinder/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
+- [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] — Phaerie-Priester des Amun (Christoph, archiviert)
 
 ### Sethos Gang
-- [[Charaktere/Helden/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)
+- [[Charaktere/Helden/Sethos Gang/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)
 
 ### Team Synfathia
-- [[Charaktere/Helden/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)
-- [[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion al'Ichilin]] — Phaerie-Priester (Christoph)
-- [[Charaktere/Helden/Jashari N'Baaka|Jashari N'Baaka]] — N'Shkani-Söldnerin (Ruka)
-- [[Charaktere/Helden/Yuliya Astel|Yuliya Astel]] — Dämonin (Felix)
-- [[Charaktere/Helden/Kaito|Kaito]] — Kyulie (Lukas)
-- [[Charaktere/Helden/Theobald von Braunsfurt|Theobald von Braunsfurt]] — Adliger (Christian)
+- [[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)
+- [[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion al'Ichilin]] — Phaerie-Priester (Christoph)
+- [[Charaktere/Helden/Team Synfathia/Jashari N'Baaka|Jashari N'Baaka]] — N'Shkani-Söldnerin (Ruka)
+- [[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya Astel]] — Dämonin (Felix)
+- [[Charaktere/Helden/Team Synfathia/Kaito|Kaito]] — Kyulie (Lukas)
+- [[Charaktere/Helden/Team Synfathia/Theobald von Braunsfurt|Theobald von Braunsfurt]] — Adliger (Christian)
 
 ## Kampagnen
 

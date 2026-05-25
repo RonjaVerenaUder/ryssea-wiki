@@ -2,7 +2,7 @@
 tags: [artefakt]
 typ: artefakt
 status: entwurf
-besitzer: "[[Charaktere/Helden/Sethos]]"
+besitzer: "[[Charaktere/Helden/Sethos Gang/Sethos]]"
 publish: true
 ---
 
@@ -10,7 +10,7 @@ publish: true
 
 ## Überblick
 
-Das Sechem des Ton-Ren-Anem ist ein mächtiges Artefakt im Besitz von [[Charaktere/Helden/Sethos|Sethos]]. Es kann auf Elemente eingestimmt werden und verstärkt die Zauberei des Trägers auf das aktive Element erheblich. Über Zeit können mehrere Elemente im Sechem gespeichert werden.
+Das Sechem des Ton-Ren-Anem ist ein mächtiges Artefakt im Besitz von [[Charaktere/Helden/Sethos Gang/Sethos|Sethos]]. Es kann auf Elemente eingestimmt werden und verstärkt die Zauberei des Trägers auf das aktive Element erheblich. Über Zeit können mehrere Elemente im Sechem gespeichert werden.
 
 ## Funktion
 

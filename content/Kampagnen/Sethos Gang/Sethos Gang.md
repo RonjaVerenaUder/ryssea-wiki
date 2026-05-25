@@ -43,11 +43,11 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 | Spieler | Charakter  | Volk                     | Kurzbeschreibung                                                   |
 | ------- | ---------- | ------------------------ | ------------------------------------------------------------------ |
 |         | [[Sethos]] | [[Menschen]] (Bariyaner) | Prinz, Statthalter von Aziza, Doppelpriester Seth/Horus, Landweber |
-|         | Takanshur  | [[Panthaura (Volk)|Panthaura]]            | Kore-Priester                                                      |
-|         | Amila      |                          |                                                                    |
-|         | Karmallion |                          |                                                                    |
-|         | Horem      |                          |                                                                    |
-|         | Neitha     |                          |                                                                    |
+|         | [[Tak'Anshurr\|Tak]] | [[Panthaura (Volk)\|Panthaura]] | Kore-Priester, Gottkind (Panther), Vertrauter: [[Neomi]]           |
+|         | [[Amila]]  | [[Menschen]] (Haatias)   | Druidin, Bestienmeisterin, Priesterin der [[Kuresi]]               |
+|         | [[Kamaleon\|Kama]] | [[Phaerie]] (Schakal)    | Hohepriester von [[Karim Al'Altheyran\|Karim]], Nekromant (auch: Karmallion) |
+|         | [[Horem]]  | [[Menschen\|Bariyaner]]  | Agent, Chronomancer, Paladin, Medium                               |
+|         | [[Neitha]]   | [[Menschen\|Bariyaner]]  | Offizier der [[Horusgarde]], Geweihte der [[Neith]], Eismagie      |
 
 ## Abenteuer
 

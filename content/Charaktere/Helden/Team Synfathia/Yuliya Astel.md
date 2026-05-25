@@ -180,11 +180,11 @@ Yuliya steht hinten und hilft mit Heilung und magischer Analyse. Direkten Kampf 
 
 ### Zur Gruppe
 
-- **[[Charaktere/Helden/Dana Lonnert|Dana]]** — Als Weißmagierin hätte Dana Yuliya als Dämonin auf den Scheiterhaufen stellen können — hat sie aber nicht. Das hat ein grundlegendes Vertrauen geschaffen und Erleichterung.
-- **[[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion]]** — Widersprüchlich. Als ehemaliger Dämonenjäger löst er leichtes Unbehagen aus, gleichzeitig spürt Yuliya eine unerklärliche Vertrautheit. Sie ist sich sicher, ihm schon einmal begegnet zu sein. Der Friedensvertrag zwischen Phaerie und Dämonen beruhigt sie — und sie lebt ja noch.
-- **[[Charaktere/Helden/Jashari N'Baaka|Jash]]** — Eine gute Freundin.
+- **[[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana]]** — Als Weißmagierin hätte Dana Yuliya als Dämonin auf den Scheiterhaufen stellen können — hat sie aber nicht. Das hat ein grundlegendes Vertrauen geschaffen und Erleichterung.
+- **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Widersprüchlich. Als ehemaliger Dämonenjäger löst er leichtes Unbehagen aus, gleichzeitig spürt Yuliya eine unerklärliche Vertrautheit. Sie ist sich sicher, ihm schon einmal begegnet zu sein. Der Friedensvertrag zwischen Phaerie und Dämonen beruhigt sie — und sie lebt ja noch.
+- **[[Charaktere/Helden/Team Synfathia/Jashari N'Baaka|Jash]]** — Eine gute Freundin.
 - **[[Charaktere/Helden/Karasuan|Kaito]]** — Guter Heiler, aber oft sehr merkwürdig. Yuliyas Urteil: "Ein Kyulie mit Problemen."
-- **[[Charaktere/Helden/Theobald|Theobald]]** — Noch nicht sicher. Kulturell und wegen seines Glaubens eher problematisch — Scheiterhaufen-Gefahr als Dämonin. Yuliya ist vorsichtig, sie kennt ihn noch nicht lange genug um ihm zu vertrauen.
+- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Noch nicht sicher. Kulturell und wegen seines Glaubens eher problematisch — Scheiterhaufen-Gefahr als Dämonin. Yuliya ist vorsichtig, sie kennt ihn noch nicht lange genug um ihm zu vertrauen.
 
 ### Zu NPCs
 

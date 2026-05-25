@@ -90,6 +90,8 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Neraiyda]] — Göttin von Nerayan
 - [[Mikayrion]] — "Der Wächter", Partner von Neraiyda
 - [[Seth]] — Gott auf Baryia
+- [[Neith]] — Göttin auf Baryia, Familie von Neitha dient ihr
+- [[Kuresi]] — Die heilige Schildkröte, Glaube soll wiederhergestellt werden
 
 ### Charaktere
 - [[Resul]] — Sethtier, Vertrauter von Sethos
@@ -145,6 +147,13 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Fraktionen (Sarakant)
 - [[Löwengarde]] — Militärische Einheit in Sarakant
+
+### Fraktionen (Baryia)
+- [[Horusgarde]] — Militärische Eliteeinheit der königlichen Familie
+
+### Artefakte (Sethos Gang)
+- [[Portalamulett]] — Artefakt von Neitha
+- [[Kuresis Stab]] — Stab von Amila
 
 ### Artefakte (Team Synfathia)
 - [[Sin'an Krondimar]] — Waffe von Jashari N'Baaka

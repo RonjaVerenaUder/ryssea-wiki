@@ -86,7 +86,7 @@ Keine.
 
 ### Zur Gruppe
 - **[[Charaktere/Helden/Karasuan|Karasuan]]** — Noch zu definieren.
-- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Kannte sie als Bordcomputer, hat vor dem Abflug etwas mit ihr interagiert. Hat ihr beim Erwachen geholfen → Grundvertrauen. Merkt dass die KI in der Spähdrohne eingeschränkt ist.
+- **[[Charaktere/Helden/Nebelkinder/Helix Beta III|Helix Beta III]] (KI)** — Kannte sie als Bordcomputer, hat vor dem Abflug etwas mit ihr interagiert. Hat ihr beim Erwachen geholfen → Grundvertrauen. Merkt dass die KI in der Spähdrohne eingeschränkt ist.
 
 ### Zu NPCs
 - **Inaryan** — Kurze, professionelle Bekanntschaft. Die Zuteilung als Beschützer war erst kürzlich. Hat sich für sie geopfert — Schock und Wut darüber.

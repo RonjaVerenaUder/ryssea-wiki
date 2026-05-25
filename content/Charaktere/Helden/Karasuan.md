@@ -15,17 +15,17 @@ publish: true
 
 ## Steckbrief
 
-|                 |                                          |
-| --------------- | ---------------------------------------- |
-| **Rufname**     | Karasuan                                 |
-| **Volk**        | [[Phaerie]] ([[Kaheryt]])                |
-| **Tierseele**   | Rabe                                     |
-| **Heimatstadt** |                                          |
-| **Alter**       |                                          |
-| **Berufung**    | Agent des Metalllord-Ordens              |
-| **Gott/Lord**   | [[Metalllord]]                           |
-| **Spieler**     | Christoph                                |
-| **Kampagne**    | [[🎯 Nebelkinder Kampagne\|Nebelkinder]] |
+|                 |                             |
+| --------------- | --------------------------- |
+| **Rufname**     | Karasuan                    |
+| **Volk**        | [[Phaerie]] ([[Kaheryt]])   |
+| **Tierseele**   | Rabe                        |
+| **Heimatstadt** |                             |
+| **Alter**       |                             |
+| **Berufung**    | Agent des Metalllord-Ordens |
+| **Gott/Lord**   | [[Metalllord]]              |
+| **Spieler**     | Christoph                   |
+| **Kampagne**    |                             |
 
 ## Aussehen
 
@@ -60,8 +60,8 @@ publish: true
 ## Beziehungen
 
 ### Zur Gruppe
-- **[[Charaktere/Helden/Helix Beta III|Helix Beta III]] (KI)** — Noch zu definieren.
-- **[[Charaktere/Helden/Maria Colwall|Maria Colwall]] (Landweberin)** — Noch zu definieren.
+- **[[Charaktere/Helden/Nebelkinder/Helix Beta III|Helix Beta III]] (KI)** — Noch zu definieren.
+- **[[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] (Landweberin)** — Noch zu definieren.
 
 ## Charakterentwicklung
 
@@ -75,5 +75,5 @@ publish: true
 
 - Raben-Kaheryt: Raben stehen oft für Intelligenz, Täuschung, Wissen — passt zum Agenten-Konzept
 - Metalllord-Orden: Geheimdienstlicher Orden, Details noch auszuarbeiten
-- Ersetzt [[Charaktere/Helden/Jharan|Jharan]] (archiviert) in der Kampagne
+- Ersetzt [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] (archiviert) in der Kampagne
 - Wie kam ein Geheimagent auf das Evakuierungsschiff? (Narrativer Hook)

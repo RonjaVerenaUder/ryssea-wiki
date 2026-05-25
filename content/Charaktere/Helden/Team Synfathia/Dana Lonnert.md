@@ -156,7 +156,7 @@ Man sollte sie aber auch mit der Klinge nicht unterschätzen. Wenn ihre Magie ni
 
 ### Zur Gruppe
 
-Dana kannte vor der Kampagne niemanden aus der Gruppe. [[Charaktere/Helden/Theobald|Theobalds]] Name sagt ihr etwas — seine Familie ist in Weiden nicht unbekannt.
+Dana kannte vor der Kampagne niemanden aus der Gruppe. [[Charaktere/Helden/Team Synfathia/Theobald|Theobalds]] Name sagt ihr etwas — seine Familie ist in Weiden nicht unbekannt.
 
 <!-- Weitere Beziehungen aus Spieltagen ergänzen -->
 

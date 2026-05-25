@@ -30,7 +30,7 @@ Oberster Lord der Cheyannin und Eis-Lord. Amun ist die höchste Autorität über
 ## Anhänger & Priester
 
 - Die Cheyannin als Ganzes verehren ihn als obersten Lord
-- [[Kaheryt]] wie [[Charaktere/Helden/Jharan|Jharan]] folgen seinen Prinzipien, auch wenn sie nicht besonders spirituell sind
+- [[Kaheryt]] wie [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] folgen seinen Prinzipien, auch wenn sie nicht besonders spirituell sind
 
 ## Domäne
 

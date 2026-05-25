@@ -110,7 +110,7 @@ Keine. Die anderen KIs und die Umgewandelten sind unerreichbar.
 
 ### Zur Gruppe
 - **[[Charaktere/Helden/Karasuan|Karasuan]]** — Noch zu definieren.
-- **[[Charaktere/Helden/Maria Colwall|Maria Colwall]] (Landweberin)** — Kennt sie aus Daten. Beschützerprotokoll aktiv. **Vertrauen: Nein** — kein Vertrauen in ihre mentale Stabilität aufgrund der Verluste. Beschützen ≠ Vertrauen.
+- **[[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] (Landweberin)** — Kennt sie aus Daten. Beschützerprotokoll aktiv. **Vertrauen: Nein** — kein Vertrauen in ihre mentale Stabilität aufgrund der Verluste. Beschützen ≠ Vertrauen.
 
 ### Zu NPCs
 - **Sein Schöpfer** — Die Person die Helix am meisten vermisst. Ein umgewandelter Zwerg der ihn nach seinem Bild schuf.

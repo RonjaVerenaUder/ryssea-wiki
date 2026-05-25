@@ -36,7 +36,7 @@ lebendig: true
 
 Jash ist eine ca. 1,60 m große [[N'Shkani]] in Löwengestalt, die äußerlich deutlich jünger wirkt als ihre 22 Jahre. Ihr sandfarbenes Fell ist sauber gestutzt, und ihre gelb-goldenen Augen mustern ihre Umgebung stets aufmerksam. Ihr Körper ist schlank, aber gut durchtrainiert — das Ergebnis jahrelangen harten Trainings.
 
-Auf der linken Schulter trägt sie ein Lotusblütentattoo. Im Nacken verbirgt sich ein Brandzeichen — die Sklavenkennzeichnung aus ihrer Zeit in der [[Löwengarde]]. Jash versteckt das Brandzeichen sorgfältig. Von ihren Reisegefährten weiß nur [[Charaktere/Helden/Yuliya Astel|Yuliya]] davon. Würde es entdeckt, könnte Jash als entflohene Sklavin zurückgefordert werden — eine ihrer größten Ängste.
+Auf der linken Schulter trägt sie ein Lotusblütentattoo. Im Nacken verbirgt sich ein Brandzeichen — die Sklavenkennzeichnung aus ihrer Zeit in der [[Löwengarde]]. Jash versteckt das Brandzeichen sorgfältig. Von ihren Reisegefährten weiß nur [[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]] davon. Würde es entdeckt, könnte Jash als entflohene Sklavin zurückgefordert werden — eine ihrer größten Ängste.
 
 ### Erster Eindruck
 
@@ -75,7 +75,7 @@ Mag Kinder sehr gern und hat einen starken Beschützerdrang ihnen gegenüber. In
 
 ### Geheimnis
 
-Ihr größtes Geheimnis ist ihre Vergangenheit als Sklavin. Von den Reisegefährten weiß nur [[Charaktere/Helden/Yuliya Astel|Yuliya]] von dem Brandzeichen. Jash fürchtet, dass die Entdeckung sie in Gefahr bringen würde.
+Ihr größtes Geheimnis ist ihre Vergangenheit als Sklavin. Von den Reisegefährten weiß nur [[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]] von dem Brandzeichen. Jash fürchtet, dass die Entdeckung sie in Gefahr bringen würde.
 
 ### Freiheit
 
@@ -210,11 +210,11 @@ Jash bevorzugt schnelle, effiziente Sturmangriffe. Je nach Situation überfällt
 
 ### Zur Gruppe
 
-- **[[Charaktere/Helden/Dana Lonnert|Dana]]** — Versteht sich gut mit ihr, hat Respekt vor Dana als Anführerin. Merkt man nicht sofort, aber sie vertraut Dana und folgt ihrer Führung.
-- **[[Charaktere/Helden/Fenvarion al'Ichilin|Fenvarion]]** — Sparringspartner und Kampfkamerad. Die beiden verstehen sich auf einer direkten, unkomplizierten Ebene. Wenig Worte, viel gegenseitiger Respekt.
-- **[[Charaktere/Helden/Yuliya Astel|Yuliya]]** — Enge Vertrauensperson. Yuliya ist die einzige, die von Jashs Brandzeichen weiß. Jash fühlt sich bei ihr sicher genug, um Schwäche zu zeigen.
+- **[[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana]]** — Versteht sich gut mit ihr, hat Respekt vor Dana als Anführerin. Merkt man nicht sofort, aber sie vertraut Dana und folgt ihrer Führung.
+- **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Sparringspartner und Kampfkamerad. Die beiden verstehen sich auf einer direkten, unkomplizierten Ebene. Wenig Worte, viel gegenseitiger Respekt.
+- **[[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]]** — Enge Vertrauensperson. Yuliya ist die einzige, die von Jashs Brandzeichen weiß. Jash fühlt sich bei ihr sicher genug, um Schwäche zu zeigen.
 - **[[Charaktere/Helden/Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
-- **[[Charaktere/Helden/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, ist ihm gegenüber aber misstrauisch. Er hat still danebengestanden als es um ihre Vergangenheit ging — das hat sie nicht vergessen.
+- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, ist ihm gegenüber aber misstrauisch. Er hat still danebengestanden als es um ihre Vergangenheit ging — das hat sie nicht vergessen.
 
 ### Zu NPCs
 

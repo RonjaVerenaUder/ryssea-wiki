@@ -46,7 +46,7 @@ Kaheryt organisieren sich in **Rudeln**:
 
 ## Bekannte Kaheryt
 
-- [[Charaktere/Helden/Jharan|Jharan]] — Oberster Rudelführer aller Kaheryt, Luft-Ozelot, Kommandant der Kaheryt-Cheyannen im letzten Krieg gegen den Weltenfresser
+- [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] — Oberster Rudelführer aller Kaheryt, Luft-Ozelot, Kommandant der Kaheryt-Cheyannen im letzten Krieg gegen den Weltenfresser
 - [[Charaktere/Chelkar|Inaryan]] — Cheyannin, hat sich für die Landweberin geopfert und ist in der neuen Welt wiedergeboren
 
 ## Notizen
