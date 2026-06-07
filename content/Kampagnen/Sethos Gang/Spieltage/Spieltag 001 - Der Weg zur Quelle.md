@@ -9,7 +9,7 @@ orte: ["[[Baryia (Reich)]]", "[[Tempel der Neith]]"]
 status: gespielt
 ---
 
-# Spieltag 001 – [[Abenteuer - Der Weg zur Quelle]]
+# Spieltag 001 – [[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]
 
 # PRE-Spieltag
 
@@ -61,11 +61,11 @@ status: gespielt
 ## Anwesenheit
 
 - [[Sethos]]
-- Takanshur
-- Amila
-- Karmallion
-- Horem
-- Neitha
+- [[Tak'Anshurr]]
+- [[Amila]]
+- [[Kamaleon|Kama]]
+- [[Horem]]
+- [[Neitha]]
 
 ---
 
@@ -241,52 +241,57 @@ Ausarbeiten für Session mit Neitha
 
 ## Was ist passiert?
 
-- Elite-Truppe überzeugt
-- Horem hat Seuche-Dinge gelesen
-- Karmallion wird sich in Golem setzen
-- Priester sollen in Tempel gebracht werden und dort soll ein Hinterhalt stattfinden
+- [[Amila]] und [[Kamaleon|Kama]] stellen auf Verdacht ein Gegengift für [[Amenei]] her (Tak hat Informationen über seinen Zustand mitgebracht); [[Horem]] liest weiter in den erbeuteten Schriften
+- [[Neitha]] holt [[Azim]] (Anführer) und [[Kobesch]] (Stellvertreter, Magier) zu einer Besprechung; dabei lernt sie [[Citi]] kennen, die einzige Frau der Einheit
+- [[Sethos]] und [[Tak'Anshurr|Tak]] erklären Azim und Kobesch die Situation — zunächst Ablehnung, aber Einigung: Wacheinheit greift nicht ein, solange nur Priester angegriffen werden
+- [[Horem]] findet Informationen zur [[Seuche der Landweber]] sowie Forschungsnotizen über die Verbreitung von Gift über karmale Verbindungen
+- Hinterhalt-Plan wird ausgearbeitet; Gruppe bereitet sich vor:
+  - [[Kamaleon|Kama]] besetzt mit [[Horem|Horems]] Hilfe den Horuswächter-Golem neu
+  - [[Tak'Anshurr|Tak]] späht die anrückende Karawane aus
+  - [[Neitha]] bereitet ein Ritual vor, um das innere Heiligtum zu öffnen
+  - [[Sethos]] öffnet den Zugang zum im Tempel verankerten Portal
 
 ---
 
 ## Plot-Fortschritt
 
-- [[Verschollener Pharao]] – Amenei aufgefunden, erste Hinweise auf Verrat bei der Expedition
-- [[Einfluss von Kaarsi]] – Kaarsi-Priesterschaft am Neith-Tempel, Experimente entdeckt
-- [[Seuche der Landweber]] – Horem liest über Seuche-Experimente der Kaarsi-Priesterschaft
-- [[Webtore]] – Webtor im Tempel der Neith entdeckt, Aktivierung als Option identifiziert
+- **[[Verschollener Pharao]]** — [[Amenei]] als Gefangener in der anrückenden Karawane identifiziert; Gegengift auf Verdacht vorbereitet; Befreiung und Befragung stehen aus
+- **[[Einfluss von Kaarsi]]** — Kaarsi-Priesterschaft auf dem Weg zum Tempel, Hinterhalt vorbereitet
+- **[[Seuche der Landweber]]** — Horem findet Forschungsnotizen: Gift wird über karmale Verbindungen verbreitet
+- **[[Webtore]]** — [[Sethos]] hat Portal-Zugang geöffnet; Aktivierung des Webtors steht aus
 
 ---
 
 ## Neue NPCs / Orte
 
-- Wächter-Truppe am Neith-Tempel (Asim, Pashet, Siti, Arem, Khabash, Ukani, Sathen)
+- **[[Azim]]** — Anführer der Wacheinheit am Neith-Tempel; überzeugt, nicht einzugreifen
+- **[[Kobesch]]** — Stellvertreter und Magier der Einheit
+- **[[Citi]]** — Soldatin der Einheit; [[Neitha]] direkt sympathisch
 
 ---
 
 ## Änderungen an der Welt
 
-- Tempel der Neith ist in der Hand der Spieler
-- Kaarsi-Priesterschaft vor Ort als aktive Bedrohung
+- Tempel der Neith ist in der Hand der Gruppe
+- Horuswächter-Golem ist von [[Kamaleon|Kama]] neu besetzt
+- Karawane der Kaarsi-Priesterschaft nähert sich; Hinterhalt bereit
 
 ---
 
 ## Offene Fäden
 
-- Amenei — weitere Befragung nötig
-- Karmallion baut Golem mit Horem
-- Neithas Ritual vorbereiten und ausspielen
-- Bannzone um den Neith-Tempel
-- Landweben ausarbeiten
+- **Hinterhalt** — Karawane nähert sich, nächste Session beginnt hier
+- **Amenei** — Gefangener in der anrückenden Karawane; Gegengift auf Verdacht vorbereitet; muss erst befreit werden
+- **Neithas Ritual** — Vorbereitet, noch nicht durchgeführt; öffnet inneres Heiligtum
+- **Webtor aktivieren** — Zugang durch Sethos geöffnet, Aktivierungssequenz aus Cheprehs Buch nötig
+- **Seuche der Landweber** — Horem hat Forschungsnotizen; weiterer Plot offen
 
 ---
 
 ## Vorbereitung nächste Session
 
-- Bannzone um den Neith-Tempel ausarbeiten
-- Wächter-Truppe detaillieren
-- Grundriss Neith-Tempel
-- Kaarsi-Magie und Kaarsi-Golem ausarbeiten
-- Kampf im Tempel vorbereiten
-- Neithas Ritual vorbereiten
-- Karmallion baut Golem mit Horem
-- Landweben ausarbeiten
+- Kampf gegen Kaarsi-Priester und Konstrukte ausarbeiten
+- Was wissen die Priester? (Verhör-Pool vorbereiten)
+- Amenei-Befragung vorbereiten: Expedition, Verrat, Weg zur Quelle des Lebens
+- Neithas Ritual im Inneren des Heiligtums ausarbeiten
+- Webtor-Aktivierungssequenz aus [[Chepreh]]s Buch klären

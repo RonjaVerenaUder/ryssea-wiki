@@ -100,7 +100,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Ameni]] — Schreiber und Kindheitsfreund von Sethos
 
 ### Götter
-- [[Reykon]] — Götterfürst des fraystainischen Pantheons
+- [[Reykon]] — Götterfürst des fraystainischen Pantheons; die anderen 5 Götter des fraysteinischen Pantheons noch zu benennen
 - [[Yatralian]] — Gott der Landweber bei den Kyulie
 - [[Der Große Kyubie]] — Hauptgott der Kyulie (= Mikayrion)
 
@@ -180,6 +180,8 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Fraktionen (Fraystein)
 - [[Weiße Gilde]] — Magierorganisation in Fraystein
+- [[Greifenakademie]] — Magierakademie in Greifenstein (Kurzname; Langname noch offen)
+- [[Sonnenlegion]] — Reykon-Fraktion; von Dana skeptisch beäugt
 
 ### Fraktionen (Team Synfathia)
 - [[Eyrial]] — Rebellen auf Sultannii

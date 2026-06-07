@@ -108,6 +108,7 @@ Die Gruppe bricht auf, um den Weg zur [[Quelle des Lebens]] zu finden — dem Or
 
 ### GM-Spieltage
 - [[Spieltag 001 - Der Weg zur Quelle]] — Vorbereitung Hinterhalt / Horus-Delegation
+- [[Spieltag 002 - Der Hinterhalt]] — offen (vorbereitet)
 
 ## Mögliche Ausgänge
 

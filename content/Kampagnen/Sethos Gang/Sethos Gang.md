@@ -96,6 +96,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 ### GM-Spieltage (Vorbereitung & Protokoll)
 
 1. [[Spieltag 001 - Der Weg zur Quelle]] — 29.03.26 (gespielt)
+2. [[Spieltag 002 - Der Hinterhalt]] — offen (vorbereitet)
 
 ### Spieler-Chroniken (Tagebuch der Helden — Abenteuer 012)
 
