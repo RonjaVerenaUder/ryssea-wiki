@@ -11,6 +11,14 @@ publish: false
 
 Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die im ersten Bogen noch dünn waren oder wo spannende Anknüpfungspunkte für die Kampagne liegen.
 
+> [!info] Status: Durchgegangen (2026-06-07)
+> Beantwortet und in [[Charaktere/Helden/Team Synfathia/Kaito (Original)]] eingepflegt.
+> Noch offen:
+> - Weltenwille-Experimente (SL + Spieler klären noch)
+> - Person in Kopernicus (wird benannt wenn plot-relevant)
+> - Sechste Seelenstempel-Version (Lukas fällt sie gerade nicht ein)
+> - Geschichte der gestohlenen Stempel (Lukas tippt noch)
+
 ---
 
 ## Seelenstempel — Mechanik & Grenzen

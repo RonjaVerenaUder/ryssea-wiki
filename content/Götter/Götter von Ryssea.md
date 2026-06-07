@@ -44,9 +44,13 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 - [[Kaarsi]] — Blutgott der Taskasianer
 
 ### Kyulie
-- [[Der Große Kyubie]] — Hauptgott der Kyulie (= [[Mikayrion]] unter anderem Namen)
-- [[Yatralian]] — Gott der [[Landweber]], Untergottheit des Kyubie
-- Weitere Untergottheiten noch zu dokumentieren
+- [[Der Große Kyubie]] — Hauptgott der Kyulie (= [[Mikayrion]] unter anderem Namen), 9-schwänziger Feuerfuchs
+- [[Kha'Buoban]] — Gott des Handels, der Sprache und des Rechts
+- [[Yatralian]] — Gott des Reisens, Entdeckens und der Landweber
+- [[Götter/Thuatan|Thuatan]] — Gott der Verzauberung und Magie
+- [[Parimaluan]] — Göttin des Schutzes und der Tempelwache (Zwilling)
+- [[Partularian]] — Gott des Kampfs (Zwilling)
+- [[Menyala]] — Göttin der Heilung und des Traumwebens
 
 ### Fraystein
 - [[Reykon]] — Götterfürst des fraystainischen Pantheons
@@ -66,4 +70,9 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 - [[Seth]] — Gott auf Baryia, Sethtiere sind ihm zugeordnet
 - [[Bastet]] — Göttin der Heilung, des Schutzes und der Spionage (Baryia)
 - [[Reykon]] — Gottheit auf Fraystein
-- [[Yatralian]] — Gott der Landweber bei den Kyulie
+- [[Yatralian]] — Gott des Reisens und der Landweber (Kyulie)
+- [[Götter/Thuatan|Thuatan]] — Gott der Verzauberung und Magie (Kyulie)
+- [[Kha'Buoban]] — Gott des Handels, der Sprache und des Rechts (Kyulie)
+- [[Parimaluan]] — Göttin des Schutzes und der Tempelwache (Kyulie)
+- [[Partularian]] — Gott des Kampfs (Kyulie)
+- [[Menyala]] — Göttin der Heilung und des Traumwebens (Kyulie)

@@ -81,6 +81,8 @@ Er ist schrullig. Manchmal stärker als in anderen Momenten.
 
 > [!danger]- GM-Wissen
 > Er ist ein Seelenstempel-Prototyp des [[Charaktere/Helden/Team Synfathia/Kaito (Original)|originalen Kaito]]. Als Prototyp hat er eine dünn ausgearbeitete Seele — viele Persönlichkeitsbereiche sind leer oder nicht vollständig ausgemalt. Dass er eines der fragmentierten Ichs ist, weiß er (noch) nicht.
+>
+> **Traumebene:** Kaito wirkt dort 2-dimensional, mit seltsamen Farben und etwas löschrig — "Pappaufsteller". Seine Traumwelt hat wenig ausdefinierte Bereiche. Viele Dinge liegen hinter Türen die sich nicht öffnen lassen — die Türen verstecken keinen Inhalt, sondern schützen ihn vor der Leere dahinter.
 
 ## Familie & Herkunft
 

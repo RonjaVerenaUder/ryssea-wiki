@@ -14,7 +14,7 @@ publish: true
 # Kaito (Original)
 
 > [!danger] GM-Wissen
-> Dies ist die Notiz über den *echten* Kaito — den alten, weisen Artefaktschmied. Der gespielte Charakter ([[Charaktere/Helden/Team Synfathia/Kaito (Heiler-Prototyp)|Kaito (Heiler-Prototyp)]]) hat keinerlei Erinnerungen daran. Diese Notiz nicht publishen.
+> Dies ist die Notiz über den *echten* Kaito — den alten, weisen Artefaktschmied. Der gespielte Charakter ([[Charaktere/Helden/Team Synfathia/Kaito (Heiler-Prototyp)|Kaito (Heiler-Prototyp)]]) hat keinerlei Erinnerungen daran.
 
 *Vollständiger Name: Schirogane Kaito Kopernicus der Weißpfoten Silberschmied und Meister der Rotadern Schmiede*
 
@@ -25,7 +25,7 @@ publish: true
 | **Rufname**     | Kaito                                                               |
 | **Volk**        | [[Kyulie]]                                                          |
 | **Heimat**      | Rotadern Schmiede, Gebirge nahe [[Atlas/Marayam\|Marayam]]          |
-| **Alter**       | Unbekannt — alt genug dass er es vergessen hat                      |
+| **Alter**       | ~1000 Jahre — halb-elementar (Wasser) + Altersresistenz erforscht  |
 | **Berufung**    | Artefaktschmied                                                     |
 | **Gott**        | [[Götter/Der Große Kyubie\|Der Große Kyubie]] (kennt ihn als "Mika")|
 | **Vertrauter**  | [[Kopernicus]] (Rabe, Erwacht)                                      |
@@ -90,7 +90,17 @@ Durch seine Forschung hat Kaito sein Alter weit überschritten — sein direktes
 
 ### Die Rotadern Schmiede
 
-Kaitos Werkstatt, Heim und Lebenswerk. Im Gebirge nahe der Kyulie-Hauptstadt [[Atlas/Marayam|Marayam]]. Dem [[Götter/Der Große Kyubie|Großen Kyubie]] geweihte Schmiede, mit einem Wasserbecken als Bezugspunkt zu seinem Wasser-Element.
+Kaitos Werkstatt, Heim und Lebenswerk — heißt Schmiede, ist aber ein ganzer Bergkomplex im Gebirge nahe der Kyulie-Hauptstadt [[Atlas/Marayam|Marayam]].
+
+**Inhalt des Komplexes:**
+- Kaitos eigene Behausung
+- Unterkünfte für Lehrlinge
+- Eine riesige Bibliothek — zieht sich wahrscheinlich durch den halben Berg oder liegt unter ihm, enthält Wissen das nicht jedem zugänglich sein sollte
+- Die eigentliche Schmiede
+- Materiallager (mit Artefakten)
+- Einen kleinen Tempel (für [[Götter/Thuatan|Thuatan]])
+
+Die Schmiede liegt relativ versteckt — das ist Absicht.
 
 <!-- TODO: "Rotadern" genauer klären — Gebirgsname? Erzader? Magisches Phänomen? -->
 
@@ -123,14 +133,31 @@ Kaitos Werkstatt, Heim und Lebenswerk. Im Gebirge nahe der Kyulie-Hauptstadt [[A
 
 ### Seelenstempel
 
-Kaitos eigene Erfindung: Magisch eingravierte Konstrukte die die "Seele" eines Gegenstands beinhalten und diesen grundlegend verändern können. Kaito hat die Technik auch auf sich selbst angewendet — um sich je nach Situation mit Fähigkeiten zu versehen.
+Kaitos eigene Erfindung: Magisch eingravierte Konstrukte die die "Seele" eines Gegenstands (oder Lebewesens) beinhalten und diesen grundlegend verändern können.
+
+**Mechanik:**
+- Man kann die Seele eines Dings — auch eines lebenden — kopieren oder neu erschaffen
+- Bei lebenden Seelen liegen die Grenzen in der Fähigkeit des Erschaffers: eine lebende Seele komplett nachzubauen ist extrem komplex, jeder Fehler hat Auswirkungen
+- Gegen den Willen ist nur temporäre Anwendung möglich, ähnlich Beherrschungsmagie
+- Der **Körper dient als Anker** — ohne Körper würde sich eine gestempelte Seele langsam auflösen/zerfasern
+- Es ist immer nur **eine aktive Version gleichzeitig** möglich — mehrere gleichzeitig ist problematisch weil es sich alles noch im selben Kopf abspielt
+- Die Stempel sind auf Kaitos Körper spezifisch anwendbar — nicht übertragbar auf andere
+- Jede Version trägt immer einen Teil der originalen Persönlichkeit in sich
+
+**Kaitos Versionen von sich selbst:**
+- **Keiler Kaito** — Kämpfer-Variante, der Kyulischen Tempelwache nachempfunden
+- **Diplomat-Kaito** — für Verhandlungen und sozialen Umgang
+- **Wildnis-Kaito** — Survival und Leben in der Natur
+- **Dieb-Kaito** — mehr oder weniger aus Jux erschaffen
+- **[[Charaktere/Helden/Team Synfathia/Kaito (Heiler-Prototyp)|Heiler-Prototyp]]** — die aktuell aktive Version
+- Eine weitere Version (*noch nicht benannt*)
 
 > [!danger]- GM-Wissen: Aktueller Zustand
-> Kaito hat sich in einem Experiment in seinen jetzigen Heiler-Prototyp verwandelt und ist nun dort gefangen. Die anderen Stempel sind ihm abhanden gekommen. Durch einen Fehler im Stempel hat er als Prototyp keinerlei Erinnerungen an sein ursprüngliches Leben.
+> Kaito ist im Heiler-Prototyp gefangen. Die Stempel der anderen Versionen sind physisch in der Welt vorhanden — Plot-Hook. Nur der originale Kaito hätte das Wissen neue zu erschaffen; der Heiler-Prototyp kann das nicht.
 >
-> Er ist die **einzige Version mit intaktem Traumebene-Selbstbild**. Die fragmentierten Ichs haben dort jeweils fragmentierte Selbstbilder.
+> **Traumebene:** Der Heiler-Prototyp wirkt auf der Traumebene 2-dimensional, mit seltsamen Farben und etwas löschrig — "Pappaufsteller". Seine Traumwelt hat wenig ausdefinierte Bereiche; viele Dinge liegen hinter Türen die sich nicht öffnen lassen — die Türen verstecken keinen Inhalt, sondern schützen das Heiler-Ich vor der Leere dahinter.
 >
-> **Weltenwille-Experimente:** Hat daran geforscht wie man den [[Kosmologie/Weltenwille|Weltenwillen]] beeinflussen und umschreiben kann. Potenziell massiver Plot-Hook. Details noch zu klären. → [[Anhänge/Folgefragen Kaito]]
+> **Weltenwille-Experimente:** Hat daran geforscht wie man den [[Kosmologie/Weltenwille|Weltenwillen]] beeinflussen und umschreiben kann. Potenziell massiver Plot-Hook. Details noch zwischen SL und Spieler zu klären.
 
 ## Begleiter & Vertraute
 
@@ -138,9 +165,17 @@ Kaitos eigene Erfindung: Magisch eingravierte Konstrukte die die "Seele" eines G
 
 Erwachter Rabe, intelligent, dem [[Götter/Der Große Kyubie|Großen Kyubie]] geweiht. Wissensspeicher und Ankerpunkt für Kaitos Persönlichkeit(en). Erinnert sich an den originalen Kaito — kann das aber nicht direkt kommunizieren. Hält den Heiler-Prototyp auf Linie.
 
+**Herkunft:** Kopernicus war ursprünglich ein ausgestopfter Rabe. Als ein Seelenstempel-Ritual für jemand anderen schiefging und die Person drohte sich im Weltenwillen aufzulösen, hat Kaito in letzter Not deren Essenz in Kopernicus gestopft — und ihn damit erweckt. Wessen Essenz in ihm steckt ist noch nicht benannt; wahrscheinlich dieselbe Person deren Stimme Kopernicus imitiert.
+
+**Kommunikation:** Gibt Infos über den originalen Kaito nur reaktiv preis — wenn gefragt oder getriggert. Nur über Traumweben.
+
 ## Glaube & Magie
 
-Glaubt an den [[Götter/Der Große Kyubie|Großen Kyubie]] — den er vertrauter als "Mika" bezeichnet. Schmiede und Kopernicus sind ihm geweiht.
+Glaubt an den [[Götter/Der Große Kyubie|Großen Kyubie]] — den er vertrauter als "Mika" bezeichnet (Kurzform von Mikayrion). Schmiede und Kopernicus sind ihm geweiht.
+
+Sein spezifischer Schutzgott im Kyulie-Pantheon ist [[Götter/Thuatan|Thuatan]] (Verzauberung & Magie) — Gott der Magie, zu dem Kaito eine langjährige und nicht immer reibungslose Beziehung hat.
+
+**Thuatan & Kaito:** Nicht das erste Mal dass die beiden aneinandergeraten sind. Thuatan hat ihn schon öfter gewarnt wenn seine Forschung zu gefährlich wurde. Als dann der Unfall passierte bei dem der erste Lehrling starb, ist Thuatan persönlich erschienen und hat Kaito auf das Hochplateau gebracht — im Sinne von "das war jetzt wirklich zu viel, setz dich hin und denk nach." Zwei Tage auf dem Plateau.
 
 ### Element: Wasser
 
@@ -170,10 +205,16 @@ Kämpft nicht direkt. Schafft durch Magie und Artefakte Möglichkeiten und Ablen
 ## Notizen
 
 - Voller Name: Schirogane Kaito Kopernicus der Weißpfoten Silberschmied und Meister der Rotadern Schmiede
-- Hat ersten Lehrling in einem vermeidbaren Unfall verloren — Neugier hielt ihn ab → Grund für das Hochplateau-Erlebnis
-- Hochplateau: Untergott des Kyubie-Pantheons (Artefakt-Domäne, Name noch zu klären) hat ihn 2 Tage dort als Strafe geparkt
-- Geschichte der gestohlenen Stempel noch nicht dokumentiert (Lukas tippt sie)
+- ~1000 Jahre alt — halb-elementar (Wasser) + Altersresistenz selbst entschlüsselt
+- Studierte in [[Atlas/Sharanma/Sharanma|Sharanma]]: Artefaktbau, Feinmechanik, Grundlagen für Seelenstempel und Schmiedefähigkeiten
+- Hat ersten Lehrling in einem Explosionsunfall verloren — Experiment mit einer Minen-artigen Verteidigungswaffe, Lehrling hat falsch abgestellt, Kaito war zu neugierig um nochmal nachzurechnen. "Ich wollte das Bumm macht, aber nicht so."
+- Hat danach weiterhin Lehrlinge angenommen
+- Thuatan (Schutzgott) hat ihn nach dem Unfall persönlich auf das Hochplateau gebracht — göttliches "denk mal drüber nach"
+- Weltenwille-Experimente: Details noch zwischen SL und Spieler zu klären
+- Geschichte der gestohlenen Stempel noch nicht dokumentiert (Lukas tippt sie noch)
+- Die physischen Stempel der anderen Versionen existieren irgendwo in der Welt — Plot-Hook
 - Findet Fraysteinische rückständig und unaufgeklärt
+- Heiler-Prototyp erlebt seinen Gedächtnisverlust als Normalzustand — kein Bewusstsein dass etwas fehlt, akzeptiert alles einfach
 
 > [!info]- Spieler-Meta
 > **Spieler:** Lukas
