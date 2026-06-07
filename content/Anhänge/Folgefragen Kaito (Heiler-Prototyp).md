@@ -11,6 +11,13 @@ publish: false
 
 Diese Fragen beziehen sich auf die aktuell gespielte Version von Kaito. Der erste Teil sind Charakterfragen — was der Charakter selbst weiß und erlebt. Der zweite Teil sind GM-Fragen die nur Lukas als Spieler beantwortet.
 
+> [!info] Status: Durchgegangen (2026-06-07)
+> Beantwortet und in [[Charaktere/Helden/Team Synfathia/Kaito (Heiler-Prototyp)]] eingepflegt.
+> Noch offen:
+> - Freizauber-Medizin Details (Texte kommen später von Lukas)
+> - Zarkhas-Erlebnis (wird aus dem Abenteuertagebuch ergänzt)
+> - Fragmente/Stimmen-Plan (bereits geplant, wird im Spiel eingebaut)
+
 ---
 
 ## Charakterfragen

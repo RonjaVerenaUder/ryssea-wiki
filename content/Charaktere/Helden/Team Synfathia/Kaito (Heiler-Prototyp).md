@@ -119,7 +119,9 @@ Er hat keine. "Gemacht, nicht geboren." Er erinnert sich an keine Familie, keine
 Ein Mantel mit spiegelnden Plättchen besetzt. Er weiß nicht warum, aber der ist wichtig. Er würde ihn nicht hergeben.
 
 > [!danger]- GM-Wissen
-> Das ist der Mantel des [[Charaktere/Helden/Team Synfathia/Kaito (Original)|originalen Kaito]]. Das Wissen um seine Bedeutung ist als Abdrück erhalten geblieben, nicht aber das Warum.
+> Das ist der Mantel des [[Charaktere/Helden/Team Synfathia/Kaito (Original)|originalen Kaito]]. Das Wissen um seine Bedeutung ist als Abdruck erhalten geblieben, nicht aber das Warum.
+>
+> **Bedeutung:** Eine Reflexion braucht eine spiegelnde Fläche um sich selbst zu sehen — und weil der Heiler-Prototyp selbst eine Reflexion ist, kann er durch den Spiegel gehen. Der Mantel ist dafür notwendig.
 
 ### Wassermagie zur Heilung (Freizauber)
 
@@ -159,7 +161,11 @@ Kämpft nicht direkt. Heilt, unterstützt, schafft mit Illusionen Ablenkungen we
 
 ### Zur Gruppe
 
-<!-- Wird aus dem Spiel ergänzt -->
+- **[[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana]]** — Fachlich kompetent. Aber Fraysteinerin, und ihr Weltbild ist manchmal etwas rückständig — immerhin arbeitet sie daran, das zu ändern.
+- **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Mag ihn. Vertraut ihm — auch nachdem klar wurde wie jung er eigentlich ist. Kompetent, und im Moment die einzige Lösung die sie für das Zeitproblem haben.
+- **[[Charaktere/Helden/Team Synfathia/Jashari N'Baaka|Jashari]]** — Spätestens nach der Tempel-Episode: ziemlich cool. Sollte aber lernen ihr Temperament etwas zu zügeln (Stichwort Magier).
+- **[[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]]** — Weiß nicht so recht was er von ihr halten soll. Da ist mehr Geheimnistuerei als vielleicht gut wäre — das ist ihm aufgefallen.
+- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Kann ihn nicht einschätzen. Hält ihn für etwas zu fanatisch in seinem Glauben verhaftet. Macht lieber einen Bogen.
 
 ### Zu NPCs
 
@@ -176,11 +182,19 @@ Kämpft nicht direkt. Heilt, unterstützt, schafft mit Illusionen Ablenkungen we
 ## Notizen
 
 - Rufname "Kaito Kopernicus" — den vollen langen Namen kennt er nicht
-- Höhenangst ohne Erklärung; Spiegelmantel ohne Erklärung; Geschmacksvorlieben ohne Erinnerung
-- Hat eine ausgeprägte Abneigung gegen [[Zarkhas]] — aus dem gemeinsamen Abenteuer bekannt
+- Höhenangst: Kopernicus hat ihm irgendwann Bilder geschickt — er selbst, allein auf einem hohen Plateau. Das hat gereicht. Warum genau, weiß er nicht.
+- Spiegelmantel ohne Erklärung; Geschmacksvorlieben ohne Erinnerung — er macht sich keine Gedanken darum
+- Fernziel Wassermagie: will irgendwann ausprobieren ob man gerade Verstorbene damit wiederbeleben kann
+- Hat eine ausgeprägte Abneigung gegen [[Zarkhas]] — aus dem gemeinsamen Abenteuer bekannt; Details aus Abenteuertagebuch
 
 > [!danger]- GM-Wissen
-> Sein größter Wunsch wurde ihm vom Original aufgedrückt — er erlebt ihn als seinen eigenen. Die Eigenheiten (Höhenangst, Spiegelmantel, Leibspeisen, Misstrauen gegenüber Fraysteinischen) sind Abdrücke des Originals.
+> Sein größter Wunsch wurde ihm vom Original aufgedrückt — er erlebt ihn als seinen eigenen. Dieser Wunsch wird erst relevant wenn Original und Prototyp wieder in engerer Verbindung stehen, weil dann die Persönlichkeiten näherkommen und die Frage "wessen Wunsch ist das?" von selbst aufläuft.
+>
+> Die Eigenheiten (Höhenangst, Spiegelmantel, Leibspeisen, Misstrauen gegenüber Fraysteinischen) sind Abdrücke des Originals.
+>
+> **Kampagnen-Plan:** Im Finale des aktuellen Abenteuers findet der Spieler einen der physischen Seelenstempel — das ist der erste große Enthüllungsmoment.
+>
+> **Wissensdurst** ist die eine Eigenschaft die alle Kaito-Versionen teilen — auch der Heiler-Prototyp. Das erklärt seinen Antrieb als genuinen Teil von ihm, nicht nur als Zielvorgabe.
 
 > [!info]- Spieler-Meta
 > **Spieler:** Lukas
