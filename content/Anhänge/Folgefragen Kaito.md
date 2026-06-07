@@ -15,7 +15,7 @@ Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die 
 > Beantwortet und in [[Charaktere/Helden/Team Synfathia/Kaito (Original)]] eingepflegt.
 > Noch offen:
 > - Weltenwille-Experimente (SL + Spieler klären noch)
-> - Person in Kopernicus (wird benannt wenn plot-relevant)
+> - Person in Kopernicus (geklärt: der erste Lehrling — desintegriert im Unfall, Seele in den Vertrauten gepresst)
 > - Sechste Seelenstempel-Version (Lukas fällt sie gerade nicht ein)
 > - Geschichte der gestohlenen Stempel (Lukas tippt noch)
 

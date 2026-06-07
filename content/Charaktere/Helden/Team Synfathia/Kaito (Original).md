@@ -165,7 +165,7 @@ Kaitos eigene Erfindung: Magisch eingravierte Konstrukte die die "Seele" eines G
 
 Erwachter Rabe, intelligent, dem [[Götter/Der Große Kyubie|Großen Kyubie]] geweiht. Wissensspeicher und Ankerpunkt für Kaitos Persönlichkeit(en). Erinnert sich an den originalen Kaito — kann das aber nicht direkt kommunizieren. Hält den Heiler-Prototyp auf Linie.
 
-**Herkunft:** Kopernicus war ursprünglich ein ausgestopfter Rabe. Als ein Seelenstempel-Ritual für jemand anderen schiefging und die Person drohte sich im Weltenwillen aufzulösen, hat Kaito in letzter Not deren Essenz in Kopernicus gestopft — und ihn damit erweckt. Wessen Essenz in ihm steckt ist noch nicht benannt; wahrscheinlich dieselbe Person deren Stimme Kopernicus imitiert.
+**Herkunft:** Kopernicus war ursprünglich Kaitos normaler Vertrauter — ein einfacher Rabe. Als der erste Lehrling im Explosionsunfall desintegriert wurde, hat Kaito in einem verzweifelten Versuch dessen Seele in den Körper seines Vertrauten gepresst. Was dabei entstand ist eine Mischung aus Lehrlings-Seele und Rabenseele. Das ist die Person deren Stimme Kopernicus imitiert — sein erster Lehrling.
 
 **Kommunikation:** Gibt Infos über den originalen Kaito nur reaktiv preis — wenn gefragt oder getriggert. Nur über Traumweben.
 
