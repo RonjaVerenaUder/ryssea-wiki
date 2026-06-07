@@ -8,7 +8,7 @@ volk: "[[Kyulie]]"
 heimat: "[[Atlas/Marayam|Marayam]]"
 gott: "[[Götter/Der Große Kyubie|Der Große Kyubie]]"
 lebendig: true
-publish: false
+publish: true
 ---
 
 # Kaito (Original)
