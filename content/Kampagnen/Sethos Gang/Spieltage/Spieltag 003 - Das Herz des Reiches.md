@@ -286,7 +286,8 @@ Keine direkten Kampfgegner geplant — diese Session ist Rollenspiel, Entdeckung
 
 ## Was ist passiert?
 
--
+- Kore Park in Aziza
+- Stelen um den neith tempel und dorf (mit 4 Bonus) stelen aus dem land herausgwebt mit neith symbolik, skarabäus, horusfalken nd sethtier, alter horus symbolik mit permanente wasserquelle, bezahlt mit der 4
 
 ---
 

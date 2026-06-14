@@ -18,12 +18,12 @@ Eine 6-köpfige Wacheinheit der [[Horusgarde]], die am [[Tempel der Neith]] nahe
 
 ## Mitglieder
 
-| Name | Funktion |
-|---|---|
-| **Azim** | Anführer |
-| **Kobesch** | Stellvertreter, Truppenmagier |
-| **Citi** | Soldatin (einzige Frau der Einheit) |
-| + 3 weitere | Unbenannt |
+| Name        | Funktion                            |
+| ----------- | ----------------------------------- |
+| **Azim**    | Anführer                            |
+| **Kobesch** | Stellvertreter, Truppenmagier       |
+| **Citi**    | Soldatin (einzige Frau der Einheit) |
+| + 3 weitere | Unbenannt                           |
 
 ## Haltung gegenüber der Gruppe
 
