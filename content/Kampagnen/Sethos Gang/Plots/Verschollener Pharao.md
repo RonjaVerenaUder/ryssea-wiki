@@ -21,7 +21,7 @@ Pharao [[Rehotep]] ist auf einer Expedition verschollen. Die Expedition führte 
 
 - [[Rehotep]] — Der verschollene Pharao
 - [[Sethos]] — Sein Sohn, sucht nach ihm
-- Amenei — Horusgardist, war bei der Expedition dabei, wurde verwundet aufgefunden
+- [[Amenei]] — Offizier der Marine, war bei der Expedition dabei, wurde verwundet aufgefunden
 - Kaarsi-Priesterschaft — Haben die Expedition vermutlich verraten
 
 ## Relevante Orte
