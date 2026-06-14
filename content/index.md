@@ -49,7 +49,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 ## Charaktere
 
 ### Nebelkinder
-- [[Charaktere/Helden/Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
+- [[Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
 - [[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
 - [[Charaktere/Helden/Nebelkinder/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
 - [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] — Phaerie-Priester des Amun (Christoph, archiviert)

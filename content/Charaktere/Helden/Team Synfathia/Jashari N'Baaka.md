@@ -195,7 +195,7 @@ Kleidung aus dem [[Tempel des fließenden Schwertes]].
 
 Vernunftbegabter Vertrauter, Feuerelementar. Jash' erste Verbindung zu [[Rhaige]]. Die Begegnung war ein Zufall: Jash stieß im Wald auf einen Flammengeist — [[Willow]] — und die beiden fanden zueinander. Seitdem unterstützt Willow Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen. Ändert gelegentlich seine Form (zuletzt eine Fuchs/Hippo/Löwe-Mischung).
 
-Willows erste Unterkunft war ein kleines Glas, in dem er bei Regen Schutz gefunden hat. Heute nennt er eine kleine Geldkatze an Jashs Gürtel sein Eigen. Bei Regen verwandelt sich Willow in eine Art Glas-Form — vermutlich um sich vor dem Wasser zu schützen.
+Willows erste Unterkunft war ein kleines Glas, in dem er bei Regen Schutz gefunden hat. Heute nennt er eine kleine Geldkatze an Jashs Gürtel sein Eigen.
 
 ### Geierartiges Federvieh
 
@@ -236,7 +236,7 @@ Jash bevorzugt schnelle, effiziente Sturmangriffe. Je nach Situation überfällt
 - **[[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana]]** — Versteht sich gut mit ihr, hat Respekt vor Dana als Anführerin. Merkt man nicht sofort, aber sie vertraut Dana und folgt ihrer Führung.
 - **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Sparringspartner und Kampfkamerad. Die beiden verstehen sich auf einer direkten, unkomplizierten Ebene. Wenig Worte, viel gegenseitiger Respekt.
 - **[[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]]** — Enge Vertrauensperson. Yuliya ist die einzige, die von Jashs Brandzeichen weiß. Jash fühlt sich bei ihr sicher genug, um Schwäche zu zeigen.
-- **[[Charaktere/Helden/Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
+- **[[Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
 - **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, ist ihm gegenüber aber misstrauisch. Er hat still danebengestanden als es um ihre Vergangenheit ging — das hat sie nicht vergessen.
 
 ### Zu NPCs
