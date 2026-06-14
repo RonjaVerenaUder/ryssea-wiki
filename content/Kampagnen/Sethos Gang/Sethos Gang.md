@@ -98,6 +98,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 
 1. [[Spieltag 001 - Der Weg zur Quelle]] — 29.03.26 (gespielt)
 2. [[Spieltag 002 - Der Hinterhalt]] — gespielt
+3. [[Spieltag 003 - Das Herz des Reiches]] — 14.06.26 (vorbereitet)
 
 ### Spieler-Chroniken (Tagebuch der Helden — Abenteuer 012)
 

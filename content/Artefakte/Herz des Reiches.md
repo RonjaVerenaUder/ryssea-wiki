@@ -160,6 +160,71 @@ Jede temporäre Segnung hat Basiskosten für **10 Minuten**. Längere Dauer mult
 | **Hauptstadt designieren** | Eine Stadt als Hauptstadt festlegen. **Alle Kosten in der Hauptstadt sind halbiert.** Einmalige Vergabe — Umzug der Hauptstadt ist möglich, aber extrem teuer. |
 | **Fraktaltoken-Ausbau**    | Spieler setzen Fraktaltoken ein um Basen mit Gebäuden, Befestigungen und Buffs auszubauen und landweberisch zu verankern. Landweber muss vor Ort anwesend sein. |
 
+#### Gebäude und Strukturen (Fraktaltoken-Ausbau)
+
+Alle Gebäude erfordern eine Stelen-gesicherte Zone und die Anwesenheit des Landwebers beim Bau.
+
+**Militär & Verteidigung:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Kaserne** | Ermöglicht Rekrutierung und Training von Truppen vor Ort; Truppen erhalten Grundausbildungs-Bonus | 2 |
+| **Wachturm** | Frühwarnung bei feindlicher Annäherung; erhöht Sichtweite auf der Karte im Umkreis | 1 |
+| **Befestigungsmauer** | Verteidigungsbonus für den gesamten Stelen-Bereich; erschwert feindlichen Durchbruch | 2 |
+| **Waffenkammer** | Truppen und Verbündete im Bereich erhalten Ausrüstungsbonus; Reparatur beschädiger Ausrüstung | 1 |
+| **Kriegsrat-Halle** | Taktische Planung: Bonus auf Strategie-Proben; erlaubt Fernkoordination zwischen Stelen-Bereichen | 2 |
+
+**Handwerk & Produktion:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Schmiede** | Herstellung und Verbesserung von Waffen und Rüstungen; permanenter Handwerksbonus | 2 |
+| **Alchemisten-Labor** | Herstellung von Tränken, Giften und Gegengiften; Zugang zu seltenen Rezepturen | 2 |
+| **Werkstatt** | Allgemeine Herstellung und Reparatur; Bau von Belagerungsgerät oder Fahrzeugen | 1 |
+| **Weberei / Enchanter-Werkstatt** | Verzauberung von Gegenständen; Landweber-verstärkte Herstellung | 3 |
+| **Vorratslager** | Erhöht Ressourcenkapazität; Vorräte halten länger; Versorgung bei Belagerung gesichert | 1 |
+
+**Wissen & Magie:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Bibliothek** | Bonus auf Wissensproben; Zugang zu historischen Informationen; beschleunigt Chepreh-Erinnerungen im Bereich | 2 |
+| **Tempel** | Göttlicher Segen im Bereich; Heilungsbonus; Priester können Rituale durchführen | 2 |
+| **Observatorium** | Erweiterte Karten-Sicht; Bonus auf Astronomie/Navigation; erleichtert Portalreise-Berechnungen | 2 |
+| **Landweber-Akademie** | Ausbildung von Landweber-Gehilfen; beschleunigt Stelen-Rituale; Forschung an Landweber-Techniken | 3 |
+| **Archiv** | Speichert Dokumente und Entdeckungen dauerhaft; Wissen geht nicht verloren wenn Personen fallen | 1 |
+
+**Versorgung & Infrastruktur:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Marktplatz** | Handelsbonus; zieht Händler und Ressourcen an; Einkommen für den Bereich | 1 |
+| **Heilhaus** | Beschleunigte Heilung für alle im Bereich; Behandlung von Gift und Krankheiten | 2 |
+| **Krankenhaus** | Großes Heilzentrum; behandelt schwere Verletzungen, Seuchen und Flüche; permanente Heiler vor Ort | 3 |
+| **Karawanserei** | Raststätte für Reisende; Informationsquelle; zieht NPCs und Gerüchte an | 1 |
+| **Aquädukt** | Wasserversorgung über größere Distanz; verbindet zwei Stelen-Bereiche; Landwirtschaftsbonus | 2 |
+| **Stallungen** | Reittiere und Lasttiere; schnellere Truppenverlegung innerhalb des Bereichs; Zucht möglich | 1 |
+
+**Öffentliches Leben & Kultur:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Parkanlage** | Erholung und Moral; beschleunigte Regeneration; Bevölkerungszufriedenheit steigt | 1 |
+| **Öffentliche Bäder** | Gesundheitsbonus für alle im Bereich; sozialer Treffpunkt; reduziert Seuchenrisiko | 1 |
+| **Schule** | Ausbildung der Bevölkerung; Bonus auf Wissens- und Handwerksproben im Bereich; zieht Gelehrte an | 2 |
+| **Arena** | Training und Wettkämpfe; Rekrutierungsbonus; Moralbonus; zieht Krieger und Söldner an | 2 |
+| **Gartenanlage** | Landweber-verstärkter Garten; Nahrungsproduktion, seltene Kräuter und Heilpflanzen | 1 |
+
+**Besondere Strukturen:**
+
+| Gebäude | Wirkung | Fraktaltoken |
+|---------|---------|--------------|
+| **Webtor-Anker** | Stabilisiert ein Webtor im Bereich; macht Portalreisen sicherer und günstiger | 3 |
+| **Stelenverstärker** | Verdoppelt den Wirkradius der Stelen im Bereich; reduziert Kosten für Segnungen | 3 |
+| **Spionage-Netzwerk** | Informationen über feindliche Bewegungen in angrenzenden Bereichen; Gegenspionage | 2 |
+| **Monument** | Moralbonus für Verbündete; zieht Siedler an; stärkt den Weltenwillen im Bereich | 1 |
+| **Gefängnis** | Sichere Unterbringung von Gefangenen; Verhör-Möglichkeit; verhindert Befreiungsversuche | 1 |
+
 ### 6. Historische Schicht (Cheprehs Erinnerungen)
 
 Das Pyramidion enthält eine Erinnerungsebene aus der Zeit von [[Chepreh]] und [[Ram'Aches]]. Wird sie aktiviert, überlagert die Karte das heutige Baryia mit dem Baryia von damals:
