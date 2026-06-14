@@ -23,6 +23,10 @@ Ein kleines goldenes Pyramidion, bedeckt mit uralten Symbolen. Erbaut von [[Chep
 | **Bedienung**  | Nur durch einen [[Landweber]]                                    |
 | **Energiequelle** | Schicksalspunkte (SP)                                         |
 
+## Fraktaltoken-Regel
+
+Fraktaltoken werden als **W6** ausgegeben. Beim Einsatz eines Tokens wird der Würfel geworfen — wird eine **4** gewürfelt, gilt das als **Bonus**: Was auch immer damit errichtet oder gemacht wurde, erhält eine Aufwertung. Die konkrete Aufwertung wird im Gespräch zwischen Spieler und Spielleitung festgelegt.
+
 ## Herkunft
 
 Pharao [[Rehotep]] fand das Pyramidion während seiner Expedition in [[Unter-Baryia]]. [[Amenei]], der die Expedition überlebte, brachte es zurück. Es gelangte über ihn zu [[Sethos]] — dem einzigen aktiven Landweber, der es bedienen kann.
