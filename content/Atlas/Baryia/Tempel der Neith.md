@@ -1,11 +1,11 @@
 ---
 tags: [ort, tempel]
 typ: tempel
-status: entwurf
+status: fertig
 splitter: "[[Baryia (Splitter)]]"
 region: "[[U-Maat-Re-Ka]]"
 kampagne: "Sethos Gang"
-quelle: "Chronik 007–010, Spieltag 001 Sethos Gang"
+quelle: "Chronik 007–011, Spieltag 001–002 Sethos Gang"
 publish: true
 ---
 
@@ -36,15 +36,17 @@ Reich verziert und schön gestaltet, aber über die Jahre vernachlässigt und te
 
 - **Horuswächter-Golem** — 2,5 m großer Golem, bewachte den Eingang. Von der Gruppe ausgeschaltet; ein Golemherz wurde von [[Kamaleon|Kama]] geborgen (enthält die Seele eines Seth-Geweihten)
 - **Verankertes Portal** — [[Sethos]] hat den Zugang aktiviert
-- **Innerste Kammer** — [[Neitha]] bereitet ein Ritual zur Öffnung vor
+- **Innerste Kammer** — geöffnet; [[Neith]] kehrt zurück; Webtor-Aktivierung steht noch aus
+- **Quelle** — Nach Neiths Rückkehr entspringt dem Tempel eine Quelle; das Wasser reinigt alle Hallen, fließt in die Wüste und lässt eine Oase entstehen
 
 ## Aktuelle Situation
 
-- Von der Gruppe teilweise gesäubert (Stand: Chronik 010)
-- Kaarsi-Forschung zu [[Seuche der Landweber]] und Golem-Bau entdeckt
-- Seth-Geweihte wurden systematisch hierher gebracht und als Golemherz-Seelen genutzt
-- Hinterhalt auf die eintreffende Horus-Delegation in Vorbereitung
-- Wacheinheit (Azim, Kobesch, Citi u.a.) kooperiert widerstrebend
+- Tempel zurückerobert (Spieltag 002) — alle 4 Kaarsi-Priester und beide Konstrukte vernichtet
+- [[Neith]] kehrt als göttliche Präsenz zurück; Quelle, Oase, Reinigung aller Räume
+- Neithas Mutter (Nabirye-nebt-Neith) und Großmutter (Neishem-is-maut) übernehmen Tempelaufsicht und Wiederaufbau
+- [[Amenei]] befreit und nach Hause gebracht
+- Webtor-Aktivierung: nächster Schritt, noch nicht ausgeführt
+- Kaarsi-Forschung zu [[Seuche der Landweber]] und Golem-Bau entdeckt (Stand: Chronik 010); Unterlagen bei der Gruppe
 
 ## Verknüpfungen
 

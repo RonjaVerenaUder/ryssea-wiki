@@ -7,7 +7,7 @@ abenteuer: "[[Abenteuer 012 - Der Weg zur Quelle]]"
 datum_gespielt: ""
 ingame_datum: ""
 orte: ["[[Tempel der Neith]]"]
-status: vorbereitet
+status: gespielt
 ---
 
 # Spieltag 002 – Der Hinterhalt

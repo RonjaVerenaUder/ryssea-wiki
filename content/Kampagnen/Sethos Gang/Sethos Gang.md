@@ -37,6 +37,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 - Götter greifen aktiv ein (Konsequenzen zeigen!)
 - Zeit im Reich läuft neben der Kampagne weiter
 - Unterplots der Spieler nicht vergessen
+- **Krit-Pool** (eingeführt Spieltag 002, vorläufig): Wenn ein Spieler einen natürlichen Krit würfelt (11 & 12), erhält die Gruppe einen Pool. Muss vor dem Wurf angesagt werden. 1 Punkt: +1 SW | 2 Punkte: +1 Würfel | 3 Punkte: +1 EG | 5 Punkte: Krit
 
 ## Spielercharaktere
 
@@ -75,11 +76,11 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 
 ## Aktive Plotfäden
 
-- [[Einfluss von Kaarsi]] — Hauptplot; Kaarsi-Armee bei Bech'Amet zurückgeschlagen; Schattenmagier entkommen; Golem-Herzen-Mechanik bekannt und Gegenmaßnahme (Verbrennen) etabliert
+- [[Einfluss von Kaarsi]] — Hauptplot; Kaarsi-Priesterschaft am Neith-Tempel vernichtet; Kaarsi-Armee bei Bech'Amet zurückgeschlagen; Schattenmagier entkommen; Golem-Herzen-Mechanik bekannt; 2. Boss / Hohepriester: Verbleib unbekannt
 - [[Krieg Baryia vs Taskasia]] — Kaarsi-Armee greift offen an; Karasim weiterhin gefallen
-- [[Verschollener Pharao]] — Rehotep weiter verschollen; [[Mes'Atemu]] agiert zunehmend eigenmächtig als Regent
+- [[Verschollener Pharao]] — Rehotep weiter verschollen; [[Amenei]] befreit, erholt sich bei der Familie; Befragung steht noch aus; [[Mes'Atemu]] agiert zunehmend eigenmächtig als Regent
 - [[Seuche der Landweber]] — Akute Bedrohung: Sethos hat seine Landweber-Fähigkeiten offen eingesetzt (Disharmonie-Wahrnehmung, Schattenreinigung) — er ist jetzt ein aktives Ziel
-- [[Webtore]] — Neuentwicklung: Cheprehs Mumie (Empathie/Persönlichkeits-Teil) von Sethos aus Bech'Amet geborgen; Rückführung nach Aziza als nächster Schritt
+- [[Webtore]] — Tempel der Neith zurückerobert, Neith kehrt zurück; Aktivierung als nächster Schritt offen; Cheprehs Mumie (Empathie/Persönlichkeits-Teil) von Sethos geborgen; Rückführung nach Aziza als weiterer Schritt
 
 ## Verknüpfungen
 
@@ -96,7 +97,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 ### GM-Spieltage (Vorbereitung & Protokoll)
 
 1. [[Spieltag 001 - Der Weg zur Quelle]] — 29.03.26 (gespielt)
-2. [[Spieltag 002 - Der Hinterhalt]] — offen (vorbereitet)
+2. [[Spieltag 002 - Der Hinterhalt]] — gespielt
 
 ### Spieler-Chroniken (Tagebuch der Helden — Abenteuer 012)
 
@@ -110,6 +111,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 - [[Chronik 008 - Betreten des Neith-Tempels]] — 27.07.25
 - [[Chronik 009 - Tempel der Neith und der vergiftete Bruder]] — 16.11.25
 - [[Chronik 010 - Vorbereitung des Hinterhalts]] — 29.03.26
+- [[Chronik 011 - Neithas Aufzeichnungen]] — (Datum offen)
 
 ## Notizen
 

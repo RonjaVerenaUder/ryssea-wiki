@@ -57,6 +57,7 @@ publish: true
 - [[Abenteuer 001 - Missing Cat|Missing Cat]] — Erster Kontakt: Golem-Herz bei [[Tamaklast]] entdeckt, Kaarsi-Unterwanderung in den Askasi-Stämmen aufgedeckt
 - [[Spieltag 001 - Der Weg zur Quelle]] — Kaarsi-Priesterschaft am Neith-Tempel; Experimente mit der Seuche der Landweber entdeckt
 - [[Abenteuer 004 - Schlacht um Bech'Amet]] — Erste offene Feldschlacht: Kaarsi-Armee mit Golem-Herzen und Schattenmagi greift Bech'Amet an; zurückgeschlagen; Gegenmaßnahme Verbrennen etabliert; Schattenmagier geflohen; Cheprehs Mumie (Kaarsi-Operation) von Sethos geborgen
+- [[Spieltag 002 - Der Hinterhalt]] — Kaarsi-Priesterschaft am [[Tempel der Neith]] vollständig vernichtet: alle 4 Priester und beide Konstrukte zerstört; 2. Boss / Hohepriester nicht erschienen, Verbleib unbekannt
 
 > [!warning]- Spoiler: Nächste Entwicklungen
 > - Kaarsis Einfluss breitet sich weiter aus

@@ -133,6 +133,9 @@ Aus [[Chepreh]]s Pyramide — die gesamte Gruppe die an der Erkundung teilnahm e
 ### Gebundener Dolch
 Ein Dolch der ausschließlich von Neitha genutzt werden kann — und der ihr ebenfalls Zugang zu den inneren Bereichen von Cheprehs Pyramide gewährt.
 
+### Geweihte Glefe der Neith
+Von [[Neith]] persönlich überreicht in einer göttlichen Vision nach der Rückeroberung des [[Tempel der Neith|Neith-Tempels]] (Spieltag 002). Neith bat Neitha, sie zu ihren Ehren zu führen. → [[Artefakte/Geweihte Glefe der Neith|Geweihte Glefe der Neith]]
+
 ## Begleiter & Vertraute
 
 Keine.
@@ -191,7 +194,8 @@ Neitha kämpft mit der Glefe als bevorzugte Waffe. Sie kämpft nicht aus dem Hin
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Stieß neu zur Gruppe und wurde als Offizier der [[Horusgarde]] aufgenommen. Begleitete die Gruppe auf die [[Insel der Nebel]] in der [[Traumebene]]. Lernte [[Am-Ken'Rei]] kennen. Verwahrt seitdem den [[Verwandlungstalisman]] der Gruppe. Besuchte ihre Familie in [[U-Maat-Re-Ka]] und erfuhr von der Existenz des [[Neith-Geheimbund]]s; erhielt von ihrem Vater [[Jumoke]] den Auftrag, den entweihten [[Tempel der Neith]] zu untersuchen. Bannte kurz den Golem im Kampf. Identifizierte den vergifteten Gefangenen als ihren Bruder [[Amenei]]. Plant gemeinsam mit der Gruppe einen Hinterhalt und bereitet ein Ritual vor.
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Stieß neu zur Gruppe und wurde als Offizier der [[Horusgarde]] aufgenommen. Begleitete die Gruppe auf die [[Insel der Nebel]] in der [[Traumebene]]. Lernte [[Am-Ken'Rei]] kennen. Verwahrt seitdem den [[Verwandlungstalisman]] der Gruppe. Besuchte ihre Familie in [[U-Maat-Re-Ka]] und erfuhr von der Existenz des [[Neith-Geheimbund]]s; erhielt von ihrem Vater [[Jumoke]] den Auftrag, den entweihten [[Tempel der Neith]] zu untersuchen. Bannte kurz den Golem im Kampf. Identifizierte den vergifteten Gefangenen als ihren Bruder [[Amenei]]. Bereitete gemeinsam mit der Gruppe den Hinterhalt vor.
+- **Spieltag 002 – Der Hinterhalt** — Führte die Gruppe in den Kampf gegen die Kaarsi-Priester am [[Tempel der Neith]]. Erhielt [[Korellian|Kores]] Segen durch [[Tak'Anshurr|Tak]] und spürte [[Amenei]]s Gegenwart; ein Schattenpanther begleitete sie in den Kampf. Tötete einen kampfunfähigen Gefangenen (Neiths Gnade). Erlebte Seelenheilung durch Tak. Nach dem Sieg: [[Neith]]s Rückkehr in den Tempel, Quelle, Oase — tanzte zu [[Sethos]]' Gesang. Göttliche Vision: Neith erscheint persönlich und überreicht ihr die [[Artefakte/Geweihte Glefe der Neith|geweihte Glefe]]. Brachte [[Amenei]] nach Hause zur Familie. Quelle: [[Chronik 011 - Neithas Aufzeichnungen]].
 
 ## Notizen
 

@@ -7,7 +7,7 @@ heimat: "[[U-Maat-Re-Ka]]"
 fraktion: "[[Horusgarde]]"
 lebendig: true
 kampagne: "Sethos Gang"
-quelle: "Spieltag 001 Sethos Gang, Chronik 009–010"
+quelle: "Spieltag 001–002 Sethos Gang, Chronik 009–011"
 publish: true
 ---
 
@@ -34,7 +34,7 @@ Amenei wurde gezielt am Leben gehalten. Warum, ist noch unklar.
 
 ## Aktueller Status
 
-Vergiftet und als Gefangener in der Obhut einer Horus-Delegation, die zum [[Tempel der Neith]] unterwegs ist. [[Amila]] und [[Kamaleon|Kama]] haben ein Gegengift vorbereitet.
+Befreit (Spieltag 002). Gegengift verabreicht durch [[Amila]]. Erholt sich auf dem Familienanwesen in [[U-Maat-Re-Ka]], gepflegt von Mutter Nabirye-nebt-Neith und Großmutter Neishem-is-maut. Noch nicht stabil genug für eine Befragung — Expeditionsbericht, Verrat und Weg zur [[Quelle des Lebens]] stehen noch aus.
 
 ## Beziehungen
 
