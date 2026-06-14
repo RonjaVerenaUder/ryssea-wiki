@@ -154,6 +154,7 @@ Jede temporäre Segnung hat Basiskosten für **10 Minuten**. Längere Dauer mult
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------- |
 | **Torübersicht**                | Zeigt alle festen Landweber-Tore in sichtbaren Bereichen — aktive UND deaktivierte                           | ¼                            |
 | **Landwebe-Koordinaten**        | Gibt einem Landweber Koordinaten für stabile Portalreisen über weite Distanzen, auch ohne festes Tor         | ½                            |
+| **Gruppenreise** | Transport einer fest definierten Gruppe (max. 10 Personen). Meisterschaft Landweber Stufe 3. Die Gruppe muss beim Erwerb der Meisterschaft festgelegt werden — es dürfen Mitglieder fehlen, aber keine spontan hinzugefügt werden. | 1 |
 | **Gruppenportal (Kleingruppe)** | Transport einer Kleingruppe. Meisterschaft, erfordert Heldenstufe 4.                                         | 1 + ¼ pro zusätzliche Person |
 | **Gruppenportal (Truppe)**      | Transport ganzer Truppen. Meisterschaft, erfordert Heldenstufe 5. Kostet zusätzlich Fraktaltoken pro Gruppe. | 2 + Fraktaltoken             |
 
@@ -208,6 +209,8 @@ Alle Gebäude erfordern eine Stelen-gesicherte Zone und die Anwesenheit des Land
 | **Karawanserei** | Raststätte für Reisende; Informationsquelle; zieht NPCs und Gerüchte an | 1 |
 | **Aquädukt** | Wasserversorgung über größere Distanz; verbindet zwei Stelen-Bereiche; Landwirtschaftsbonus | 2 |
 | **Stallungen** | Reittiere und Lasttiere; schnellere Truppenverlegung innerhalb des Bereichs; Zucht möglich | 1 |
+| **Hafen** | Schiffsverkehr und Handel über Wasserwege; ermöglicht Truppentransport per Fluss/See; Fischereiertrag | 2 |
+| **Nachrichtenturm** | Schnelle Kommunikation zwischen Stelen-Bereichen; Botschaften erreichen verbundene Türme sofort; Frühwarnung bei Angriffen auf Nachbarbereiche | 1 |
 
 **Öffentliches Leben & Kultur:**
 

@@ -276,7 +276,9 @@ Keine direkten Kampfgegner geplant — diese Session ist Rollenspiel, Entdeckung
 
 ## Live-Notizen
 
-
+- alles was niemand haben soll, wird hinter die wand zum landwebe portal gestellt
+- Neitha lässt ihre familie für die da sationierten soldaten von leina essen mitgeben
+- 
 
 ---
 
