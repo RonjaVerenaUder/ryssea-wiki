@@ -29,8 +29,6 @@ Organisationen, Reiche, Gilden und Bündnisse die in Ryssea aktiv sind.
 
 - [[Kultisten des Weltenfressers]]
 - [[Weise Raben]] — Geheimorganisation auf [[Sultannii]]
-- [[Zeitgeheimbund]] — Geheimbund in [[U-Maat-Re-Ka]]; verfügt über Zeitwissen; angeführt von Jumoke (Vater von [[Neitha]])
-- [[Neith-Geheimbund]] — Bewahrer der Neith-Überlieferungen in [[U-Maat-Re-Ka]]; angeführt von Neithas Mutter und Großmutter
 
 ## Rebellengruppen
 

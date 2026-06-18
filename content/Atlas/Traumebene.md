@@ -26,7 +26,3 @@ Die Traumebene besteht aus reiner Elementarkraft. Dämonen ernähren sich von de
 ## Beziehung zur Elementarebene
 
 Dämonen können in die Träume von Wesen der Elementarebene reisen. Wesen mit der Gabe des [[Magische Gaben|Traumwebens]] können bewusst auf die Traumebene einwirken.
-
-## Bekannte Orte auf der Traumebene
-
-- [[Insel der Nebel]] — Verödete, dunkle Insel; erreicht über einen [[Kuresi]]-Altar von [[Amila]]; beherbergt eine verletzte Riesenschildkröte

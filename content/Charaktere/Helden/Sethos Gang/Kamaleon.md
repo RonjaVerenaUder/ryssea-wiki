@@ -138,7 +138,7 @@ Kämpft mit Infanteriewaffen — spezialisiert auf die Sense. Als Nekromant verm
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Besorgte Boote für die Reise der Gruppe zur Gauhauptstadt. Erhielt ein [[Portalamulett]] nach der Erkundung von [[Chepreh]]s Pyramide. Kämpfte entscheidend gegen den Lich und trug zur Befreiung der Gau bei. Entdeckte in der Beute ein Buch über den [[Weltenfresser]]. Untersuchte das Golemherz und seine mystischen Eigenschaften. Reiste mit [[Sethos]] auf die Traumebene um eine befreite Seth-Seele zu befragen. Besetzte den Golem neu. Braute das Gegengift für den vergifteten [[Amenei]].
+<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
 
 ## Notizen
 

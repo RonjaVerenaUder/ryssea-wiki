@@ -22,8 +22,7 @@ tags: [meta]
 - [ ] Baryia: Fehlende Namen klären (großer Fluss, Vulkangebirge, Krater)
 
 ### Kampagnen
-- [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen (Abenteuer 001–011 noch offen; 012 ist befüllt)
-- [ ] Sethos Gang: Gauhauptstadt auf dem Weg nach U'Maat-Reka — Name vergeben und Ort-Notiz anlegen (bisher Platzhalter in NSC-Übersicht)
+- [ ] Sethos Gang: Bestehende Abenteuer aus altem Vault (Ryssea_Obsidian) als Abenteuer-Notizen einpflegen
 - [ ] Nebelkinder: Abenteuer-Notizen mit Abenteuer-Template aktualisieren
 - [x] Team Synfathia: Spielertagebuch "Staub und Sterne" einpflegen (14 Spieltage)
 - [ ] Team Synfathia: Rhiannoc als SC-Notiz anlegen (Infos von Ronja ausstehend)
@@ -100,7 +99,7 @@ Notizen die angelegt aber noch nicht befüllt sind:
 - [[Ameni]] — Schreiber und Kindheitsfreund von Sethos
 
 ### Götter
-- [[Reykon]] — Götterfürst des fraystainischen Pantheons; die anderen 5 Götter des fraysteinischen Pantheons noch zu benennen
+- [[Reykon]] — Götterfürst des fraystainischen Pantheons
 - [[Yatralian]] — Gott der Landweber bei den Kyulie
 - [[Der Große Kyubie]] — Hauptgott der Kyulie (= Mikayrion)
 
@@ -180,8 +179,6 @@ Notizen die angelegt aber noch nicht befüllt sind:
 
 ### Fraktionen (Fraystein)
 - [[Weiße Gilde]] — Magierorganisation in Fraystein
-- [[Greifenakademie]] — Magierakademie in Greifenstein (Kurzname; Langname noch offen)
-- [[Sonnenlegion]] — Reykon-Fraktion; von Dana skeptisch beäugt
 
 ### Fraktionen (Team Synfathia)
 - [[Eyrial]] — Rebellen auf Sultannii

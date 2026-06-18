@@ -105,216 +105,255 @@ Jeder Schwerpunkt kostet **5 Abenteuerpunkte** und kann pro Heldenstufe einmal g
 
 ### Allgemeine Talente
 
-**Akrobatik** (BW+KK): akrobatische Vorführung, Ausweichen, Balancieren, Entfesseln, Körperformen, Kunststücke, Sturz abfangen
+**Akrobatik** (BW+KK+ENT): akrobatische Vorführung, Ausweichen, Balancieren, Entfesseln, Körperformen, Kunststücke, Sturz abfangen
 
-**Anführen** (CH+IN): Einschüchtern, Flammende Rede, Koordinieren, Moral, Taktik, Schlachtpläne, Einsatzgruppe
+**Anführen** (CH+IN+ENT): Einschüchtern, Flammende Rede, Koordinieren, Moral, Taktik, Schlachtpläne, Einsatzgruppe
 
-**Athletik** (BW+KK): Bergsteigen, Eisklettern, Freiklettern, Kraftakt, Langlauf, Seilklettern, Springen, Sprinten, Werfen
+**Athletik** (BW+KK+KO): Bergsteigen, Eisklettern, Freiklettern, Kraftakt, Langlauf, Seilklettern, Springen, Sprinten, Werfen
 
-**Darbietung** (CH+ENT): Bauchreden, Dichtkunst, Feuerkunst, Gaukelei, Öffentliche Rede, Schauspielerei, Stimmenimitation, Tanzen, Verkleiden
+**Darbietung** (CH+ENT+FF): Bauchreden, Dichtkunst, Feuerkunst, Gaukelei, Öffentliche Rede, Schauspielerei, Stimmenimitation, Tanzen, Verkleiden
 
-**Etikette** (KO+CH): Gasse, Bürgertum, Adel, Tanzen, Konversation, Manieren, Anreden, bestimmte Kultur
+**Etikette** (KO+CH+LG): Gasse, Bürgertum, Adel, Tanzen, Konversation, Manieren, Anreden, bestimmte Kultur
 
-**Fliegen** (BW+IN): Langstrecke, Sturzflug, Gleiten, Rüttelflug, Heben
+**Fliegen** (BW+IN+KO): Langstrecke, Sturzflug, Gleiten, Rüttelflug, Heben
 
-**Heimlichkeit** (BW+IN): Beschatten, Gegenstand verstecken, Hinterhalt, Information sammeln, Natürliche Umgebung, Schleichen, Spuren verwischen, Städtische Umgebung, Tarnen, Verstecken
+**Heimlichkeit** (BW+IN+ENT): Beschatten, Gegenstand verstecken, Hinterhalt, Information sammeln, Natürliche Umgebung, Schleichen, Spuren verwischen, Städtische Umgebung, Tarnen, Verstecken
 
-**Jagdkunst** (KO+IN): Fallen stellen, Spurensuche, einzelne Spezies (Bärenartige, Fisch, Großwild, Hundeartige, Insekt, Katzenartige, Kleinwild, Reptil, Spinnentier, Vogel), Verarbeitung
+**Jagdkunst** (KO+IN+FF): Fallen stellen, Spurensuche, einzelne Spezies (Bärenartige, Fisch, Großwild, Hundeartige, Insekt, Katzenartige, Kleinwild, Reptil, Spinnentier, Vogel), Verarbeitung
 
-**Lehren** (LG+CH): Kampf, Wissen, Handwerk, Allgemein, Sprachen & Schriften, Magie
+**Lehren** (LG+CH+IN): Kampf, Wissen, Handwerk, Allgemein, Sprachen & Schriften, Magie
 
-**Menschenkenntnis** (IN+LG): Beruhigen, Lügen erkennen, Motivation erkennen, Persönlichkeit einschätzen, nach Rasse
+**Menschenkenntnis** (IN+LG+CH): Beruhigen, Lügen erkennen, Motivation erkennen, Persönlichkeit einschätzen, nach Rasse
 
-**Musizieren** (CH+FF): Instrumentenart (Instrument), Komposition, Singen (allgemein), Singen (Ballade), Singen (Chor), Singen (Mehrstimmig), Singen (Oper)
+**Musizieren** (CH+FF+KO): Instrumentenart (Instrument), Komposition, Singen (allgemein), Singen (Ballade), Singen (Chor), Singen (Mehrstimmig), Singen (Oper)
 
-**Pflanzen sammeln** (KO+IN): Nahrungssuche, Kräutersuche/Zutaten sammeln
+**Pflanzen sammeln** (KO+IN+FF): Nahrungssuche, Kräutersuche/Zutaten sammeln
 
-**Redegewandtheit** (CH+ENT): Aufwiegeln, Betteln, Bekehren, Einschüchtern, Feilschen, Lügen & Betrügen, Öffentliche Rede, Predigen, Überreden, Verführen, Verhandeln, Verhör
+**Redegewandtheit** (CH+IN+LG): Aufwiegeln, Betteln, Bekehren, Einschüchtern, Feilschen, Lügen & Betrügen, Öffentliche Rede, Predigen, Überreden, Verführen, Verhandeln, Verhör
 
-**Schlösser und Fallen** (IN+FF): Fallen entdecken, Fallen entschärfen, Fallen konstruieren, Mechanik, Schlösser öffnen, Fallenart
+**Schlösser und Fallen** (IN+FF+FF): Fallen entdecken, Fallen entschärfen, Fallen konstruieren, Mechanik, Schlösser öffnen, Fallenart
 
-**Schwimmen** (KO+KK): Kurzstrecke, Langstrecke, Tauchen, Wasser treten, Wasserkampf
+**Schwimmen** (KO+KK+BW): Kurzstrecke, Langstrecke, Tauchen, Wasser treten, Wasserkampf
 
-**Selbstbeherrschung** (CH+ENT): Beherrschungsmagie widerstehen, Besessenheit widerstehen, Furcht widerstehen, Prinzipien einhalten, Redegewandtheit widerstehen, Schlechte Eigenschaft widerstehen, Unterbrechungen widerstehen
+**Selbstbeherrschung** (CH+ENT+KO): Beherrschungsmagie widerstehen, Besessenheit widerstehen, Furcht widerstehen, Prinzipien einhalten, Redegewandtheit widerstehen, Schlechte Eigenschaft widerstehen, Unterbrechungen widerstehen
 
-**Sinnenschärfe** (IN+LG): Durchsuchung, Hinterhalte, Hören, Riechen, Schmecken, Sehen, Tasten
+**Sinnenschärfe** (IN+LG+IN): Durchsuchung, Hinterhalte, Hören, Riechen, Schmecken, Sehen, Tasten
 
-**Straßenkunde** (IN+CH): bestimmte Stadt, Gerüchte, Information sammeln, Orientierung, Schwarzmarkt, Spurensuche, Tatorte, Zurechtfinden
+**Straßenkunde** (IN+CH+LG): bestimmte Stadt, Gerüchte, Information sammeln, Orientierung, Schwarzmarkt, Spurensuche, Tatorte, Zurechtfinden
 
-**Taschendiebstahl** (IN+FF): Beutelschneider, Gegenstand entwenden, Ablenkungsmanöver
+**Taschendiebstahl** (IN+FF+ENT): Beutelschneider, Gegenstand entwenden, Ablenkungsmanöver
 
-**Tierführung** (CH+BW): Abrichten, einzelne Tierart, Fahrzeug lenken, Reiten (Boden), Reiten (Luft), Reiten (Wasser), Reiten (unter Wasser), Tier beruhigen, Tier einschüchtern
+**Tierführung** (CH+BW+KK): Abrichten, einzelne Tierart, Fahrzeug lenken, Reiten (Boden), Reiten (Luft), Reiten (Wasser), Reiten (unter Wasser), Tier beruhigen, Tier einschüchtern
 
-**Tricksereien** (CH+FF): Entfesseln, Falschspiel, Fesseln, Taschenspielertricks
+**Tricksereien** (CH+FF+ENT): Entfesseln, Falschspiel, Fesseln, Taschenspielertricks
 
-**Wildnisleben** (IN+KO): Feuer entzünden, Lagerbereitung, Lagerplatz finden, Orientierung, Wettervorhersage, Wildnisführung
+**Wildnisleben** (IN+KO+BW): Feuer entzünden, Lagerbereitung, Lagerplatz finden, Orientierung, Wettervorhersage, Wildnisführung
 
-**Zähigkeit** (KO+ENT): Erschöpfung widerstehen, Gift widerstehen, Krankheiten widerstehen, Zaubern widerstehen, Zechen
+**Zähigkeit** (KO+ENT+KK): Erschöpfung widerstehen, Gift widerstehen, Krankheiten widerstehen, Zaubern widerstehen, Zechen
 
 ---
 
 ### Wissenstalente
 
-**Architektur und Baukunst** (LG+FF): Baupläne/Statik, Grundrisse, Epoche, Stilrichtung, Wohnungsbau, Tempelbau, Tiefbau, Wehranlagen, Straßenbau (auch Brücken und Kanäle), Unterwasserbau, Schwebebau
+**Architektur und Baukunst** (LG+FF+LG): Baupläne/Statik, Grundrisse, Epoche, Stilrichtung, Wohnungsbau, Tempelbau, Tiefbau, Wehranlagen, Straßenbau (auch Brücken und Kanäle), Unterwasserbau, Schwebebau
 
-**Arkanologie** (LG+IN): nach Magierichtung, Artefakte, Elementartheorie, Magiehistorie, Magietheorie, Spruchwerkstatt, Magische Analyse, Webtore, Landweben, Traumweben, Spiegelweben, Magische Kreaturen, Magische Phänomene, Nebel, magische Orientierung, Rituale, Symbole, Wahrsagung, Zaubersprüche
+**Arkanologie** (LG+IN+LG): nach Magierichtung, Artefakte, Elementartheorie, Magiehistorie, Magietheorie, Spruchwerkstatt, Magische Analyse, Webtore, Landweben, Traumweben, Spiegelweben, Magische Kreaturen, Magische Phänomene, Nebel, magische Orientierung, Rituale, Symbole, Wahrsagung, Zaubersprüche
 
-**Astronomie** (LG+IN): Horoskope, Zeitbestimmung, Himmelskartographie, Navigation, nach Splitter
+**Astronomie** (LG+IN+LG): Horoskope, Zeitbestimmung, Himmelskartographie, Navigation, nach Splitter
 
-**Botanik** (LG+IN): nach Terrain, nach Region, Heilpflanzen/Kräuter, Giftpflanzen, magisch potente Pflanzen
+**Botanik** (LG+IN+FF): nach Terrain, nach Region, Heilpflanzen/Kräuter, Giftpflanzen, magisch potente Pflanzen
 
-**Chemie** (LG+ENT): Gifte, Heilmittel, Stärkungsmittel, Zaubermittel, Verbindungen
+**Chemie** (LG+ENT+FF): Gifte, Heilmittel, Stärkungsmittel, Zaubermittel, Verbindungen
 
-**Geographie** (LG+IN): einzelnes Terrain, Reisewege, Handelsrouten, Böden, Klima
+**Geographie** (LG+IN+LG): einzelnes Terrain, Reisewege, Handelsrouten, Böden, Klima
 
-**Geschichte** (LG+IN): nach Kultur, Baugeschichte, Kunstgeschichte, Religionsgeschichte, Militärgeschichte, Wissenschaftsgeschichte
+**Geschichte** (LG+IN+LG): nach Kultur, Baugeschichte, Kunstgeschichte, Religionsgeschichte, Militärgeschichte, Wissenschaftsgeschichte
 
-**Gesteinskunde** (LG+FF): Baugestein, Edelmetalle, Edelsteine, Gesteinsabbau, magisches Gestein, Materialwert
+**Gesteinskunde** (LG+FF+IN): Baugestein, Edelmetalle, Edelsteine, Gesteinsabbau, magisches Gestein, Materialwert
 
-**Götter, Kulte und Religionen** (LG+IN): nach Kultur, nach Religion
+**Götter, Kulte und Religionen** (LG+IN+LG): nach Kultur, nach Religion
 
-**Heraldik — Wappen und Symbole** (LG+IN): Land, Kult, Kultur, Orden, Epoche
+**Heraldik — Wappen und Symbole** (LG+IN+LG): Land, Kult, Kultur, Orden, Epoche
 
-**Jura** (LG+IN): Gildenrecht, Kirchenrecht, Staatsrecht, Strafrecht, nach Staat, Handelsrecht, Kriegsrecht
+**Jura** (LG+IN+LG): Gildenrecht, Kirchenrecht, Staatsrecht, Strafrecht, nach Staat, Handelsrecht, Kriegsrecht
 
-**Klimakunde und Wetterkunde** (LG+IN): nach Region, nach Geländetyp
+**Klimakunde und Wetterkunde** (LG+IN+IN): nach Region, nach Geländetyp
 
-**Kriegswissenschaft** (LG+ENT): Strategie, Taktik, Seekampf, Straßenkampf, Luftkampf, Unterwasserkampf, Bodenkampf, Logistik, kleine Truppe, Heer, Militärgeschichte, Monster, Infanterie, Berittene Einheiten, Fliegende Einheiten
+**Kriegswissenschaft** (LG+ENT+IN): Strategie, Taktik, Seekampf, Straßenkampf, Luftkampf, Unterwasserkampf, Bodenkampf, Logistik, kleine Truppe, Heer, Militärgeschichte, Monster, Infanterie, Berittene Einheiten, Fliegende Einheiten
 
-**Kryptographie** (LG+IN): Entschlüsseln, Verschlüsseln, Mehrfachverschlüsselung, nach Verschlüsselungsart
+**Kryptographie** (LG+IN+LG): Entschlüsseln, Verschlüsseln, Mehrfachverschlüsselung, nach Verschlüsselungsart
 
-**Länder- und Völkerkunde** (LG+IN): einzelne Kulturen oder Völker, einzelne Geographie, Philosophie, Recht
+**Länder- und Völkerkunde** (LG+IN+LG): einzelne Kulturen oder Völker, einzelne Geographie, Philosophie, Recht
 
-**Mathematik** (LG+IN): Buchführung, Geometrie, Stochastik, Algebra, Analysis, Arithmetik
+**Mathematik** (LG+IN+LG): Buchführung, Geometrie, Stochastik, Algebra, Analysis, Arithmetik
 
-**Mechanik** (LG+FF): Pumpen & Wasserkraft, Windkraft, Kran, Hebewerke, Mahlwerke, Belagerungswaffen, Schlösser, Uhren, Spielzeug, bewegliche Statuen
+**Mechanik** (LG+FF+LG): Pumpen & Wasserkraft, Windkraft, Kran, Hebewerke, Mahlwerke, Belagerungswaffen, Schlösser, Uhren, Spielzeug, bewegliche Statuen
 
-**Medizin und Anatomie** (LG+ENT): bestimmte Spezies, bestimmte Krankheiten, bestimmte Verwundungen, Epidemien, Erste Hilfe
+**Medizin und Anatomie** (LG+ENT+IN): bestimmte Spezies, bestimmte Krankheiten, bestimmte Verwundungen, Epidemien, Erste Hilfe
 
-**Navigation** (LG+ENT): nach Splitter, Sonnenstand, Sterne, Karten
+**Navigation** (LG+ENT+IN): nach Splitter, Sonnenstand, Sterne, Karten
 
-**Philosophie** (LG+CH): nach Kultur, nach Epoche
+**Philosophie** (LG+CH+IN): nach Kultur, nach Epoche
 
-**Physik** (LG+IN): Wellentheorie, Magnetismus, Hebelgesetze, physikalische Grundgesetze
+**Physik** (LG+IN+LG): Wellentheorie, Magnetismus, Hebelgesetze, physikalische Grundgesetze
 
-**Politik & Diplomatie** (LG+CH): Innenpolitik, Außenpolitik, Verhandlungen, Intrige, Spionage
+**Politik & Diplomatie** (LG+CH+IN): Innenpolitik, Außenpolitik, Verhandlungen, Intrige, Spionage
 
-**Psychologie** (LG+CH): Verhör, Traumdeutung, Traumaverarbeitung, Folter, Suchtberatung
+**Psychologie** (LG+CH+IN): Verhör, Traumdeutung, Traumaverarbeitung, Folter, Suchtberatung
 
-**Sagen, Legenden und Mythen** (LG+IN): einzelne Epoche, einzelnes Pantheon, einzelne Region, einzelner Themenbereich, einzelnes Volk, Legendäre Kreaturen, Prophezeiungen, Schöpfungsmythen
+**Sagen, Legenden und Mythen** (LG+IN+CH): einzelne Epoche, einzelnes Pantheon, einzelne Region, einzelner Themenbereich, einzelnes Volk, Legendäre Kreaturen, Prophezeiungen, Schöpfungsmythen
 
-**Spiele und Unterhaltung** (LG+IN): Theater, Arena, Rennbahn, Glücksspiel, Wetten, Kinderspiele, bestimmtes Spiel
+**Spiele und Unterhaltung** (LG+IN+CH): Theater, Arena, Rennbahn, Glücksspiel, Wetten, Kinderspiele, bestimmtes Spiel
 
-**Sprachenkunde** (LG+IN): Rhetorik, Demagogie, Plädoyer, Predigt, Diskussion, Sprachfamilie, Alte Sprachen & Schriften
+**Sprachenkunde** (LG+IN+LG): Rhetorik, Demagogie, Plädoyer, Predigt, Diskussion, Sprachfamilie, Alte Sprachen & Schriften
 
-**Staatstheorie** (LG+IN): Verwaltung, Theokratie, Monarchie, Demokratie, Militärstaat, Clanstrukturen, Staatsrecht
+**Staatstheorie** (LG+IN+LG): Verwaltung, Theokratie, Monarchie, Demokratie, Militärstaat, Clanstrukturen, Staatsrecht
 
-**Werkstoffkunde** (LG+IN): nach Werkstoff, metallische Werkstoffe, Verbindung, magische Werkstoffe, nicht metallische Werkstoffe, Materialwert
+**Werkstoffkunde** (LG+IN+LG): nach Werkstoff, metallische Werkstoffe, Verbindung, magische Werkstoffe, nicht metallische Werkstoffe, Materialwert
 
-**Wirtschaftskunde** (LG+IN): Verwaltung, Währungen, Währungskurse, Handelswege, Handel
+**Wirtschaftskunde** (LG+IN+LG): Verwaltung, Währungen, Währungskurse, Handelswege, Handel
 
-**Zoologie** (LG+FF): Drachen, Jagdwild, Nutztiere, Raubtiere, nach Region, nach Spezies, Meerestiere, Monster, Schädlinge, Vielbeiner, Vögel, Insekten
+**Zoologie** (LG+FF+IN): Drachen, Jagdwild, Nutztiere, Raubtiere, nach Region, nach Spezies, Meerestiere, Monster, Schädlinge, Vielbeiner, Vögel, Insekten
 
 ---
 
 ### Handwerkstalente
 
-**Alchemie** (ENT+FF): Gifte, Heilmittel, Parfüm, Stärkungsmittel, Tinkturen, Verbindungen, Warenwert schätzen, Zaubermittel
+**Alchemie** (ENT+FF+LG): Gifte, Heilmittel, Parfüm, Stärkungsmittel, Tinkturen, Verbindungen, Warenwert schätzen, Zaubermittel
 
-**Artefaktbauer** (ENT+FF): Artefaktkern, Fokusbau, Golemherz (Dämon), Golemherz (Seelenschatten), Golemherz (Seele), Matrixgeber, Schriftrollen, Warenwert schätzen
+**Artefaktbauer** (ENT+FF+LG): Artefaktkern, Fokusbau, Golemherz (Dämon), Golemherz (Seelenschatten), Golemherz (Seele), Matrixgeber, Schriftrollen, Warenwert schätzen
 
-**Baumeister und Architekt** (FF+KK): Baupläne/Statik, Grundrisse, Immobilienwert schätzen, Stilrichtung, Wohnungsbau, Tempelbau, Tiefbau, Wehranlagen, Straßenbau (auch Brücken und Kanäle), Unterwasserbau, Schwebebau
+**Baumeister und Architekt** (FF+KK+LG): Baupläne/Statik, Grundrisse, Immobilienwert schätzen, Stilrichtung, Wohnungsbau, Tempelbau, Tiefbau, Wehranlagen, Straßenbau (auch Brücken und Kanäle), Unterwasserbau, Schwebebau
 
-**Brauen und Brennen** (IN+FF): Bier, Schnaps, Alchemischer Alkohol, Warenwert schätzen
+**Brauen und Brennen** (IN+FF+KK): Bier, Schnaps, Alchemischer Alkohol, Warenwert schätzen
 
-**Drucken** (FF+KK): Buchdruck, Druckereitechnik, Pamphlete, Stoffdruck, Typographie, Warenwert schätzen
+**Drucken** (FF+KK+LG): Buchdruck, Druckereitechnik, Pamphlete, Stoffdruck, Typographie, Warenwert schätzen
 
-**Färber** (FF+KO): Alchemistische Farben, mineralische Farben, pflanzliche Farben, tierische Farben, Stoff, Leder
+**Färber** (FF+KO+IN): Alchemistische Farben, mineralische Farben, pflanzliche Farben, tierische Farben, Stoff, Leder
 
-**Feinmechanik** (LG+FF): Bewegliche Figuren/Statuen, Fallen, Gravieren, Schlösser, Spielzeug, Trickwaffen, Uhren, Warenwert schätzen
+**Feinmechanik** (LG+FF+FF): Bewegliche Figuren/Statuen, Fallen, Gravieren, Schlösser, Spielzeug, Trickwaffen, Uhren, Warenwert schätzen
 
-**Feinschmied** (FF+KO): Drahtzieher, Figuren, Gravieren, Legierungen, Löten, Ornamente, Präzisionswerkzeug, Siegel, Schmuck, Verzierungen, Warenwert schätzen
+**Feinschmied** (FF+KO+LG): Drahtzieher, Figuren, Gravieren, Legierungen, Löten, Ornamente, Präzisionswerkzeug, Siegel, Schmuck, Verzierungen, Warenwert schätzen
 
-**Fischer** (KO+KK): Hochseeangeln, Süßwasser, Salzwasser, Rifffischer, Perlentaucher, Netze knüpfen, Warenwert schätzen
+**Fischer** (KO+KK+IN): Hochseeangeln, Süßwasser, Salzwasser, Rifffischer, Perlentaucher, Netze knüpfen, Warenwert schätzen
 
-**Fleischer und Metzger** (FF+KK): Fische, Geflügel, Reptilien, Säugetiere, Warenwert schätzen
+**Fleischer und Metzger** (FF+KK+KO): Fische, Geflügel, Reptilien, Säugetiere, Warenwert schätzen
 
-**Geldwechsler** (CH+IN): nach Währung, Warenwert schätzen
+**Geldwechsler** (CH+IN+LG): nach Währung, Warenwert schätzen
 
-**Gerber und Kürschner** (FF+KO): Gerber, Felle, Pelze, Trophäen, Warenwert schätzen
+**Gerber und Kürschner** (FF+KO+IN): Gerber, Felle, Pelze, Trophäen, Warenwert schätzen
 
-**Glasbläser** (FF+KO): Alltagsgegenstände, Glasbläserkunst, Scheiben, Linsenschleifen, Spiegel, Warenwert schätzen
+**Glasbläser** (FF+KO+IN): Alltagsgegenstände, Glasbläserkunst, Scheiben, Linsenschleifen, Spiegel, Warenwert schätzen
 
-**Grobschmied** (KO+KK): Drahtzieher, Hufschmied, Plattner, Schwarzschmied, Spengler, Waffenschmied, Warenwert schätzen
+**Grobschmied** (KO+KK+FF): Drahtzieher, Hufschmied, Plattner, Schwarzschmied, Spengler, Waffenschmied, Warenwert schätzen
 
-**Handel** (CH+IN): nach Region, nach Warengruppe, Warenwert schätzen
+**Handel** (CH+IN+LG): nach Region, nach Warengruppe, Warenwert schätzen
 
-**Hauswirtschaft** (CH+IN): Bewirtung, Etikette (Protokoll), Feiern, Personal, Vorratshaltung, Verwaltung
+**Hauswirtschaft** (CH+IN+FF): Bewirtung, Etikette (Protokoll), Feiern, Personal, Vorratshaltung, Verwaltung
 
-**Holzwaffenbau** (FF+KK): Belagerungswaffen, Blasrohr, Bogen, Geschossbau, Hiebwaffen, Schildbau, Speere, Torsionswaffen, Waffenteile, Warenwert schätzen
+**Holzwaffenbau** (FF+KK+KO): Belagerungswaffen, Blasrohr, Bogen, Geschossbau, Hiebwaffen, Schildbau, Speere, Torsionswaffen, Waffenteile, Warenwert schätzen
 
-**Instrumentenbau** (IN+FF): Blasinstrumente, Holzinstrumente, Metallinstrumente, Knocheninstrumente, Saiteninstrumente, Schlaginstrumente, Tasteninstrumente, Instrumentenwert schätzen
+**Instrumentenbau** (IN+FF+LG): Blasinstrumente, Holzinstrumente, Metallinstrumente, Knocheninstrumente, Saiteninstrumente, Schlaginstrumente, Tasteninstrumente, Instrumentenwert schätzen
 
-**Juwelier** (IN+FF): Fassungen, Gravieren, Juwelen, Ringe, Schleifen, Schneiden, Schmuck, Ziergegenstände, Warenwert schätzen
+**Juwelier** (IN+FF+FF): Fassungen, Gravieren, Juwelen, Ringe, Schleifen, Schneiden, Schmuck, Ziergegenstände, Warenwert schätzen
 
-**Kartographie** (LG+FF): Gebäude, Höhlen/Tunnel, Kartenwert schätzen, Küsten/Meere, Landschaften, Mehrsplitterkarten, Schwebende Gebiete, Stadt, Tiefsee, Nebelkarten
+**Kartographie** (LG+FF+LG): Gebäude, Höhlen/Tunnel, Kartenwert schätzen, Küsten/Meere, Landschaften, Mehrsplitterkarten, Schwebende Gebiete, Stadt, Tiefsee, Nebelkarten
 
-**Koch** (IN+FF): Backen/Braten, Festmahle, Haltbar machen, Marschversorgung, Tränke, Vorkoster, Warenwert schätzen
+**Koch** (IN+FF+KO): Backen/Braten, Festmahle, Haltbar machen, Marschversorgung, Tränke, Vorkoster, Warenwert schätzen
 
-**Kristallzucht** (IN+FF): Farbe, Form, magische Struktur, Reinheit, Warenwert schätzen
+**Kristallzucht** (IN+FF+LG): Farbe, Form, magische Struktur, Reinheit, Warenwert schätzen
 
-**Kutscher** (IN+KO): nach Gefährt
+**Kutscher** (IN+KO+KK): nach Gefährt
 
-**Landwirtschaft** (FF+KO): Algen, Getreide, Knollen, Pilze, Warenwert schätzen, nach Region
+**Landwirtschaft** (FF+KO+KK): Algen, Getreide, Knollen, Pilze, Warenwert schätzen, nach Region
 
-**Malerei** (IN+FF): Skizzen, Portraits, Gemälde, Zeichnungen, spezielle Richtung, bestimmtes Material, Wert schätzen
+**Malerei** (IN+FF+LG): Skizzen, Portraits, Gemälde, Zeichnungen, spezielle Richtung, bestimmtes Material, Wert schätzen
 
-**Maurer** (FF+KK): Hausbau, Prunkbauten, Steinbau, Steinguss, Stukkateur, Wehrbauten, Ziegelbau
+**Maurer** (FF+KK+KO): Hausbau, Prunkbauten, Steinbau, Steinguss, Stukkateur, Wehrbauten, Ziegelbau
 
-**Medicus** (FF+KK): Gifte, Heilkräuter bestimmen, Nerven, Muskeln, Organe, Knochen, Krankheiten, einzelne Spezies, Wunden, Zustände
+**Medicus** (FF+KK+ENT): Gifte, Heilkräuter bestimmen, Nerven, Muskeln, Organe, Knochen, Krankheiten, einzelne Spezies, Wunden, Zustände
 
-**Metallgießer** (FF+KK): Klangkörper, Rohre, Reliefplatten/Statuen, Warenwert schätzen
+**Metallgießer** (FF+KK+LG): Klangkörper, Rohre, Reliefplatten/Statuen, Warenwert schätzen
 
-**Sattler** (FF+KK): Gegenstände aus Leder, Kleidung, Lederrüstung, Reitbedarf, Pergament, Warenwert schätzen
+**Sattler** (FF+KK+IN): Gegenstände aus Leder, Kleidung, Lederrüstung, Reitbedarf, Pergament, Warenwert schätzen
 
-**Schifffahrt** (ENT+KO): Boote fahren, Fesseln/Knoten, Flugschiffe, Flussschifffahrt, Navigation, Ruderschiffe, Seeschifffahrt, Segelschiffe, Taue spleißen, Unterwasserboote
+**Schifffahrt** (ENT+KO+KK): Boote fahren, Fesseln/Knoten, Flugschiffe, Flussschifffahrt, Navigation, Ruderschiffe, Seeschifffahrt, Segelschiffe, Taue spleißen, Unterwasserboote
 
-**Schiffsbauer** (IN+FF): nach Schiffstyp (Segelschiff, schwebendes Schiff, Unterwasserschiff, Transportschiff, Kriegsschiff, Holzschiff, Eisschiff, Kristallschiff, Metallschiff, Ruderboot), Schiffswert schätzen
+**Schiffsbauer** (IN+FF+LG): nach Schiffstyp (Segelschiff, schwebendes Schiff, Unterwasserschiff, Transportschiff, Kriegsschiff, Holzschiff, Eisschiff, Kristallschiff, Metallschiff, Ruderboot), Schiffswert schätzen
 
-**Schneider** (IN+FF): Entwurf, Festgewänder, Flick-/Gebrauchsschneiderei, Gegenstände aus Stoff, Mode nach Region, Stoffrüstungen, Tuche, Warenwert schätzen
+**Schneider** (IN+FF+CH): Entwurf, Festgewänder, Flick-/Gebrauchsschneiderei, Gegenstände aus Stoff, Mode nach Region, Stoffrüstungen, Tuche, Warenwert schätzen
 
-**Schnitzerei** (FF+KO): Beinschnitzerei, Eisschnitzerei, Figuren, Holzschnitzerei, kleine Gegenstände, Relief, Verzierungen, Warenwert schätzen
+**Schnitzerei** (FF+KO+IN): Beinschnitzerei, Eisschnitzerei, Figuren, Holzschnitzerei, kleine Gegenstände, Relief, Verzierungen, Warenwert schätzen
 
-**Schreiber** (FF+KO): Archivar, Beamter, Kalligraph, Kryptographie, Schriftsteller, schriftliche Rhetorik
+**Schreiber** (FF+KO+LG): Archivar, Beamter, Kalligraph, Kryptographie, Schriftsteller, schriftliche Rhetorik
 
-**Schuster** (FF+KK): Handschuhe, Reparaturen, leichtes Schuhwerk, Stiefel, Warenwert schätzen
+**Schuster** (FF+KK+LG): Handschuhe, Reparaturen, leichtes Schuhwerk, Stiefel, Warenwert schätzen
 
-**Seelenheiler** (IN+CH): schlechte Eigenschaften, Traumata, Traumdeutung, Traumweben, Meditation, Hypnose
+**Seelenheiler** (IN+CH+ENT): schlechte Eigenschaften, Traumata, Traumdeutung, Traumweben, Meditation, Hypnose
 
-**Seiler** (FF+KK): Reparatur, Grobtaue, feine Seile, Taue spleißen, Netze knüpfen, Warenwert schätzen, nach Material
+**Seiler** (FF+KK+KO): Reparatur, Grobtaue, feine Seile, Taue spleißen, Netze knüpfen, Warenwert schätzen, nach Material
 
-**Steinmetz** (KO+KK): Baugestein, Reliefs, Statuetten, Skulpturen, steinerne Waffen, Warenwert schätzen
+**Steinmetz** (KO+KK+FF): Baugestein, Reliefs, Statuetten, Skulpturen, steinerne Waffen, Warenwert schätzen
 
-**Stellmacher** (FF+KK): Karren, Wagen, Streitwagen, Kutschen, Kastenwagen, Reparatur, Schlitten, Wert schätzen
+**Stellmacher** (FF+KK+KO): Karren, Wagen, Streitwagen, Kutschen, Kastenwagen, Reparatur, Schlitten, Wert schätzen
 
-**Tätowieren** (IN+FF): Ornamente, Glyphen, Naturalistische Darstellungen, kultische Darstellungen, nach Spezies
+**Tätowieren** (IN+FF+FF): Ornamente, Glyphen, Naturalistische Darstellungen, kultische Darstellungen, nach Spezies
 
-**Tierzucht** (IN+KK): nach Spezies
+**Tierzucht** (IN+KK+LG): nach Spezies
 
-**Töpfern und Ziegelmachen** (FF+KO): Gefäße, Statuetten, Ziegel, Warenwert schätzen
+**Töpfern und Ziegelmachen** (FF+KO+LG): Gefäße, Statuetten, Ziegel, Warenwert schätzen
 
-**Tuchmacher und Weber** (FF+KK): Segel, Tuche, Teppiche, spezielle Webart, Warenwert schätzen
+**Tuchmacher und Weber** (FF+KK+KO): Segel, Tuche, Teppiche, spezielle Webart, Warenwert schätzen
 
-**Winzer** (FF+KK): Weine, Fruchtweine, Schaumweine, Weinkenner, Honigwein, nach Anbauregion, Warenwert schätzen
+**Winzer** (FF+KK+LG): Weine, Fruchtweine, Schaumweine, Weinkenner, Honigwein, nach Anbauregion, Warenwert schätzen
 
-**Zimmermann** (FF+KK): Boden, Dachdecker, Möbel, Schiffszimmermann, Zimmermannsarbeiten, Gerüste, Warenwert schätzen, nach Material (Holz, Eis, Bein)
+**Zimmermann** (FF+KK+KO): Boden, Dachdecker, Möbel, Schiffszimmermann, Zimmermannsarbeiten, Gerüste, Warenwert schätzen, nach Material (Holz, Eis, Bein)
 
 ---
 
 ### Kampftalente
 
-> [!info] Noch ausstehend
-> Die Kampftalente werden noch ergänzt.
+#### Nahkampf
+
+**Anderthalbhänder** (BW+KK+IN):
+
+**Fechtwaffen** (BW+KK+FF):
+
+**Große Hiebwaffen** (KO+KK+ENT):
+
+**Große Klingenwaffen** (BW+KK+ENT):
+
+**Handgemenge** (BW+KK+ENT):
+
+**Hiebwaffen** (KO+KK+ENT):
+
+**Infanteriewaffen** (BW+KK+ENT):
+
+**Kettenwaffen** (KO+KK+ENT):
+
+**Klingenwaffen** (BW+KK+IN):
+
+**Peitsche** (FF+BW+IN):
+
+**Speere** (BW+KK+ENT):
+
+**Stäbe** (BW+KK+IN):
+
+#### Fernkampf
+
+**Armbrust** (FF+KK+KO):
+
+**Belagerungswaffen** (FF+IN+LG):
+
+**Blasrohr** (FF+BW+IN):
+
+**Bogen** (FF+KK+IN):
+
+**Kleine Wurfwaffen** (FF+BW+IN):
+
+**Schleuder** (FF+KK+IN):
+
+**Wurfspeere** (FF+KK+IN):
 
 ---
 

@@ -37,8 +37,8 @@ Nur Notizen mit `publish: true` erscheinen auf der Website. Alle anderen bleiben
 In PowerShell:
 
 ```powershell
-Remove-Item -Recurse -Force "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki\content"
-Copy-Item -Recurse "C:\Users\Syral\OneDrive\Dokumente\Ryssea" "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki\content"
+Remove-Item -Recurse -Force "C:\Users\Ronja\Documents\ryssea-wiki\content"
+Copy-Item -Recurse "C:\Users\Ronja\Documents\Obsidian\Ryssea-Vault-Synch" "C:\Users\Ronja\Documents\ryssea-wiki\content"
 ```
 
 Das ersetzt den gesamten `content/`-Ordner mit dem aktuellen Vault-Stand.
@@ -46,7 +46,7 @@ Das ersetzt den gesamten `content/`-Ordner mit dem aktuellen Vault-Stand.
 ## 3. Änderungen committen und pushen
 
 ```bash
-cd "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki"
+cd "C:\Users\Ronja\Documents\ryssea-wiki"
 git add content/
 git commit -m "Update Vault Content"
 git push
@@ -61,7 +61,7 @@ GitHub Actions baut die Seite automatisch neu. Dauert ca. 1–2 Minuten. Danach 
 Falls du vor dem Pushen prüfen willst wie die Seite aussieht:
 
 ```bash
-cd "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki"
+cd "C:\Users\Ronja\Documents\ryssea-wiki"
 npx quartz build --serve
 ```
 

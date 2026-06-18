@@ -44,23 +44,17 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 - [[Artefakte/Schattenrüstung|Schattenrüstung]]
 - [[Artefakte/Sechem des Ton-Ren-Anem|Sechem des Ton-Ren-Anem]] — Elementar-Sechem von Sethos
 - [[Artefakte/Sin'an Krondimar|Sin'an Krondimar]] — Waffe von Jashari N'Baaka
-- [[Artefakte/Verwandlungstalisman|Verwandlungstalisman]] — Verwandlungsartefakt; Sethos Gang
 
 ## Charaktere
 
 ### Nebelkinder
-- [[Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
+- [[Charaktere/Helden/Karasuan|Karasuan]] — Raben-Kaheryt, Agent des Metalllords (Christoph)
 - [[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] — Landweberin & Druidin
 - [[Charaktere/Helden/Nebelkinder/Helix Beta III|Helix Beta III]] — Magitech-KI / Wissens- und Lehragent
 - [[Charaktere/Helden/Nebelkinder/Jharan|Jharan]] — Phaerie-Priester des Amun (Christoph, archiviert)
 
 ### Sethos Gang
 - [[Charaktere/Helden/Sethos Gang/Sethos|Sethos]] — Prinz, Statthalter von Aziza (Christoph)
-- [[Charaktere/Helden/Sethos Gang/Tak'Anshurr|Tak'Anshurr]] — Panthaura, Kore-Priester (Christian)
-- [[Charaktere/Helden/Sethos Gang/Horem|Horem]] — Agent, Chronomancer (Felix)
-- [[Charaktere/Helden/Sethos Gang/Amila|Amila]] — Druidin der Kuresi (Melli)
-- [[Charaktere/Helden/Sethos Gang/Kamaleon|Kamaleon]] — Phaerie-Hohepriester (Flori)
-- [[Charaktere/Helden/Sethos Gang/Neitha|Neitha]] — Horusgardistin, Eismagie (Ruka)
 
 ### Team Synfathia
 - [[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana Lonnert]] — Magierin (Sarah)

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [gott, gm-geheim]
 typ: gott
 status: entwurf
@@ -69,10 +69,6 @@ Verehrt als **Kore** — Wächter der Seelen und Totengeleit. Hat Priester in Ba
 ## Aufenthaltsort
 
 [[Große Goldene Pyramide]] im [[Panthaura-Dschungel]] und als Kore im baryianischen Totenreich.
-
-## Im Spiel (Sethos Gang)
-
-**Spieltag 002 – Der Hinterhalt:** Korellian erscheint persönlich am [[Tempel der Neith]] — in körperlicher Gestalt als mächtiger Panther aus Fleisch und Blut (nicht als Schatten). Sitzt entspannt auf [[Amenei]]s Wagen und beobachtet, wie sein Sohn [[Tak'Anshurr|Tak]] die Kaarsi-Priester verprügelt. [[Horem]] findet ihn dort beim Blick nach draußen. Korellian zieht sich zurück, nachdem [[Neitha]] ihm gedankt hat. Quelle: [[Chronik 011 - Neithas Aufzeichnungen]].
 
 ## Notizen
 

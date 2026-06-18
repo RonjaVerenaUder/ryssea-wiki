@@ -70,15 +70,6 @@ In den letzten Wochen hat sie so viel Neues erfahren, dass ihr Weltbild ins Schw
 - **Wert des Lebens:** Das Leben ist ein Geschenk und man darf es nicht ohne guten Grund nehmen. Wenn es im Kampf aber heißt "Du oder ich" — dann definitiv der Gegner.
 - **Schönheit:** Vielfältig — die Schönheit eines Sonnenaufgangs, eines Kampfes, einzelner Personen, Musik, Kunst, Architektur. Nicht alles was andere als "schön" empfinden, sieht sie genauso.
 
-### Weltbild-Erschütterungen
-
-Danas Weltbild hat sich mehrfach erweitert — nicht durch Krisen, sondern durch neue Erfahrungen:
-1. **Die Akademie** — Nicht geplant, nicht üblich im Dorf. Über Nacht wurde sie die Gebildete im Dorf, mit einem ganz anderen Blick auf die Welt als alle anderen dort.
-2. **Syr** — Herauszufinden was Syr ist. "Wenn sie dazu gehört, können ja nicht alle schlecht sein." Musste verarbeitet werden.
-3. **Die aktuelle Reise** — 13 Elemente, Dämonen, Traumebene. Das größte Schwanken bisher.
-
-Jedes Mal hat Dana ihren Tellerrand erweitert — das macht sie belastbarer als jemand wie [[Björn]], dem sie diese Erkenntnisse nie erzählen könnte.
-
 ## Familie & Herkunft
 
 Dana wuchs auf dem Apfelhof ihrer Familie auf, in einem Dorf nahe [[Trallop]], etwa eine Tagesreise von der Akademie entfernt. Bis zu ihrem 9. Lebensjahr lebte sie dort behütet mit ihren Eltern und zwei älteren Geschwistern.
@@ -91,15 +82,13 @@ Dana wuchs auf dem Apfelhof ihrer Familie auf, in einem Dorf nahe [[Trallop]], e
 - **Svetlana** — Ältere Schwester, lebt mit ihrem Mann Karl ein Stück weiter am Wald. Loser Kontakt.
 - **Karl** — Svetlanas Mann, Jäger und Waldarbeiter.
 
-### Die Greifenakademie
+### Die Akademie
 
-Mit 9 Jahren verließ Dana den Familienhof für die [[Greifenakademie]] in [[Greifenstein]] — etwa eine Tagesreise entfernt. Dort wurde sie zur Kampfmagierin der [[Weißen Gilde]] ausgebildet.
+Mit 9 Jahren verließ Dana den Familienhof für die Akademie. Dort wurde sie zur Kampfmagierin der Weißen Gilde ausgebildet.
 
-Die Ausbildung war hochanspruchsvoll und anstrengend. Die Ausbilder sind absolute Respektspersonen — bei Dana und [[Björn]] ist aber über Einzelunterricht und gemeinsame Zeit auch eine Art Familiendynamik entstanden. Das Team-Training ist ein Alleinstellungsmerkmal der Akademie, besonders in Fraystein.
-
-**Rohalsmal:** Das Abzeichen auf Danas Robe ist eine Auszeichnung für die besten Abschlüsse des Jahres. Dana trägt es mit Stolz. <!-- TODO: Rohal als Konzept noch ausarbeiten -->
-
-<!-- TODO: Langname der Greifenakademie noch offen -->
+- **[[Björn]]** — Bester Freund aus der Akademie. Hat Dana mehr als einmal vorgehalten, dass ihre Neugier sie noch ins Grab bringen würde. Für ihn würde Dana sterben.
+- **[[Coran]]** — Mentor an der Akademie. Genießt großen Respekt in [[Fraystein]].
+- **[[Syr]]** — Mentorin an der Akademie. Trainingspartnerin. Genießt großen Respekt in Fraystein. Coran und Syr sind für Dana "Familie an der Akademie".
 
 ## Wichtige Fähigkeiten & Vorteile
 
@@ -110,12 +99,12 @@ Die Ausbildung war hochanspruchsvoll und anstrengend. Die Ausbilder sind absolut
 - **Sicherer Zauberwirker**
 
 ### Nachteile
-- **Autoritätsgläubig** (6) — Autoritäten: Greifenakademie, das fraysteinische Kaiserhaus, Gesetze
+- **Autoritätsgläubig** (6)
 - **Arroganz** (8)
 - **Neugier** (10)
 - **Paranoid** (9)
 - **Prinzipientreue**
-- **Verpflichtungen** — Aufträge der Weißen Gilde ausführen; die Gilde repräsentieren; als Ansprechpartner zur Verfügung stehen
+- **Verpflichtungen**
 
 ### Talente
 
@@ -131,7 +120,6 @@ Die Ausbildung war hochanspruchsvoll und anstrengend. Die Ausbilder sind absolut
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
 
 ### Akademierobe
-
 Ihre Robe mit dem kleinen Rohalsmal auf der Brust. Ein Zeichen der Weißen Gilde, das Dana mit Stolz trägt.
 
 <!-- TODO: Weitere besondere Ausrüstung oder Fähigkeiten -->
@@ -142,22 +130,9 @@ Keine Begleiter oder Vertrauten im Spielsinne. [[Björn]] ist ihr bester Freund,
 
 ## Glaube & Magie
 
-Dana glaubt an die Götter — der fraysteinische 6-Götter-Glaube ist für sie selbstverständlich, mit besonderer Verehrung für [[Reykon]].
+Dana glaubt fest an die Götter — der fraysteinische 6-Götter-Glaube ist für sie selbstverständlich, mit besonderer Verehrung für [[Reykon]].
 
-### Reykon
-
-Gläubig, aber keine Fanatikerin — lange nicht auf Björns Level. Sie glaubt an das wofür Reykon steht: Gerechtigkeit, Ehrlichkeit, Prinzipien. Die Teile des Glaubens die Magie sehr schwarz-weiß sehen, hinterfragt sie als Magierin. Die [[Sonnenlegion]] betrachtet sie skeptisch. [[Coran]] und [[Edorian von Luchsenhaupt|Edorian]] haben ihr eine fortschrittlichere Variante des Reykon-Glaubens vorgelebt.
-
-Sie lebt ihren Glauben durch Haltung, nicht durch Rituale. Aktuell geht sie nicht regelmäßig zum Gottesdienst — der lokale Reykon-Verantwortliche (Brunbauken, Name folgt) ist ein Hardliner gegenüber Magiern.
-
-**Kern-Prinzip aus dem Glauben:** Lieber gar nichts sagen als Halbwahrheiten. Wer lügen will, sollte bei ihr gar nicht erst anfangen.
-
-<!-- TODO: Wer sind die sechs Götter Fraysteinens? Folgt -->
-<!-- TODO: Weiße Gilde und Reykon-Glaube — Zusammenhang folgt -->
-
-Magie ist für Dana ein Geschenk der Welt an alle. Sie bedauert, dass in [[Fraystein]] so wenige der Magie wirklich mächtig sind.
-
-<!-- TODO: Magie-Regulierung in Fraystein — folgt -->
+Magie ist für sie ein Geschenk der Welt an alle. Sie bedauert, dass in [[Fraystein]] so wenige der Magie wirklich mächtig sind und sie anders zu nutzen wissen als als kleiner Alltagshelfer. Vielleicht ist sie gerade deshalb stolz darauf, mit Leib und Seele Kampfmagierin zu sein.
 
 ## Kampfverhalten
 
@@ -165,53 +140,32 @@ Dana kämpft bevorzugt mit Magie aus der zweiten Reihe. Sie liebt es, ihre Stär
 
 Man sollte sie aber auch mit der Klinge nicht unterschätzen. Wenn ihre Magie nicht greift, muss sie sich auch anders zu wehren wissen.
 
-**Kampfrolle:** Schadensausteilerin und Taktikerin — gezielt Gegner ausschalten und das Schlachtfeld kontrollieren.
+**Kampfrolle:** Schadensausteilerin und Taktikerin — gezielt Gegner ausschalten und das Schlachtfeld kontrollieren. Schilde, Einschränkungen, Vorteile schaffen.
 
-**Soziale Rolle:** <!-- TODO: Noch herauskristallisieren -->
+**Soziale Rolle:** <!-- TODO: Im Fragebogen nicht beantwortet — Folgefrage -->
 
 ### Szenarien
 
-- **Tavernenschlägerei:** Schaut erstmal zu, sofern sie nicht direkt angegangen wird.
-- **Banditen:** Sieht grundsätzlich keinen Grund zu verhandeln, aber manchmal geht es nicht anders.
-- **Verbündeter am Boden:** Schützt ihn oder zieht ihn aus dem Kampf. Situationsabhängig.
+- **Tavernenschlägerei:** Schaut erstmal zu, sofern sie nicht direkt angegangen wird. Dann wehrt sie sich selbstverständlich.
+- **Banditen:** Sieht grundsätzlich keinen Grund zu verhandeln, aber manchmal geht es einfach nicht anders.
+- **Verbündeter am Boden:** Schaut was sie tun kann um ihn und seine Helfer zu schützen, oder zieht ihn selbst aus dem Kampf. Situationsabhängig.
 - **Unschuldiger wird ausgeraubt:** Greift ein. "Sowas geht gar nicht!" Liefert den Dieb an der nächsten Wache ab.
-- **Gegner bietet Verhandlung:** Hält inne, traut dem Braten aber nicht.
+- **Gegner bietet Verhandlung:** Hält inne und tritt in Verhandlungen, traut dem Braten aber nicht und rechnet mit einer Falle.
 
 ## Beziehungen
 
 ### Zur Gruppe
 
-- **[[Fenvarion al'Ichilin]]** — Vertraut ihm am meisten in der Gruppe. Merkt dass er nicht alles sagt was er weiß — versteht aber langsam dass das die Phaerie-Art ist.
-- **[[Jashari N'Baaka]]** — Mag sie. Manchmal hitzköpfig, aber das Jahr im Tempel hat ihr gut getan. Der Hitzkopf kommt gelegentlich noch durch.
-- **[[Yuliya Astel]]** — Eine Liebe, introvertiert, in ihrem Bereich absolut fähig. Yuliya als Dämonin war anfangs ein Problem, aber Dana hat sich damit arrangiert — nicht alles ist schwarz und weiß, Yuliya ist eine der Grauen. Mit ihr als Marktgräfin ist Dana nicht ganz glücklich, aber es war das kleinste Übel.
-- **[[Charaktere/Helden/Team Synfathia/Kaito|Kaito]]** — Hält ihn für verrückt — nicht böse gemeint, aber da fehlen ein paar Tassen im Schrank. Hinter der ganzen Art steckt trotzdem ein guter Heilmagier.
-- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald von Braunsfurt]]** — Familienname bekannt, den Mann vorher nicht persönlich gekannt. Wirkt gut. Dana weiß noch nicht wie tief sein schwarz-weißes Denken aus Glaube und Erziehung sitzt — daher noch nicht voll vertraut.
+Dana kannte vor der Kampagne niemanden aus der Gruppe. [[Charaktere/Helden/Team Synfathia/Theobald|Theobalds]] Name sagt ihr etwas — seine Familie ist in Weiden nicht unbekannt.
+
+<!-- Weitere Beziehungen aus Spieltagen ergänzen -->
 
 ### Zu NPCs
 
-#### Björn — Freund und Kampfpartner
-
-[[Björn]] ist Danas bester Freund. Gleichaltrig, beide gleichzeitig an die Akademie gekommen und irgendwie zusammengefunden. Im Kampf ergänzen sie sich perfekt: Dana lenkt vorne ab, Björn entsorgt/entschört die Wesen. Für ihn würde sie sterben.
-
-Sein Reykon-Glaube ist so tief verwurzelt, dass Dana ihm die neuen Erkenntnisse (13 Elemente, Dämonen, Traumebene) nie erzählen könnte — es würde seinen Grundfesten zu sehr erschüttern. Sie ist fast froh, dass er nicht dabei ist.
-
-Für Dana ist er wie ein kleiner Bruder — einer auf den man aufpassen muss, besonders wenn er sich wieder in einer Bibliothek vergräbt.
-
-Aktuell auf Studienreise, zuletzt in [[Greifenstein]]. Dana hat länger nichts gehört und sollte mal wieder schreiben.
-
-#### Coran — Mentor
-
-[[Coran]] war Danas absolutes Wissensidol — bekommt aber durch neue Erkenntnisse erste Risse. Als Lehrer ist er herausragend: Er legt keine Antworten auf den Tisch, sondern gibt die nötigen Unterlagen — den Rest findet man selbst heraus. Hat Dana immer bei Fragen und Problemen unterstützt. Für Dana ist er Familie an der Akademie.
-
-#### Syr — Mentorin
-
-[[Syr]] ist eine [[Tirnûn]]. Das fand Dana anfangs gruselig und schwer einzuordnen — aber mit der Zeit ist durch Trainingseinheiten und Einzelunterricht eine echte Nähe entstanden, die nicht absehbar war.
-
-Syr ist Mentorin und Ansprechperson bei Problemen. Sie hat immer einen anderen Blickwinkel, besonders bei emotionalen und zwischenmenschlichen Themen — manchmal unbequem, manchmal genau das Richtige. Tirnûn sind empathielos und kommen aus einer sehr emotionslosen Kultur; Syr kann Gefühle manchmal schlicht nicht nachvollziehen. Für Dana ist sie Familie an der Akademie.
-
-*(Die Sarakant-Episode mit Romeo und Julia ist legendär.)*
-
-- **Hilde & Wolfgang** — Eltern, Familienhof.
+- **[[Björn]]** — Bester Freund aus der Akademie. Für ihn würde sie sterben.
+- **[[Coran]]** — Mentor an der Akademie.
+- **[[Syr]]** — Mentorin an der Akademie, Trainingspartnerin.
+- **Hilde & Wolfgang** — Eltern, leben auf dem Familienhof.
 - **Jacob** — Älterer Bruder.
 - **Svetlana** — Ältere Schwester, loser Kontakt.
 
@@ -221,17 +175,15 @@ Syr ist Mentorin und Ansprechperson bei Problemen. Sie hat immer einen anderen B
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- Studienreise nach [[Sarakant]] mit Coran, Syr und Björn — erster Kontakt mit einer sehr anderen Kultur; später öfter im Sommer dort
-
 <!-- Wird fortlaufend aus Session-Notizen ergänzt -->
 
 ## Notizen
 
-- Weiße Gilde = eine der großen magischen Gilden in Fraystein — Details folgen
-- Greifenakademie (Kurzname) in Greifenstein — Langname noch offen
-- Rohalsmal = Jahresbeste-Auszeichnung; Rohal als Konzept noch offen
-- Kaiserhaus Fraystein = eine der zentralen Autoritäten für Dana
-- Sonnenlegion = Reykon-Fraktion, von Dana skeptisch beäugt → Fraktions-Notiz anlegen
+- Weiße Gilde = Magierorganisation in Fraystein
+- Rohalsmal auf der Akademierobe — Zeichen der Gilde
+- Weltbild kürzlich erschüttert: 13 Elemente, Dämonen, Elementlinien
+- Aktuell noch in Fraystein unterwegs, wird die Heimat wohl bald verlassen
+- "Weiden" — Ort/Region in Fraystein wo Theobalds Familie bekannt ist
 - Kein Geheimnis, kein Liebesinteresse
 - Für Björn würde sie sterben
 

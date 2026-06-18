@@ -4,7 +4,7 @@ typ: plot
 status: aktiv
 kampagne: "[[Sethos Gang]]"
 priorität: hoch
-eingeführt_in: "[[Abenteuer 001 - Missing Cat]]"
+eingeführt_in: "[[Abenteuer/Missing Cat]]"
 publish: true
 ---
 
@@ -22,21 +22,20 @@ Der jahrhundertealte Konflikt zwischen [[Baryia (Reich)]] und [[Taskasia]] eskal
 - [[Kaarsi]] — Treibt den Krieg von beiden Seiten
 - [[Taskasia]] — Kriegerreich, historisch neidisch auf Baryias reiches Land
 - [[Baryia (Reich)]] — Verteidigt sich, geschwächt durch innere Korruption
-- [[Askasi]] — Bergstämme in der Pufferzone, politisch umkämpft; teilweise für Baryia gewonnen ([[Mahit]] + 25 Krieger)
+- [[Askasi]] — Bergstämme in der Pufferzone, politisch umkämpft
 
 ## Relevante Orte
 
 - [[Karasim]] — Grenzfestung, bereits gefallen
-- [[Bech'Amet]] — Strategischer Punkt; Kaarsi-Armee zurückgeschlagen
-- [[Barya'Aches]] — Gebiet wo sich Kaarsi-Truppen sammelten
 - [[Askari-Gebirge]] — Pufferzone zwischen den Reichen
+- Grenze Taskasia/Baryia — Frontlinie
 
 ## Bekannte Informationen (Spielerwissen)
 
-- Karasim ist an die Taskasianer gefallen (Cliffhanger [[Abenteuer 001 - Missing Cat|Missing Cat]])
-- Die Askasi-Stämme werden von beiden Seiten umworben; [[Mahit]] und 25 Krieger auf Sethos' Seite
-- Kaarsi-Armee hat [[Bech'Amet]] angegriffen und wurde zurückgeschlagen ([[Abenteuer 004 - Schlacht um Bech'Amet]])
-- Der Feind setzt leblose Golem-Herzen-Soldaten und Schattenmagier ein
+- Karasim ist an die Taskasianer gefallen (Cliffhanger Missing Cat)
+- Die Askasi-Stämme werden von beiden Seiten umworben
+- Taskasianische Truppen und Einfluss wachsen
+- Die Spieler haben in Missing Cat die Askasi teilweise für sich gewonnen
 
 > [!danger]- GM-Wissen
 > - Kaarsi ist der Gott der Taskasianer UND der falsche Horus — er kontrolliert beide Seiten
@@ -45,8 +44,7 @@ Der jahrhundertealte Konflikt zwischen [[Baryia (Reich)]] und [[Taskasia]] eskal
 
 ## Fortschritt
 
-- [[Abenteuer 001 - Missing Cat|Missing Cat]] — Taskasianer-Einfluss in den Askasi-Stämmen aufgedeckt; Karasim gefallen (Cliffhanger); [[Mahit]] + 25 Askasi-Krieger als Ressource gewonnen
-- [[Abenteuer 004 - Schlacht um Bech'Amet]] — Kaarsi-Armee greift Bech'Amet an und wird zurückgeschlagen; erster offener militärischer Sieg; Heerlager hält
+- [[Abenteuer/Missing Cat]] — Taskasianer-Einfluss in den Askasi-Stämmen aufgedeckt, Karasim gefallen (Cliffhanger)
 
 > [!warning]- Spoiler: Nächste Entwicklungen
 > - Taskasia startet eine Vollinvasion
@@ -56,8 +54,7 @@ Der jahrhundertealte Konflikt zwischen [[Baryia (Reich)]] und [[Taskasia]] eskal
 ## Verknüpfungen
 
 - [[Einfluss von Kaarsi]]
-- [[Abenteuer 001 - Missing Cat]]
-- [[Abenteuer 004 - Schlacht um Bech'Amet]]
+- [[Abenteuer/Missing Cat]]
 - [[Askasi]]
 - [[Karasim]]
 

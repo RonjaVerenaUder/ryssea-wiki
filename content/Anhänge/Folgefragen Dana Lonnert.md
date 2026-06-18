@@ -13,12 +13,6 @@ Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die 
 
 ---
 
-> [!info] Status: Durchgegangen (2026-06-02)
-> Alle Fragen mit Ronja durchgegangen und in [[Charaktere/Helden/Team Synfathia/Dana Lonnert]] eingearbeitet.
-> Noch offen (folgt später): Sechs Götter Fraysteinens, Weiße Gilde Details, Gilde & Reykon-Zusammenhang, Magie-Regulierung Fraystein, Rohal/Rohalsmal, Brunbauken (Name), Soziale Rolle in der Gruppe.
-
----
-
 ## Die Akademie & Weiße Gilde
 
 **Was genau ist die Weiße Gilde?**

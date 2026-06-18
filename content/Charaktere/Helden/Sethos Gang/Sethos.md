@@ -38,7 +38,7 @@ lebendig: true
 
 ![[Sethos 2.png|300]]
 
-Sethos ist ein kräftiger, sportlicher Mann, der sein schwarzes Haar meistens kurz geschnitten hat. Seine grünen Augen stechen aus dem ebenmäßigen und wohlproportionierten Gesicht heraus. Sein Ausdruck ist in letzter Zeit meistens ernst, aber seine Freude kann sehr ansteckend sein. Die Sandhand versteckt er oft in einem Handschuh oder in den für Bogenschützen nicht unüblichen Umwicklungen — praktisch, weil sie sonst überall Sandspuren hinterlässt. Auf dem Rücken trägt er ein großes Falken-Tattoo — ein Weihe-Tattoo, das seine Verbindung zu [[Horus]] markiert.
+Sethos ist ein kräftiger, sportlicher Mann, der sein schwarzes Haar meistens kurz geschnitten hat. Seine grünen Augen stechen aus dem ebenmäßigen und wohlproportionierten Gesicht heraus. Sein Ausdruck ist in letzter Zeit meistens ernst, aber seine Freude kann sehr ansteckend sein. Die Sandhand versteckt er oft in einem Handschuh oder in den für Bogenschützen nicht unüblichen Umwicklungen. Auf dem Rücken trägt er ein großes Falken-Tattoo.
 
 ### Erster Eindruck
 
@@ -60,14 +60,14 @@ Klassische höfische Ausbildung — kann lesen und schreiben. Zusätzlich milit�
 - **Leibspeise:** Ein gutes Steak und ein Glas Wein — am Lagerfeuer unter Freunden schmeckt aber alles gut
 - **Größter Wunsch:** [[Baryia (Reich)|Barya'Aches]] und sein Volk in Frieden und Glück
 - **Größte Angst:** Dass seine Heimat die Ordnung der Maat verliert
-- **Moralischer Kompass:** Die Ordnung der Maat — das Einhalten von Gesetzen, Ordnung und Abläufen. Bei Konflikten gilt: Den besten und gerechtesten Weg finden, nicht den einfachsten.
+- **Moralischer Kompass:** Die Ordnung der Maat und der Moralkodex seiner Götter
 - **Fremden gegenüber:** Offen und gesprächsfreudig. Lediglich Kaarsi-Priester werden sehr schnell angefeindet.
 - **Wert des Lebens:** Das Leben ist ein wertvoller Schatz und muss geschützt werden. Vor allem das Volk, das sich nicht selbst schützen kann.
 - **Schönheit:** Gesunder Geist in gesundem Körper.
 
 ## Familie & Herkunft
 
-Sethos wuchs zunächst ruhig auf als Sohn eines Schreibers. Als sein Vater [[Rehotep]] zum Pharao wurde — Sethos war damals etwa sieben Jahre alt — veränderte sich alles: Das Leben wurde pflichtgeprägt und ernster, die unbeschwerte Kindheit war vorbei. Trotzdem war es eine behütete Zeit. Gilt öffentlich als Tunichtgut und Partyprinz — ein Image das er bewusst als Schutzschild einsetzt, um unbehelligt das zu tun was er tun muss. Ist Prinz von [[Baryia (Reich)|Barya'Aches]] und Statthalter von [[Aziza]], die er mittlerweile als seine neue Heimat betrachtet.
+Sethos wuchs zunächst ruhig auf als Sohn eines Schreibers. Als sein Vater [[Rehotep]] zum Pharao wurde, war seine Jugend von Pflichten geprägt — aber trotzdem eine behütete und freudige Zeit. Gilt öffentlich als Tunichtgut und Partyprinz. Ist Prinz von [[Baryia (Reich)|Barya'Aches]] und Statthalter von [[Aziza]].
 
 Sethos hat seine Heimat nie verlassen.
 
@@ -76,10 +76,10 @@ Sethos hat seine Heimat nie verlassen.
 >
 > Unwissentlich möglicherweise der letzte Nachkomme der alten Pharaonen-Blutlinie von [[Ram'Aches]] — und damit potentiell der Auslöser von [[Chepreh|Cheprehs]] Prophezeiung.
 
-- **[[Rehotep]]** — Pharao und Vater von Sethos. Derzeit verschollen. Sethos glaubt ihn lebend — seine Vermutung: Kaarsi hat etwas veranlasst, das Rehotep an der Quelle oder im Dschungel festhält.
+- **[[Rehotep]]** — Pharao und Vater von Sethos. Derzeit verschollen.
 - **Tuja'Rekha** — Mutter von Sethos und [[Mes'Atemu]]
-- **[[Mes'Atemu]]** — Älterer Bruder von Sethos. Das Verhältnis war so lange Sethos sich erinnern kann angespannt — nie wirklich persönlich, immer distanziert. Was Sethos am meisten stört: Mes'Atemu gibt sich als etwas aus was er nicht ist, und gefährdet damit das Land.
-- **Seth-Tempel-Mentor** — Sethos' Mentor aus dem Seth-Tempel. Lehrte ihn Glaube, Kampf und Verantwortung. Zog eines Tages in die Wüste und wurde seitdem nicht mehr gesehen. Die konkreten Erinnerungen verblassen, aber die Weisheiten bleiben — Sethos hat manchmal das Gefühl, der Mentor stehe noch neben ihm.
+- **[[Mes'Atemu]]** — Älterer Bruder von Sethos (Verhältnis: angespannt).
+- **Seth-Tempel-Mentor** — Sethos' Mentor aus dem Seth-Tempel. Zog eines Tages in die Wüste und wurde seitdem nicht mehr gesehen.
 
 > [!danger]- GM-Wissen: Der Mentor
 > Der mysteriöse Mentor aus dem Seth-Tempel ist Seth selbst. Er hat Sethos unter dem Deckmantel des Priestertums lange beschützt, weil er schon früh von dessen Landweber-Fähigkeiten wusste und erkannte, wie wichtig Sethos für das Land ist. Die Gruppe weiß das nicht.
@@ -156,16 +156,12 @@ Klingenwaffe, scharf. Sethos' bevorzugte Nahkampfwaffe.
 
 ## Begleiter & Vertraute
 
-- **[[Resul]]** — Sethtier, Vertrauter von Sethos. Kommuniziert über Gedanken und Bilder. Dient Sethos manchmal als "Selbstgespräche-Äffchen" — jemand zum Reden, der immer zuhört. Mag die Wüste und Spielen. Mag es gar nicht wenn jemand schlecht mit Sethos umgeht.
-- **Horus-Pferd** — Befindet sich derzeit in [[Aziza]]. Sethos ist überzeugt, dass das Tier etwas Besonderes ist — die aktuelle Lage hat bisher keine Zeit gelassen das herauszufinden.
+- [[Resul]] — Sethtier, Vertrauter von Sethos
+- Horus-Pferd — befindet sich derzeit in [[Aziza]]
 
 ## Glaube & Magie
 
-Sethos ist Priester zweier Götter: Seth und des wahren [[Horus]]. Seth war von Anfang an sein Anker — der Gott der Wüste und Stärke, dem er als Kind der Wüste instinktiv vertraute. Der wahre Horus kam später dazu, nicht als Widerspruch, sondern als logische Ergänzung: Die Prinzipien die Horus verkörpert — Gerechtigkeit, Schutz des Volkes — wohnen auch in Sethos selbst. Mit dem falschen Horus hatte er von Anfang an keine Verbindung; der wahre Horus fühlt sich richtig an.
-
-Sein Götterbild hat sich im Laufe der Abenteuer gewandelt. Früher waren Götter mythische, ferne Gestalten — man spürte ihre Präsenz, aber sie wirkten riesenhaft und unnahbar. Inzwischen weiß Sethos: Götter sind Wesen, mit denen man anders interagieren kann. Diese Unmittelbarkeit hat seinen Glauben verändert.
-
-Magie ist für ihn als ausgebildeter Kampfmagier Alltag.
+Sethos ist Priester zweier Götter: Seth und des wahren [[Horus]]. Sein Götterbild hat sich im Laufe der Abenteuer gewandelt. Magie ist für ihn als ausgebildeter Kampfmagier Alltag.
 
 ## Kampfverhalten
 
@@ -187,13 +183,7 @@ Sethos hält Abstand und deckt den Feind mit Pfeilen oder Magie ein. Das Wichtig
 
 ### Zur Gruppe
 
-- **[[Tak'Anshurr|Tak]]** — Behandelte ihn von Beginn an als Gleichwertigen, nicht als Bedrohung. Bat ihn um Hilfe statt ihn zu befehlen. Tak hat daraufhin einen Blut-Eid auf Sethos geschworen — Sethos hat damit einen Wächter gewonnen, der aus göttlicher Überzeugung kämpft, nicht aus Pflicht. Mit der Zeit ein sehr guter Freund, enger Vertrauter und moralischer Beistand.
-- **[[Neomi]]** — Teil des Eids; bewachte ihn nach seinem Tod die ganze Nacht.
-- **[[Ainur]]** — Blieb als Einzige an seiner Seite als [[Mes'Atemu]] ihm den Schutz entzog. Ihre Loyalität gilt der Person Sethos, nicht dem Amt.
-- **[[Horem]]** — Noch nicht lange bekannt. Erscheint kompetent und verlässlich — eher professionell als Freundschaft, aber eine solide Basis.
-- **[[Amila]]** — Eine Freundin geworden. Verlässliche und treue Gefährtin.
-- **[[Kamaleon|Kama]]** — Ein spezieller Typ. Mittlerweile verbindet sie viel Erlebtes. In manchen Dingen noch etwas suspekt — aber hat sich als verlässlich erwiesen. In kirchlichen Dingen darf er gerne vordrängeln.
-- **[[Neitha]]** — Wirkt auf Sethos manchmal etwas zu besorgt als Leibwächterin — aber mit genau dem richtigen Auftreten. Könnte noch eine interessante Freundschaft werden.
+Am Anfang kannte Sethos niemanden, aber sie haben inzwischen einiges zusammen durchgestanden.
 
 ### Zu NPCs
 - **[[Rehotep]]** — Vater und Pharao. Derzeit verschollen.
@@ -202,23 +192,22 @@ Sethos hält Abstand und deckt den Feind mit Pfeilen oder Magie ein. Das Wichtig
 
 ## Charakterentwicklung
 
-Sethos fiel in der [[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]] und wurde zurückgeholt. Dabei verlor er seine Hand — Seth schenkte ihm die Sandhand. Dieses Erlebnis hat ihn gezeichnet.
+Sethos fiel in einer Schlacht und wurde durch ein Eingreifen von Seth wiederbelebt. Dabei verlor er seine Hand — Seth schenkte ihm eine magische Ersatzhand aus Sand (die Sandhand). Dieses Erlebnis hat ihn gezeichnet.
 
 > [!danger]- GM-Wissen: Tod und Wiederbelebung
 > Seth hat einen Deal mit Anubis gemacht, um Sethos zurückzuholen. Seth wusste zu diesem Zeitpunkt bereits von Sethos' Landweber-Fähigkeiten und wie wichtig er für das Land ist. Die Gruppe war bei Sethos' Tod dabei, aber dass Seth dafür einen Deal mit Anubis eingehen musste, weiß niemand — Seth hat dazu nichts gesagt, auch nicht was der Deal beinhaltet hat.
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **[[Abenteuer 003 - Gift des Skorpions|Gift des Skorpions]]** — Erstkontakt mit [[Tak'Anshurr|Tak]]; führte die Expedition in den Panthaura-Dschungel um das Gegengift für [[Mes'Atemu]] zu beschaffen.
-- **[[Abenteuer 004 - Schlacht um Bech'Amet|Schlacht um Bech'Amet]]** — Führte die Verteidigung von [[Bech'Amet]] gegen eine Kaarsi-Armee. Fiel im Kampf — Von einem Kaarsi Dämon getötet. Seth machte einen Deal mit Anubis und schickte ihn zurück; verlor dabei seine Hand, Seth schenkte ihm die Sandhand. Entdeckte und barg die verschollene Mumie von [[Chepreh]]. [[Resul]] kämpfte zum ersten Mal an seiner Seite. [[Tak'Anshurr|Tak]] und [[Neomi]] schworen daraufhin ihren Blut-Eid.
-- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Erste Falken-Transformation nach einer Vision in der Landwebearena. Unterweisung im Landweben durch [[Rak'Shanvarion|Rak]] (Phearie, blau-weißer Drache) in Aziza; erhielt Portalamulett. Erschuf via Landweben einen [[Kuresi]]-Altar am Fluss für [[Amila]]. Richtete gemeinsam mit Amila in der Gauhauptstadt einen neuen Kuresi-Tempel und den Anubis-Tempel ein. Reiste mit [[Kamaleon|Kama]] auf die Traumebene um eine aus dem Golemherz befreite Seth-Seele zu befragen. Aktivierte das verankerte Portal im [[Tempel der Neith]].
+- **Tod und Wiederbelebung:** Fiel in einer Schlacht, wurde zurückgeholt. Verlor dabei seine Hand → Sandhand.
+
+<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
 
 ## Notizen
 
 - Sethos ist ein Prinz der aktiv das Land beschützt, nicht nur vom Thron aus regiert
-- Doppelpriester (Seth + Horus) ist ungewöhnlich — für Sethos aber logische Konsequenz, nicht Widerspruch
+- Doppelpriester (Seth + Horus) ist ungewöhnlich 
 - Verbindung zum Sechem über Resul als Erd-Element
-- Der Gerechtigkeitswahn entzündet sich besonders an konkreten Ungerechtigkeiten: Zölle und Steuern die von mittellosen Flüchtlingen eingetrieben werden, Korruption am Hof
 - Geheimnis: Ein paar nicht so alltägliche Wagenrennen und die eine oder andere Kneipenschlägerei
 
 > [!info]- Spieler-Meta

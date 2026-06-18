@@ -52,21 +52,21 @@ Typischer Bariyaner, ohne besondere körperliche Merkmale.
 
 ## Persönlichkeit
 
-- **Kerncharakterzüge:** Ruhig, geduldig, unauffällig
-- **Mag:** Geheimnisse aufdecken, ein gutes Bier
+- **Kerncharakterzüge:** <!-- TODO -->
+- **Mag:** <!-- TODO -->
 - **Mag nicht:** Inkompetenz
 - **Leibspeise:** Fisch und Honig — aber nicht zusammen
-- **Größter Wunsch:** Den Weltenfresser/[[Apophis]] aufhalten und [[Baryia (Reich)|Barya'Aches]] zu alter Stärke zurückführen
+- **Größter Wunsch:** <!-- TODO -->
 - **Größte Angst:** Den Tod
-- **Moralischer Kompass:** Respektiert Gesetze — das ist ihr Zweck. Bricht sie aber ohne Zögern wenn es die Mission erfordert, dem Reich nützt oder [[Apophis]] aufzuhalten hilft. Pragmatisch, nicht beliebig.
-- **Fremden gegenüber:** Relativ offen, aber sehr beobachtend.
+- **Moralischer Kompass:** <!-- TODO -->
+- **Fremden gegenüber:** <!-- TODO -->
 - **Wert des Lebens:** <!-- TODO -->
 
 ## Familie & Herkunft
 
-Stammt aus einer Beamtenfamilie in [[U-Maat-Re-Ka]]. Keine lebenden oder engen Familienmitglieder.
+Keine Angaben zur Familie.
 
-Wurde als Agent entdeckt und angeworben — jemand erkannte sein Talent. Offizieller Auftraggeber: der baryanische Staat. Inoffizieller Auftraggeber: der [[Zeitorden]], den er vor kurzem gefunden hat. Aktueller Auftrag: [[Sethos]] im Blick behalten und unterstützen.
+<!-- TODO: Herkunft, Hintergrund, für wen arbeitet er als Agent? -->
 
 ## Wichtige Fähigkeiten & Vorteile
 
@@ -102,27 +102,23 @@ Keine.
 
 ## Glaube & Magie
 
-Horem ist dem [[Zeitorden]] geweiht — einer Organisation die er erst kürzlich entdeckt hat, die aber sowohl Quelle seiner Paladin- als auch seiner Chronomancer-Fähigkeiten ist. Kein Gott im klassischen Sinne, aber eine mächtige übergeordnete Instanz.
+Horem hat keinen spezifischen Gott angegeben, verfügt aber über Paladin-Fähigkeiten (Stufe 15) — das deutet auf eine göttliche Verbindung hin, die noch zu klären ist. Zusätzlich ist er Chronomancer — eine seltene Zeitmagie-Spezialisierung.
 
-Als Medium spürt er die Präsenz von Geistern — ohne sie aktiv zu sehen oder zu hören. Regeltechnisch macht ihn das anfälliger für Besessenheit.
+Als Medium hat er eine Verbindung zur Geisterwelt.
 
 ## Kampfverhalten
 
 Agent und Kämpfer mit Schwerpunkt Anderthalbhänder (25). Kombiniert Nahkampf mit Chronomancer- und Paladin-Fähigkeiten. Herausragend in Heimlichkeit — typisch für einen Agenten.
 
-**Kampfrolle:** Nahkämpfer mit Anderthalbhänder, ergänzt durch Chronomancer- und Paladin-Fähigkeiten.
+**Kampfrolle:** <!-- TODO -->
 
-**Soziale Rolle:** Informationsbeschaffung, Beobachtung, stille Absicherung im Hintergrund.
+**Soziale Rolle:** <!-- TODO -->
 
 ## Beziehungen
 
 ### Zur Gruppe
 
-- **[[Sethos]]** — Sehr fähiger Prinz. Hat schnell erkannt dass die Berichte über ihn (Partyprinz, Tunichtgut) nicht stimmen.
-- **[[Tak'Anshurr|Tak]]** — Sehr fähiger Krieger, Sethos gegenüber außergewöhnlich loyal. Horem versteht den Grund für diese Loyalität noch nicht ganz.
-- **[[Amila]]** — Chaotisch, aber aufrichtig fürsorglich. Gute Heilerin.
-- **[[Kamaleon|Kama]]** — Jemand auf den man ein Auge haben muss — [[Apophis]] hat aus bisher ungeklärten Gründen Interesse an ihm gezeigt.
-- **[[Neitha]]** — Durch Horems Meister (Neithas Vater) bereits vorab informiert. Bestätigt: fähige und zuverlässige Leibwächterin, loyal gegenüber dem Reich.
+<!-- Aus Spieltagen ergänzen -->
 
 ### Zu NPCs
 
@@ -134,17 +130,19 @@ Agent und Kämpfer mit Schwerpunkt Anderthalbhänder (25). Kombiniert Nahkampf m
 
 ## Wichtige Erlebnisse & Ereignisse
 
-- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Recherchierte in der Bibliothek von [[Aziza]] und las sich in die Landweberkrankheit ein. Nahm Kontakt zur Diebesgilde auf und beschaffte Informationen zu den politischen Vorgängen in der Gau. Sicherte Beweise gegen die Gauleiterin. Wurde von [[Jumoke]] — [[Neitha]]s Vater und Großmeister des [[Zeitgeheimbund]]s — persönlich in den Bund rekrutiert. Fertigte Forschungsnotizen zu Gift und Seuche an. Beteiligte sich an der Neubesetzung des Golems.
+<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
 
 ## Notizen
 
-- Offizieller Agent des Reiches + inoffiziell Zeitorden — zwei Auftraggeber, möglicherweise nicht immer deckungsgleiche Ziele
-- Loyalität gilt dem Reich, nicht einem Herrscher — bei Konflikt Sethos vs. Reich: eigene Bewertung je nach Kontext
-- Verbindung zu Neithas Vater (Horems Meister) — interessante Hintergrundverbindung
-- [[Apophis]] hat Interesse an Kamaleon — Horem beobachtet das
+- Agent — für wen? Baryia allgemein? Eine bestimmte Organisation?
+- Nichtschläfer — schläft er wirklich nie? Magisch? Biologisch?
+- Medium — sieht/spricht mit Geistern?
+- Chronomancer + Paladin — ungewöhnliche Kombination, Zeitmagie + göttliche Kräfte
+- Kein Gott angegeben, aber Paladin-Klasse — welchem Gott geweiht?
+- Loyalität Baria'Aches — dem Reich gegenüber loyal, nicht einem einzelnen Herrscher
 - Felix spielt auch [[Charaktere/Helden/Team Synfathia/Yuliya Astel\|Yuliya Astel]] in Team Synfathia
 
 > [!info]- Spieler-Meta
 > **Spieler:** Felix
-> **Erhofft sich vom Spiel:** Intrigen und Geheimnisse — die politisch-schattigen Seiten der Kampagne.
-> **No-Go:** Keines.
+> **Erhofft sich vom Spiel:** Nicht angegeben
+> **No-Go:** Nicht angegeben

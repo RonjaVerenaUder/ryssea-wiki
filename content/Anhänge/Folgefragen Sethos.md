@@ -11,10 +11,6 @@ publish: false
 
 Basierend auf dem ausgefüllten [[Anhänge/Fragebogen Sethos|Fragebogen]]. Diese Fragen vertiefen Bereiche die im ersten Bogen noch dünn waren oder wo spannende Anknüpfungspunkte für die Kampagne liegen.
 
-> [!info] Status: Beantwortet (2026-05-25)
-> Alle Fragen wurden mit Christoph durchgegangen und in [[Charaktere/Helden/Sethos Gang/Sethos]] eingearbeitet.
-> Noch offen: Militärische Erfahrung (kommt aus dem Abenteuer), Horus-Bogen Regelwerte (Regelklärung ausstehend).
-
 ---
 
 ## Hintergrund & Familie
