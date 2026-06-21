@@ -68,3 +68,26 @@ Bei einem Crit Special erhält das betroffene Talent einen **permanenten +1 Buff
 ### Neu würfeln bei hohem Ergebnis
 
 Bei einem Wurf von **18 oder höher** auf dem W20 darf der Spieler seinen Wurf „aufgeben" und **erneut würfeln** — das zweite Ergebnis zählt dann.
+
+---
+
+## Anführen — Koordinieren
+
+Um mehrere Verbündete zu koordinieren, legt der Anführer eine **Probe auf [[Talente#Anführen|Anführen]]** mit einem bestimmten Ziel ab.
+
+**Schwierigkeitsprobe:** 20 + Anzahl der koordinierten Charaktere
+
+**Ergebnis:** Der Anführer wählt anhand der erzielten EG, welche Boni verfügbar sind. Über die tatsächliche Nutzung entscheidet jeder koordinierte Charakter selbst.
+
+| EG | Bonus |
+|---|---|
+| 1 EG | 1 SW |
+| 2 EG | 1 EG-Würfel |
+| 3 EG | 1 EG |
+| 5 EG | 1 Crit |
+
+> [!info] Vertraute
+> Vertraute zählen als koordinierte Charaktere und erhöhen die SP entsprechend.
+
+> [!example] Beispiel
+> Sethos koordiniert 3 Verbündete und seinen Vertrauten [[Resul]] → SP: 20 + 4 = **24**
