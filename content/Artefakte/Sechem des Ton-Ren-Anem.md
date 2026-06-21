@@ -36,6 +36,12 @@ Das Sechem kann auf **ein Element gleichzeitig** aktiv eingestimmt sein. Das Ein
 |---------|--------|--------------|
 | Erde | [[Resul]] (Sethtier, Vertrauter von Sethos) | Boni gelten auch für den Aspekt **Sand** |
 
+## Setbonus
+
+**Falkenauge** *(mit [[Artefakte/Halsreif des Horus|Halsreif des Horus]])*
+- Erschwernisse durch Reichweite entfallen
+- Reichweite +0,5 Grundreichweite
+
 ## Notizen
 
 - Wie wird ein neues Element eingebunden? Ritual noch zu dokumentieren

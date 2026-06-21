@@ -157,6 +157,14 @@ Verwandlung in einen kleinen Falken. Ausführungsdauer: 10 Ticks.
 ### Chepesch
 Klingenwaffe, scharf. Sethos' bevorzugte Nahkampfwaffe.
 
+---
+
+### Setboni
+
+**Falkenauge** *(aktiv mit [[Artefakte/Halsreif des Horus|Halsreif des Horus]] + [[Artefakte/Sechem des Ton-Ren-Anem|Sechem des Ton-Ren-Anem]])*
+- Erschwernisse durch Reichweite entfallen
+- Reichweite +0,5 Grundreichweite
+
 ## Begleiter & Vertraute
 
 - [[Resul]] — Sethtier, Vertrauter von Sethos

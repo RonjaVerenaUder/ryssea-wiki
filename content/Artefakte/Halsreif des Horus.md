@@ -31,6 +31,12 @@ Der Träger des Halsreifs kann sich in einen kleinen Falken verwandeln.
 
 <!-- TODO: Stammt der Halsreif vom echten Horus (Anvarael/Rael) oder ist er ein Artefakt der Horus-Kirche (also indirekt Kaarsi)? -->
 
+## Setbonus
+
+**Falkenauge** *(mit [[Artefakte/Sechem des Ton-Ren-Anem|Sechem des Ton-Ren-Anem]])*
+- Erschwernisse durch Reichweite entfallen
+- Reichweite +0,5 Grundreichweite
+
 ## Notizen
 
 - Thematisch passend: Horus ist in Ägypten als Falkengott bekannt — der Halsreif greift diese Symbolik auf
