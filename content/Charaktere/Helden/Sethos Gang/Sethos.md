@@ -151,6 +151,9 @@ Aurazauberei und Anführen: +5 SW-Wert und 1x Heldenstufe Schwerpunkt auf "Inspi
 
 **Element enthalten:** Erde in Form von [[Resul]], dadurch Boni auch auf Aspekt Sand.
 
+### [[Artefakte/Halsreif des Horus|Halsreif des Horus]]
+Verwandlung in einen kleinen Falken. Ausführungsdauer: 10 Ticks.
+
 ### Chepesch
 Klingenwaffe, scharf. Sethos' bevorzugte Nahkampfwaffe.
 

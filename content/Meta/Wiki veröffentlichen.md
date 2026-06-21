@@ -32,7 +32,13 @@ Nur Notizen mit `publish: true` erscheinen auf der Website. Alle anderen bleiben
 > </details>
 > ```
 
+---
+
 ## 2. Content ins Quartz-Projekt kopieren
+
+> [!warning] Vor dem Kopieren immer erst `git pull` im Wiki-Repo machen, damit keine Änderungen vom anderen Rechner überschrieben werden!
+
+### Ronja-Rechner
 
 In PowerShell:
 
@@ -41,16 +47,42 @@ Remove-Item -Recurse -Force "C:\Users\Ronja\Documents\ryssea-wiki\content"
 Copy-Item -Recurse "C:\Users\Ronja\Documents\Obsidian\Ryssea-Vault-Synch" "C:\Users\Ronja\Documents\ryssea-wiki\content"
 ```
 
-Das ersetzt den gesamten `content/`-Ordner mit dem aktuellen Vault-Stand.
+### Syral-Rechner
+
+> [!todo] Pfade noch eintragen!
+
+```powershell
+Remove-Item -Recurse -Force "PFAD_ZUM_WIKI\content"
+Copy-Item -Recurse "PFAD_ZUM_VAULT" "PFAD_ZUM_WIKI\content"
+```
+
+---
 
 ## 3. Änderungen committen und pushen
 
+### Ronja-Rechner
+
 ```bash
 cd "C:\Users\Ronja\Documents\ryssea-wiki"
+git pull
 git add content/
 git commit -m "Update Vault Content"
 git push
 ```
+
+### Syral-Rechner
+
+> [!todo] Pfad noch eintragen!
+
+```bash
+cd "PFAD_ZUM_WIKI"
+git pull
+git add content/
+git commit -m "Update Vault Content"
+git push
+```
+
+---
 
 ## 4. Warten
 
@@ -60,12 +92,23 @@ GitHub Actions baut die Seite automatisch neu. Dauert ca. 1–2 Minuten. Danach 
 
 Falls du vor dem Pushen prüfen willst wie die Seite aussieht:
 
+### Ronja-Rechner
+
 ```bash
 cd "C:\Users\Ronja\Documents\ryssea-wiki"
 npx quartz build --serve
 ```
 
+### Syral-Rechner
+
+```bash
+cd "PFAD_ZUM_WIKI"
+npx quartz build --serve
+```
+
 Dann `http://localhost:8080` im Browser öffnen.
+
+---
 
 ## Checkliste vor dem Veröffentlichen
 
@@ -77,4 +120,3 @@ Dann `http://localhost:8080` im Browser öffnen.
 ## Referenzen
 
 - Publish-Status und Prüfliste: [[Publish-Status]]
-- Projekt-Übersicht: Im Wissensdatenbank-Vault unter `02 Lernprojekte/Ryssea Wiki Setup.md`
