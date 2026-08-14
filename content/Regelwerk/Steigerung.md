@@ -1,7 +1,7 @@
 ---
 tags: [regelwerk]
 typ: regelwerk
-status: entwurf
+status: fertig
 publish: true
 ---
 
@@ -28,7 +28,7 @@ Jede Steigerung hat bestimmte Kosten. Die Steigerung erfolgt hierbei **schrittwe
 > [!info] Vorteile & Nachteile
 > In Ryssea kosten [[Vorteile & Nachteile|Vorteile]] **GP × 3** um sie nachträglich zu erwerben. Nachteile loszuwerden kostet ebenfalls **GP × 3** des Nachteils in AP.
 
-Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Widerstandswerte und Geschwindigkeit) werden nicht separat gesteigert, sondern steigen automatisch mit den gesteigerten Grundwerten oder eventuell erworbenen Vorteilen und Meisterschaften. Nach dem Erhöhen von zugehörigen Eigenschaften oder dem Erwerb von entsprechenden Vorteilen und Meisterschaften sollten die betroffenen abgeleiteten Werte neu berechnet werden.
+Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Resistenzen und Geschwindigkeit) werden nicht separat gesteigert, sondern steigen automatisch mit den gesteigerten Grundwerten oder eventuell erworbenen Vorteilen und Meisterschaften. Nach dem Erhöhen von zugehörigen Eigenschaften oder dem Erwerb von entsprechenden Vorteilen und Meisterschaften sollten die betroffenen abgeleiteten Werte neu berechnet werden.
 
 ---
 
@@ -69,8 +69,18 @@ Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Widersta
 
 | | Stufe 1 | Stufe 2 | Stufe 3 | Stufe 4 |
 |---|---|---|---|---|
-| **Voraussetzung** | Heldenstufe 2 | Heldenstufe 3 | Heldenstufe 4 | Heldenstufe 5 |
+| **Voraussetzung** | Talentwert 9 | Talentwert 12 | Talentwert 15 | Talentwert 18 |
 | **Kosten** | 5 AP | 10 AP | 15 AP | 20 AP |
+
+Für **Magie- und Priestertalente** setzt sich die Reihe nach demselben Muster fort — drei Talentpunkte und 5 AP je weiterer Stufe:
+
+| | Stufe 5 | Stufe 6 | Stufe 7 |
+|---|---|---|---|
+| **Voraussetzung** | Talentwert 21 | Talentwert 24 | Talentwert 27 |
+| **Kosten** | 25 AP | 30 AP | 35 AP |
+
+> [!info] Warum nur die Magie sieben Stufen hat
+> Die Zauberei kennt lange Meisterschaftsketten, die eine Fähigkeit über mehrere Stufen ausbauen — *Effektwürfel*, *Komponente weglassen*, *Zauber verkürzen*. Sie in vier Schwellen zu pressen würde ihre letzten Glieder erdrücken. Alle übrigen Talentkategorien bleiben bei **vier** Schwellen.
 
 ### Zauber
 
@@ -83,7 +93,7 @@ Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Widersta
 
 ## Ressourcen steigern
 
-Mit einer guten Begründung ist es möglich, die [[Ressourcen]] eines Charakters zu steigern. Wenn die Charaktere etwa einen Drachenschatz gefunden haben, kann dies das Vermögen eines Charakters permanent erhöhen. Ebenso könnte eine im Abenteuer getroffene Spielleiterfigur zum Gefolge des Charakters werden.
+Mit einer guten Begründung ist es möglich, die [[Ressourcen]] eines Charakters zu steigern. Wenn die Charaktere etwa einen Drachenschatz gefunden haben, kann dies das Vermögen eines Charakters permanent erhöhen. Ebenso könnte eine im Abenteuer getroffene Spielleitungsfigur zum Gefolge des Charakters werden.
 
 Ob Abenteuerpunkte hierfür aufgewendet werden müssen, hängt vom Anlass ab:
 - **Spieler-Initiative:** Möchte der Spieler von sich aus die Ressourcen seines Charakters erhöhen und bittet die Spielleitung, hierfür gemeinsam eine Begründung zu entwickeln → **kostet AP**.
@@ -98,7 +108,20 @@ Ein Heldenlevel hat in erster Linie eine beschreibende Funktion und dient dazu, 
 Ein Charakter erreicht einen neuen Heldenlevel **automatisch**, wenn er ausreichend Abenteuerpunkte **ausgegeben** hat. Er muss nichts dafür tun, es entstehen keine weiteren Kosten und er muss keine anderen Voraussetzungen erfüllen: Hat er genug Abenteuerpunkte eingesetzt (nicht nur angesammelt), erreicht er einen neuen Heldenlevel. Für das Erreichen eines Heldenlevels zählen sämtliche Abenteuerpunkte.
 
 > [!abstract] Levelschwelle
-> Ein neuer Charakter startet auf **Heldenstufe 1**. Hat er insgesamt **300 Abenteuerpunkte** ausgegeben (inklusive der Start-AP aus der [[Regelwerk/Charaktererstellung/Charaktererstellung|Charaktererstellung]]), erreicht er **Heldenstufe 2**.
+> Ein neuer Charakter startet auf **Heldenstufe 1**. Jede weitere Stufe erreicht er, sobald er insgesamt genug Abenteuerpunkte **ausgegeben** hat (inklusive der Start-AP aus der [[Charaktererstellung]]).
+>
+> **Schwelle der nächsten Stufe = Schwelle der vorherigen Stufe × 2 + 100 AP**
+>
+> | Heldenstufe | Ausgegebene AP |
+> |---:|---|
+> | 1 | 100 (Start) |
+> | 2 | 300 |
+> | 3 | 700 |
+> | 4 | 1.500 |
+> | 5 | 3.100 |
+> | 6 | 6.300 |
+>
+> … und so weiter nach derselben Formel.
 
 ---
 
@@ -138,7 +161,7 @@ Innerhalb eines Levels kann ein Spieler seinen Charakter beliebig **in die Breit
 
 ### Schicksalspunkte
 
-Bei Erreichen eines neuen Heldenlevels erhält der Charakter automatisch und ohne weitere Kosten **+1 [[Regelwerk/Schicksalspunkte|Schicksalspunkt]]** zu seinem Vorrat.
+Bei Erreichen eines neuen Heldenlevels erhält der Charakter automatisch und ohne weitere Kosten **+1 [[Schicksalspunkte|Schicksalspunkt]]** zu seinem Vorrat.
 
 ### Maximaler Bonus für Proben
 
@@ -155,7 +178,7 @@ Viele Personen benötigen kundige Lehrer, um sich neues Wissen und neue Talente 
 
 **[[Eigenschaften]]:** Können innerhalb der Grenzen des Heldenlevels ohne Lehrmeister beliebig gesteigert werden.
 
-**[[Talente]]:** Innerhalb der Grenzen eines Heldenlevels normalerweise beliebig steigerbar. Das Erreichen einer Meisterschaftsschwelle (Werte 6, 9, 12 und 15) erfordert häufig einen Lehrmeister.
+**[[Talente]]:** Innerhalb der Grenzen eines Heldenlevels normalerweise beliebig steigerbar. Das Erreichen einer Meisterschaftsschwelle (Werte 9, 12, 15 und 18) erfordert häufig einen Lehrmeister.
 
 **[[Vorteile & Nachteile|Vorteile]]:** Hängt vom Vorteil ab. Einige können nur bei einem Lehrer gelernt werden, andere durch körperliche Abhärtung und Training. Manche erfordern das Eingreifen der Götter, magische Rituale oder andere spezielle Wege. Entscheidung liegt bei der Spielleitung.
 

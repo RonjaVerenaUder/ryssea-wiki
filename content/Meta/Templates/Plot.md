@@ -30,8 +30,11 @@ eingeführt_in: ""
 
 -
 
-## Tatsächliche Hintergründe (GM-Wissen)
-<!-- Was ist wirklich los? Die ganze Wahrheit hinter dem Plot. -->
+## Tatsächliche Hintergründe
+
+> [!danger]- GM-Wissen
+> <!-- Was ist wirklich los? Die ganze Wahrheit hinter dem Plot. Bleibt auf der Website eingeklappt. -->
+> 
 
 ## Fortschritt
 <!-- Chronologisch nach Spieltagen: wie hat sich der Plot entwickelt? -->

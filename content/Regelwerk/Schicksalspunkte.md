@@ -1,25 +1,26 @@
 ---
 tags: [regelwerk]
 typ: regelwerk
-status: entwurf
+status: fertig
 publish: true
 ---
 
 # Schicksalspunkte & Schicksalsgaben
 
-Jeder Spielerheld, der auf Ryssea wandelt, ist etwas Besonderes — aber was macht diese Gestalten dazu? Natürlich steckt in jedem vielleicht etwas mehr Aufmerksamkeit von dem, der ihn geschaffen hat, aber das ist nur die Außenansicht. In diesem Kapitel geht es darum, was diese Geschöpfe von allen anderen Lebewesen abhebt: die Möglichkeit, die Welt direkt zu beeinflussen. Diese Fähigkeit wird durch Schicksalspunkte dargestellt.
+Jeder Spielerheld, der über Ryssea wandelt, ist etwas Besonderes — aber was macht ihn dazu? Sicher steckt in jedem ein wenig mehr Aufmerksamkeit dessen, der ihn geschaffen hat; das aber ist nur die Außenansicht. Was diese Geschöpfe von allen anderen Lebewesen abhebt, ist die Möglichkeit, die Welt unmittelbar zu beeinflussen. Diese Fähigkeit wird durch **Schicksalspunkte** dargestellt.
 
 > [!abstract] Schicksalspunkte-Pool
-> - **Startwert:** 2 + Heldenstufe (= 3 bei Heldenstufe 1)
+> - **Startwert:** 2 + Heldenstufe (= 3 auf Heldenstufe 1)
 > - **Maxwert:** Startwert + 3
-> - Mit jeder Stufe wird der Startwert um **1** größer.
-> - **Regeneration:** 1 Schicksalspunkt pro Spieltag. Bei Beginn eines Abenteuers zurück auf Startwert. Kann nach Ermessen der Spielleitung zusätzlich vergeben werden.
-> - Schicksalspunkte können in [[Regelwerk/Token#Götter-Segen|Götter-Segen]] umgewandelt werden.
-> - **Token:** Dunkelblau / Hellblau (siehe [[Regelwerk/Token|Token]])
+> - Mit jeder Heldenstufe steigt der Startwert um **1**.
+> - **Regeneration:** 1 Schicksalspunkt pro Spieltag; zu Beginn eines Abenteuers zurück auf den Startwert. Die Spielleitung kann nach Ermessen zusätzliche vergeben.
+> - Schicksalspunkte lassen sich in [[Token#Götter-Segen|Götter-Segen]] umwandeln.
+> - **Token:** Dunkelblau / Hellblau (siehe [[Token]])
 
 Schicksalspunkte können auf zwei Arten ausgegeben werden:
-1. **Direkter Einsatz** — um sofort einen regeltechnischen Effekt auszulösen
-2. **Schicksalsgabe** — um eine ganz besondere, bei der [[Regelwerk/Charaktererstellung/Charaktererstellung|Charaktererstellung]] gewählte Fähigkeit zu aktivieren
+
+1. **Direkter Einsatz** — um sofort einen regeltechnischen Effekt auszulösen.
+2. **Schicksalsgabe** — um die bei der [[Charaktererstellung]] gewählte besondere Fähigkeit zu aktivieren.
 
 ---
 
@@ -29,53 +30,53 @@ Schicksalspunkte können auf zwei Arten ausgegeben werden:
 
 | Einsatz (1 Schicksalspunkt) | Effekt |
 |---|---|
-| SW-Erhöhung | +3 auf den SW-Wert für eine Probe eines Talentes |
-| Würfelpool-Erhöhung | +2 Würfel auf den Würfelpool eines Talentes für eine Probe |
-| Widerstand stärken | +3 auf einen Widerstandswert |
+| Grundwert-Erhöhung | +3 auf den Grundwert für eine Probe |
+| Erfolgswürfel | +2 Erfolgswürfel für eine Probe |
+| Resistenz stärken | +3 auf eine Resistenz |
 | Schadensreduktion | −5 Schaden aus einer einzelnen Quelle (einmalig) |
 
 ### Ab Heldenstufe 3
 
 | Einsatz (1 Schicksalspunkt) | Effekt |
 |---|---|
-| Übertragung an Gefährten | Schicksalspunkte an einen Gefährten übertragen im Verhältnis 2:1 |
-| Aufwertung für Gefährten | Schicksalspunkt eines Gefährten: Widerstände auf +5, Schadensreduktion auf −8 |
+| Übertragung an Gefährten | Schicksalspunkte im Verhältnis 2:1 an einen Gefährten übertragen |
+| Aufwertung für Gefährten | Schicksalspunkt eines Gefährten: Resistenzen auf +5, Schadensreduktion auf −8 |
 
 ---
 
 ## Schicksalsgaben
 
-Bei der Charaktererstellung wählt jeder Held eine Schicksalsgabe. Diese Gabe hat drei Stufen, die an die Heldenstufe gekoppelt sind.
+Bei der Charaktererstellung wählt jeder Held eine Schicksalsgabe. Jede Gabe hat drei Stufen, die an die Heldenstufe gekoppelt sind — freigeschaltet auf **Heldenstufe 1, 2 und 4**. (Die Gabe „Wanderer" hat zusätzlich eine Stufe 5.)
 
 ---
 
 ### Beschützer
 
-**Stufe 1:** Der Einsatz dieser Gabe verwandelt für eine Probe die Wundabzüge aufgrund angebrochener Gesundheitsstufen in einen einmaligen Bonus in gleicher Höhe.
+**Stufe 1:** Der Einsatz verwandelt für eine Probe die Wundabzüge angebrochener Gesundheitsstufen in einen einmaligen Bonus gleicher Höhe.
 
 **Stufe 2:** Für 2 Schicksalspunkte erhöht sich der Bonus um 3 Punkte.
 
-**Stufe 3:** Der Schicksalsgabenträger übernimmt für maximal eine Stunde die bis zu diesem Zeitpunkt erlittenen Wundabzüge eines Gefährten, sodass dieser ohne Abzüge agieren kann.
+**Stufe 4:** Der Gabenträger übernimmt für maximal eine Stunde die bis dahin erlittenen Wundabzüge eines Gefährten, sodass dieser ohne Abzüge agieren kann.
 
 ---
 
 ### Draufgänger
 
-**Stufe 1:** Eine einzelne Kampfhandlung wird um 4 Ticks verkürzt, dauert aber nicht weniger als 2 Ticks.
+**Stufe 1:** Eine einzelne Kampfhandlung wird um 4 Ticks verkürzt, dauert aber nie weniger als 2 Ticks.
 
-**Stufe 2:** Für 2 Schicksalspunkte beträgt die Zeitverkürzung 6 Ticks. Das Minimum beträgt weiterhin 2 Ticks.
+**Stufe 2:** Für 2 Schicksalspunkte beträgt die Verkürzung 6 Ticks; das Minimum bleibt 2 Ticks.
 
-**Stufe 3:** Ein Gefährte, der mit anderen Kampfteilnehmern auf dem gleichen Tick-Feld steht, wird an vorderste Stelle gerückt — darf also als erster in dieser Gruppe handeln.
+**Stufe 4:** Ein Gefährte, der mit anderen auf demselben Tick-Feld steht, wird an die vorderste Stelle gerückt und darf als Erster dieser Gruppe handeln.
 
 ---
 
 ### Eiferer
 
-**Stufe 1:** Der Einsatz dieser Gabe halbiert die Dauer von Gift- und Krankheitsverläufen und den Ruhebedarf bei natürlicher Lebenspunkte-Heilung. Letzteres bedeutet, dass der Schicksalsgabenträger in einer Ruhephase zweimal regeneriert oder bereits durch eine halbe Ruhephase einmal regenerieren kann.
+**Stufe 1:** Der Einsatz halbiert die Dauer von Gift- und Krankheitsverläufen sowie den Ruhebedarf bei natürlicher LeP-Heilung — der Träger regeneriert in einer Ruhephase zweimal oder bereits nach einer halben Ruhephase einmal.
 
-**Stufe 2:** Für 2 Schicksalspunkte sinkt die Dauer einer Ruhephase auf ein Drittel, oder es kann in einer Ruhephase dreimal regeneriert werden.
+**Stufe 2:** Für 2 Schicksalspunkte sinkt die Dauer einer Ruhephase auf ein Drittel, oder es wird dreimal in einer Ruhephase regeneriert.
 
-**Stufe 3:** Ein Gefährte kann sich die Zeit leichter Tätigkeit (Wandern, Reiten) als Ruhephase anrechnen lassen.
+**Stufe 4:** Ein Gefährte kann sich die Zeit leichter Tätigkeit (Wandern, Reiten) als Ruhephase anrechnen lassen.
 
 ---
 
@@ -88,31 +89,31 @@ Bei der Charaktererstellung wählt jeder Held eine Schicksalsgabe. Diese Gabe ha
 
 ### Glücksritter
 
-**Stufe 1:** Der Charakter darf, sofern kein Patzer vorliegt, bei einer Risiko-Probe den zweitniedrigsten Würfel neu werfen. Es gilt stets der zweite Würfelwurf, die Probe wird anschließend ganz normal ausgewertet.
+**Stufe 1:** Bei einer **Risikoprobe** (sofern kein Patzer) darfst du den **niedrigeren** der beiden W10 neu werfen; der neue Wurf gilt, danach wird normal ausgewertet (der höhere zählt).
 
-**Stufe 2:** Der Charakter darf, sofern kein Patzer vorliegt, bei einer Risiko-Probe den niedrigsten Würfel neu werfen. Es gilt stets der zweite Würfelwurf, die Probe wird anschließend ganz normal ausgewertet.
+**Stufe 2:** Wie Stufe 1, aber du darfst **beide** W10 neu werfen — für jeden gilt der neue Wurf.
 
-**Stufe 3:** Ein Gefährte darf den zweitniedrigsten Würfel einer Risiko-Probe neu werfen, sofern kein Patzer vorliegt.
+**Stufe 4:** Ein Gefährte darf bei einer Risikoprobe den niedrigeren W10 neu werfen, sofern kein Patzer vorliegt.
 
 ---
 
 ### Mentalkünstler
 
-**Stufe 1:** Der Schicksalsgabenträger kann Schaden auf seine GLeP umleiten beziehungsweise aufgewendete GLeP-Punkte auf seine Lebensenergie. Der Einsatz muss in dem Moment erfolgen, wenn der Schaden erlitten wird oder die GLeP verbraucht werden, nicht zu einem späteren Zeitpunkt. Entsprechend müssen die Punkte aus einer einzelnen Quelle wie einem gegnerischen Angriff oder einem gewirkten Zauber herrühren. Wie viele der aus dieser Quelle stammenden Punkte umgeleitet werden, unterliegt keinen Beschränkungen. Die Art der Verwendung (kanalisiert, verbraucht) bleibt bestehen. Eine solche Umleitung ist nur möglich, wenn der Charakter noch genügend Punkte besitzt, auf die der Schaden umgeleitet werden kann.
+**Stufe 1:** Der Träger kann Schaden auf seine GLeP umleiten bzw. aufgewendete GLeP auf seine Lebensenergie. Der Einsatz muss im Moment des Schadens oder GLeP-Verbrauchs erfolgen, nicht später, und die Punkte müssen aus einer einzelnen Quelle stammen (etwa einem Angriff oder Zauber). Wie viele Punkte dieser Quelle umgeleitet werden, ist unbegrenzt; die Art der Verwendung (kanalisiert, verbraucht) bleibt erhalten. Möglich ist die Umleitung nur, solange genügend Punkte zum Auffangen vorhanden sind.
 
-**Stufe 2:** Für 2 Schicksalspunkte werden bis zu 3 Punkte echter Schaden oder verbrannte GLeP aus einer gerade auftretenden Quelle zu verbrauchten Punkten vermindert.
+**Stufe 2:** Für 2 Schicksalspunkte werden bis zu 3 Punkte echter Schaden oder verbrannte GLeP aus einer gerade auftretenden Quelle zu bloß verbrauchten Punkten gemindert.
 
-**Stufe 3:** Ein Gefährte kann die Kosten eines gerade gewirkten Zaubers ganz oder teilweise auf den Gabenträger umlenken.
+**Stufe 4:** Ein Gefährte kann die Kosten eines gerade gewirkten Zaubers ganz oder teilweise auf den Gabenträger umlenken.
 
 ---
 
 ### Schicksalswandler
 
-**Stufe 1:** Der Einsatz dieser Gabe zwingt die Spielleitung zur Wiederholung einer Probe, die sich unmittelbar gegen den Schicksalsgabenanwender richtet. Die zweite Probe gilt in jedem Fall. Die Gabe muss vor einer etwaigen Gegen- oder Vergleichsprobe des Charakters eingesetzt werden.
+**Stufe 1:** Der Einsatz zwingt die Spielleitung zur Wiederholung einer Probe, die sich unmittelbar gegen den Gabenträger richtet; die zweite Probe gilt in jedem Fall. Sie muss vor einer etwaigen Gegen- oder Vergleichsprobe des Charakters eingesetzt werden.
 
-**Stufe 2:** Wie Stufe 1, aber die wiederholte Probe bekommt einen Malus von 3 Punkten.
+**Stufe 2:** Wie Stufe 1, aber die wiederholte Probe erhält einen Malus von 3 Punkten.
 
-**Stufe 3:** Ein Gefährte darf einen einzelnen Würfel neu werfen, sofern kein Patzer vorliegt.
+**Stufe 4:** Ein Gefährte darf einen einzelnen W10 neu werfen, sofern kein Patzer vorliegt.
 
 ---
 
@@ -125,38 +126,58 @@ Bei der Charaktererstellung wählt jeder Held eine Schicksalsgabe. Diese Gabe ha
 
 ### Sicherheitsfanatiker
 
-**Stufe 1:** Wenn der höchste Würfel eines Sicherheitswurfes nur maximal 5 zeigt, darf der Charakter beide Würfel doch addieren und als Ergebnis werten. Ein Patzer ist hier trotzdem nicht möglich. Träger dieser Schicksalsgabe verfügen häufig über eine stoische Ruhe, die sich für Außenstehende als Phlegma zeigen kann.
+**Stufe 1:** Zeigt der W6 einer **Sicherheitsprobe** eine **1 oder 2**, darfst du ihn **einmal neu werfen**; der neue Wert gilt. (Eine Sicherheitsprobe patzt ohnehin nie.) Träger dieser Gabe verfügen oft über eine stoische Ruhe, die nach außen als Phlegma wirken kann.
 
-**Stufe 2:** Für 2 Schicksalspunkte wird ein dritter Würfel geworfen und auf die ersten beiden addiert, sofern der höchste Würfel nur maximal 5 zeigt. Dabei gelten die Patzerregeln ebenfalls nicht.
+**Stufe 2:** Für 2 Schicksalspunkte wirfst du bei einer Sicherheitsprobe **zwei W6 und nimmst den höheren**.
 
-**Stufe 3:** Ein Gefährte darf nachträglich einen Sicherheitswurf als Standardwurf werten, also beide Ergebnisse addieren.
+**Stufe 4:** Ein Gefährte darf den W6 seiner Sicherheitsprobe neu werfen, wenn dieser 1 oder 2 zeigt.
 
 ---
 
 ### Taktiker
 
-**Stufe 1:** Der Schicksalsgabenträger legt nach einer Risiko-Probe ein beliebiges Würfelergebnis beiseite, das hierdurch für die aktuelle Probe nicht genutzt werden kann. Würfel, die einen Patzer erzeugen, können nicht ausgewählt werden. Diesen Würfel kann er für eine spätere Probe während der Spielsitzung verwenden und wirft in diesem Fall einen Würfel weniger. Es kann stets nur ein Würfel bereitgehalten werden.
+**Stufe 1:** Bei einer **Risikoprobe** darfst du den **höheren** W10 beiseitelegen und für die aktuelle Probe den **niedrigeren** werten. Den beiseitegelegten Würfel setzt du bei einer späteren Probe dieser Sitzung als dein W10-Ergebnis ein (du wirfst dann keinen eigenen W10). Es kann stets nur **ein** Würfel bereitgehalten werden; Patzer-Würfel sind ausgeschlossen.
 
-**Stufe 2:** Der Schicksalsgabenträger legt nach einer Risiko-Probe zwei nicht genutzte Würfel beiseite. Würfel, die einen Patzer erzeugen, können nicht ausgewählt werden. Diese Würfel kann er für eine spätere Probe während der Spielsitzung verwenden und wirft in diesem Fall einen Würfel weniger. Er darf die Würfel nur einzeln einsetzen.
+**Stufe 2:** Du darfst bis zu **zwei** beiseitegelegte Würfel gleichzeitig vorhalten (aus zwei Risikoproben) und setzt sie einzeln ein.
 
-**Stufe 3:** Ein Gefährte des Schicksalsgabenträgers nutzt einen beiseitegelegten Würfel für eine konkrete Probe.
+**Stufe 4:** Ein Gefährte nutzt einen deiner beiseitegelegten Würfel für eine konkrete Probe.
 
 ---
 
 ### Unterstützer
 
-**Stufe 1:** Der Schicksalsgabenträger kann für eine bestimmte Probe seine eigenen Fertigkeitspunkte an einen Gefährten verleihen. Dieser benutzt die geliehenen Punkte statt seiner eigenen für diese eine Probe.
+**Stufe 1:** Der Träger verleiht für eine bestimmte Probe seine eigenen **Talentpunkte** an einen Gefährten, der sie statt seiner eigenen für diese eine Probe nutzt.
 
-**Stufe 2:** Der Schicksalsgabenträger kann für eine bestimmte Probe seinen eigenen Fertigkeitswert an einen Gefährten verleihen.
+**Stufe 2:** Der Träger verleiht für eine bestimmte Probe seinen eigenen **Talentwert** an einen Gefährten.
 
-**Stufe 3:** Der gewählte Gefährte verleiht seine Fertigkeitspunkte für eine Probe an den Schicksalsgabenträger.
+**Stufe 4:** Der gewählte Gefährte verleiht seine Talentpunkte für eine Probe an den Gabenträger.
 
 ---
 
 ### Wächter
 
-**Stufe 1:** Der Schicksalsgabenträger erkennt Gefahren rechtzeitig und verhindert bei Einsatz dieser Gabe für sich eine etwaige Überraschung und jeden Probenmalus und Abzug, der daraus resultiert. Er kann bei einem Hinterhalt normal agieren, als wäre er nicht überrascht worden, und erhält einen Bonus von **2 Punkten** auf die Initiative.
+**Stufe 1:** Der Träger erkennt Gefahren rechtzeitig: Beim Einsatz verhindert er für sich jede Überraschung und alle daraus folgenden Proben-Mali und Abzüge. Bei einem Hinterhalt agiert er normal, als wäre er nicht überrascht, und erhält **+2** auf die Initiative.
 
-**Stufe 2:** Wie Stufe 1, aber der Initiative-Bonus beträgt **4 Punkte**.
+**Stufe 2:** Wie Stufe 1, aber der Initiative-Bonus beträgt **+4**.
 
-**Stufe 3:** Der Schicksalsgabenträger und ein Gefährte tauschen ihre Initiative-Ergebnisse.
+**Stufe 4:** Der Träger und ein Gefährte tauschen ihre Initiative-Ergebnisse.
+
+---
+
+### Wanderer
+
+> [!info] Zusätzliche Stufe
+> „Wanderer" hat neben den üblichen Stufen 1/2/4 eine **zusätzliche Stufe 5**.
+
+**Stufe 1:** Der Träger wählt bei der Charaktererstellung eine kulturschaffende [[Rassen|Rasse]] Rysseas als zweite Form. Beim Aktivieren verwandelt er sich vollständig: Er gewinnt die [[Vorteile & Nachteile|Vor- und Nachteile]] der Zielform und verliert die der ursprünglichen (vor allem körperliche). Innerhalb von 12 Stunden kann er sich zurückverwandeln; danach passt sich sein Selbstbild an die zweite Form an (inkl. Traumweben und magischer Analysen), bis er sich aktiv zurückverwandelt.
+
+**Stufe 2:** Eine von zwei Alternativen:
+- **Zusätzliche Gestalt:** eine weitere Rasse als zusätzliche Form (Regeln wie Stufe 1).
+- **Erweiterte Form:** Er behält bei der Verwandlung die spezifischen Vorteile seiner ursprünglichen Gestalt. Ergibt ein Vorteil anatomisch keinen Sinn, überbrückt die Welt das Paradox magisch (Kosten 1W6 GLeP zur aktiven Nutzung, z. B. Galopp der Zentauren, Fliegen der Phaerie, Sonarsicht der Sharnai). *Kostet 2 Schicksalspunkte.*
+
+**Stufe 4:** Der Charakter kann seine zweite Form für 1 Schicksalspunkt kurzzeitig an einen Gefährten „ausleihen".
+
+**Stufe 5:** Eine von drei Alternativen:
+- **Zusätzliche Gestalt:** wie oben, eine weitere Form.
+- **Erweiterte Form:** wie Stufe 2. *Kostet 2 Schicksalspunkte.*
+- **Wahre Gestalt:** Eine erweiterte Form wird verinnerlicht — der Charakter entscheidet unabhängig von der aktiven Gestalt, welche sein Selbstbild ist, und hat jederzeit Zugriff auf die Vorteile seiner Gestalten (ggf. mit Magieeinsatz). Beim Formwechsel ist auch eine **Mischform** möglich, die beide Gestalten vereint und deren Vorteile ohne Magie verfügbar macht (anatomisch bedingte Nachteile werden mitgenommen).

@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [ort, stadt]
 typ: stadt
 status: entwurf
@@ -69,9 +70,11 @@ größe: "" # Dorf, Kleinstadt, Stadt, Großstadt, Metropole
 <!-- FRAGE: Was sind die wichtigsten historischen Ereignisse die diese Stadt geprägt haben? -->
 
 ## Geheimnisse
-<!-- GM-Wissen: Was wissen die Spieler nicht? Verborgene Orte, geheime Fraktionen, versteckte Bedrohungen. -->
-<!-- tag: gm-geheim -->
-<!-- FRAGE: Gibt es Geheimnisse die unter der Oberfläche liegen? Verborgene Orte, Verschwörungen, vergessene Tunnel? -->
+
+> [!danger]- GM-Wissen
+> <!-- Was die Spieler nicht wissen: verborgene Orte, geheime Fraktionen, versteckte Bedrohungen, vergessene Tunnel. Bleibt auf der Website eingeklappt. -->
+> <!-- FRAGE: Gibt es Geheimnisse die unter der Oberfläche liegen? -->
+> 
 
 ## Notizen
 <!-- Lose Gedanken, Ideen, offene Fragen. -->

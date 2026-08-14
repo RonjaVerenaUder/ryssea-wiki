@@ -85,6 +85,18 @@ Der `typ` im Frontmatter ist die **primäre Klassifizierung** jeder Notiz. Jede 
 |---|---|---|
 | `artefakt` | Magischer Gegenstand, Relikt | Dissonanz-Nadel, Elementarkernkompass |
 
+### Flora & Fauna
+
+| typ | Beschreibung | Beispiele |
+|---|---|---|
+| `kreatur` | Kreatur, Pflanze oder Ökosystem eines Splitters | — |
+
+### Sprachen
+
+| typ | Beschreibung | Beispiele |
+|---|---|---|
+| `sprache` | Eine Sprache Rysseas | — |
+
 ### Geschichte
 
 | typ | Beschreibung | Beispiele |
@@ -130,6 +142,8 @@ Diese Tags markieren die grobe Zugehörigkeit. Der erste Tag sollte immer die Ob
 | `npc` | Alle NPCs |
 | `spielercharakter` | Alle Spielercharaktere |
 | `artefakt` | Alle Artefakte |
+| `kreatur` | Alle Kreaturen, Flora & Fauna |
+| `sprache` | Alle Sprachen |
 | `kampagne` | Kampagnen-Hauptnotizen |
 | `abenteuer` | Abenteuer-Notizen |
 | `spieltag` | Spieltag-Notizen |
@@ -207,5 +221,14 @@ Neben `tags` und `typ` gibt es je nach Notiz-Typ weitere Frontmatter-Felder:
 | `inspiration` | Reale Inspiration/Vorbild | Splitter |
 | `volk` | Zugehöriges Volk | Kulturen, NPCs |
 | `domäne` | Machtbereich eines Gottes | Götter |
-| `element` | Zugehöriges Element | Elementarlords |
+| `element` | Zugehöriges Element | Elementarlords, Völker |
 | `kampagne` | Zugehörige Kampagne | Abenteuer, Spieltage, Plots |
+| `zyklus` | Aus welchem Weltenzyklus das Fragment stammt | Splitter, Ereignisse |
+| `art` | Untertyp / Kategorie | Völker, Artefakte, Kreaturen |
+| `ursprung` | Herkunft / Erschaffer | Völker, Artefakte |
+| `besitzer` | Aktueller Besitzer oder Ort | Artefakte |
+| `verbreitung` | Vorkommen (Splitter / Regionen) | Völker, Kreaturen |
+| `gefahr` | Gefahrenstufe | Kreaturen |
+| `sprecher` | Wer die Sprache spricht | Sprachen |
+| `schrift` | Zugehörige Schrift | Sprachen |
+| `verwandt` | Verwandte Sprachen | Sprachen |

@@ -67,7 +67,9 @@ Ruhig und zurückhaltend in offiziellen Situationen — sie wartet ab, um die La
 
 ## Familie & Herkunft
 
-Neitha stammt aus einer einst hoch angesehenen Familie in [[U-Maat-Re-Ka]], die auf einem großen Anwesen etwas außerhalb der Stadt lebt. Durch politische Veränderungen hat die Familie heute einen niedrigeren Stellenwert, folgt jedoch stolz ihren Traditionen und Pflichten. Neitha ist in diesem Bewusstsein aufgewachsen und wurde von klein auf mit liebevoller Strenge erzogen.
+Neitha stammt aus einer einst hoch angesehenen Familie in [[U-Maat-Re-Ka]], die auf einem großen Anwesen etwas außerhalb der Stadt lebt. Der Statusverlust hat einen klaren Grund: [[Neith]] wurde als Göttin verbannt und in den Hintergrund gedrängt — ihre Anhänger mit ihr. Die Familie war zu mächtig um vollständig ausgemerzt zu werden, wurde aber bewusst klein gehalten. Stolz und Glaube haben sie davor bewahrt zu verschwinden.
+
+Neitha ist in diesem Bewusstsein aufgewachsen und wurde von klein auf mit liebevoller Strenge erzogen — körperliches Training und Tanz von Beginn an, Politik und Etikette früh auf kindliche Art, später Militärausbildung in der Kaserne, ergänzt durch Mutter und Großmutter.
 
 Die Familie dient seit Generationen der Göttin [[Neith]].
 
@@ -78,15 +80,17 @@ Die Familie dient seit Generationen der Göttin [[Neith]].
 - **Neishem-is-maut** — Großmutter und Ausbilderin
 - **Nuru-Anasch** — Älterer Bruder, Offizier der Kavallerie
 - **Amenei** — Älterer Bruder, Offizier der Marine
-- **Leina** — Über alles geliebte Köchin der Familie und zweite Mutter
+- **Leina** — Über alles geliebte Köchin der Familie und zweite Mutter. Bildete den liebevollen, fürsorglichen Gegenpol zur strengen Erziehung durch Mutter und Großmutter.
 
 ### Die Brüder
 
-Mit ihren beiden älteren Brüdern hat sich Neitha oft gezankt und hatte das Gefühl, sich ihnen ständig beweisen zu müssen. Gleichzeitig hielten die drei wie Pech und Schwefel zusammen und waren füreinander da.
+Mit ihren beiden älteren Brüdern hat sich Neitha oft gezankt und hatte das Gefühl, sich ihnen ständig beweisen zu müssen — sie wollten sie manchmal einfach nicht dabei haben. Gleichzeitig hielten die drei wie Pech und Schwefel zusammen und waren füreinander da. Das Grundcredo der Familie galt immer: Zusammenhalt über allem, man kann sich aufeinander verlassen egal was zwischen einem war. Jetzt wo alle im Dienst sind ist das Verhältnis ruhiger geworden — weniger Rangeln, derselbe Kern.
 
 ### Strafversetzung nach Aziza
 
-Neitha verweigerte einen Befehl und warf ihren Vorgesetzten deren Unfähigkeit vor. Zur Strafe wurde sie nach [[Aziza]] versetzt, wo sie dem jüngeren Prinzen ([[Sethos]]) dienen und die Garnison mitsamt einer Abteilung der [[Horusgarde]] aufbauen soll.
+Neitha verweigerte einen Befehl der ihre Einheit von vornherein in Lebensgefahr gebracht hätte, und konfrontierte ihre Vorgesetzten offen mit deren Unfähigkeit. Den genauen Befehl erinnert sie nicht mehr — aber die Überzeugung dass es kein Versehen war, sondern dass ihre Einheit möglicherweise nicht zurückkommen sollte, hat sie nicht losgelassen.
+
+Zur Strafe wurde sie nach [[Aziza]] versetzt, wo sie [[Sethos]] dienen und die Garnison mitsamt einer Abteilung der [[Horusgarde]] aufbauen soll. Was anfangs ein Ärgernis war — sie wollte die Pharaonen-Familie in der Hauptstadt schützen — hat sich nach dem Kennenlernen von Sethos grundlegend verändert: Sie sieht die Versetzung jetzt als schicksalhaft und richtig.
 
 ## Wichtige Fähigkeiten & Vorteile
 
@@ -124,11 +128,13 @@ Neitha verweigerte einen Befehl und warf ihren Vorgesetzten deren Unfähigkeit v
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
 
 ### Portalamulett
-<!-- TODO: Details — Funktion, Herkunft -->
+Aus [[Chepreh]]s Pyramide — die gesamte Gruppe die an der Erkundung teilnahm erhielt eines. Gewährt Zugang zu den inneren Bereichen der Pyramide.
 
 ### Gebundener Dolch
-Ein an Neitha gebundener Dolch (ausgeliehen).
-<!-- TODO: Details — wer hat ihn ausgeliehen, welche Eigenschaften? -->
+Ein Dolch der ausschließlich von Neitha genutzt werden kann — und der ihr ebenfalls Zugang zu den inneren Bereichen von Cheprehs Pyramide gewährt.
+
+### Geweihte Glefe der Neith
+Von [[Neith]] persönlich überreicht in einer göttlichen Vision nach der Rückeroberung des [[Tempel der Neith|Neith-Tempels]] (Spieltag 002). Neith bat Neitha, sie zu ihren Ehren zu führen. → [[Artefakte/Geweihte Glefe der Neith|Geweihte Glefe der Neith]]
 
 ## Begleiter & Vertraute
 
@@ -136,9 +142,15 @@ Keine.
 
 ## Glaube & Magie
 
-Neitha ist [[Neith]] geweiht und ihr treu ergeben. Ihre gesamte Familie dient der Göttin seit Generationen. Neitha dient [[Neith]] insbesondere durch Tanz und Darbietung.
+Neitha ist [[Neith]] geweiht und ihr treu ergeben. Ihre gesamte Familie dient der Göttin seit Generationen — soweit bekannt die letzten die ihr so hingebungsvoll dienen.
 
-Magie wurde ihr von klein auf beigebracht. Sie hat früh gelernt, ihre Eismagie facettenreich einzusetzen.
+**Neith als Göttin:** Schutzgöttin der Pharaonenfamilie. War nach Familienüberlieferung mit [[Seth]] befreundet. War eine [[Landweber|Landweberin]] und Schülerin von [[Chepreh]] an der Landweber-Akademie — und hat in diesem Bereich Aufzeichnungen hinterlassen, die noch zu finden sind.
+
+**Liebling der Gottheit:** Neitha ist sich dessen nicht bewusst. Sie geht davon aus, dass Neith die Hingabe der Familie wohlwollend zur Kenntnis nimmt — und hofft, dass der Vorteil eine Bestätigung ist, dass sie ihren Dienst so erfüllt wie sie es sich wünscht.
+
+**Tanz:** Viele rituelle Tänze füllen ihren Alltag. Darüber hinaus tanzt sie sehr gerne frei — besonders nahe am Wasser, weil die fließenden Formen ihre Bewegungen unterstützen. Ob rituell oder frei: der Tanz ist immer auch ein Gebet, immer für Neith.
+
+**Eismagie:** Neiths Domäne liegt beim Wasser — Eis ist Neithas eigenständige Ausprägung davon. Entwickelt weil die weiche, fließende Form des Wassers beim Aufwachsen mit zwei älteren Brüdern nicht immer ausreichte. Eis als härtere, stabilere Form des Wassers war die Antwort.
 
 ## Kampfverhalten
 
@@ -160,9 +172,11 @@ Neitha kämpft mit der Glefe als bevorzugte Waffe. Sie kämpft nicht aus dem Hin
 
 ### Zur Gruppe
 
-[[Sethos]] war ihr selbstverständlich schon vor dem ersten Treffen bekannt — er ist der Prinz, dem sie dient.
-
-<!-- Weitere Beziehungen aus Spieltagen ergänzen -->
+- **[[Sethos]]** — War ihr als Prinz schon vor dem Treffen bekannt, aber durch die Gerüchte (Partyprinz, unfähig) negativ vorgeprägt. Schnell widerlegt. Sie schätzt ihn inzwischen weit mehr als seinen älteren Bruder. Die Loyalität ist da — wächst weiter.
+- **[[Tak'Anshurr|Tak]]** — Aufrechter Krieger, hervorragender Leibwächter. Manchmal nachlässig gegenüber Befehlen — daran arbeitet sie noch.
+- **[[Amila]]** — Froh über eine weitere Frau in der Gruppe. Talentierte Heilerin. Die Begleiter sind unbestreitbar süß — aber das ist nichts für Neitha. Macht sich manchmal Sorgen um Amilas Geisteszustand.
+- **[[Kamaleon|Kama]]** — Äußerlich zunächst erschreckend, aber ruhig und zurückhaltend. Positiver erster Eindruck, noch wenig persönlichen Kontakt.
+- **[[Horem]]** — Durch ihren Vater (Horems Meister) bereits ansatzweise bekannt. Positiver Eindruck, aber noch kein vollständiges Bild.
 
 ### Zu NPCs
 
@@ -172,7 +186,7 @@ Neitha kämpft mit der Glefe als bevorzugte Waffe. Sie kämpft nicht aus dem Hin
 - **Nuru-Anasch** — Älterer Bruder, Kavallerie-Offizier
 - **Amenei** — Älterer Bruder, Marine-Offizier
 - **Leina** — Köchin, zweite Mutter
-- **[[Sethos]]** — Prinz, dem sie als Leibwache dient
+- **[[Mes'Atemu]]** — Offiziell: pflichtbewusst und vorbildlich. Persönlich: ein verzogenes Gör das nicht auf den Thron gehört.
 
 ## Charakterentwicklung
 
@@ -180,16 +194,18 @@ Neitha kämpft mit der Glefe als bevorzugte Waffe. Sie kämpft nicht aus dem Hin
 
 ## Wichtige Erlebnisse & Ereignisse
 
-<!-- Wird fortlaufend aus Session-Notizen ergänzt -->
+- **[[Abenteuer 012 - Der Weg zur Quelle|Der Weg zur Quelle]]** — Stieß neu zur Gruppe und wurde als Offizier der [[Horusgarde]] aufgenommen. Begleitete die Gruppe auf die [[Insel der Nebel]] in der [[Traumebene]]. Lernte [[Am-Ken'Rei]] kennen. Verwahrt seitdem den [[Verwandlungstalisman]] der Gruppe. Besuchte ihre Familie in [[U-Maat-Re-Ka]] und erfuhr von der Existenz des [[Neith-Geheimbund]]s; erhielt von ihrem Vater [[Jumoke]] den Auftrag, den entweihten [[Tempel der Neith]] zu untersuchen. Bannte kurz den Golem im Kampf. Identifizierte den vergifteten Gefangenen als ihren Bruder [[Amenei]]. Bereitete gemeinsam mit der Gruppe den Hinterhalt vor.
+- **Spieltag 002 – Der Hinterhalt** — Führte die Gruppe in den Kampf gegen die Kaarsi-Priester am [[Tempel der Neith]]. Erhielt [[Korellian|Kores]] Segen durch [[Tak'Anshurr|Tak]] und spürte [[Amenei]]s Gegenwart; ein Schattenpanther begleitete sie in den Kampf. Tötete einen kampfunfähigen Gefangenen (Neiths Gnade). Erlebte Seelenheilung durch Tak. Nach dem Sieg: [[Neith]]s Rückkehr in den Tempel, Quelle, Oase — tanzte zu [[Sethos]]' Gesang. Göttliche Vision: Neith erscheint persönlich und überreicht ihr die [[Artefakte/Geweihte Glefe der Neith|geweihte Glefe]]. Brachte [[Amenei]] nach Hause zur Familie. Quelle: [[Chronik 011 - Neithas Aufzeichnungen]].
 
 ## Notizen
 
-- Familie dient [[Neith]] seit Generationen — einst hoch angesehen, durch politische Veränderungen im Stellenwert gesunken
-- Strafversetzung nach [[Aziza]] wegen Befehlsverweigerung und Konfrontation mit Vorgesetzten
-- Eismagie als Paladin der [[Neith]]
-- Dient [[Neith]] mit Tanz und Darbietung
-- Sammelt Waffen (Sammelfixierung)
-- Bedingungslose Loyalität gegenüber dem Pharao und "langsam auch" gegenüber [[Sethos|dem jüngeren Sohn]]
+- Familie marginalisiert weil Neith verbannt wurde — derselbe Mechanismus wie bei Kuresi und Kaarsi
+- Neith war Landweberin und Schülerin Cheprehs — verbindet Neitha direkt mit Sethos' Fähigkeiten; Aufzeichnungen noch zu finden
+- Befehlsverweigerung: möglicherweise war es kein Versehen — Einheit sollte vielleicht nicht zurückkehren
+- Arroganz ist aus Neithas Sicht Stolz: Bewusstsein der Pflicht, aufrechten Hauptes zu erfüllen
+- Taskasianer-Abneigung: kulturell geprägt + durch Kaarsi-Wissen noch verstärkt
+- Sammelfixierung Waffen: einsammeln und studieren, aber der Glefe treu bleiben
+- Bedingungslose Loyalität gegenüber dem Pharao und inzwischen auch Sethos — Gerüchte schnell widerlegt
 
 > [!info]- Spieler-Meta
 > **Spieler:** Ruka

@@ -28,6 +28,7 @@ Alles kommt aus dem [[Zwielicht]] — dem Grundpotential, wo alles ist, sein kan
 - [[Weltenfresser]] — Das große Übel, geboren aus negativen Emotionen
 - [[Weltenzyklen]] — Die wiederkehrende Zerstörung und Neuerschaffung der Welt
 - [[Die Elemente]] — Die 10 Elemente in 5 Gegensatzpaaren
+- [[Die Elementschrift]] — Die heilige Runenschrift der Phaerie und das Zehnstern-Wappen
 
 ## Die Ebenen
 

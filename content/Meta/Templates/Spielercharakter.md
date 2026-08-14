@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [spielercharakter]
 typ: spielercharakter
 status: entwurf

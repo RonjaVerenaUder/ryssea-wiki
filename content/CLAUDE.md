@@ -162,13 +162,16 @@ Das `-` nach dem Callout-Typ macht den Block eingeklappt. Ohne `-` ist er offen.
 - **Ereignis-Notiz** (Geschichte/): Ein historisches Ereignis — Zeitpunkt, Beteiligte, Konsequenzen. Template: [[Meta/Templates/Ereignis]]
 - **Fraktions-Notizen** (Fraktionen/): Organisationen aller Art, differenziert nach `typ`: `reich` (Staat/Königreich), `orden` (Ritter-/Wächterorden), `kult` (Geheimbund/Sekte), `gilde` (Handelsorganisation), `kirche` (organisierte Religion), `fraktion` (generisch). Alle bekommen den Oberkategorie-Tag `fraktion` plus Sub-Tag (z.B. `tags: [fraktion, reich]`). Template: [[Meta/Templates/Fraktion]]
 - **Spielercharakter-Notiz** (Charaktere/): Ein SC — Steckbrief, Persönlichkeit, Fähigkeiten, Begleiter, Charakterentwicklung, wichtige Erlebnisse. Spielwerte leben im verlinkten Heldenbogen-PDF. Template: [[Meta/Templates/Spielercharakter]]
-- **Kosmologie-Notiz** (Kosmologie/): Fundamentale Weltmechaniken — Elemente, Weltenwille, Zyklen.
-- **Magie-Notiz** (Magie/): Magiekonzepte — Klassen, Gaben, Regeln.
+- **Kosmologie-Notiz** (Kosmologie/): Fundamentale Weltmechaniken — Elemente, Weltenwille, Zyklen. Template: [[Meta/Templates/Konzept]]
+- **Magie-Notiz** (Magie/): Magiekonzepte — Klassen, Gaben, Regeln. Template: [[Meta/Templates/Konzept]] (`typ`/`tags` auf `magie` setzen)
+- **Artefakt-Notiz** (Artefakte/): Magische Gegenstände, Relikte, mächtige Werkzeuge — Erscheinung, Wirkung, Herkunft, Verbleib. Template: [[Meta/Templates/Artefakt]]
+- **Kreatur-Notiz** (Flora & Fauna/): Kreaturen, Pflanzen und Ökosysteme der Splitter — Anatomie, Verhalten, Lebensraum, magische Besonderheiten. Template: [[Meta/Templates/Kreatur]]
+- **Sprache-Notiz** (Sprachen/ — Ordner bei Bedarf anlegen): Eine Sprache Rysseas — Klang, Schrift, Verbreitung, Wortschatz. Template: [[Meta/Templates/Sprache]]
 - **Kampagne-Notiz** (Kampagnen/[Gruppe]/): Hauptübersicht einer Kampagne — Beschreibung, Hauptkonflikt, Spielercharaktere, Abenteuer-Liste, aktive Plotfäden, Hausregeln. Template: [[Meta/Templates/Kampagne]]
 - **Abenteuer-Notiz** (Kampagnen/[Gruppe]/Abenteuer/): Ein Handlungsbogen — Konflikt, Ziele, beteiligte NPCs/Fraktionen/Orte, Clues, mögliche Ausgänge, zugehörige Spieltage. Template: [[Meta/Templates/Abenteuer]]
 - **Spieltag-Notiz** (Kampagnen/[Gruppe]/Spieltage/): Session-Protokoll mit drei Phasen: Pre-Session (Vorbereitung, Reminder, Einleitungsmonolog), Live-Spiel (Quick Reference, Szenenübersicht, Geheimnisse, Gegner, Impro-Tools, Live-Notizen), Post-Session (Zusammenfassung, Plot-Fortschritt, neue NPCs/Orte, offene Fäden, Vorbereitung nächste Session). Template: [[Meta/Templates/Spieltag]]
 - **Plot-Notiz** (Kampagnen/[Gruppe]/Plots/): Ein einzelner Plotfaden — trennt Spielerwissen von GM-Wissen, trackt Fortschritt chronologisch nach Spieltagen, beschreibt was passiert wenn die Spieler nichts tun. Template: [[Meta/Templates/Plot]]
-- **MOC** (in jedem Ordner): Map of Content — Übersichtsdatei die alle Notizen eines Bereichs verlinkt und strukturiert.
+- **MOC** (in jedem Ordner): Map of Content — Übersichtsdatei die alle Notizen eines Bereichs verlinkt und strukturiert. Template: [[Meta/Templates/MOC]]
 
 ## Session-Routinen
 

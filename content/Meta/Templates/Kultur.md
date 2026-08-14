@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [kultur]
 typ: kultur
 status: entwurf

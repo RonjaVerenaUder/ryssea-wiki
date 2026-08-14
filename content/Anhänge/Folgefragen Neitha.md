@@ -11,6 +11,9 @@ publish: false
 
 Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die im ersten Bogen noch dünn waren oder wo spannende Anknüpfungspunkte für die Kampagne liegen.
 
+> [!info] Status: Beantwortet (2026-05-25)
+> Alle Fragen wurden mit Ruka durchgegangen und in [[Charaktere/Helden/Sethos Gang/Neitha]] eingearbeitet.
+
 ---
 
 ## Die Göttin Neith

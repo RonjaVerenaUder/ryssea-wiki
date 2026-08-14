@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [ereignis]
 typ: ereignis
 status: entwurf

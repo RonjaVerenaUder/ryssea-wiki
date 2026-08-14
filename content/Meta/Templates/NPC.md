@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [npc]
 typ: npc
 status: entwurf
@@ -32,8 +33,11 @@ lebendig: true
 <!-- FRAGE: Zu wem hat diese Person wichtige Beziehungen? Verbündete, Feinde, Familie, Mentoren? -->
 
 ## Geheimnisse
-<!-- Was wissen die Spieler nicht? (GM-Geheim) -->
-<!-- FRAGE: Gibt es etwas das unter der Oberfläche liegt? Verborgene Ziele, dunkle Vergangenheit, geheime Loyalitäten? -->
+
+> [!danger]- GM-Wissen
+> <!-- Was die Spieler (noch) nicht wissen: verborgene Ziele, dunkle Vergangenheit, geheime Loyalitäten. Bleibt auf der Website eingeklappt. -->
+> <!-- FRAGE: Gibt es etwas das unter der Oberfläche liegt? -->
+> 
 
 ## Aufenthaltsort
 <!-- Wo ist diese Person normalerweise zu finden? Link zu [[Ort]]. -->

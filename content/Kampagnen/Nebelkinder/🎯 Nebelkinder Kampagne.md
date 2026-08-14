@@ -16,7 +16,7 @@ Drei sehr alte, sehr mächtige Charaktere aus einer vorherigen Weltiteration wac
 
 | Charakter | Spieler | Rolle | Besonderheit |
 |-----------|---------|-------|--------------|
-| **[[Charaktere/Helden/Karasuan\|Karasuan]]** | Christoph | Agent des Metalllord-Ordens | [[Phaerie]] ([[Kaheryt]]), Rabe. Geheimagent. |
+| **[[Karasuan\|Karasuan]]** | Christoph | Agent des Metalllord-Ordens | [[Phaerie]] ([[Kaheryt]]), Rabe. Geheimagent. |
 | **[[Charaktere/Helden/Nebelkinder/Helix Beta III\|Helix Beta III]]** | | KI / Wissens- und Lehragent | Magitech-KI in Drohnen-Körpern (Spähdrohne, Zwerg-Hauptdrohne, Wolf-Kampfdrohne). Fachgebiet: Artefakte & Werkstoffkunde. |
 | **[[Charaktere/Helden/Nebelkinder/Maria Colwall\|Maria Colwall]]** | | Landweberin, Druidin, Notfallsanitäterin | Mensch, 26 Jahre. Kann durch Elementarströme navigieren. |
 

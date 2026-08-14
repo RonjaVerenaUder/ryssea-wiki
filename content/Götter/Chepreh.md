@@ -50,7 +50,7 @@ Die Heilige Pyramide in [[Aziza]] (der alten Hauptstadt) — von Chepreh selbst 
 > [!danger]- GM-Wissen: Geheimnisse
 > - **Lebt noch — in drei Teilen gespalten:**
 >   1. **Logik/Wissen** → versteckt in einem Artefakt (Ort unbekannt)
->   2. **Empathie/Persönlichkeit** → in seinem mumifizierten Körper auf dem Thron in Aziza
+>   2. **Empathie/Persönlichkeit** → in seinem mumifizierten Körper (ursprünglich auf dem Thron in [[Aziza]]; aus Aziza gestohlen, nahe [[Bech'Amet]] mit dunkler Schattenmagie vergraben und versiegelt; von [[Sethos]] in [[Abenteuer 004 - Schlacht um Bech'Amet]] entdeckt und geborgen — Sethos will die Überreste zurück zum Tempel bringen)
 >   3. **Der Verbinder** (kennt das Zusammenführungs-Ritual) → im uralten Pyramiden-Bluttempel der Panthaura, bewacht von [[Korellian]]
 > - Hat die **Landweber-Fäden Baryias versiegelt** — kein Landweber kann die Struktur übernehmen, bis die Prophezeiung erfüllt wird
 > - Seine **Prophezeiung**: Wenn ein Pharao mit der richtigen Blutlinie UND Landweber-Fähigkeiten an die Macht kommt, kann Chepreh zurückkehren und die Versiegelung aufgehoben werden
@@ -64,3 +64,4 @@ Unbekannt. Sein Kult und seine Spuren sind aus Baryia verschwunden.
 
 > [!danger]- GM-Wissen
 > Mumifiziert auf seinem Thron in der Heiligen Pyramide von [[Aziza]]. (Nur der Empathie/Persönlichkeits-Teil)
+> **Aktueller Status:** Mummy aus Aziza gestohlen, nahe [[Bech'Amet]] vergraben. Von [[Sethos]] in [[Abenteuer 004 - Schlacht um Bech'Amet]] geborgen. Sethos hat die dunkle Schattenmagie durch seine Landweber-Gabe gereinigt und will die Überreste zurück zum Tempel in Aziza bringen — was zu [[Abenteuer 005 - Reise nach Aziza]] führt.

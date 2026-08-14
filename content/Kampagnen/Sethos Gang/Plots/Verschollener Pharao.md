@@ -21,7 +21,7 @@ Pharao [[Rehotep]] ist auf einer Expedition verschollen. Die Expedition führte 
 
 - [[Rehotep]] — Der verschollene Pharao
 - [[Sethos]] — Sein Sohn, sucht nach ihm
-- Amenei — Horusgardist, war bei der Expedition dabei, wurde verwundet aufgefunden
+- [[Amenei]] — Offizier der Marine, war bei der Expedition dabei, wurde verwundet aufgefunden
 - Kaarsi-Priesterschaft — Haben die Expedition vermutlich verraten
 
 ## Relevante Orte
@@ -44,7 +44,9 @@ Pharao [[Rehotep]] ist auf einer Expedition verschollen. Die Expedition führte 
 
 ## Fortschritt
 
-- [[Spieltag 001]] — Amenei aufgefunden, erste Hinweise auf den Verrat
+- [[Spieltag 001 - Der Weg zur Quelle]] — Amenei aufgefunden, erste Hinweise auf den Verrat
+- [[Abenteuer 004 - Schlacht um Bech'Amet]] — [[Mes'Atemu]] erwacht nach seiner Vergiftung und festigt seine Macht als Regent: beansprucht den Sieg für sich, entzieht Sethos die Leibwache. Solange Rehotep fehlt, zieht Mes'Atemu die Zügel an sich.
+- [[Spieltag 002 - Der Hinterhalt]] — [[Amenei]] am [[Tempel der Neith]] befreit; Gegengift verabreicht; auf dem Familienanwesen in [[U-Maat-Re-Ka]] zur Pflege übergeben; Befragung (Expedition, Verrat, Weg zur [[Quelle des Lebens]]) steht noch aus
 
 > [!warning]- Spoiler: Nächste Entwicklungen
 > - Rehotep stirbt oder wird von Kaarsi gefangen gehalten

@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [gott]
 typ: gott
 status: entwurf

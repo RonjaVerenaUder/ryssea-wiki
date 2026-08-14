@@ -7,48 +7,71 @@ publish: true
 
 # Regelwerk von Ryssea
 
-Das Regelwerk für die Welt von Ryssea. Ein eigenes System mit Schwert, Magie und göttlichem Einfluss.
+Das eigene Regelsystem für die Welt von Ryssea — Schwert, Magie und göttlicher Einfluss.
 
-> [!info] Work in Progress
-> Dieses Regelwerk wird Stück für Stück aus verschiedenen Quellen zusammengetragen und hier als zentrale Referenz aufgebaut. Inhalte können sich noch ändern.
+> [!info] Neuaufbau
+> Das Regelwerk wird gerade von Grund auf neu und sauber aufgebaut — von der Basis (Proben, Eigenschaften) bis zu den Details. Hier erscheinen die Kapitel, sobald sie kanonisiert sind. Der Abschnitt ist bewusst noch schlank.
 
 ---
 
-## Grundlagen
+## Kanonisierte Kapitel
 
-- [[Würfelsystem & Proben]] — Probentypen, Erfolge, Kritische Erfolge, Patzer, Vorteil-/Nachteilswürfe
-- [[Regelwerk/Schicksalspunkte|Schicksalspunkte & Schicksalsgaben]] — Pool, direkter Einsatz und die 12 Schicksalsgaben
+### Grundlagen
 
-## Charaktererstellung
+- [[Würfelsystem & Proben]] — Proben, Ergebniswert, Erfolge, Krit & Patzer, angesagte Proben
+- [[Schwierigkeitsgrade & Zielwerte]] — Abstands-Leiter, Schwierigkeitsskala, Zielwerte setzen
+- [[Fortschrittspunkte]] — langwierige Tätigkeiten über mehrere Proben: Klettern, Tauchen, Entschärfen, Herstellen
+- [[Traglast]] — wie viel ein Charakter trägt, Überladung und ihre Behinderung
+- [[Schicksalspunkte]] — Schicksalspunkte-Pool, direkter Einsatz, die Schicksalsgaben
 
-- [[Regelwerk/Charaktererstellung/Charaktererstellung|Charaktererstellung]] — Übersicht zum Erstellen eines Charakters
-- [[Eigenschaften]] — Attribute und Grundwerte
-- [[Vorteile & Nachteile]] — Was den Charakter besonders macht
-- [[Talente]] — Talentsystem, Schwerpunkte und alle Talente mit Schwerpunktlisten
-- [[Ressourcen]] — Vermögen, Gefolge, Glaube, Kontakte und mehr
+### Charaktererstellung
 
-## Kampf
+- [[Charaktererstellung]] — der 10-Schritte-Ablauf (Überblick über alle Bausteine)
+- [[Eigenschaften]] — die acht Eigenschaften, Erschaffung & Steigerung
+- [[Talente]] — Talentsystem: Grundwert, Schwerpunkte, Spezialisierung, Meisterschaften
+- [[Abgeleitete Werte]] — GS, Initiative, LeP/GLeP, Regenerationen, passive Verteidigungen
+- [[Rassen]] — Werte: EP, Größenklasse, Eigenschafts-Mods, Start-Vor-/Nachteile
+- [[Vorteile & Nachteile]] — System: GP-Kosten, Nachteil-Schwere, Kategorien, spätere Käufe
+- [[Vorteile]] — die 125 Vorteile mit GP-Kosten, Wählbarkeit und Kategorie (Nachschlageteil)
+- [[Nachteile]] — die 112 Nachteile mit den zurückgegebenen GP (Nachschlageteil)
+- [[Ressourcen]] — Kern- & optionale Ressourcen (Ansehen, Kontakte, Vermögen, Gefolge …)
 
-- [[Regelwerk/Kampf/Kampfregeln|Kampfregeln]] — Übersicht zum Kampfsystem
+### Magie
 
-## Magie
+- [[Magieregeln]] — Zauberparameter, Komponenten, Zauber wirken, Affinität & Kanalisierung, Antimagie
+- [[Magieklassen]] — die 24 Magieklassen mit Klassenfähigkeiten & Komponenten
+- [[Grimoire]] — Zauberliste: 91 Zauber mit Statblocks (Nachschlageteil)
 
-- [[Regelwerk/Magie/Magieregeln|Magieregeln]] — Übersicht zum Magiesystem
-- [[Regelwerk/Magie/Magieklassen|Magieklassen]] — Alle Magieklassen mit Klassenfähigkeiten
+### Meisterschaften
 
-## Glaube & Götter
+- [[Meisterschaften]] — Hub: Kennzeichnungen, Vollendete Meisterschaft, ausführliche Detail-Ketten
+- [[Meisterschaften – Allgemein]] — 252 Meisterschaften der allgemeinen Talente
+- [[Meisterschaften – Handwerk]] — 115 Meisterschaften der Handwerkstalente
+- [[Meisterschaften – Wissen]] — 100 Meisterschaften der Wissenstalente
+- [[Meisterschaften – Kampf]] — 83 Meisterschaften der Kampftalente, dazu die Waffengruppen
+- [[Meisterschaften – Zauberei]] — 21 Meisterschaften der Magietalente (einzige Kategorie mit 7 Schwellen)
+- [[Meisterschaften – Talentregister]] — Nachschlagehilfe: was steht meinem Talent offen? (generiert)
 
-- [[Götterregeln]] — Wie Götter, Karma und Priesterschaft funktionieren
+### Fortschritt
 
-## Steigerung & Fortschritt
+- [[Steigerung]] — Heldenlevel, Abenteuerpunkte, Steigerungskosten, Lehrmeister
 
-- [[Regelwerk/Steigerung|Heldenlevel & Steigerung]] — Abenteuerpunkte, Steigerungskosten, Heldenlevel und Lehrmeister
-- [[Meisterschaften]] — Crit-Meister, Assassinen und weitere (vollständige Liste folgt)
+### Kampf
 
-## Spielregeln
-
-- [[Regelwerk/Token|Token]] — Glasstein-Token für Schicksalspunkte, Fraktale, Götter-Segen, Hilfe und Special Actions
-- [[Zustände]] — 16 Zustände von Angsterfüllt bis Verwundet, mit Stufen und Dauer
-- [[Tischregeln]] — Optionale Hausregeln (u.a. explodierende Crit-Würfel)
+- [[Kampfregeln]] — Tickleiste, Initiative, Manöver, Nah-/Fernkampf, Verteidigung, Patzertabelle
+- [[Waffen]] — Nah-/Fernkampfwaffen mit Statblocks und Waffenmerkmalen (Nachschlageteil)
+- [[Rüstungen]] — Trefferzonen-Schutz, Belastung (BE/TZ), Rüstungsliste (70) + Schilde
+- [[Gesundheit & Wunden]] — Gesundheitsstufen, Wundschwelle (LeP), Wundabzüge, Kampfunfähigkeit
+- [[Zustände]] — die 18 Kampf-/Statuszustände (Blutend, Brennend, Gehetzt, Sterbend …)
+- [[Luft anhalten & Ertrinken]] — Atemnot unter Wasser, in Rauch und im Würgegriff
+- [[Ruhe & Erholung]] — Atemholen, Verschnaufpause und Ruhephase: was wann zurückkehrt
+- [[Durchwachen & Schlafentzug]] — Nächte ohne Schlaf, ihre Proben und Folgen
+- [[Ablenkung]] — jemanden aus dem Konzept bringen, im Kampf wie außerhalb
+- [[Fliegen]] — Fluggeschwindigkeit, Langstreckenflug, Landen, Wind und Kampf aus der Luft
+- [[Schleichen & Beschatten]] — ungesehen bleiben und unbemerkt folgen
+- [[Handel & Feilschen]] — Warenwert schätzen, um Preise ringen, Schwarzmarkt
+- [[Koordinieren]] — eine Gruppe auf einen gemeinsamen Moment ausrichten
+- [[Einstellung]] — wie ein Gegenüber zum Charakter steht, und was das für soziale Proben bedeutet
+- [[Verfolgungsjagd]] — Hetzjagd und Spurenverfolgung, Vorsprung und der Zustand Gehetzt
 
 ---

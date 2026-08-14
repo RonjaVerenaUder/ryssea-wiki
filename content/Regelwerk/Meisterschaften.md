@@ -3,16 +3,55 @@ tags: [regelwerk]
 typ: regelwerk
 status: entwurf
 publish: true
+quelle: Notion-Export/Google Site (bereinigt)
 ---
 
 # Meisterschaften
 
 [[Talente#Meisterschaften|Meisterschaften]] sind spezielle Fähigkeiten, die Talente ergänzen und vertiefen. Jede Meisterschaft ist einer Meisterschaftsschwelle zugeordnet (1–4) und erfordert entsprechende Talentpunkte (9/12/15/18). Details zum System in [[Talente#Erlernen und Steigern von Meisterschaften|Talente — Erlernen und Steigern]].
 
-> [!info] Work in Progress
-> Die vollständige Liste aller Meisterschaften wird noch ergänzt. Hier stehen bisher die Meisterschaften, die sich im Spiel durchgesetzt haben.
+> [!info] Aufbau dieser Seite
+> Die **vollständige Liste aller Meisterschaften** liegt nach Kategorie aufgeteilt in eigenen Notizen (unten). Auf dieser Seite stehen zusätzlich ausführliche **Detail-Ketten** zu besonders relevanten Meisterschaften — mit Beispielen und Tabellen.
+
+## Kennzeichnungen
+
+Manche Meisterschaften tragen ein Schlagwort, auf das sich andere Meisterschaften beziehen.
+
+**Aufmunterung** — Die Meisterschaft hebt einem Gefährten die Stimmung. Eine Aufmunterung richtet sich stets an **eine** Person in Hörweite; Meisterschaften wie *Gruppenmaskottchen* erweitern diesen Kreis.
+
+**Paarkampf** — Die Meisterschaft lässt **Tierführer und Tiergefährte einander im Kampf unterstützen**. Eine Paarkampf-Unterstützung ist stets eine Reaktion und richtet sich auf den Angriff des jeweils anderen; sie steht erst wieder zur Verfügung, wenn der Unterstützende eine eigene Aktion ausgeführt hat. Dazu zählen *Gefährte im Kampf*, *Verbesserter Gefährte im Kampf* und die Kette *Schwert und Pranke I/II*.
+
+## Vollendete Meisterschaft
+
+Jede Talentkategorie kennt auf ihrer **höchsten Schwelle** eine Krönung: dieselbe Regel, aber unter dem Namen, der zur Kategorie passt. Das ist bei vier Kategorien Schwelle 4 — bei der Zauberei mit ihren sieben Schwellen entsprechend Schwelle 7. Wer sie besitzt, wirft bei jeder Probe im gewählten Talent einen zusätzlichen Ergebniswürfel und nimmt das bessere Ergebnis — ein dauerhafter Vorteilswurf, der keinen Patzer auslösen kann. Alle sind mehrfach wählbar, jedes Mal für ein neues Talent.
+
+| Kategorie | Name |
+|---|---|
+| Allgemeine Talente | **Großmeister** |
+| Kampftalente | **Kampfmeister** |
+| Wissenstalente | **Koryphäe** |
+| Handwerkstalente | **Altmeister** |
+| Magie- und Priestertalente | *noch offen* |
+
+Die Namen unterscheiden sich, die Regel nicht. Wird sie einmal geändert, muss sie in allen Einträgen geändert werden.
+
+## Vollständige Listen nach Kategorie
+
+- [[Meisterschaften – Allgemein]] — 252 Meisterschaften
+- [[Meisterschaften – Handwerk]] — 120 Meisterschaften *(4 davon noch unbeziffert)*
+- [[Meisterschaften – Kampf]] — 87 Meisterschaften
+- [[Meisterschaften – Wissen]] — 102 Meisterschaften *(10 davon noch unbeziffert)*
+- [[Meisterschaften – Zauberei]] — 21 Meisterschaften *(Entwurf: Werte erstmals beziffert)*
+
+Damit sind alle fünf Kategorien kanonisiert — zusammen **582 Meisterschaften**.
+
+## Nach Talent nachschlagen
+
+Die Listen oben sind nach **Schwelle** sortiert — so findest du, was es auf einer Stufe gibt. Für die andere Frage — *welche Meisterschaften stehen meinem Talent offen?* — gibt es das **[[Meisterschaften – Talentregister|Talentregister]]**: je Talent alle Meisterschaften mit Name und Schwelle, ohne Regeltext.
 
 ---
+
+# Detail-Ketten (ausführlich)
 
 ## Waffentalente
 
@@ -63,7 +102,19 @@ Der durch Crit-Meister erworbene zusätzliche Würfel hat das Merkmal **Scharf �
 
 ---
 
-## Kleine Klingenwaffen / Handgemenge
+#### Vollkommener Crit-Meister (Schwelle 4)
+
+**Talent:** Waffentalente (außer Handgemenge)
+**Voraussetzung:** Überragender Crit-Meister
+
+Der Abschluss der Kette: Bei einem kritischen Treffer werden die **Waffen-Würfel verdreifacht** statt verdoppelt. Beide zusätzlichen Würfel tragen Scharf „Voll".
+
+> [!example] Beispiel
+> Eine Waffe hat 1W8+3. Mit der vollen Kette wirft der Kämpfer bei einem Crit **3W8+3** — die beiden Zusatzwürfel zeigen dank Scharf „Voll" jeweils 8, der ursprüngliche Würfel wird normal geworfen. Der Schaden liegt also stets zwischen **20 und 27**.
+
+---
+
+## Klingenwaffen / Handgemenge
 
 ### Meuchel-Attacken
 
@@ -71,7 +122,7 @@ Eine Meuchel-Attacke ist ein gezielter, tödlicher Angriff auf ein ahnungsloses 
 
 > [!abstract] Ablauf einer Meuchel-Attacke
 > 1. **Heimlichkeit** — An das Ziel heranschleichen oder heranbewegen, ohne dass es die Absicht erahnt oder Umstehende etwas mitbekommen
-> 2. **Anatomie-Probe** — Vorbereitung, um das Ziel der Attacke zu treffen (Halsarterie, Herz zwischen den Rippen etc.). EG aus dieser Probe können bei Kenntnis der Meisterschaft Todbringer als EG-Würfel erworben werden
+> 2. **Probe auf Medizin und Anatomie** — Vorbereitung, um das Ziel der Attacke zu treffen (Halsarterie, Herz zwischen den Rippen etc.). Erfolge aus dieser Probe können bei Kenntnis der Meisterschaft Todbringer als Erfolgswürfel erworben werden
 > 3. **Meuchel-Attacke** — Angriffsprobe (erfordert Assassinen-Meisterschaft)
 > 4. **Entkommen** — Passende Probe (Heimlichkeit oder Athletik), um ungesehen oder schnell vom Ort des Geschehens zu entkommen
 
@@ -79,9 +130,9 @@ Eine Meuchel-Attacke ist ein gezielter, tödlicher Angriff auf ein ahnungsloses 
 
 #### Assassinen-Blick (Schwelle 1)
 
-**Talent:** Anatomie
+**Talent:** Medizin und Anatomie
 
-Der Charakter hat gelernt, die Punkte für eine todbringende Attacke zu erkennen und anzuvisieren. Er kann bei einem Anatomiewurf **3 EG ausgeben**, um seiner Meuchelwaffe für den folgenden Angriff das Merkmal **„Wuchtig"** zu verleihen.
+Der Charakter hat gelernt, die Punkte für eine todbringende Attacke zu erkennen und anzuvisieren. Er kann bei einer Probe auf Medizin und Anatomie **3 Erfolge ausgeben**, um seiner Meuchelwaffe für den folgenden Angriff das Merkmal **„Wuchtig"** zu verleihen.
 
 - Kostet **5 Ticks** (kann auch im Kampf angewendet werden, wenn genug Zeit vorhanden ist)
 - Nur auf Waffen anwendbar, die nicht bereits über „Wuchtig" verfügen und mit denen präzise Angriffe möglich sind
@@ -90,11 +141,11 @@ Der Charakter hat gelernt, die Punkte für eine todbringende Attacke zu erkennen
 
 #### Assassine — Novize (Schwelle 1)
 
-**Talent:** Kleine Klingenwaffen, Handgemenge
+**Talent:** Klingenwaffen, Handgemenge
 
 Der Charakter hat gelernt, tödliche Meuchel-Angriffe zu verüben. Dieser Angriff ist nur auf Opfer möglich, die sich des Angriffs **nicht bewusst** sind, und wenn der Angreifer sich entsprechend in Position gebracht hat.
 
-Getroffene Meuchel-Angriffe gelten **immer als kritisch** und werden nach den angewendeten [[Regelwerk/Tischregeln#Kritische Erfolge — Explodierende Würfel|Crit-Regeln]] abgehandelt.
+Getroffene Meuchel-Angriffe gelten **immer als kritisch** und werden nach den [[Würfelsystem & Proben#Kritischer Erfolg|Crit-Regeln]] abgehandelt.
 
 > [!tip] Empfehlung
 > Der Weltenweber empfiehlt, für Assassinen-Crits die Option der „explodierenden Würfel" zu nutzen, insbesondere kombiniert mit den restlichen Assassinen-Meisterschaften.
@@ -103,25 +154,25 @@ Getroffene Meuchel-Angriffe gelten **immer als kritisch** und werden nach den an
 
 #### Assassine — Veteran (Schwelle 2)
 
-**Talent:** Kleine Klingenwaffen, Handgemenge
+**Talent:** Klingenwaffen, Handgemenge
 **Voraussetzung:** Assassine — Novize
 
-Der Assassine hat seine Fähigkeiten weiter verbessert und würfelt seinen EG-Wurf als hätte er den **doppelten Talentwert**. Die Regeln aus Assassine — Novize gelten weiterhin.
+Der Assassine hat seine Fähigkeiten weiter verbessert und würfelt seine Erfolgswürfel, als hätte er den **doppelten Talentwert**. Die Regeln aus Assassine — Novize gelten weiterhin.
 
 ---
 
 #### Assassine — Meister (Schwelle 3)
 
-**Talent:** Kleine Klingenwaffen, Handgemenge
+**Talent:** Klingenwaffen, Handgemenge
 **Voraussetzung:** Assassine — Veteran
 
-Der Assassine hat seine Fähigkeiten weiter verbessert und würfelt seinen EG-Wurf als hätte er den **dreifachen Talentwert**. Die Regeln aus Assassine — Novize gelten weiterhin.
+Der Assassine hat seine Fähigkeiten weiter verbessert und würfelt seine Erfolgswürfel, als hätte er den **dreifachen Talentwert**. Die Regeln aus Assassine — Novize gelten weiterhin.
 
 ---
 
 #### Todbringer (Schwelle 2)
 
-**Talent:** Kleine Klingenwaffen, Handgemenge
+**Talent:** Klingenwaffen, Handgemenge
 **Voraussetzung:** Assassine — Novize
 
-Der Charakter ist geschult darin, seine Opfer mit einem Streich zu töten. Er kann **EG aus der vorherigen Anatomie-Probe** als EG-Würfel erwerben: Je **2 EG** aus der Anatomie-Probe können in **1 EG-Würfel** umgewandelt werden (EG-Würfel, nicht EG).
+Der Charakter ist geschult darin, seine Opfer mit einem Streich zu töten. Er kann **Erfolge aus der vorangegangenen Probe auf Medizin und Anatomie** als Erfolgswürfel erwerben: Je **2 Erfolge** daraus können in **1 Erfolgswürfel** umgewandelt werden (Erfolgswürfel, nicht Erfolge).

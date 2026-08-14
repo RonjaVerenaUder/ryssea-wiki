@@ -50,6 +50,10 @@ Hauptsächlich auf [[Sharanma]], aber auch auf anderen Splittern vertreten.
 - Verehrung des [[Weltenweber|Weltenwebers]] als König
 - Komplexe Gesellschaft — Details noch zu dokumentieren
 
+## Schrift
+
+Die Phaerie kommunizieren im Alltag mental und verwenden Schrift nur für das Heilige. Ihre [[Die Elementschrift|Elementschrift]] — eine fließende, elfische Hand — hält die heiligen Runen der zehn [[Die Elemente|Elemente]] fest und bildet zusammengeführt das Zehnstern-Wappen der Welt.
+
 ## Untergruppen
 
 - **[[Kaheryt]]** — Phaerie mit Tierseele. Jäger und Richter der Phaerie-Gesellschaft. Organisiert in Rudeln. Können die Wilde Jagd rufen.

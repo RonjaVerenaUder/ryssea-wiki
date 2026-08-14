@@ -1,6 +1,7 @@
 ---
-tags: [ort]
-typ: ort
+publish: true
+tags: [ort] # bei Untertyp ergänzen, z.B. [ort, gebirge]
+typ: ort # oder: dorf, region, gebirge, wildnis, gewässer, tempel, gebäude, ruine
 status: entwurf
 splitter: ""
 ---

@@ -2,8 +2,8 @@
 tags: [gott]
 typ: gott
 status: platzhalter
-aspekte: [Landweben]
-domäne: ""
+aspekte: [Landweben, Entdecken, Reisen, Wetter]
+farbe: "Grün & Gold"
 publish: true
 ---
 

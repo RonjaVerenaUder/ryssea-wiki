@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [kampagne]
 typ: kampagne
 status: aktiv

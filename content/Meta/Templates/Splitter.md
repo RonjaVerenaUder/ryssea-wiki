@@ -1,9 +1,11 @@
 ---
+publish: true
 tags: [splitter]
 typ: splitter
 status: entwurf
-nebeltore: []
+zyklus: ""
 elementarlord: ""
+nebeltore: []
 inspiration: ""
 ---
 
@@ -12,6 +14,20 @@ inspiration: ""
 ## Überblick
 <!-- Der Elevator Pitch: Was macht diesen Splitter besonders? 2-3 Sätze die den Charakter einfangen. -->
 <!-- FRAGE: Was ist das Erste was einem einfällt wenn man an diesen Splitter denkt? Was unterscheidet ihn von den anderen? -->
+
+## Ursprung & Kontext
+<!-- Jeder Splitter ist ein Fragment, das aus einem früheren Weltenzyklus gerettet wurde (siehe [[Weltenzyklen]]). Diese Herkunft ist die Wurzel seiner Identität. -->
+
+### Aus welchem Zyklus
+<!-- Aus welchem alten Zyklus/welcher Iteration stammt dieses Fragment? Was war es dort — ein ganzes Reich, eine Region, eine Insel? -->
+<!-- Wie und warum wurde gerade dieser Teil bewahrt, als die Welt zersplitterte? -->
+<!-- Trage die Iteration ins Frontmatter-Feld `zyklus:` ein, sobald sie feststeht. -->
+<!-- FRAGE: Aus welcher vergangenen Welt kommt dieser Splitter? Was war er, bevor er gerettet wurde? -->
+
+### Rolle in der heutigen Welt
+<!-- Welchen Platz nimmt der Splitter im Gefüge der Gesamtwelt ein? Bedeutung, Ruf, was ihn mit dem großen Ganzen verbindet. -->
+<!-- (Konkrete Nebeltor-Verbindungen kommen weiter unten unter "Nebeltore".) -->
+<!-- FRAGE: Warum ist dieser Splitter für die Gesamtwelt wichtig — oder gerade unbedeutend? Was ist sein Bezug zum aktuellen Zyklus und zum Weltgeschehen? -->
 
 ## Karte
 <!-- Platzhalter für eine zukünftige Übersichtskarte. -->
@@ -34,8 +50,9 @@ inspiration: ""
 <!-- Format: **Tor nach [[Splitter]]** — Lage, Erscheinung, Besonderheiten -->
 
 ## Elementarlord-Heiligtum
-<!-- Welcher der 10 Elementarlords hat hier seinen Sitz? Wo genau? Wie sieht das Heiligtum aus? -->
-<!-- Falls kein Lord hier wohnt: Section leer lassen oder "Keiner" vermerken. -->
+<!-- Nicht jeder Splitter hat einen Elementarlord. Nur wo sich einer der 10 Lords niedergelassen hat, hat er hier ein Heiligtum. -->
+<!-- Falls ein Lord hier wohnt: welcher, wo genau, wie sieht das Heiligtum aus? Trage ihn auch ins Frontmatter-Feld `elementarlord:` ein. -->
+<!-- Falls keiner hier wohnt: Section leer lassen oder "Keiner" vermerken, Frontmatter-Feld leer lassen. -->
 <!-- FRAGE: Wohnt ein Elementarlord auf diesem Splitter? Wenn ja — welcher, und wo? Gibt es schon eine Vorstellung vom Heiligtum? -->
 
 ## Völker & Kulturen
@@ -63,9 +80,10 @@ inspiration: ""
 <!-- FRAGE: Wer ist mit wem verbündet, wer streitet? Was sind die größten politischen Spannungen? Gibt es einen übergreifenden Konflikt? -->
 
 ## Geschichte
+<!-- Die eigene Geschichte des Splitters, SEIT er als Fragment in die heutige Welt kam (der Ursprung davor steht oben unter "Ursprung & Kontext"). -->
 <!-- Die wichtigsten Ereignisse die diesen Splitter geprägt haben. Kurz zusammenfassen und zu Ereignis-Notizen verlinken. -->
 <!-- Format: **[[Ereignisname]]** — 1-2 Sätze was passiert ist und warum es wichtig war. -->
-<!-- FRAGE: Welche historischen Ereignisse haben diesen Splitter geprägt? Kriege, Gründungen, Katastrophen? -->
+<!-- FRAGE: Welche Ereignisse haben diesen Splitter geprägt, seit er Teil der heutigen Welt ist? Kriege, Gründungen, Katastrophen? -->
 
 ## Notizen
 <!-- Lose Gedanken, Ideen, offene Fragen. Alles was noch keinen festen Platz hat. -->

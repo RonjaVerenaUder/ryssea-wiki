@@ -38,6 +38,28 @@ Jash ist eine ca. 1,60 m große [[N'Shkani]] in Löwengestalt, die äußerlich d
 
 Auf der linken Schulter trägt sie ein Lotusblütentattoo. Im Nacken verbirgt sich ein Brandzeichen — die Sklavenkennzeichnung aus ihrer Zeit in der [[Löwengarde]]. Jash versteckt das Brandzeichen sorgfältig. Von ihren Reisegefährten weiß nur [[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]] davon. Würde es entdeckt, könnte Jash als entflohene Sklavin zurückgefordert werden — eine ihrer größten Ängste.
 
+### Traumbild
+
+Auf der [[Traumebene]] sieht Jash anders aus als in der Realität — ihr Traumbild zeigt, wie sie sich selbst im Innersten wahrnimmt:
+
+- **Fell:** Goldglitzernd, leuchtender als in der Realität
+- **Körperbau:** Erwachsener und muskulöser als ihre aktuelle (verjüngte) physische Form — sie stellt sich ihren optimalen Körper vor
+- **Kleidung:** Trainingskleidung, schlicht und funktional
+- **Waffe:** [[Sin'an Krondimar]] an der Seite, umgeben von einer Feueraura. Bei schnellen Bewegungen lösen sich feurige Lotusblüten von der Klinge
+- **Feuerspuren:** Schnelle Bewegungen hinterlassen kleine Flämmchen in der Luft, zwischen denen immer wieder feurige Lotusblüten aufblitzen
+- **Lotustattoo:** Das Lotusblütentattoo auf der linken Schulter schimmert auf der Traumebene permanent durch — es ist immer sichtbar, auch über der Kleidung
+- **Kein Sklavenmal:** Das Brandzeichen der [[Löwengarde]] existiert auf der Traumebene nicht — hier ist Jash frei
+
+> Auf der Traumebene ist Jash nicht das Mädchen, das die Welt sieht.
+> 
+> Ihr Fell schimmert goldglitzernd, als hätte jemand Sonnenlicht in jede einzelne Faser gewebt. Sie steht aufrechter hier, breiter in den Schultern, die Muskeln klar definiert unter dem kurzen Fell — der Körper einer Kriegerin in ihrer besten Form, nicht das verjüngte Abbild, das in der Realität durch die Welt läuft. Hier ist sie erwachsen. Hier ist sie fertig.
+> 
+> Sie trägt schlichte Trainingskleidung, als wäre sie gerade erst vom Übungsplatz gekommen. An ihrer Seite ruht Sin'an Krondimar — und die Klinge brennt. Nicht wild, nicht zerstörerisch. Ein ruhiges, kontrolliertes Feuer, das die Waffe wie eine zweite Haut umhüllt. Wenn Jash sich bewegt — wirklich bewegt, schnell und entschlossen — lösen sich feurige Lotusblüten von der Klinge und treiben einen Moment lang durch die Luft, bevor sie verlöschen. Kleine Flämmchen bleiben in der Luft zurück wie glühende Fußspuren, und zwischen ihnen blühen immer wieder einzelne Lotusblüten aus Feuer auf.
+> 
+> Auf ihrer linken Schulter, dort wo in der Realität das Tattoo unter Stoff und Fell versteckt liegt, schimmert die Lotusblüte durch alles hindurch. Kleidung, Rüstung, Schatten — es spielt keine Rolle. Hier auf der Traumebene ist die Blüte immer sichtbar. Als wäre sie das Einzige an Jash, das sich nie verstecken lässt.
+> 
+> Und das Brandzeichen im Nacken? Hier gibt es keins. Auf der Traumebene ist Jash frei.
+
 ### Erster Eindruck
 
 Reserviert und unnahbar. Jash blickt Fremden oft finster entgegen, und wenn sie doch lächelt, ist es ein Raubtierlächeln — mehr Warnung als Einladung.
@@ -83,7 +105,7 @@ Für Jash bedeutet Freiheit vor allem eines: eigene Entscheidungen treffen zu d�
 
 ## Familie & Herkunft
 
-Jash wuchs als Sklavin in [[Sarakant]] auf und wurde in der [[Löwengarde]] ausgebildet. Ob sie dort hineingeboren wurde oder als Kind dorthin kam, weiß sie selbst nicht — sie kennt ihre Eltern nicht und hat keine bekannte Familie. Das Training begann früh: kein eigener Besitz, körperliche Züchtigung, hartes Drill und versuchte Gehirnwäsche.
+Jash wuchs als Sklavin in [[Sarakant]] auf und wurde in der [[Löwengarde]] ausgebildet. Ob sie dort hineingeboren wurde oder als Kind dorthin kam, weiß sie selbst nicht — sie kennt ihre Eltern nicht und hat keine bekannte Familie. Das Training begann früh: kein eigener Besitz, körperliche Züchtigung, harter Drill und versuchte Gehirnwäsche.
 
 ### Die Löwengarde
 
@@ -102,8 +124,8 @@ Als die Hinrichtung bevorstand, floh sie. Ihr Weg führte sie zunächst zu einem
 ### Wichtige Bezugspersonen
 
 - **[[Nuri N'Kaan]]** — Ehemaliger Ausbilder in der [[Löwengarde]], selbst N'Shkani-Sklave. Hat Jash beigebracht selbst zu denken. Trotz der Umstände eine verbliebene Verbundenheit.
-- **[[Meister Pelldor]]** — Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Kronrimar]]. Mentor und Ausbilder. Lehrte Jash weniger Kampf als vielmehr Etikette, Wissenschaften und Politik — Dinge, die sie in der [[Löwengarde]] nie gelernt hatte. Chai meinte, Pelldor habe ihr damit eine solide Grundausbildung gegeben.
-- **[[Desina]]** — Artefaktschmiedin im [[Tempel des fließenden Schwertes]]. Jash beschreibt sie als "charmant verrückte Bereicherung" für den Tempel.
+- **[[Meister Pelldor]]** — Leiter des [[Tempel des fließenden Schwertes|Tempels des fließenden Schwertes]] in [[Kronrimar]]. Mentor und Ausbilder. Lehrte Jash weniger Kampf als vielmehr Etikette und Wissenschaften — Dinge, die sie in der [[Löwengarde]] nie gelernt hatte. Chai meinte, Pelldor habe ihr damit eine solide Grundausbildung gegeben.
+- **[[Desina]]** — Artefaktschmiedin, kein Mitglied des [[Tempel des fließenden Schwertes|Tempels]]. Jash beschreibt sie als "charmant verrückte Bereicherung" für ihr Leben.
 - **Chai** — Mitschülerin und Novizin im [[Tempel des fließenden Schwertes]].
 - **Charo** — Chais Bruder, ebenfalls im Tempel.
 
@@ -116,6 +138,7 @@ Als die Hinrichtung bevorstand, floh sie. Ihr Weg führte sie zunächst zu einem
 - **Herausragender Sinn**
 - **Natürliche Waffe** — N'Shkani-Klauen
 - **Vernunftbegabter Vertrauter** — [[Willow]]
+- **Geweiht ([[Rhaige]])**
 - **Magieklasse 3 (Feuer)** — [[Adept]], [[Feuermagie]]
 - **Magieklasse Zusatz (Schatten)**
 - **Affinität zu Elementaren**
@@ -170,9 +193,9 @@ Kleidung aus dem [[Tempel des fließenden Schwertes]].
 
 ### [[Willow]]
 
-Vernunftbegabter Vertrauter, Feuerelementar. Jash' erste Verbindung zu [[Rhaige]]. Die Begegnung war ein Unfall: Jash stieß im Wald auf einen Flammengeist — [[Willow]] — und die beiden fanden zueinander. Seitdem unterstützt Willow Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen. Ändert gelegentlich seine Form (zuletzt eine Fuchs/Hippo/Löwe-Mischung).
+Vernunftbegabter Vertrauter, Feuerelementar. Jash' erste Verbindung zu [[Rhaige]]. Die Begegnung war ein Zufall: Jash stieß im Wald auf einen Flammengeist — [[Willow]] — und die beiden fanden zueinander. Seitdem unterstützt Willow Jash wo er kann und möchte genauso oft bespaßt werden. Beide erziehen sich gegenseitig in Maßen. Ändert gelegentlich seine Form (zuletzt eine Fuchs/Hippo/Löwe-Mischung).
 
-Bei Regen verwandelt sich Willow in eine Art Glas-Form — vermutlich um sich vor dem Wasser zu schützen.
+Willows erste Unterkunft war ein kleines Glas, in dem er bei Regen Schutz gefunden hat. Heute nennt er eine kleine Geldkatze an Jashs Gürtel sein Eigen.
 
 ### Geierartiges Federvieh
 
@@ -213,7 +236,7 @@ Jash bevorzugt schnelle, effiziente Sturmangriffe. Je nach Situation überfällt
 - **[[Charaktere/Helden/Team Synfathia/Dana Lonnert|Dana]]** — Versteht sich gut mit ihr, hat Respekt vor Dana als Anführerin. Merkt man nicht sofort, aber sie vertraut Dana und folgt ihrer Führung.
 - **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Sparringspartner und Kampfkamerad. Die beiden verstehen sich auf einer direkten, unkomplizierten Ebene. Wenig Worte, viel gegenseitiger Respekt.
 - **[[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]]** — Enge Vertrauensperson. Yuliya ist die einzige, die von Jashs Brandzeichen weiß. Jash fühlt sich bei ihr sicher genug, um Schwäche zu zeigen.
-- **[[Charaktere/Helden/Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
+- **[[Karasuan|Kaito]]** — Findet ihn unterhaltsam und schätzt seine unkomplizierte Art. Er bringt sie zum Lachen, was nicht viele schaffen.
 - **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Respektiert seine Fähigkeiten, ist ihm gegenüber aber misstrauisch. Er hat still danebengestanden als es um ihre Vergangenheit ging — das hat sie nicht vergessen.
 
 ### Zu NPCs

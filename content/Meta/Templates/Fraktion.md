@@ -1,6 +1,7 @@
 ---
-tags: [fraktion]
-typ: fraktion
+publish: true
+tags: [fraktion] # bei Untertyp ergänzen, z.B. [fraktion, reich]
+typ: fraktion # oder: reich, orden, kult, gilde, kirche
 status: entwurf
 hauptquartier: ""
 ---

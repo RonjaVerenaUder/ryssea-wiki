@@ -1,4 +1,5 @@
 ---
+publish: true
 tags: [volk]
 typ: volk
 status: entwurf

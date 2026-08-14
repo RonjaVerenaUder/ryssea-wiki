@@ -109,7 +109,7 @@ Keine. Die anderen KIs und die Umgewandelten sind unerreichbar.
 ## Beziehungen
 
 ### Zur Gruppe
-- **[[Charaktere/Helden/Karasuan|Karasuan]]** — Noch zu definieren.
+- **[[Karasuan|Karasuan]]** — Noch zu definieren.
 - **[[Charaktere/Helden/Nebelkinder/Maria Colwall|Maria Colwall]] (Landweberin)** — Kennt sie aus Daten. Beschützerprotokoll aktiv. **Vertrauen: Nein** — kein Vertrauen in ihre mentale Stabilität aufgrund der Verluste. Beschützen ≠ Vertrauen.
 
 ### Zu NPCs

@@ -4,7 +4,7 @@ typ: plot
 status: aktiv
 kampagne: "[[Sethos Gang]]"
 priorität: mittel
-eingeführt_in: "[[Spieltag 001]]"
+eingeführt_in: "[[Spieltag 001 - Der Weg zur Quelle]]"
 publish: true
 ---
 
@@ -40,7 +40,8 @@ Die Kaarsi-Priesterschaft experimentiert mit der uralten Landweber-Seuche — de
 
 ## Fortschritt
 
-- [[Spieltag 001]] — Erste Hinweise: Horem liest über Seuche-Experimente der Kaarsi-Priesterschaft
+- [[Spieltag 001 - Der Weg zur Quelle]] — Erste Hinweise: Horem liest über Seuche-Experimente der Kaarsi-Priesterschaft
+- [[Abenteuer 004 - Schlacht um Bech'Amet]] — Sethos setzt erstmals aktiv Landweber-Fähigkeiten ein (Disharmonie-Wahrnehmung, Schattenreinigung durch Musik). Er ist als potenzieller Landweber sichtbar geworden — ein direktes Ziel.
 
 > [!warning]- Spoiler: Nächste Entwicklungen
 > - Die Seuche wird erfolgreich reaktiviert

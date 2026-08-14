@@ -1,8 +1,9 @@
 ---
-tags: [regelwerk]
+tags: [regelwerk, kampf]
 typ: regelwerk
-status: entwurf
+status: fertig
 publish: true
+quelle: Notion-Export/Google Site (bereinigt)
 ---
 
 # Zustände
@@ -13,7 +14,7 @@ Zustände beschreiben temporäre Beeinträchtigungen oder Effekte, die einen Cha
 
 ## Angsterfüllt
 
-Der Kämpfer ist eingeschüchtert und kann sich bei Proben nur für **Sicherheitswürfe** entscheiden.
+Der Kämpfer ist eingeschüchtert und kann bei Proben nur noch **Sicherheitsproben** ansagen (siehe [[Würfelsystem & Proben]]).
 
 | | |
 |---|---|
@@ -53,7 +54,7 @@ Durch eine tiefe Verletzung oder anhaltende Blutung verliert der Kämpfer nach j
 
 ## Brennend [Stufe]
 
-Der Abenteurer steht in Flammen. Er erleidet nach jeweils **15 vollen Ticks** den Schaden einer Feuerberührung der jeweiligen Stufe (**1W6 Feuerschaden pro Stufe**). Stufen addieren sich.
+Der Abenteurer steht in Flammen. Er erleidet nach jeweils **15 vollen Ticks** **1W6 Feuerschaden pro Stufe**. Stufen addieren sich.
 
 | | |
 |---|---|
@@ -66,7 +67,7 @@ Der Abenteurer steht in Flammen. Er erleidet nach jeweils **15 vollen Ticks** de
 
 Der Charakter ist ausgelaugt. Pro Stufe:
 
-- Alle Proben auf Kampf- und allgemeine Fertigkeiten: **−1 Erschwernis**
+- Alle Proben auf Kampf- und allgemeine Talente: **−1 Erschwernis**
 - Geschwindigkeit: **−1**
 - Initiative: **+1** (langsamer)
 
@@ -74,13 +75,13 @@ Stufen addieren sich.
 
 | | |
 |---|---|
-| **Abbau** | 1 Stufe pro Verschnaufpause (30 Minuten) |
+| **Abbau** | 1 Stufe pro [[Ruhe & Erholung#Verschnaufpause\|Verschnaufpause]] (30 Minuten) |
 
 ---
 
 ## Geblendet [Stufe]
 
-Der Kämpfer kann seine Umgebung nur eingeschränkt wahrnehmen. Pro Stufe gelten die Lichtverhältnisse als um **1 Stufe verschlechtert** (maximal Finsternis). Diese Abzüge werden nicht durch Lichtquellen oder Stärken beeinflusst. Stufen addieren sich.
+Der Kämpfer kann seine Umgebung nur eingeschränkt wahrnehmen. Pro Stufe gelten die [[Kampfregeln#Lichtverhältnisse|Lichtverhältnisse]] als um **1 Stufe verschlechtert** (maximal Finsternis). Diese Abzüge werden nicht durch Lichtquellen oder Stärken beeinflusst. Stufen addieren sich.
 
 | | |
 |---|---|
@@ -88,9 +89,21 @@ Der Kämpfer kann seine Umgebung nur eingeschränkt wahrnehmen. Pro Stufe gelten
 
 ---
 
+## Gehetzt [Stufe]
+
+Der Charakter wird gejagt oder jagt selbst zu lange und verliert darüber die Übersicht. Pro Stufe erleidet er **1 Punkt Erschwernis** auf alle Proben. Solange er gehetzt ist, kann er sich **weder verstecken noch schleichen** — er ist zu getrieben, um innezuhalten. Stufen addieren sich.
+
+Übersteigt die Stufenzahl seine **Konstitution**, muss er die Verfolgung abbrechen: Der Verfolgte ergibt sich oder bricht zusammen, der Jäger gibt auf. Näheres unter [[Verfolgungsjagd]].
+
+| | |
+|---|---|
+| **Abbau** | 1 Stufe pro [[Ruhe & Erholung#Verschnaufpause\|Verschnaufpause]] (30 Minuten) |
+
+---
+
 ## Glaubenskrise [Stufe]
 
-Das Vertrauen des Priesters in die Verbindung zu seiner Gottheit ist temporär gestört. Alle Proben auf Magieschulen erhalten einen **Malus in Höhe der Stufe**. Stufen addieren sich.
+Das Vertrauen des Priesters in die Verbindung zu seiner Gottheit ist temporär gestört. Alle Proben auf **göttliche Magie (Weihen)** erhalten einen **Malus in Höhe der Stufe** — weltliche Magieklassen bleiben unberührt. Stufen addieren sich.
 
 | | |
 |---|---|
@@ -126,7 +139,7 @@ Von tiefer Furcht getrieben versucht der Kämpfer, sich möglichst schnell von d
 
 ## Rasend
 
-Das Temperament geht mit dem Kämpfer durch — er vergisst jede Zurückhaltung und darf nur noch **Risikowürfe** einsetzen.
+Das Temperament geht mit dem Kämpfer durch — er vergisst jede Zurückhaltung und darf nur noch **Risikoproben** einsetzen (siehe [[Würfelsystem & Proben]]).
 
 | | |
 |---|---|
@@ -134,7 +147,7 @@ Das Temperament geht mit dem Kämpfer durch — er vergisst jede Zurückhaltung 
 
 ---
 
-## Ringend
+## Umklammert
 
 Der Charakter kann sich nicht frei bewegen:
 
@@ -155,7 +168,7 @@ Der Abenteurer ist **handlungsunfähig** und gilt als liegend. Kontinuierliche H
 | | |
 |---|---|
 | **Dauer** | Einige Stunden |
-| **Vorzeitig aufwachen** | Wahrnehmung-Probe gegen Schwierigkeit 10–35 (je nach Lärm) |
+| **Vorzeitig aufwachen** | Sinnenschärfe-Probe gegen Schwierigkeit 10–35 (je nach Lärm) |
 | **Sofort aufwachen** | Bei erlittenem Schaden |
 
 ---
@@ -177,7 +190,7 @@ Die Ursache für einen anderen Zustand ist kompliziert und kaum zu heilen. Siech
 
 ## Sterbend [Stufe]
 
-Der Kämpfer ist so geschwächt, dass ihm das Leben entgleitet. Er kann **nicht von natürlicher Heilung profitieren** (wohl aber durch Heilkunde und Heilungsmagie am Leben erhalten werden) und verliert in Intervallen **eine volle Gesundheitsstufe** an Lebenspunkten:
+Der Kämpfer ist so geschwächt, dass ihm das Leben entgleitet. Er kann **nicht von natürlicher Heilung profitieren** (wohl aber durch Heilkunde und Heilungsmagie am Leben erhalten werden) und verliert in Intervallen **eine volle [[Gesundheit & Wunden|Gesundheitsstufe]]** an Lebenspunkten:
 
 | Stufe | Intervall |
 |---|---|
@@ -200,7 +213,7 @@ Sobald keine Gesundheitsstufen mehr verfügbar sind, ist der Abenteurer **unwied
 
 ## Verwundet [Stufe]
 
-Der Kämpfer leidet unter besonders starken Schmerzen und gilt pro Stufe als um **eine Wundstufe schwerer verletzt** (in Bezug auf Wundabzüge). Stufen addieren sich.
+Der Kämpfer leidet unter besonders starken Schmerzen und gilt pro Stufe als um **eine [[Gesundheit & Wunden|Gesundheitsstufe]] tiefer** — mit dem entsprechenden **Wundabzug**, aber **ohne** echten LeP-Verlust. Stufen addieren sich.
 
 | | |
 |---|---|
