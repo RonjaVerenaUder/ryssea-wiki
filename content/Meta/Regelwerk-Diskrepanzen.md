@@ -68,7 +68,9 @@ Das Char-Tool **fächert generische Einträge in Varianten auf**, der Vault nutz
 
 Diese Fragen kann kein Quellenvergleich lösen — bitte einordnen:
 
-- **Meisterschaftsschwellen-Verschiebung** (Google-Site-Log 20.07.2021): Auf Stufe 1 nur Schwerpunkte, Meisterschaften ab Stufe 2 usw. — schon **Kanon** oder noch **Beta**? (Steht aktuell als Beta in [[Regelwerk/Beta-Regeln]]; [[Talente#Erlernen und Steigern von Meisterschaften]] beschreibt noch die alte Schwelle 9/12/15/18.)
+- **Meisterschaftsschwellen-Verschiebung** (Google-Site-Log 20.07.2021): Auf Stufe 1 nur Schwerpunkte, Meisterschaften ab Stufe 2 usw. — schon **Kanon** oder noch **Beta**? (Steht aktuell als Beta in [[Regelwerk/Beta-Regeln]].)
+  - **Zur Hälfte von selbst erledigt (2026-08-14):** Seit die Talentmaxima in [[Steigerung#Maximale Talentpunkte|Steigerung]] bis Heldenstufe 8 laufen, ergibt sich die Verschiebung **rechnerisch** — auf Heldenstufe 1 sind höchstens 6 Talentpunkte möglich, die erste Schwelle verlangt aber 9. Damit gibt es auf Stufe 1 tatsächlich nur Schwerpunkte, und jede weitere Schwelle fällt mit einer Heldenstufe zusammen (1 → HL2, 2 → HL3, 3 → HL4, 4 → HL5). [[Talente#Meisterschaften]] führt das jetzt als eigene Spalte.
+  - **Offen bleibt die zweite Hälfte der Beta-Regel:** das **doppelte Erwerben** der Schwellen 1–3 ab Heldenstufe 6 zu den Kosten der Stufen 5–7, mit verdoppelten Boni. Das kollidiert damit, dass die Stufen 5–7 inzwischen den Magie- und Priestertalenten gehören.
 - **GP bei Stufenanstieg** (5/5/10/10/15 …): Kanon oder Beta?
 - **Explodierende Crits** ([[Tischregeln]]): Standard oder optional?
 - **Simultanzauber (Sims):** Beta oder im Einsatz?

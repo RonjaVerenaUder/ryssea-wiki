@@ -8,7 +8,7 @@ quelle: Notion-Export + Ryssea_Tool_25.0.7
 
 Meisterschaften – Allgemein
 
-Allgemein-Meisterschaften, gruppiert nach [[Talente#Erlernen und Steigern von Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]].
+Allgemein-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]].
 
 *252 Meisterschaften.*
 

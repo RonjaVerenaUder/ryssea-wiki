@@ -8,15 +8,12 @@ quelle: Notion-Export + Ryssea_Tool_25.0.7
 
 Meisterschaften – Wissen
 
-Wissens-Meisterschaften, gruppiert nach [[Talente#Erlernen und Steigern von Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
+Wissens-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
 
 *102 Meisterschaften.*
 
 > [!info] Sechs gelten für alle Wissenstalente
 > Wissenstalente tun im Kern dasselbe — etwas wissen. Sechs Meisterschaften gelten deshalb für **alle Wissenstalente** zugleich: *Aus dem Stegreif*, *Belesen*, *Begabter Gelehrter*, *Querdenker*, *Autorität* und *Koryphäe*. Die übrigen Einträge gehören einzelnen Talenten und bilden ab, was nur dieses Fach kann.
-
-> [!warning] Zehn Einträge sind noch unbeziffert
-> Bei zehn Meisterschaften — überwiegend rund um *Götter, Kulte und Religionen* — steht „erhält einen Bonus", ohne dass eine Höhe genannt wäre. Sie sind mit *(Höhe noch offen)* markiert und in [[Meta/Aufgaben]] gesammelt. Bis dahin legt die Spielleitung die Höhe fest; vergleichbare Einträge geben meist 3 Punkte.
 
 ## Schwelle 1
 
@@ -44,13 +41,13 @@ Hat der Charakter jemanden eine Weile beobachtet, weiß er, wo er ansetzen muss.
 Kennt der Charakter die Gebräuche einer fremden Kultur, erhält er in ihr einen Bonus in Höhe von 3 Punkten auf gesellschaftliche Proben.
 
 **Geheime Kultzeichen** · passiv · _Götter, Kulte und Religionen_
-Der Charakter kennt die verborgenen Zeichen seines Kultes. Er erhält einen Bonus darauf, Kontakt zu Gleichgesinnten aufzunehmen, verborgene Versammlungsorte zu finden und Warnungen vor Feinden des Kultes zu deuten. *(Höhe noch offen)*
+Der Charakter kennt die verborgenen Zeichen seines Kultes. Er erhält einen Bonus in Höhe von 3 Punkten darauf, Kontakt zu Gleichgesinnten aufzunehmen und verborgene Versammlungsorte zu finden. Warnungen vor Feinden des Kultes deutet er ohne Probe.
 
 **Gemeinsamer Ritus** · aktiv · _Götter, Kulte und Religionen_ · Voraussetzung: Glaube 1
-Der Charakter beherrscht die Gebete und Riten eines Kultes und unterstützt damit einen Priester beim Zaubern. *(Höhe noch offen)*
+Der Charakter beherrscht die Gebete und Riten seines Kultes und vollzieht sie mit, während ein Priester derselben Gottheit zaubert. Dazu legt er eine Probe gegen die um 5 Punkte gesenkte Zauberkomplexität ab. Gelingt sie, erhält der Priester einen Bonus in Höhe von 1 Punkt (+1 je Erfolg) auf seine [[Magieregeln#Zauber wirken|Konstruktionsprobe]], misslingt sie, einen Malus in Höhe von 1 Punkt. Mehrere Teilnehmer vollziehen denselben Ritus und rechnen ihre Ergebnisse zusammen. Der Ritus wirkt nur bei Zaubern, die der gemeinsamen Gottheit entsprechen.
 
 **Göttliche Strafe** · passiv · _Götter, Kulte und Religionen_
-Der Charakter droht überzeugend mit dem Zorn der Götter und schüchtert damit ein. *(Höhe noch offen)*
+Der Charakter droht überzeugend mit dem Zorn der Götter und schüchtert damit ein: Er erhält einen Bonus in Höhe von 3 Punkten auf Einschüchtern-Proben. Voraussetzung ist, dass sein Gegenüber an die angerufene Gottheit oder wenigstens an Götter glaubt — gegen einen erklärten Ungläubigen ist die Drohung wirkungslos.
 
 **Hausvorteil** · passiv · _Spiele und Unterhaltung_
 Kennt der Charakter die Regeln eines Spiels, erhält er einen Bonus in Höhe von 3 Punkten auf Proben bei diesem Glücksspiel und auf Wetten darauf.
@@ -59,7 +56,7 @@ Kennt der Charakter die Regeln eines Spiels, erhält er einen Bonus in Höhe von
 Lässt sich ein Hebel, eine Rolle oder ein Gegengewicht einsetzen, erhält der Charakter einen Bonus in Höhe von 3 Punkten auf den Kraftakt.
 
 **Heiliger Eid** · aktiv · _Götter, Kulte und Religionen_
-Der Charakter nimmt einem freiwilligen Ziel einen heiligen Eid ab, eine bestimmte Aufgabe zu erfüllen oder eine bestimmte Tat zu unterlassen. Für die Erfüllung erhält das Ziel einen Bonus, für den Bruch einen Malus. *(Höhe noch offen)*
+Der Charakter nimmt einem freiwilligen Ziel einen heiligen Eid ab, eine bestimmte Aufgabe zu erfüllen oder eine bestimmte Tat zu unterlassen. Solange das Ziel den Eid hält, erhält es einen Bonus in Höhe von 3 Punkten auf alle Proben, die unmittelbar seiner Erfüllung dienen. Bricht es den Eid, erhält es stattdessen einen Malus in Höhe von 3 Punkten auf alle Proben, bis es Sühne geleistet hat; worin diese besteht, legt die Spielleitung fest. Zum Eid zwingen lässt sich niemand.
 
 **Himmelsuhr** · passiv · _Astronomie_
 Sieht der Charakter Sonne oder Sterne, bestimmt er Uhrzeit, Datum und Himmelsrichtung ohne Probe.
@@ -71,7 +68,7 @@ Der Charakter durchdringt komplexe Zusammenhänge im Kopf: Er rechnet ohne Probe
 Der Charakter verarbeitet gesammelte Kräuter zu Kräutertee weiter.
 
 **Küster** · aktiv · _Götter, Kulte und Religionen_
-Der Charakter kennt sich mit den Strukturgebern aus, die Priester schaffen, und setzt sie sicher ein. *(Höhe noch offen)*
+Der Charakter kennt die Matrixgeber, die Priester seines Glaubens schaffen, und weiß sie zu handhaben: Er erhält einen Bonus in Höhe von 3 Punkten darauf, kirchliche Matrixgeber einzusetzen.
 
 **Landkundig** · passiv · _Geographie_
 Der Charakter kennt die Wege einer Region so gut, dass er Umwege meidet: Die Reisezeit sinkt dort um 10 %.
@@ -101,7 +98,7 @@ An fremden Höfen und in Verhandlungen erhält der Charakter einen Bonus in Höh
 Der Charakter erkennt Gifte, Heilmittel und Reagenzien ohne Probe, sofern er sie sehen, riechen oder in kleiner Menge prüfen kann.
 
 **Schatzjäger** · aktiv · _Sagen, Legenden und Mythen_
-Der Charakter zieht aus Sagen, Mythen und Legenden Schlüsse über den Wert alter Stücke und nutzt sie beim Verkaufen und Feilschen. *(Höhe noch offen)*
+Der Charakter zieht aus Sagen, Mythen und Legenden Schlüsse über den Wert alter Stücke. Geht es um ein Stück mit Sagenbezug, legt er Proben aufs Schätzen, Verkaufen und Feilschen auf sein Talent ab statt auf Handel oder Redegewandtheit.
 
 **Schlachtfeldblick** · passiv · _Kriegswissenschaft_
 Der Charakter erfasst Aufstellung, ungefähre Stärke und Absicht einer gegnerischen Truppe ohne Probe.
@@ -125,7 +122,7 @@ Unter freiem Himmel und bei klarer Sicht verirrt sich der Charakter nicht.
 Der Charakter kennt Verhalten, Schwächen und Gefährlichkeit eines Tieres ohne Probe, sobald er es gesehen hat.
 
 **Vertrauter des Glaubens I** · passiv · _Götter, Kulte und Religionen_
-Befindet sich ein Tiervertrauter bis zu 2 Meter entfernt, erhält der Zauberer einen Bonus auf eine zu seiner Gottheit passende Magieschule oder einen passenden Aspekt. *(Höhe noch offen)*
+Befindet sich ein Tiervertrauter bis zu 2 Meter entfernt, erhält der Zauberer einen Bonus in Höhe von 1 Punkt auf eine zu seiner Gottheit passende Magieschule oder einen passenden Aspekt.
 Mehrfach wählbar — jedes Mal für eine neue Magieschule oder einen neuen Aspekt.
 
 **Verwaltungskundig** · passiv · _Staatstheorie_
@@ -167,7 +164,7 @@ Der Charakter verbirgt in einer verschlüsselten Nachricht eine zweite Botschaft
 Der Charakter erhält einen Bonus in Höhe von 3 Punkten darauf, einen wirkenden Zauber zu identifizieren.
 
 **Gebet hinter der Maske** · passiv · _Götter, Kulte und Religionen_
-Der Charakter kennt fremde Kulte gut genug, um sich als einer ihrer Anhänger oder Priester auszugeben. Proben, ihn dabei zu enttarnen, erleiden einen Malus — je ähnlicher die vorgegebene Gottheit seiner tatsächlichen Hauptgottheit ist, desto höher. *(Höhe noch offen)*
+Der Charakter kennt fremde Kulte gut genug, um sich als einer ihrer Anhänger oder Priester auszugeben. Proben, ihn dabei zu enttarnen, erleiden einen Malus in Höhe von 1 Punkt und je Aspekt, den die vorgetäuschte Gottheit mit seiner Hauptgottheit teilt, einen weiteren — höchstens jedoch 3 Punkte.
 
 **Gefälschtes Siegel** · passiv · _Heraldik — Wappen und Symbole_
 Der Charakter erhält einen Bonus in Höhe von 3 Punkten darauf, Siegel und Wappen zu fälschen — und ebenso darauf, Fälschungen zu erkennen.
@@ -179,7 +176,7 @@ Kennt der Charakter das Gift, braut er in einer Stunde ein Gegenmittel, sofern i
 Der Charakter erhält einen Bonus in Höhe von 3 Punkten auf Selbstbeherrschung-Proben gegen Furcht und Verzweiflung.
 
 **Götterzorn** · aktiv · _Götter, Kulte und Religionen_
-Der Charakter fleht seine Gottheit um Beistand im Kampf an. Dafür wendet er Punkte der Ressource Glaube auf und erhöht damit den Schaden seiner Angriffe. *(Höhe noch offen)*
+Der Charakter fleht seine Gottheit um Beistand im Kampf an. Vor dem Wurf wendet er beliebig viele Punkte der Ressource [[Ressourcen#Glaube|Glaube]] auf; sein Angriff richtet je aufgewendetem Punkt 1W6 Schaden mehr an. Das Anflehen kostet keine Ticks.
 
 **Krankheitsbild** · passiv · _Medizin und Anatomie_
 Kann der Charakter die Symptome sehen, erkennt er Krankheit und Phase ohne Probe — auch dort, wo andere nur Fieber sehen.
@@ -190,8 +187,8 @@ Der Charakter erhält einen Bonus in Höhe von 3 Punkten auf alle Proben, ein Sc
 **Landsmann** · passiv · _Länder- und Völkerkunde_
 Der Charakter erkennt am Auftreten eines Fremden dessen Herkunft und Stand, oft bis zur Heimatregion genau.
 
-**Opfergabe** · aktiv · _Götter, Kulte und Religionen_
-Der Charakter erlangt durch eine Opfergabe die Unterstützung seiner Gottheit: Er erhält einen Bonus auf eine zur Gottheit passende Talentprobe, mit der er eine ihr gefällige Handlung bewältigt. *(Höhe noch offen)*
+**Opfergabe** · aktiv · _Götter, Kulte und Religionen_ · Voraussetzung: Glaube 1
+Mit einem Opferritus von etwa zehn Minuten und einer Gabe von spürbarem Wert erlangt der Charakter die Unterstützung seiner Gottheit: Er erhält einen Bonus in Höhe seines Werts in der Ressource [[Ressourcen#Glaube|Glaube]] auf eine zur Gottheit passende Talentprobe, mit der er eine ihr gefällige Handlung bewältigt. Was als Gabe von spürbarem Wert gilt, legt die Spielleitung fest. Einmal je Spieltag.
 
 **Querdenker** · aktiv · _alle Wissenstalente_
 Der Charakter zieht aus seinem Fach Schlüsse, auf die andere nicht kommen. Lässt sich glaubhaft begründen, dass sein Wissen weiterhilft, legt er die Probe auf sein Wissenstalent ab statt auf das eigentlich zuständige Talent — der Mechaniker öffnet ein Schloss über die Bauart, der Psychologe durchschaut eine Lüge über das Verhalten.

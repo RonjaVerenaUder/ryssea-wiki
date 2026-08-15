@@ -8,15 +8,12 @@ quelle: Notion-Export + Ryssea_Tool_25.0.7
 
 Meisterschaften – Handwerk
 
-Handwerks-Meisterschaften, gruppiert nach [[Talente#Erlernen und Steigern von Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
+Handwerks-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
 
 *120 Meisterschaften.*
 
-> [!info] Sechs gelten für alle Handwerkstalente
-> *Effizienz*, *Der richtige Griff*, *Begabter Handwerker*, *Sparsam*, *Signatur* und *Altmeister* gelten für **alle Handwerkstalente** zugleich. Die übrigen Einträge gehören einzelnen Talenten und bilden ab, was nur dieses Handwerk kann.
-
-> [!warning] Vier Einträge sind noch unbeziffert
-> *Effizienz*, *Sparsam*, *Signatur* und *Sicher durch den Sturm* nennen keine Höhe. Sie sind mit *(Höhe noch offen)* markiert und in [[Meta/Aufgaben]] gesammelt.
+> [!info] Acht gelten für alle Handwerkstalente
+> *Der richtige Griff*, *Effizienz*, *Begabter Handwerker*, *Sparsam*, *Signatur*, *Altmeister*, *Die Hände des Meisters* und *Meisterwerk* gelten für **alle Handwerkstalente** zugleich. Die übrigen Einträge gehören einzelnen Talenten und bilden ab, was nur dieses Handwerk kann.
 
 ## Schwelle 1
 
@@ -55,7 +52,7 @@ Ein von ihm gebautes oder abgedichtetes Schiff nimmt kein Wasser, wo andere län
 Sein Tuch hält Wind und Wasser ab: Wer daraus gefertigte Kleidung trägt, erhält einen Bonus in Höhe von 3 Punkten auf Zähigkeit-Proben gegen Kälte und Nässe.
 
 **Effizienz** · passiv · _alle Handwerkstalente_
-Der Handwerker arbeitet ohne Leerlauf: Die Dauer seiner handwerklichen Arbeiten sinkt. *(Höhe noch offen)*
+Der Handwerker arbeitet ohne Leerlauf: Die Zeit, die er je Probe zur Herstellung eines Gegenstands benötigt, sinkt auf ein Drittel.
 
 **Ein Haus in Ordnung** · passiv · _Hauswirtschaft_
 Der Charakter führt einen Haushalt so umsichtig, dass die Lebenshaltung für alle darin um 20 % günstiger ausfällt.
@@ -282,10 +279,10 @@ Seine Inschriften überdauern Jahrhunderte, ohne unlesbar zu werden.
 Eine warme Mahlzeit aus seiner Küche baut bei jedem, der davon isst, 1 Stufe Erschöpft ab.
 
 **Sicher durch den Sturm** · passiv · _Schifffahrt_
-Bestimmte Mali aus widrigen Umständen ignoriert der Charakter bei Schifffahrt-Proben. *(Höhe noch offen)*
+Wind, Regen und schwerer Seegang erschweren Schifffahrt-Proben — als Anhalt gelten dieselben Werte wie beim [[Fliegen#Wind und Wetter|Fliegen]]: 3 Punkte bei frischem Wind, 6 bei Sturm, 10 bei Unwetter. Der Charakter senkt diese Witterungsmali um 3 Punkte.
 
 **Sparsam** · passiv · _alle Handwerkstalente_
-Der Handwerker kommt mit weniger Material aus als andere. *(Höhe noch offen)*
+Der Handwerker kommt mit weniger Material aus als andere: Seine Materialkosten sinken um ein Viertel.
 
 **Tierarzt** · passiv · _Medicus_ · Voraussetzung: Zoologie 6
 Der Heiler ignoriert den Aufschlag auf die Schwierigkeit, der sonst bei der Behandlung von Tieren anfällt.
@@ -358,7 +355,7 @@ Mit einer Schifffahrt-Probe gegen eine Schwierigkeit von 30 bestimmt der Charakt
 Über mehrere Generationen züchtet der Charakter eine Linie heran, die ein Merkmal seiner Wahl verlässlich weitergibt.
 
 **Signatur** · passiv · _alle Handwerkstalente_
-Die Arbeit des Handwerkers trägt eine unverkennbare Handschrift. Kenner erkennen sie, und das hebt Preis und Ruf seiner Stücke. *(Höhe noch offen)*
+Die Arbeit des Handwerkers trägt eine unverkennbare Handschrift. Bei Käufern, die sie kennen oder erkennen, steigt der Preis seiner Stücke um ein Viertel. In Fragen seines Handwerks zählt außerdem sein [[Ressourcen#Ansehen|Ansehen]] um 1 höher.
 
 **Spezialist für alle Wesen** · passiv · _Medicus_ · Voraussetzung: Tierarzt, Arkanologie 6
 Der Heiler ignoriert den Schwierigkeitsaufschlag bei sämtlichen ungewöhnlichen Lebewesen — Tieren, Monstren, Feenwesen und dergleichen.

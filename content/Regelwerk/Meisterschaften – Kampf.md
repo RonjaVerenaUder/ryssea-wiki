@@ -8,7 +8,7 @@ quelle: Notion-Export + Ryssea_Tool_25.0.7
 
 Meisterschaften – Kampf
 
-Kampf-Meisterschaften, gruppiert nach [[Talente#Erlernen und Steigern von Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
+Kampf-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
 
 *87 Meisterschaften.*
 

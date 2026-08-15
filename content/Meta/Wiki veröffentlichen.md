@@ -38,23 +38,27 @@ Nur Notizen mit `publish: true` erscheinen auf der Website. Alle anderen bleiben
 
 > [!warning] Vor dem Kopieren immer erst `git pull` im Wiki-Repo machen, damit keine Änderungen vom anderen Rechner überschrieben werden!
 
-### Ronja-Rechner
+> [!danger] Nicht alles mitkopieren
+> Ein einfaches `Copy-Item -Recurse` nimmt **alles** mit — auch den `Notion`-Ordner (2216 Dateien, 75 MB Rohexport) und das **`.git` des Vaults** (rund 90 MB). Beides gehört nicht ins Wiki: Der Notion-Export ist reines Archiv, und ein `.git` im `content/` erzeugt ein verschachteltes Repo, das Git stillschweigend ignoriert und das nur Platz frisst.
+>
+> Die Befehle unten schließen `Notion`, `.git`, `.obsidian` und `.claude` deshalb ausdrücklich aus. **Robocopy** eignet sich dafür besser als `Copy-Item`.
 
-In PowerShell:
+### Ronja-Rechner
 
 ```powershell
 Remove-Item -Recurse -Force "C:\Users\Ronja\Documents\ryssea-wiki\content"
-Copy-Item -Recurse "C:\Users\Ronja\Documents\Obsidian\Ryssea-Vault-Synch" "C:\Users\Ronja\Documents\ryssea-wiki\content"
+robocopy "C:\Users\Ronja\Documents\Obsidian\Ryssea-Vault-Synch" "C:\Users\Ronja\Documents\ryssea-wiki\content" /E /XD Notion .git .obsidian .claude .claudian
 ```
 
 ### Syral-Rechner
 
-> [!todo] Pfade noch eintragen!
-
 ```powershell
-Remove-Item -Recurse -Force "PFAD_ZUM_WIKI\content"
-Copy-Item -Recurse "PFAD_ZUM_VAULT" "PFAD_ZUM_WIKI\content"
+Remove-Item -Recurse -Force "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki\content"
+robocopy "C:\Users\Syral\OneDrive\Dokumente\Ryssea" "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki\content" /E /XD Notion .git .obsidian .claude .claudian
 ```
+
+> [!tip] Kontrolle nach dem Kopieren
+> `content/` sollte rund **375 Markdown-Dateien** und **etwa 45 MB** umfassen. Liegt dort ein Ordner `Notion` oder ein `.git`, hat der Ausschluss nicht gegriffen.
 
 ---
 
@@ -72,15 +76,16 @@ git push
 
 ### Syral-Rechner
 
-> [!todo] Pfad noch eintragen!
-
 ```bash
-cd "PFAD_ZUM_WIKI"
+cd "C:\Users\Syral\OneDrive\Dokumente\ryssea-wiki"
 git pull
 git add content/
 git commit -m "Update Vault Content"
 git push
 ```
+
+> [!info] Der Wiki-Branch heißt `v4`, nicht `master`
+> Das Quartz-Repo arbeitet auf dem Branch **v4**. `git pull` und `git push` ohne weitere Angabe treffen ihn automatisch, solange nicht der Branch gewechselt wurde.
 
 ---
 

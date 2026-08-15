@@ -51,11 +51,19 @@ Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Resisten
 
 ### Talente
 
-| | bis 3 | bis 6 | bis 9 | bis 12 | bis 15 |
-|---|---|---|---|---|---|
-| **Voraussetzung** | — | Heldenstufe 1 | Heldenstufe 2 | Heldenstufe 3 | Heldenstufe 4 |
-| **Kosten pro Punkt** | 1 AP | 3 AP | 5 AP | 7 AP | 9 AP |
-| **Höchstwert** | nach Heldenstufe | nach Heldenstufe | nach Heldenstufe | nach Heldenstufe | nach Heldenstufe |
+| Talentwert bis | Voraussetzung | Kosten pro Punkt |
+|---:|---|---:|
+| 3 | — | 1 AP |
+| 6 | Heldenstufe 1 | 3 AP |
+| 9 | Heldenstufe 2 | 5 AP |
+| 12 | Heldenstufe 3 | 7 AP |
+| 15 | Heldenstufe 4 | 9 AP |
+| 18 | Heldenstufe 5 | 11 AP |
+| 21 | Heldenstufe 6 | 13 AP |
+| 24 | Heldenstufe 7 | 15 AP |
+| 27 | Heldenstufe 8 | 17 AP |
+
+Je weiterer Heldenstufe steigt der erreichbare Talentwert um **3** und der Preis je Punkt um **2 AP**. Der Höchstwert richtet sich dabei stets nach der Heldenstufe (siehe [[Steigerung#Maximale Talentpunkte|Maximale Talentpunkte]]).
 
 ### Sprachen & Schwerpunkte
 
@@ -120,6 +128,8 @@ Ein Charakter erreicht einen neuen Heldenlevel **automatisch**, wenn er ausreich
 > | 4 | 1.500 |
 > | 5 | 3.100 |
 > | 6 | 6.300 |
+> | 7 | 12.700 |
+> | 8 | 25.500 |
 >
 > … und so weiter nach derselben Formel.
 
@@ -156,6 +166,13 @@ Beim Erreichen eines neuen Heldenlevels steigen die maximalen [[Talente|Talentpu
 | 2 | 9 |
 | 3 | 12 |
 | 4 | 15 |
+| 5 | 18 |
+| 6 | 21 |
+| 7 | 24 |
+| 8 | 27 |
+| … | +3 je Stufe |
+
+Damit fällt jede Meisterschaftsschwelle mit einer Heldenstufe zusammen: Schwelle 1 auf Heldenstufe 2, Schwelle 2 auf 3, Schwelle 3 auf 4 und Schwelle 4 auf 5. Die drei zusätzlichen Schwellen der Magie- und Priestertalente folgen auf den Heldenstufen 6, 7 und 8.
 
 Innerhalb eines Levels kann ein Spieler seinen Charakter beliebig **in die Breite** steigern (zusätzliche Talente erwerben, Möglichkeiten ausweiten), während mit Erreichen eines neuen Levels weitere Möglichkeiten zum Steigern **in die Höhe** (Ausbau der Kernfähigkeiten) eröffnet werden.
 
@@ -178,7 +195,7 @@ Viele Personen benötigen kundige Lehrer, um sich neues Wissen und neue Talente 
 
 **[[Eigenschaften]]:** Können innerhalb der Grenzen des Heldenlevels ohne Lehrmeister beliebig gesteigert werden.
 
-**[[Talente]]:** Innerhalb der Grenzen eines Heldenlevels normalerweise beliebig steigerbar. Das Erreichen einer Meisterschaftsschwelle (Werte 9, 12, 15 und 18) erfordert häufig einen Lehrmeister.
+**[[Talente]]:** Innerhalb der Grenzen eines Heldenlevels normalerweise beliebig steigerbar. Das Erreichen einer Meisterschaftsschwelle (Werte 9, 12, 15 und 18, bei Magie- und Priestertalenten zusätzlich 21, 24 und 27) erfordert häufig einen Lehrmeister.
 
 **[[Vorteile & Nachteile|Vorteile]]:** Hängt vom Vorteil ab. Einige können nur bei einem Lehrer gelernt werden, andere durch körperliche Abhärtung und Training. Manche erfordern das Eingreifen der Götter, magische Rituale oder andere spezielle Wege. Entscheidung liegt bei der Spielleitung.
 

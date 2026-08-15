@@ -8,7 +8,7 @@ quelle: Notion-Export/Google Site (bereinigt)
 
 # Meisterschaften
 
-[[Talente#Meisterschaften|Meisterschaften]] sind spezielle Fähigkeiten, die Talente ergänzen und vertiefen. Jede Meisterschaft ist einer Meisterschaftsschwelle zugeordnet (1–4) und erfordert entsprechende Talentpunkte (9/12/15/18). Details zum System in [[Talente#Erlernen und Steigern von Meisterschaften|Talente — Erlernen und Steigern]].
+[[Talente#Meisterschaften|Meisterschaften]] sind spezielle Fähigkeiten, die Talente ergänzen und vertiefen. Jede Meisterschaft ist einer Meisterschaftsschwelle zugeordnet (1–4) und erfordert entsprechende Talentpunkte (9/12/15/18); allein die Magie- und Priestertalente kennen drei weitere Schwellen (21/24/27). Details zum System in [[Talente#Meisterschaften|Talente — Meisterschaften]], Kosten und Talentmaxima in [[Steigerung#Steigerungskosten|Steigerung]].
 
 > [!info] Aufbau dieser Seite
 > Die **vollständige Liste aller Meisterschaften** liegt nach Kategorie aufgeteilt in eigenen Notizen (unten). Auf dieser Seite stehen zusätzlich ausführliche **Detail-Ketten** zu besonders relevanten Meisterschaften — mit Beispielen und Tabellen.
@@ -38,9 +38,9 @@ Die Namen unterscheiden sich, die Regel nicht. Wird sie einmal geändert, muss s
 ## Vollständige Listen nach Kategorie
 
 - [[Meisterschaften – Allgemein]] — 252 Meisterschaften
-- [[Meisterschaften – Handwerk]] — 120 Meisterschaften *(4 davon noch unbeziffert)*
+- [[Meisterschaften – Handwerk]] — 120 Meisterschaften
 - [[Meisterschaften – Kampf]] — 87 Meisterschaften
-- [[Meisterschaften – Wissen]] — 102 Meisterschaften *(10 davon noch unbeziffert)*
+- [[Meisterschaften – Wissen]] — 102 Meisterschaften
 - [[Meisterschaften – Zauberei]] — 21 Meisterschaften *(Entwurf: Werte erstmals beziffert)*
 
 Damit sind alle fünf Kategorien kanonisiert — zusammen **582 Meisterschaften**.

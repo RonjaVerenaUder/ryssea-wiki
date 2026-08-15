@@ -86,12 +86,14 @@ Viele Talentpunkte zeigen breite Beherrschung — die eigentliche Finesse steckt
 
 Meisterschaften hängen an **Schwellen**, die über hohe Talentpunkte frei werden — je höher die Schwelle, desto mächtiger:
 
-| Schwelle | Benötigte Talentpunkte |
-|---|---|
-| 1. Meisterschaftsschwelle | 9 |
-| 2. Meisterschaftsschwelle | 12 |
-| 3. Meisterschaftsschwelle | 15 |
-| 4. Meisterschaftsschwelle | 18 |
+| Schwelle | Benötigte Talentpunkte | Erreichbar ab |
+|---|---|---|
+| 1. Meisterschaftsschwelle | 9 | Heldenstufe 2 |
+| 2. Meisterschaftsschwelle | 12 | Heldenstufe 3 |
+| 3. Meisterschaftsschwelle | 15 | Heldenstufe 4 |
+| 4. Meisterschaftsschwelle | 18 | Heldenstufe 5 |
+
+**[[Magieklassen|Magie- und Priestertalente]]** kennen als einzige drei weitere Schwellen — die 5. bei 21, die 6. bei 24 und die 7. bei 27 Talentpunkten, erreichbar auf den Heldenstufen 6, 7 und 8. Kosten und Talentmaxima stehen in [[Steigerung#Steigerungskosten|Steigerung]].
 
 Erreicht ein Charakter eine Schwelle, wählt er **eine Meisterschaft dieser oder einer niedrigeren Schwelle kostenlos**. Weitere kauft er mit [[Steigerung|Abenteuerpunkten]] nach — stets nur bis zur höchsten ihm zustehenden Schwelle. Manche Meisterschaften haben **zusätzliche Voraussetzungen** (etwa den Besitz einer anderen). Ist auf einer neu erreichten Schwelle nur eine solche wählbar, darf er sie als freie Meisterschaft vormerken und nutzt sie, sobald die Voraussetzung nachgekauft ist.
 
