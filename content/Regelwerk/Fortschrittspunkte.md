@@ -89,6 +89,6 @@ Erst zusammen entfalten sie ihre volle Wirkung: Ohne *Fallen-Geselle* ist der Pu
 > [!info] Anschlüsse
 > - **Gegenstandsqualität** ist im Kanon noch nicht definiert, wird hier aber von vier Tätigkeiten gebraucht (Falle entschärfen, Herstellen, Fallenbau, Zutaten sammeln). Solange sie fehlt, bleiben diese Zeilen ohne konkrete Zahl.
 > - **Patzer** sind bei langwierigen Tätigkeiten noch nicht geregelt. Naheliegend wäre, dass ein Patzer das Konto auf 0 setzt oder den Versuch beendet, je nach Tätigkeit.
-> - Die Basisregel zu **Reise und Wildnis** steht noch aus; sie wird ihre Intervalle und Ziele hier einhängen. [[Fliegen]], [[Verfolgungsjagd]] und [[Sammeln & Jagen]] sind inzwischen geschrieben.
+> - Die Basisregeln [[Fliegen]], [[Verfolgungsjagd]], [[Sammeln & Jagen]] und [[Reise & Wildnis]] sind inzwischen geschrieben. **Reise & Wildnis rechnet bewusst nicht in Fortschrittspunkten**, sondern in Reisetagen — die Strecke ist dort bekannt, es geht um Zeit und Zwischenfälle, nicht um einen Fortschritt gegen ein Ziel.
 >
 > Fortschritt siehe [[Meta/Aufgaben]].
