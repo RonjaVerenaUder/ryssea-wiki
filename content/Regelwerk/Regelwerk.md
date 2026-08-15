@@ -39,7 +39,7 @@ Das eigene Regelsystem für die Welt von Ryssea — Schwert, Magie und göttlich
 ### Magie
 
 - [[Magieregeln]] — Zauberparameter, Komponenten, Zauber wirken, Affinität & Kanalisierung, Antimagie
-- [[Magieklassen]] — die 24 Magieklassen mit Klassenfähigkeiten & Komponenten
+- [[Magieklassen (Regelwerk)|Magieklassen]] — die 24 Magieklassen mit Klassenfähigkeiten & Komponenten
 - [[Grimoire]] — Zauberliste: 91 Zauber mit Statblocks (Nachschlageteil)
 
 ### Meisterschaften

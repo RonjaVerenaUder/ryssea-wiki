@@ -8,7 +8,7 @@ quelle: Notion-Export + Ryssea_Tool_25.0.7
 
 # Grimoire — Zauberliste
 
-Alle bekannten Zauber Rysseas. Zauber werden über [[Magieklassen]] gelernt und nach [[Magieregeln#Zauber wirken|Zauber wirken]] gewirkt. Kosten und Komplexität skalieren meist mit der **Stufe** des Zaubers.
+Alle bekannten Zauber Rysseas. Zauber werden über [[Magieklassen (Regelwerk)|Magieklassen]] gelernt und nach [[Magieregeln#Zauber wirken|Zauber wirken]] gewirkt. Kosten und Komplexität skalieren meist mit der **Stufe** des Zaubers.
 
 *91 Zauber (61 aufbereitet + 30 aus Char-Tool ergänzt), alphabetisch sortiert. Werte aus dem Char-Tool, Beschreibungen aus dem Notion-Grimoire.*
 

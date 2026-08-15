@@ -21,7 +21,7 @@ Als einzige Talentkategorie reicht die Zauberei bis **Schwelle 7** (Talentwerte 
 
 ## Gruppen-Meisterschaften
 
-Anders als in den übrigen Kategorien gehört **keine** Zauberei-Meisterschaft einem einzelnen Talent. Alle gelten für **alle Magieklassen** — die Fähigkeit, eine Komponente wegzulassen oder einen Zauber zu verkürzen, hängt am Zaubern selbst, nicht an der Klasse. Die Klassen selbst stehen in [[Magieklassen]].
+Anders als in den übrigen Kategorien gehört **keine** Zauberei-Meisterschaft einem einzelnen Talent. Alle gelten für **alle Magieklassen** — die Fähigkeit, eine Komponente wegzulassen oder einen Zauber zu verkürzen, hängt am Zaubern selbst, nicht an der Klasse. Die Klassen selbst stehen in [[Magieklassen (Regelwerk)|Magieklassen]].
 
 ## Kennzeichnung: Modifikation
 

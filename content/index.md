@@ -31,7 +31,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 
 - [[Magie/Magiesystem|Magiesystem]] — Grundprinzip, Magieklassen, Gaben
 - [[Magie/Landweber|Landweber]] — Magier die das Gewebe der Welt formen
-- [[Magie/Magieklassen|Magieklassen]]
+- [[Magieklassen (Regelwerk)|Magieklassen]]
 - [[Magie/Magische Gaben|Magische Gaben]]
 - [[Magie/Alltagsmagie|Alltagsmagie]]
 - [[Magie/Schicksalspunkte|Schicksalspunkte]]
@@ -85,7 +85,7 @@ Zentraler Einstiegspunkt in die Enzyklopädie von Ryssea. Von hier aus erreichst
 - [[Regelwerk/Charaktererstellung/Talente|Talente]] — Talentsystem, Schwerpunkte, alle Talente
 - [[Regelwerk/Steigerung|Heldenlevel & Steigerung]] — AP, Steigerungskosten, Heldenlevel
 - [[Regelwerk/Token|Token]] — Schicksalspunkte, Fraktale, Götter-Segen, Hilfe, Special Actions
-- [[Regelwerk/Zustände|Zustände]] — 16 Zustände von Angsterfüllt bis Verwundet
+- [[Regelwerk/Zustände|Zustände]] — 18 Zustände von Angsterfüllt bis Verwundet
 - [[Regelwerk/Meisterschaften|Meisterschaften]] — Crit-Meister, Assassinen
 - [[Regelwerk/Tischregeln|Tischregeln]] — Optionale Hausregeln
 - [[Regelwerk/Kampf/Kampfregeln|Kampfregeln]] — Kampfsystem

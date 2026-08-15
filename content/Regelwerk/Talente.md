@@ -41,6 +41,11 @@ Der maximale Talentwert steigt mit dem [[Steigerung|Heldenlevel]] (je +3 pro Stu
 | 2 | 9 |
 | 3 | 12 |
 | 4 | 15 |
+| 5 | 18 |
+| 6 | 21 |
+| 7 | 24 |
+| 8 | 27 |
+| … | +3 je Stufe |
 
 Innerhalb einer Stufe wächst ein Charakter „in die Breite" (neue Talente, weitere Schwerpunkte); mit einer neuen Stufe öffnet sich der Ausbau „in die Höhe".
 
@@ -93,7 +98,7 @@ Meisterschaften hängen an **Schwellen**, die über hohe Talentpunkte frei werde
 | 3. Meisterschaftsschwelle | 15 | Heldenstufe 4 |
 | 4. Meisterschaftsschwelle | 18 | Heldenstufe 5 |
 
-**[[Magieklassen|Magie- und Priestertalente]]** kennen als einzige drei weitere Schwellen — die 5. bei 21, die 6. bei 24 und die 7. bei 27 Talentpunkten, erreichbar auf den Heldenstufen 6, 7 und 8. Kosten und Talentmaxima stehen in [[Steigerung#Steigerungskosten|Steigerung]].
+**[[Magieklassen (Regelwerk)|Magie- und Priestertalente]]** kennen als einzige drei weitere Schwellen — die 5. bei 21, die 6. bei 24 und die 7. bei 27 Talentpunkten, erreichbar auf den Heldenstufen 6, 7 und 8. Kosten und Talentmaxima stehen in [[Steigerung#Steigerungskosten|Steigerung]].
 
 Erreicht ein Charakter eine Schwelle, wählt er **eine Meisterschaft dieser oder einer niedrigeren Schwelle kostenlos**. Weitere kauft er mit [[Steigerung|Abenteuerpunkten]] nach — stets nur bis zur höchsten ihm zustehenden Schwelle. Manche Meisterschaften haben **zusätzliche Voraussetzungen** (etwa den Besitz einer anderen). Ist auf einer neu erreichten Schwelle nur eine solche wählbar, darf er sie als freie Meisterschaft vormerken und nutzt sie, sobald die Voraussetzung nachgekauft ist.
 
@@ -272,4 +277,4 @@ Alle Talente mit ihren drei [[Eigenschaften]] und ihren [[Talente#Schwerpunkte|S
 ### Magie- und Priestertalente
 
 > [!warning] Noch nicht ausgearbeitet
-> Die Magie- und Priestertalente fehlen bislang — auch in den Roh-Notizen. Für die Zauberklassen siehe vorerst [[Magieklassen]]. Getrackt in [[Meta/Aufgaben]].
+> Die Magie- und Priestertalente fehlen bislang — auch in den Roh-Notizen. Für die Zauberklassen siehe vorerst [[Magieklassen (Regelwerk)|Magieklassen]]. Getrackt in [[Meta/Aufgaben]].

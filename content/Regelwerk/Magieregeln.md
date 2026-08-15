@@ -8,7 +8,7 @@ quelle: Google Site (rysseawiki) — Regeln/Magie
 
 # Magieregeln
 
-Mechanik des Magiesystems: Zauberparameter, Komponenten, der Probenablauf beim Wirken, Affinität und Kanalisierung. Die Zauberklassen stehen unter [[Magieklassen]], die konkreten Zauber im [[Grimoire]].
+Mechanik des Magiesystems: Zauberparameter, Komponenten, der Probenablauf beim Wirken, Affinität und Kanalisierung. Die Zauberklassen stehen unter [[Magieklassen (Regelwerk)|Magieklassen]], die konkreten Zauber im [[Grimoire]].
 
 > [!info] Quelle & Stand
 > Migriert von der Ryssea-Google-Site (Regeln → Magie und Unterseiten). Noch nicht kanon-geprüft.
@@ -45,7 +45,7 @@ Stufen: 1 · 3 · 5 · 10 · 20 · 50 · 100 · 200 · 400 · 800.
 
 ## Komponenten
 
-Zauber haben **Komponenten** (z.B. Formel, Geste, Sicht, Berührung, materielle Komponente sowie eine klassenspezifische **Hauptkomponente** — siehe [[Magieklassen]]).
+Zauber haben **Komponenten** (z.B. Formel, Geste, Sicht, Berührung, materielle Komponente sowie eine klassenspezifische **Hauptkomponente** — siehe [[Magieklassen (Regelwerk)|Magieklassen]]).
 
 - Das **Weglassen der Hauptkomponente** einer Klasse bewirkt einen **Malus von 10 Punkten**.
 - Der **Verzicht auf eine andere Komponente** bewirkt einen **Malus von 5 Punkten**.
@@ -87,7 +87,7 @@ Das Aufrechterhalten klappt nur, solange sich Zauberer und Verzauberter auf **de
 
 ## Antimagie
 
-Magie teilt sich in viele Zauberarten, -klassen und Variationen — daher ist es für einen [[Magieklassen#Antimagier|Antimagier]] schwer, stets den passenden Gegenspruch parat zu haben. Über die Zeit haben spezialisierte Zauberer aber Kategorisierungen und Anknüpfungspunkte gefunden, um Sprüche gezielt abzuschwächen oder aufzulösen.
+Magie teilt sich in viele Zauberarten, -klassen und Variationen — daher ist es für einen [[Magieklassen (Regelwerk)#Antimagier|Antimagier]] schwer, stets den passenden Gegenspruch parat zu haben. Über die Zeit haben spezialisierte Zauberer aber Kategorisierungen und Anknüpfungspunkte gefunden, um Sprüche gezielt abzuschwächen oder aufzulösen.
 
 Ablauf:
 

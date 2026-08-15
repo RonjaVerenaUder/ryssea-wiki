@@ -7,7 +7,7 @@ publish: true
 
 # Magische Gaben
 
-Magische Gaben sind besondere Fähigkeiten die über die erlernbaren [[Magieklassen]] hinausgehen.
+Magische Gaben sind besondere Fähigkeiten die über die erlernbaren [[Magieklassen (Regelwerk)|Magieklassen]] hinausgehen.
 
 ## Bekannte Gaben
 - **Traumweben** — Einwirken auf die [[Traumebene]] und den [[Weltenwille|Weltenwillen]]

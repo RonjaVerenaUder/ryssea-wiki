@@ -1566,7 +1566,7 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 ## Waffengruppen und Sonderfälle
 
-Kopfzeilen, die auf eine Gruppe zielen statt auf ein einzelnes Talent. Die Waffengruppen sind in [[Meisterschaften – Kampf#Waffengruppen|Meisterschaften – Kampf]] definiert; *alle Magieklassen* meint die Klassen aus [[Magieklassen]] und bleibt so lange ungeteilt, bis [[Talente]] die Magie- und Priestertalente führt.
+Kopfzeilen, die auf eine Gruppe zielen statt auf ein einzelnes Talent. Die Waffengruppen sind in [[Meisterschaften – Kampf#Waffengruppen|Meisterschaften – Kampf]] definiert; *alle Magieklassen* meint die Klassen aus [[Magieklassen (Regelwerk)|Magieklassen]] und bleibt so lange ungeteilt, bis [[Talente]] die Magie- und Priestertalente führt.
 
 ### alle Magieklassen
 

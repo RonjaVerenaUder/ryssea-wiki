@@ -14,7 +14,7 @@ Jeder hat eine etwas andere Art mit der Welt zu kommunizieren. Über die Zeit ha
 
 ## Magieklassen
 
-Regeltechnisch sind das die verschiedenen [[Magieklassen]], die erlernt und kombiniert werden können. Jede Klasse deckt einen Themenbereich ab, hat bestimmte Sonderfähigkeiten und betrachtet Magie etwas anders.
+Regeltechnisch sind das die verschiedenen [[Magieklassen (Regelwerk)|Magieklassen]], die erlernt und kombiniert werden können. Jede Klasse deckt einen Themenbereich ab, hat bestimmte Sonderfähigkeiten und betrachtet Magie etwas anders.
 
 ## Magische Gaben
 
