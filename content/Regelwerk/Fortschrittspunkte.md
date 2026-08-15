@@ -59,7 +59,7 @@ Wie viel Zeit eine einzelne Probe abdeckt, hängt an der Tätigkeit. Bislang ste
 
 | Tätigkeit | Intervall | Beleg |
 |---|---|---|
-| **Nahrung suchen, sammeln, jagen** | 3 Stunden | *Schneller Jäger* und *Schneller Sammler* senken auf 1 Stunde |
+| **Nahrung suchen, sammeln, jagen** | 3 Stunden | *Schneller Jäger* und *Schneller Sammler* senken auf 1 Stunde — Einzelheiten in [[Sammeln & Jagen]] |
 | **Etwas durchsuchen** | 10 Minuten | *Schnelle Durchsuchung* senkt auf 5 Minuten |
 
 Für Klettern, Tauchen, Schwimmen, Fliegen und die Verfolgung legt die Spielleitung ein passendes Intervall fest, bis die jeweiligen Basisregeln geschrieben sind.
@@ -89,6 +89,6 @@ Erst zusammen entfalten sie ihre volle Wirkung: Ohne *Fallen-Geselle* ist der Pu
 > [!info] Anschlüsse
 > - **Gegenstandsqualität** ist im Kanon noch nicht definiert, wird hier aber von vier Tätigkeiten gebraucht (Falle entschärfen, Herstellen, Fallenbau, Zutaten sammeln). Solange sie fehlt, bleiben diese Zeilen ohne konkrete Zahl.
 > - **Patzer** sind bei langwierigen Tätigkeiten noch nicht geregelt. Naheliegend wäre, dass ein Patzer das Konto auf 0 setzt oder den Versuch beendet, je nach Tätigkeit.
-> - Die Basisregeln zu **Fliegen**, **Verfolgungsjagd**, **Sammeln und Jagen** sowie **Reise und Wildnis** stehen noch aus; sie werden ihre Intervalle und Ziele hier einhängen.
+> - Die Basisregel zu **Reise und Wildnis** steht noch aus; sie wird ihre Intervalle und Ziele hier einhängen. [[Fliegen]], [[Verfolgungsjagd]] und [[Sammeln & Jagen]] sind inzwischen geschrieben.
 >
 > Fortschritt siehe [[Meta/Aufgaben]].

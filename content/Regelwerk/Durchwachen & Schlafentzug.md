@@ -31,7 +31,7 @@ Die Zählung setzt sich zurück, sobald der Charakter eine **volle Ruhephase** h
 
 ## Was Schlafmangel anrichtet
 
-**Misslingt die Probe**, erhält der Charakter eine Stufe **[[Zustände#Erschöpft [Stufe]|Erschöpft]]** — je Stufe −1 auf Proben, −1 Geschwindigkeit, +1 Initiative. Bei einem **Patzer** sind es zwei Stufen.
+**Misslingt die Probe**, erhält der Charakter eine Stufe **[[Zustände#Erschöpft|Erschöpft]]** — je Stufe −1 auf Proben, −1 Geschwindigkeit, +1 Initiative. Bei einem **Patzer** sind es zwei Stufen.
 
 > [!warning] Diese Erschöpfung sitzt tiefer
 > Erschöpft baut sich sonst mit **einer Verschnaufpause** ab. **Nicht so bei Schlafmangel:** Was der fehlende Schlaf angerichtet hat, weicht keiner halben Stunde Rast — es verschwindet allein durch Schlaf. **Je [[Ruhe & Erholung#Ruhephase|Ruhephase]] fällt eine Stufe** davon weg. Wer drei Nächte durchgemacht hat, braucht also auch drei Nächte, um wieder ganz auf die Beine zu kommen.

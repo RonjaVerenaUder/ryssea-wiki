@@ -24,7 +24,7 @@ Mitten im Gefecht schnauft der Kämpfer kurz durch. **Atemholen** ist eine konti
 
 ## Verschnaufpause
 
-Eine **Verschnaufpause** dauert **30 Minuten**, in denen der Charakter sich hinsetzt, trinkt und nichts Anstrengendes tut. Sie baut je **eine Stufe [[Zustände#Erschöpft [Stufe]|Erschöpft]]** ab und beendet die kurzfristigen Zustände, die auf sie verweisen — *Lahm* und *Glaubenskrise*. Lebenspunkte bringt sie **nicht** zurück.
+Eine **Verschnaufpause** dauert **30 Minuten**, in denen der Charakter sich hinsetzt, trinkt und nichts Anstrengendes tut. Sie baut je **eine Stufe [[Zustände#Erschöpft|Erschöpft]]** ab und beendet die kurzfristigen Zustände, die auf sie verweisen — *Lahm* und *Glaubenskrise*. Lebenspunkte bringt sie **nicht** zurück.
 
 ---
 

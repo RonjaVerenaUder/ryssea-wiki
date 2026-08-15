@@ -31,7 +31,7 @@ Wie die Geschwindigkeit sinkt auch sie unter Last: **−1 je volle 6 Punkte Gesa
 Über weite Strecken zählt nicht Tempo, sondern Ausdauer. Ein Langstreckenflug läuft über [[Fortschrittspunkte]]:
 
 - **4 Kilometer je Fortschrittspunkt** (*Fernflug* hebt auf 6 km)
-- Je Probenintervall eine **Zähigkeit-Probe gegen den Zustand [[Zustände#Erschöpft [Stufe]|Erschöpft]]** — Fliegen ist Dauerarbeit. *Ausdauernder Flieger* erleichtert sie um 3 Punkte
+- Je Probenintervall eine **Zähigkeit-Probe gegen den Zustand [[Zustände#Erschöpft|Erschöpft]]** — Fliegen ist Dauerarbeit. *Ausdauernder Flieger* erleichtert sie um 3 Punkte
 
 ---
 

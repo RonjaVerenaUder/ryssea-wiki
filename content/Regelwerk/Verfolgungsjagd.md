@@ -51,7 +51,7 @@ Das Gelände redet mit: Ein Verfolgter, der die Gassen kennt, ein Reiter auf off
 
 ---
 
-## Zustand: Gehetzt [Stufe]
+## Zustand: Gehetzt
 
 Wer gejagt wird oder selbst zu lange jagt, verliert die Übersicht.
 
@@ -87,4 +87,4 @@ Wer gejagt wird oder selbst zu lange jagt, verliert die Übersicht.
 > **Gehetzt** ist bewusst **kein zweites Erschöpft**: Es zielt auf die Übersicht, nicht auf den Atem. Dass ein Gehetzter sich nicht verstecken kann, macht ihn im Zusammenspiel mit [[Schleichen & Beschatten]] interessant — wer erst abschütteln will, muss erst zur Ruhe kommen.
 
 > [!info]- Auch in [[Zustände]] eingetragen
-> Der Zustand **[[Zustände#Gehetzt [Stufe]|Gehetzt]]** steht seit dem 2026-08-11 auch in der Zustandsliste, alphabetisch zwischen *Geblendet* und *Glaubenskrise*. Wird er geändert, sind beide Stellen anzupassen.
+> Der Zustand **[[Zustände#Gehetzt|Gehetzt]]** steht seit dem 2026-08-11 auch in der Zustandsliste, alphabetisch zwischen *Geblendet* und *Glaubenskrise*. Wird er geändert, sind beide Stellen anzupassen.
