@@ -93,7 +93,7 @@ Dana wuchs auf dem Apfelhof ihrer Familie auf, in einem Dorf nahe [[Trallop]], e
 
 ### Die Greifenakademie
 
-Mit 9 Jahren verließ Dana den Familienhof für die [[Greifenakademie]] in [[Greifenstein]] — etwa eine Tagesreise entfernt. Dort wurde sie zur Kampfmagierin der [[Weißen Gilde]] ausgebildet.
+Mit 9 Jahren verließ Dana den Familienhof für die [[Greifenakademie]] in [[Greifensteyn|Greifenstein]] — etwa eine Tagesreise entfernt. Dort wurde sie zur Kampfmagierin der [[Weißen Gilde]] ausgebildet.
 
 Die Ausbildung war hochanspruchsvoll und anstrengend. Die Ausbilder sind absolute Respektspersonen — bei Dana und [[Björn]] ist aber über Einzelunterricht und gemeinsame Zeit auch eine Art Familiendynamik entstanden. Das Team-Training ist ein Alleinstellungsmerkmal der Akademie, besonders in Fraystein.
 
@@ -197,7 +197,7 @@ Sein Reykon-Glaube ist so tief verwurzelt, dass Dana ihm die neuen Erkenntnisse 
 
 Für Dana ist er wie ein kleiner Bruder — einer auf den man aufpassen muss, besonders wenn er sich wieder in einer Bibliothek vergräbt.
 
-Aktuell auf Studienreise, zuletzt in [[Greifenstein]]. Dana hat länger nichts gehört und sollte mal wieder schreiben.
+Aktuell auf Studienreise, zuletzt in [[Greifensteyn|Greifenstein]]. Dana hat länger nichts gehört und sollte mal wieder schreiben.
 
 #### Coran — Mentor
 

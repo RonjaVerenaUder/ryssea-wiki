@@ -28,7 +28,7 @@ Der jahrhundertealte Konflikt zwischen [[Baryia (Reich)]] und [[Taskasia]] eskal
 
 - [[Karasim]] — Grenzfestung, bereits gefallen
 - [[Bech'Amet]] — Strategischer Punkt; Kaarsi-Armee zurückgeschlagen
-- [[Barya'Aches]] — Gebiet wo sich Kaarsi-Truppen sammelten
+- [[Baryia (Reich)|Barya'Aches]] — Gebiet wo sich Kaarsi-Truppen sammelten
 - [[Askari-Gebirge]] — Pufferzone zwischen den Reichen
 
 ## Bekannte Informationen (Spielerwissen)

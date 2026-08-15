@@ -144,7 +144,7 @@ Das **Landweber-Gesetz** führte über die Jahre immer wieder zu Reibereien — 
 >
 > **Das Korruptions-Ritual:** Jeder neue Pharao muss drei Horus-Tempel besuchen und wird dabei unwissentlich korrumpiert — trinkt u.a. das Blut des echten Horus.
 >
-> **Einzige Ausnahme — [[Korellian]]/[[Kore]]:** Der einzige alte Gott der noch im Pantheon sitzt und die Wahrheit kennt.
+> **Einzige Ausnahme — [[Korellian]]/[[Korellian|Kore]]:** Der einzige alte Gott der noch im Pantheon sitzt und die Wahrheit kennt.
 
 > [!danger]- GM-Wissen: Die dunklen Jahrhunderte
 > Über Jahrhunderte als falscher Horus destabilisierte Kaarsi das Reich von innen. Korruption breitete sich aus, die alten Traditionen gingen verloren. Die heutigen Götter ([[Bastet]], [[Sobek]] und andere) sind jüngere Götter die nur "Horus" als Götterfürst kennen. Landweber sind aus dem kollektiven Gedächtnis verschwunden.

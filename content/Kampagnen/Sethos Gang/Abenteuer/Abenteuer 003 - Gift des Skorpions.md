@@ -21,7 +21,7 @@ publish: true
 
 ## Kurzbeschreibung
 
-[[Mes Atemu]], älterer Bruder von [[Sethos]] und amtierender Regent während der Abwesenheit des Pharaos, wird im Heerlager bei [[Bech'Amet]] durch ein unbekanntes Gift außer Gefecht gesetzt. Gleichzeitig trifft [[Tak'Anshurr|Tak]] als zufälliger Zeuge auf den Hof — ein kulturelles Missverständnis mit einem Pferd bringt ihn vor den Regenten, genau im falschen Moment. Da kein Heiler das Gift identifizieren kann, bricht [[Sethos]] mit einer kleinen Gruppe in den Dschungel der [[Panthaura (Volk)|Panthaura]] auf, um das Gegengift aus dem Toxin der Riesenschlangen zu gewinnen. Gleichzeitig läuft die Zeit ab: Ohne Regenten droht das Heer im Chaos zu versinken — während Kaarsi-Truppen sich in [[Barya'Aches]] sammeln.
+[[Mes'Atemu]], älterer Bruder von [[Sethos]] und amtierender Regent während der Abwesenheit des Pharaos, wird im Heerlager bei [[Bech'Amet]] durch ein unbekanntes Gift außer Gefecht gesetzt. Gleichzeitig trifft [[Tak'Anshurr|Tak]] als zufälliger Zeuge auf den Hof — ein kulturelles Missverständnis mit einem Pferd bringt ihn vor den Regenten, genau im falschen Moment. Da kein Heiler das Gift identifizieren kann, bricht [[Sethos]] mit einer kleinen Gruppe in den Dschungel der [[Panthaura (Volk)|Panthaura]] auf, um das Gegengift aus dem Toxin der Riesenschlangen zu gewinnen. Gleichzeitig läuft die Zeit ab: Ohne Regenten droht das Heer im Chaos zu versinken — während Kaarsi-Truppen sich in [[Baryia (Reich)|Barya'Aches]] sammeln.
 
 ## Konflikt
 
@@ -51,7 +51,7 @@ publish: true
 
 ## Wichtige NPCs
 
-- [[Mes Atemu]] — Sethos' älterer Bruder, amtierender Regent; vergiftet und bewusstlos
+- [[Mes'Atemu]] — Sethos' älterer Bruder, amtierender Regent; vergiftet und bewusstlos
 - [[Tak'Anshurr|Tak]] — Panthaura, Kore-Priester; tritt der Gruppe hier zum ersten Mal bei; erkennt das Gift am Geruch
 - [[Ainur]] — Zentaurin, Kriegerin der Horusgarde, Leibwächterin der Pharaonenfamilie; Seelentier Falke; gerät in die Trance der Schlingpflanze
 - [[Ziglaus]] — Shar'nei, Diplomat; bereits früher an Sethos' Seite; entscheidend bei der Verhandlung mit der Brutmutter
@@ -61,7 +61,7 @@ publish: true
 ## Relevante Orte
 
 - [[Bech'Amet]] — Heerlager, strategisch wichtiger Punkt; Ausgangspunkt des Abenteuers
-- [[Barya'Aches]] — Region wo sich Kaarsi-Truppen sammeln; Hintergrundbedrohung
+- [[Baryia (Reich)|Barya'Aches]] — Region wo sich Kaarsi-Truppen sammeln; Hintergrundbedrohung
 - Panthaura-Dschungel / [[Kore (Reich)]] — Territorium der Panthaura; gefährlich, für Menschen gesperrt außer auf Händlerwegen
 
 ## Zentrale Informationen (Clues)

@@ -21,7 +21,7 @@ Schatten — eines der 5 Gegensatzpaare ([[Die Elemente|Licht–Schatten]]).
 ## Anhänger
 
 - [[Ichilineyan]] — Phaerianischer Dämonenjäger-Orden, alle Mitglieder sind Priester von Karim
-- [[Fenvarion al'Ichilin]] — ehemaliger Priester, jetzt [[Lord von Zeit & Raum]]
+- [[Fenvarion al'Ichilin]] — ehemaliger Priester, jetzt [[Lord von Zeit und Raum]]
 
 ## Beziehungen
 

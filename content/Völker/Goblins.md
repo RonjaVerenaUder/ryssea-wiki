@@ -11,7 +11,7 @@ publish: true
 
 ## Überblick
 
-Eine der wenigen magielosen Rassen Rysseas. Die Goblins wurden gemeinsam mit den [[Orks]], [[Redcaps]] und [[Trollen]] von einigen der [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] verflucht — eine lange Geschichte, die ihnen den Zugang zur Magie vollständig genommen hat. Trotz (oder gerade wegen) dieser Einschränkung haben die Goblins viele Clans mit jeweils eigenen, leicht abweichenden Kulturen hervorgebracht.
+Eine der wenigen magielosen Rassen Rysseas. Die Goblins wurden gemeinsam mit den [[Orks]], [[Redcaps]] und [[Trolle|Trollen]] von einigen der [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] verflucht — eine lange Geschichte, die ihnen den Zugang zur Magie vollständig genommen hat. Trotz (oder gerade wegen) dieser Einschränkung haben die Goblins viele Clans mit jeweils eigenen, leicht abweichenden Kulturen hervorgebracht.
 
 ## Anatomie & Erscheinung
 
@@ -31,5 +31,5 @@ Viele verschiedene Clans mit jeweils eigenen kulturellen Ausprägungen. Details 
 
 ## Notizen
 
-- Teilen den Magie-Fluch mit [[Orks]], [[Redcaps]] und [[Trollen]]
+- Teilen den Magie-Fluch mit [[Orks]], [[Redcaps]] und [[Trolle|Trollen]]
 - Die Geschichte hinter dem Fluch ist noch ausführlich zu dokumentieren

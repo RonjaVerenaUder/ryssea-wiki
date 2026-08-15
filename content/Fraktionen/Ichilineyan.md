@@ -27,7 +27,7 @@ Phaerianischer Spezialorden, allgemein bekannt als die **Dämonenjäger**. Der O
 
 ## Mitglieder & Struktur
 
-- [[Fenvarion al'Ichilin]] — ehemaliges Mitglied, jetzt Priester des [[Lord von Zeit & Raum]]
+- [[Fenvarion al'Ichilin]] — ehemaliges Mitglied, jetzt Priester des [[Lord von Zeit und Raum]]
 
 <!-- FRAGE: Wie ist der Orden aufgebaut? Welche Ränge gibt es? Wie wird man Mitglied? -->
 

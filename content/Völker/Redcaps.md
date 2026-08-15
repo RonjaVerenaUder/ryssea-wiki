@@ -31,5 +31,5 @@ Noch zu dokumentieren.
 
 ## Notizen
 
-- Teilen den Magie-Fluch mit [[Goblins]], [[Orks]] und [[Trollen]]
+- Teilen den Magie-Fluch mit [[Goblins]], [[Orks]] und [[Trolle|Trollen]]
 - Die Geschichte hinter dem Fluch ist noch ausführlich zu dokumentieren

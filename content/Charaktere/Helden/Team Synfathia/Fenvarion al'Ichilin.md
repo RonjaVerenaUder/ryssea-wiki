@@ -6,7 +6,7 @@ spieler: Christoph
 kampagne: "[[Kampagnen/Team Synfathia/Team Synfathia|Team Synfathia]]"
 volk: "[[Phaerie]]"
 heimat: "[[Die wilden Berge der Blitze]]"
-gott: "[[Lord von Zeit & Raum]] (ehemals [[Kosmologie/Elementarlords/Karim Al'Altheyran|Karim Al'Altheyran]])"
+gott: "[[Lord von Zeit und Raum]] (ehemals [[Kosmologie/Elementarlords/Karim Al'Altheyran|Karim Al'Altheyran]])"
 lebendig: true
 publish: true
 ---
@@ -24,8 +24,8 @@ publish: true
 | **Volk** | [[Phaerie]] |
 | **Heimatstadt** | [[Die wilden Berge der Blitze]] |
 | **Alter** | 78 (in Menschenjahren ca. 16) |
-| **Berufung** | Priester des [[Lord von Zeit & Raum]], ehemals Dämonenjäger ([[Ichilineyan]]) |
-| **Gott** | [[Lord von Zeit & Raum]] (ehemals [[Kosmologie/Elementarlords/Karim Al'Altheyran\|Karim Al'Altheyran]]) |
+| **Berufung** | Priester des [[Lord von Zeit und Raum]], ehemals Dämonenjäger ([[Ichilineyan]]) |
+| **Gott** | [[Lord von Zeit und Raum]] (ehemals [[Kosmologie/Elementarlords/Karim Al'Altheyran\|Karim Al'Altheyran]]) |
 | **Vertrauter** | [[Donnerhall]] |
 | **Spieler** | Christoph |
 | **Kampagne** | [[Kampagnen/Team Synfathia/Team Synfathia\|Team Synfathia]] |
@@ -61,7 +61,7 @@ Fen besitzt die breite Allgemeinbildung seines Volkes und darüber hinaus tiefes
 - **Mag:** Gesellige Abende, die Stille seines Tempels genießen, Musik, mit den wilden Schwärmen seiner Heimat ziehen
 - **Mag nicht:** Dämonen (Yuliya ist die Ausnahme), Papierkram
 - **Leibspeise:** Gebratener Fisch und Fleisch mit viel scharfer Soße
-- **Größter Wunsch:** Seiner Rolle als Hohepriester gerecht werden, den Orden des [[Lord von Zeit & Raum]] neu aufbauen, seine Bestimmung erfüllen
+- **Größter Wunsch:** Seiner Rolle als Hohepriester gerecht werden, den Orden des [[Lord von Zeit und Raum]] neu aufbauen, seine Bestimmung erfüllen
 - **Größte Angst:** Eines Tages von einem Dämon besessen gegen die Ordnung der Welt zu arbeiten
 - **Moralischer Kompass:** Bestimmung und Weltordnung sind Fens Treibfeder. Die Ordensregeln bilden die Basis seines moralischen Kompasses.
 - **Fremden gegenüber:** Grundlegendes Misstrauen durch seine Ausbildung und den Krieg gegen die Dämonen. Kann Orks nicht leiden, da sie der Welt großen Schaden zugefügt haben.
@@ -86,7 +86,7 @@ Fen besitzt die breite Allgemeinbildung seines Volkes und darüber hinaus tiefes
 
 Fen ist, wie alle phaerianischen Kinder, behütet aufgewachsen. Früh schloss er sich den [[Ichilineyan]] (Dämonenjägern) an — es schien seine Bestimmung zu sein — und durchlief dort seine Ausbildung. Als Wunderkind galt er wegen seines extrem schnellen Lernens und seines herausragenden Instinkts für Spiegel- und Traumweben. Als Mitglied des Ordens war er automatisch Priester des [[Karim Al'Altheyran]], denn die Dämonenjagd ist eine besondere Aufgabe innerhalb Karims Priesterschaft. Die Ordensburg wurde seine Heimat, und auch von dort brach er früh auf.
 
-Im Laufe der Kampagne fand Fen Aufzeichnungen, die zeigten, dass er in einem früheren Leben ein hoher Priester des [[Lord von Zeit & Raum]] gewesen war. Da normalerweise keine Phaerie mit dem Element Zeit geboren werden, war diese Verbindung lange unsichtbar geblieben — er war bei den Ichilineyan "falsch einsortiert" worden. Der Wechsel war anfangs schleichend, dann kam ein klarer Moment der Erkenntnis. Nach Gesprächen mit seinen Ordensoberen und einem direkten Austausch mit Karim selbst wurde klar, dass Fen nicht dorthin gehört. Der Orden war anfangs nicht begeistert, aber Bestimmung ist für Phaerie ein starkes Argument — sie akzeptierten es. Fen verließ den Orden im Guten und kehrt immer noch gern dorthin zurück.
+Im Laufe der Kampagne fand Fen Aufzeichnungen, die zeigten, dass er in einem früheren Leben ein hoher Priester des [[Lord von Zeit und Raum]] gewesen war. Da normalerweise keine Phaerie mit dem Element Zeit geboren werden, war diese Verbindung lange unsichtbar geblieben — er war bei den Ichilineyan "falsch einsortiert" worden. Der Wechsel war anfangs schleichend, dann kam ein klarer Moment der Erkenntnis. Nach Gesprächen mit seinen Ordensoberen und einem direkten Austausch mit Karim selbst wurde klar, dass Fen nicht dorthin gehört. Der Orden war anfangs nicht begeistert, aber Bestimmung ist für Phaerie ein starkes Argument — sie akzeptierten es. Fen verließ den Orden im Guten und kehrt immer noch gern dorthin zurück.
 
 Fen steht damit vor einer gewaltigen Aufgabe: Der gesamte Orden und Glaube des Zeit-Lords ist durch das Welten-Reset verschwunden. Er möchte seiner Rolle als neuer — und alter — Hohepriester gerecht werden und tut alles dafür, diese Rolle zu erfüllen. Den Glauben und den Orden, der bei jeder Weltenverschiebung im Zentrum steht, muss er praktisch neu aufbauen.
 
@@ -119,7 +119,7 @@ Fen kehrt gerne sowohl zu seinen ehemaligen Ordensbrüdern als auch in seine Hei
 **Untalentiert in:** Handwerk
 
 **Ressourcen:**
-- Glaube (6) — enge Verbindung zum [[Lord von Zeit & Raum]]
+- Glaube (6) — enge Verbindung zum [[Lord von Zeit und Raum]]
 - Rang und Ansehen (4)
 
 ## Spezielle Fähigkeiten & Legendäre Ausrüstung
@@ -145,7 +145,7 @@ Phaerianisches Katana mit Blitz-Elementaraffinität. Fen bekam es zur allererste
 
 ## Glaube & Magie
 
-Fen war durch seine Zeit bei den [[Ichilineyan]] mit [[Karim Al'Altheyran]] und seinen Ordensbrüdern durch eine Weihe verbunden. Seit seinem Wechsel zum [[Lord von Zeit & Raum]] sucht er einen neuen Glaubensweg — der alte Orden des Zeit-Lords existiert nicht mehr, und Fen muss herausfinden was sein Priesteramt bedeutet und den Glauben neu aufbauen. Er respektiert die Elementarlords weiterhin. Magie ist für ihn Alltag — Magie ist überall.
+Fen war durch seine Zeit bei den [[Ichilineyan]] mit [[Karim Al'Altheyran]] und seinen Ordensbrüdern durch eine Weihe verbunden. Seit seinem Wechsel zum [[Lord von Zeit und Raum]] sucht er einen neuen Glaubensweg — der alte Orden des Zeit-Lords existiert nicht mehr, und Fen muss herausfinden was sein Priesteramt bedeutet und den Glauben neu aufbauen. Er respektiert die Elementarlords weiterhin. Magie ist für ihn Alltag — Magie ist überall.
 
 ## Kampfverhalten
 
@@ -181,7 +181,7 @@ Zu Beginn kannte Fen niemanden aus der Gruppe. Durch die gemeinsamen Abenteuer s
 
 ## Charakterentwicklung
 
-Der Wechsel vom Dämonenjäger zum Priester des [[Lord von Zeit & Raum]] ist der zentrale Wendepunkt in Fens bisheriger Geschichte. Am schlimmsten war die Zeit, als der [[Kosmologie/Weltenweber|Weltenweber]] in der Kampagne nicht präsent war und Fen gleichzeitig seinen Orden verloren hatte — er war bestimmungslos, und das war ein Gefühl das er nicht kannte.
+Der Wechsel vom Dämonenjäger zum Priester des [[Lord von Zeit und Raum]] ist der zentrale Wendepunkt in Fens bisheriger Geschichte. Am schlimmsten war die Zeit, als der [[Kosmologie/Weltenweber|Weltenweber]] in der Kampagne nicht präsent war und Fen gleichzeitig seinen Orden verloren hatte — er war bestimmungslos, und das war ein Gefühl das er nicht kannte.
 
 Seit der Weltenweber wieder da ist und der neue Tempel zumindest existiert, wird es besser. Fen ist nicht mehr bestimmungslos. Wenn seine Bestimmung noch klarer wird und er den neuen Orden aufbauen kann, wird es noch besser werden.
 
@@ -196,7 +196,7 @@ Seit der Weltenweber wieder da ist und der neue Tempel zumindest existiert, wird
 ## Notizen
 
 - 78 Jahre alt — für einen Phaerie noch relativ jung (entspricht ca. 16 Menschenjahren)
-- Ehemaliger Dämonenjäger, jetzt Priester und Hohepriester des [[Lord von Zeit & Raum]]
+- Ehemaliger Dämonenjäger, jetzt Priester und Hohepriester des [[Lord von Zeit und Raum]]
 - Wunderkind: extrem schnelles Lernen und herausragender Instinkt für Spiegel- und Traumweben
 - Koi-Tattoo am Hals — besondere Ehre vom [[Kosmologie/Weltenweber|Weltenschöpfer]] persönlich
 - Samayam neta erhielt er vor allen anderen Schülern, ohne zu hinterfragen woher

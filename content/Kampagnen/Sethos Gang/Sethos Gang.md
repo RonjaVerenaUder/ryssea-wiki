@@ -25,7 +25,7 @@ Das Reich wurde durch göttliche Intrigen destabilisiert:
 
 Der Gott [[Kaarsi]] manipuliert seit Jahrhunderten das Reich, indem er sich als Horus ausgibt. Sein Ziel: alle [[Landweber]] eliminieren, die göttliche Ordnung zerstören, das Reich ohne offenen Krieg übernehmen.
 
-Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch im Pantheon sitzt und auf Cheprehs Prophezeiung wartet.
+Einziger Lichtblick: [[Korellian]]/[[Korellian|Kore]] — der einzige alte Gott der noch im Pantheon sitzt und auf Cheprehs Prophezeiung wartet.
 
 ## Hausregeln und Besonderheiten
 
@@ -90,7 +90,7 @@ Einziger Lichtblick: [[Korellian]]/[[Kore]] — der einzige alte Gott der noch i
 - [[Horus]] / [[Anvarael]]
 - [[Chepreh]] / [[Rak'Shanvarion]]
 - [[Kaarsi]]
-- [[Korellian]] / [[Kore]]
+- [[Korellian]] / [[Korellian|Kore]]
 
 ## Spieltage
 

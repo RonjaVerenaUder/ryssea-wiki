@@ -69,7 +69,7 @@ Während [[Mes'Atemu]] noch bewusstlos dem Gegengift ausliefert, übernimmt [[Se
 ## Relevante Orte
 
 - [[Bech'Amet]] — strategisch wichtige Stadt; Schauplatz der Hauptschlacht; südliche Ebenen als Schlachtfeld
-- [[Barya'Aches]] — Herkunftsgebiet der Kaarsi-Armee
+- [[Baryia (Reich)|Barya'Aches]] — Herkunftsgebiet der Kaarsi-Armee
 
 ## Zentrale Informationen (Clues)
 

@@ -46,8 +46,8 @@ Steigt das Wesen durch Heilung wieder eine Stufe auf, entfällt der entsprechend
 
 ## Zusammenhang mit Zuständen
 
-- **[[Zustände#Verwundet|Verwundet [Stufe]]]** — zählt für den Wundabzug als um *Stufe* Gesundheitsstufen tiefer, **ohne** echten LeP-Verlust (reiner Schmerz-/Wundeffekt).
-- **[[Zustände#Sterbend|Sterbend [Stufe]]]** — frisst pro Intervall eine **ganze Gesundheitsstufe** an LeP; sind alle verbraucht, tritt der Tod ein.
+- **[[Zustände#Verwundet|Verwundet]] [Stufe]** — zählt für den Wundabzug als um *Stufe* Gesundheitsstufen tiefer, **ohne** echten LeP-Verlust (reiner Schmerz-/Wundeffekt).
+- **[[Zustände#Sterbend|Sterbend]] [Stufe]** — frisst pro Intervall eine **ganze Gesundheitsstufe** an LeP; sind alle verbraucht, tritt der Tod ein.
 - **[[Zustände#Bewusstlos|Bewusstlos]]** — die Folge der Gesundheitsstufe *Kampfunfähig*.
 
 ---

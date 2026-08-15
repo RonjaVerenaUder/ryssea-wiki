@@ -21,7 +21,7 @@ publish: true
 
 - [[Kaarsi]] — Drahtzieher, gibt sich als Horus aus
 - [[Horus]] / [[Anvarael]] — Der echte, versiegelte Gott
-- [[Korellian]] / [[Kore]] — Einziger alter Gott der die Wahrheit kennt
+- [[Korellian]] / [[Korellian|Kore]] — Einziger alter Gott der die Wahrheit kennt
 - [[Rehotep]] — Pharao der unbewusst gegen Kaarsis Einfluss arbeitet
 - Kaarsi-Priester — Agenten im ganzen Reich
 - [[Tamaklast]] — Von Kaarsi manipulierter Askasi-Schamane (Golem-Herz)

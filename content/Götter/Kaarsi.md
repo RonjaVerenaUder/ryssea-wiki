@@ -64,7 +64,7 @@ Operiert von Taskasia aus.
 > - [[Chepreh]] — Hat ihn durch Dissonanz-Nadel getötet (weiß nicht dass Chepreh überlebt hat — in drei Teilen)
 > - [[Anef]] — 12-jähriger Pharaonen-Prinz den er manipulierte und als Waffe einsetzte
 > - [[Rehotep]] — Aktueller Pharao, der ihm unbewusst im Weg steht (letzter Rest der alten Blutlinie, den Kaarsi ausgerottet glaubt)
-> - [[Korellian]] / [[Kore]] — Der einzige alte Gott im Pantheon der die Wahrheit kennt (Kaarsi weiß das vermutlich nicht)
+> - [[Korellian]] / [[Korellian|Kore]] — Der einzige alte Gott im Pantheon der die Wahrheit kennt (Kaarsi weiß das vermutlich nicht)
 
 > [!danger]- GM-Wissen: Geheimnisse
 > - Ist nicht der echte Horus — gibt sich nur als dieser aus
