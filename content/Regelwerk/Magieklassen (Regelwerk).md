@@ -15,6 +15,32 @@ Ausführliche Informationen zum Magiesystem findest du unter [[Magieregeln]].
 > [!abstract] Zauberei-Schwerpunkte
 > Alle Magieklassen teilen sich dieselben vier Schwerpunkte: **Effektwürfel**, **Kostensparen**, **Element** und **Modifikation**. Die klassenspezifischen **Komponenten** stehen bei jeder Klasse unten.
 
+## Was „Ziel: selbst“ bedeutet
+
+Fünf Klassen tragen unter ihrer Klassenfähigkeit die Zeile *Ziel: selbst*: **Adept**, **Geschossmeister**, **Kampfmagier**, **Schurke** und **Tierkrieger**.
+
+Die Zeile beschreibt die **Stärkungszauber** dieser Klassen — sie verzaubern damit sich selbst, nicht andere. Sie ist **keine Schranke für ihre übrige Magie**: Der Kampfmagier wirft seine Feuerbälle weiterhin auf den Gegner, der Schurke sichert weiterhin fremde Truhen, der Geschossmeister lädt weiterhin sein Geschoss.
+
+Woran man es erkennt: Vier dieser fünf Klassen führen **Sicht** unter ihren [[Magieregeln#Komponenten|Komponenten]]. Eine Sichtlinie braucht nur, wer auf etwas außerhalb seiner selbst wirkt.
+
+---
+
+## Wer welche Wesen ruft und bindet
+
+Sieben Klassen binden einen **Vertrauten**, und vier davon greifen auf dieselben Wesen zu. Das ist kein Zufall, sondern die Ordnung dieses Feldes: **Ein Generalist und drei Spezialisten.**
+
+| Klasse | Zugang | Wesen |
+|---|---|---|
+| **Beschwörer** | Ritual — Ritualkreis, Verhandlung, [[Einstellung]] | **ruft** Elementarwesen, Geister, Naturwesen **und Dämonen** · **bindet** die ersten drei |
+| **Elementarist** | Verbundenheit — kein Ritualkreis nötig | Elementarwesen **seines Elements** |
+| **Druide** | Verbundenheit — kein Ritualkreis nötig | Naturgeister seiner Umgebung |
+| **Schamane** | Verbundenheit — kein Ritualkreis nötig | Geister, über die Brücke zur [[Atlas/Traumebene|Traumebene]] |
+
+Der **Beschwörer** ist der Fremde, der um Dienste bittet: Er beherrscht die Breite, kennt Eitelkeiten und Besonderheiten und tritt jedem Wesen angemessen gegenüber — daher seine Einstellungs-Fähigkeit. Die drei **Spezialisten** kennen ihre Wesen, statt mit ihnen zu verhandeln; sie brauchen kein Ritual, dafür reicht ihr Zugang nur auf eine Sorte.
+
+> [!warning] Dämonen lassen sich rufen, aber nicht binden
+> Deshalb warnt die Beschwörer-Beschreibung vor dem **bösen Erwachen**, wenn die Kontrolle endet: Genau das geschieht, wenn jemand ruft, was er nicht halten kann. Dämonen sind Bewohner der [[Atlas/Traumebene|Traumebene]]; wer dauerhaft mit ihnen zu tun hat, ist der **Golembauer**, dessen Konstrukte ihnen eine Heimat geben können.
+
 
 ---
 
@@ -90,7 +116,7 @@ Mit einem Instrument in der Hand ist der Barde viel mehr als nur Unterhaltung. E
 
 Ob Elementarwesen, Dämon oder Naturgeister — der Beschwörer ist in der Lage, Geschöpfe aller Art zu rufen und Dienste verrichten zu lassen. Zwar braucht dies immer einiges an Vorbereitungszeit und Kraft des Beschwörers, doch dadurch hat er auch viele Möglichkeiten. Doch sollte man als Beschwörer auch vorsichtig sein und die gerufenen Wesen weise wählen, denn wenn die Kontrolle des Zaubers endet, hat es für den ein oder anderen schon ein böses Erwachen gegeben.
 
-**Klassenfähigkeit:** Der Beschwörer hat sich während seiner Ausbildung mit allen Arten von magischen Wesenheiten beschäftigt und so die Möglichkeit erlangt, Elementarwesen, Geister und Naturwesen als Vertraute an sich zu binden. Zusätzlich kann er mit allen vernunftbegabten Wesen dieser drei Kategorien magisch kommunizieren und kennt Eitelkeiten und Besonderheiten dieser, sodass er ihnen in jeder Situation angemessen gegenübertritt. Dies bewirkt, dass die Einstellung gegenüber dem Beschwörer immer um 1 Stufe verbessert ist.
+**Klassenfähigkeit:** Der Beschwörer hat sich während seiner Ausbildung mit allen Arten von magischen Wesenheiten beschäftigt und so die Möglichkeit erlangt, **Elementarwesen, Geister, Naturwesen und Dämonen zu rufen** — als **Vertraute binden** kann er jedoch nur die ersten drei. Dämonen gehorchen dem Ruf, aber keiner Bindung. Zusätzlich kann er mit allen vernunftbegabten Wesen dieser drei Kategorien magisch kommunizieren und kennt Eitelkeiten und Besonderheiten dieser, sodass er ihnen in jeder Situation angemessen gegenübertritt. Dies bewirkt, dass die Einstellung gegenüber dem Beschwörer immer um 1 Stufe verbessert ist.
 
 **Komponenten:** Hauptkomponente: Formel, Ritualkreis, Sicht, materielle Komponente
 
@@ -126,7 +152,7 @@ Schnell wachsende Wälder, sich wieder schließende Rankenhecken und plötzlich 
 
 Ein Elementarist spezialisiert sich auf eins der [[Die Elemente|10 Elemente]]. Er lernt in seiner Ausbildung eine große Vielfalt an Zaubern, die seinem Element zugeordnet sind. Elementaristen haben meist einen weisen Lehrmeister und fühlen sich ihrem Element verbunden. Besonders glücklich sind jene Elementaristen, deren Lehrmeister ein wahrhaftiges Elementarwesen ist, denn ihnen ist es vergönnt, eine tiefe Verbundenheit mit ihrem gelehrten Element zu erlernen.
 
-Im Gegensatz zu den anderen Klassen, die in gewisser Art themengebunden sind, ist der Elementarist elementgebunden und kann so Zauber themenübergreifend lernen. Zusätzlich kann nur er Elementarwesen seines Elements zur Hilfe rufen. Er ist auch als einziger in der Lage, ein Elementarwesen als Vertrauten an sich zu binden. Es ist möglich, diese Klasse für mehrere Elemente zu lernen.
+Im Gegensatz zu den anderen Klassen, die in gewisser Art themengebunden sind, ist der Elementarist elementgebunden und kann so Zauber themenübergreifend lernen. Zusätzlich ruft er Elementarwesen seines Elements zur Hilfe und bindet eines als Vertrauten — und zwar **aus Verbundenheit, ohne Ritualkreis**, anders als der [[Magieklassen (Regelwerk)#Beschwörer|Beschwörer]], der dasselbe über das Ritual erreicht. Es ist möglich, diese Klasse für mehrere Elemente zu lernen.
 
 Die wählbaren Elemente sind: **Licht**, **Feuer**, **Pflanze**, **Erde**, **Wasser**, **Schatten**, **Eis**, **Metall**, **Luft**, **Blitz**
 
@@ -184,7 +210,7 @@ Wichtig zu wissen ist allerdings, dass der Hexenmeister zwar oft negativ gesehen
 
 **Klassenfähigkeit:** Blut ist eine zentrale Komponente in der Zauberei der Hexenmeister. So sind sie in der Lage, Blut (LeP) von anderen Wesen zum Speisen von Zaubern zu nutzen (Umwandlung 2 LeP → 1 GLeP). Ebenso verstehen sie es, Blut von anderen zu nutzen, um Blutfetische zu erschaffen und ihre Zauber über große Distanzen auf ihre Ziele zu wirken.
 
-**Komponenten:** Formel, Geste, Hauptkomponente Blut, Sicht
+**Komponenten:** Formel, Geste, Hauptkomponente: Blut, Sicht
 
 ---
 
@@ -198,7 +224,7 @@ Wie der Name schon sagt, ist die Heimat dieser Magier der Kampf, und dafür sind
 
 *Ziel: selbst*
 
-**Komponenten:** Formel, Geste, Hauptkomponente Waffenfokus, Sicht
+**Komponenten:** Formel, Geste, Hauptkomponente: Waffenfokus, Sicht
 
 ---
 
@@ -222,7 +248,7 @@ Der Nekromant kann den Leibern der Toten zu neuem Leben verhelfen. Er kann Heers
 
 **Klassenfähigkeit:** Nur wenige befassen sich gerne mit dem Tod. Der Nekromant ist da anders — er ist als einziger in der Lage, Leichen (egal ob Mensch oder Tier) als Untote zu erheben oder sogar aus mehreren Untotenkreaturen und Leichenresten neue Körper zu erschaffen. Diese enge Verbindung mit den Toten ermöglicht ihm auch, eine Untote-KI zu erschaffen und als Vertrauten zu binden. Diese Untoten fungieren als Erweiterung des Charakters mit einem zusätzlichen Bogen und werden vom Spieler geführt. Sie enthalten einen Teil der Seele ihres Erschaffers und jeder Nekromant kann nur einen dieser KI-Untoten gleichzeitig erschaffen.
 
-**Komponenten:** Formel, Geste, Hauptkomponente Leiche, Ritualkreis
+**Komponenten:** Formel, Geste, Hauptkomponente: Leiche, Ritualkreis
 
 ---
 
@@ -234,7 +260,7 @@ Der Paladin ist im wahrsten Sinne des Wortes der Schild einer Gruppe. Er folgt i
 
 **Klassenfähigkeit:** Der Schutz ihrer Leute liegt in der Natur des Paladins fest verankert. Eine besondere Ausprägung davon ist die Möglichkeit, einen Gefährten während des Kampfes über 10 m Entfernung zu schützen: Er kann GLeP und Ticks aufwenden, um physische Angriffe auf diese Person zu blocken. Dabei nutzt er sein Magie-Talent zum Erwürfeln des Verteidigungswertes. Zusätzlich tragen Paladine meist schon seit ihrer Kindheit Rüstung, sodass sie von diesen weniger behindert werden als andere — die BE ist für Paladine um 1 Punkt verringert.
 
-**Komponenten:** Geste, Hauptkomponente Ordensfokus, Sicht
+**Komponenten:** Geste, Hauptkomponente: Ordensfokus, Sicht
 
 ---
 
@@ -273,6 +299,7 @@ Wenn Sterne auf der Erde in einer Gestalt aus reinem Sternenlicht funkeln, dann 
 **Klassenfähigkeit:** Die Zukunft liegt in den Sternen — so legt der Spieler sein Glück nicht in die Hände eines W10, sondern nutzt ein Tarotdeck zum Würfeln. Zusätzlich befinden sich Sonderkarten mit speziellen Fähigkeiten in diesem Deck, die beim Ziehen ausgelöst werden.
 
 **Komponenten:** Formel, Geste, Hauptkomponente: Tarotkarten
+
 
 ---
 
