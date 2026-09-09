@@ -15,7 +15,8 @@ Basierend auf dem ausgefüllten Fragebogen. Diese Fragen vertiefen Bereiche die 
 
 > [!info] Status: Durchgegangen (2026-06-02)
 > Alle Fragen mit Ronja durchgegangen und in [[Charaktere/Helden/Team Synfathia/Dana Lonnert]] eingearbeitet.
-> Noch offen (folgt später): Sechs Götter Fraysteinens, Weiße Gilde Details, Gilde & Reykon-Zusammenhang, Magie-Regulierung Fraystein, Rohal/Rohalsmal, Brunbauken (Name), Soziale Rolle in der Gruppe.
+> Noch offen (folgt später): Sechs Götter Fraysteinens, Weiße Gilde Details, Gilde & Reykon-Zusammenhang, Magie-Regulierung Fraystein, Brunbauken (Name), Soziale Rolle in der Gruppe.
+> Erledigt 2026-09-07: Das Mal heißt jetzt **Sevriansmal**, Auflösung in [[Kosmologie/Die Frage der Schöpfung|Die Frage der Schöpfung]].
 
 ---
 
@@ -30,8 +31,8 @@ Du sagst eine Tagesreise von deinem Heimatdorf. Hat sie einen Namen?
 **Wie war deine Ausbildung an der Akademie?**
 Du warst ab 9 dort. Wie war das — streng, fordernd, familiär? Wie viele Schüler gibt es? Was unterscheidet eine Kampfmagierin von anderen Magiern?
 
-**Was ist das Rohalsmal auf deiner Robe?**
-Ein Symbol, ein Wappen, etwas Magisches? Und wer oder was ist Rohal?
+**Was ist das Sevriansmal auf deiner Robe?** *(beantwortet)*
+Jahresbeste-Auszeichnung der Greifenakademie. Wer Sevrian war, ist in der Welt vergessen — siehe [[Kosmologie/Die Frage der Schöpfung|Die Frage der Schöpfung]].
 
 ---
 

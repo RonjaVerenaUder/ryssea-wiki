@@ -33,7 +33,7 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 - [[Seth]] — Gott auf Baryia
 - [[Bastet]] — Göttin der Heilung, des Schutzes und der Spionage. Heiliges Tier: Katze
 - [[Neraiyda]] — Göttin von [[Nerayan]]
-- [[Mikayrion]] — "Der Wächter", Partner von Neraiyda
+- [[Mikayrion]] — "Der Wächter", Partner von [[Neraiyda]]. Alter Feuerphaerie, einer der Obersten des [[Cheyannin]]-Ordens. Rufname **Micah**
 
 > [!danger]- GM-Wissen: Verborgene Götter Baryias
 > - [[Chepreh]] — Gott des Landes (ehem. [[Rak'Shanvarion]]) — von [[Kaarsi]] getötet, existiert in 3 Teilen gespalten weiter. In Baryia komplett vergessen.
@@ -42,6 +42,7 @@ Die [[Kosmologie/Elementarlords/Elementarlords|Elementarlords]] sind KEINE Gött
 
 ### Taskasia
 - [[Kaarsi]] — Blutgott der Taskasianer
+- [[Helara]] — Göttin mit Tempel in der Gorischen Wüste auf [[Sultannii]] (Platzhalter)
 
 ### Kyulie
 - [[Der Große Kyubie]] — Hauptgott der Kyulie (= [[Mikayrion]] unter anderem Namen), 9-schwänziger Feuerfuchs

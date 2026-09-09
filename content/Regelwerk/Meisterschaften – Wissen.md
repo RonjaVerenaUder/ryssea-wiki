@@ -10,7 +10,7 @@ Meisterschaften – Wissen
 
 Wissens-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
 
-*102 Meisterschaften.*
+*101 Meisterschaften.*
 
 > [!info] Sechs gelten für alle Wissenstalente
 > Wissenstalente tun im Kern dasselbe — etwas wissen. Sechs Meisterschaften gelten deshalb für **alle Wissenstalente** zugleich: *Aus dem Stegreif*, *Belesen*, *Begabter Gelehrter*, *Querdenker*, *Autorität* und *Koryphäe*. Die übrigen Einträge gehören einzelnen Talenten und bilden ab, was nur dieses Fach kann.
@@ -196,10 +196,6 @@ Die Spielleitung entscheidet, ob die Begründung trägt; auf Kampftalente lässt
 
 **Riss im Gefüge** · passiv · _Staatstheorie_
 Der Charakter erkennt, woran ein Gemeinwesen krankt. Er erhält einen Bonus in Höhe von 3 Punkten auf Proben, es zu destabilisieren — oder es zu stabilisieren.
-
-**Schneller Sammler** · passiv · _Botanik_
-Der Sammler arbeitet besonders zügig: Seine Proben zum Suchen von Kräutern, Zutaten und pflanzlicher Nahrung benötigen nur 1 Stunde statt der üblichen 3.
-Regelgleich mit dem Eintrag unter Pflanzen sammeln in [[Meisterschaften – Allgemein]].
 
 **Schwachstelle der Bestie** · passiv · _Zoologie_
 Hat der Charakter die Anatomie einer Tierart studiert, erhält er gegen sie einen Bonus in Höhe von 3 Punkten auf seine Angriffe.

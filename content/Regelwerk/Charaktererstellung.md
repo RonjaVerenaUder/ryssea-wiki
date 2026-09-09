@@ -33,7 +33,7 @@ Ganz am Anfang steht die Idee des Charakters. Was für ein Charakter soll es wer
 
 Deine Rasse bestimmt die grundlegenden Eigenschaften deines Charakters. Sie definiert auch, mit welchen [[Vorteile & Nachteile|Vorteilen und Nachteilen]] dein Charakter geboren wurde.
 
-In Ryssea sind standardmäßig folgende Rassen verfügbar: [[Dämonen]], [[Fey]], [[Goblins]], [[Haatias]], [[Kyulie]], [[Menschen]], [[Nord]], [[N'Shkani]], [[Orks]], [[Panthaura (Volk)|Panthaura]], [[Phaerie]], [[Redcaps]], [[Sharnai]], [[Tirn'un]], [[Trolle]], [[Zentauren]], [[Zwerge]].
+In Ryssea sind standardmäßig folgende Rassen verfügbar: [[Dämonen]], [[Fey]], [[Goblins]], [[Haatias]], [[Kyulie]], [[Menschen]], [[Nord]], [[N'Shkani]], [[Orks]], [[Panthaura (Volk)|Panthaura]], [[Phaerie]], [[Redcaps]], [[Sharnai]], [[Tirnûn|Tirn'un]], [[Trolle]], [[Zentauren]], [[Zwerge]].
 
 Falls diese Auswahl dir nicht reicht, sprich mit deiner Spielleitung — vielleicht passt deine Idee gut nach Ryssea.
 

@@ -62,7 +62,7 @@ Ausführlich mit Beispiel und Fortsetzung der Kette: [[Meisterschaften#Crit-Meis
 **Der Krug, mein Schild** · passiv · _Einhandtalente_
 Der Kämpfer zieht auch einen zerbrechlichen Gegenstand zur Aktiven Abwehr heran.
 
-**Gefährte im Kampf** · passiv · _Nahkampftalente außer Peitsche_
+**Gefährte im Kampf** · passiv · _Nahkampftalente_
 Unterstützt ein Tiergefährte seinen Tierführer oder umgekehrt nach den Regeln für [[Kampfregeln#Zusammenarbeit im Kampf|Zusammenarbeit im Kampf]], ist die Unterstützung um 3 Ticks schneller, und ein gelungener Angriff des Hauptangreifers richtet 1 Schadenspunkt mehr an. Die Zusammenarbeit ist in diesem Fall auch als Reaktion auf den Angriff des Hauptangreifers möglich — einmal, bis der Unterstützende wieder eine eigene Aktion ausgeführt hat.
 
 **Halten** · passiv · _Handgemenge_ · Voraussetzung: Umklammern

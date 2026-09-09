@@ -174,7 +174,7 @@ Die Ressource kann mehrfach erworben werden und gilt dann jeweils für einzelne 
 
 ### Mentor
 
-Viele Charaktere verfügen über einen Mentor, der sie in ihrem früheren Leben gefördert hat und weiterhin bereit ist, ihnen in kritischen Situationen mit Rat und Tat zur Seite zu stehen. Mentoren können ehemalige Lehrer, Ausbilder oder Vorgesetzte innerhalb einer Organisation sein, in vielen Fällen sind es die eigenen Eltern oder andere enge Verwandte. Sie können eine ähnliche Funktion erfüllen wie Kontakte, als Lehrmeister für seltene Kenntnisse dienen oder als Leumund für den Helden bürgen.
+Viele Charaktere verfügen über einen Mentor, der sie in ihrem früheren Leben gefördert hat und weiterhin bereit ist, ihnen in kritischen Situationen mit Rat und Tat zur Seite zu stehen. Mentoren können ehemalige Lehrer, Ausbilder oder Vorgesetzte innerhalb einer Organisation sein, in vielen Fällen sind es die eigenen Eltern oder andere enge Verwandte. Sie können eine ähnliche Funktion erfüllen wie Kontakte, als [[Steigerung#Lehrmeister|Lehrmeister]] für seltene Kenntnisse dienen oder als Leumund für den Helden bürgen.
 
 Der Mentor-Wert bestimmt über Mächtigkeit und Kompetenz des Mentors und über seine Bereitschaft, dem Charakter zu helfen. Ein Mentor sollte vom Spieler zumindest rudimentär ausgearbeitet werden und dient der Spielleitung häufig als wichtige Spielleitungsfigur.
 

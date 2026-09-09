@@ -557,7 +557,7 @@ Führt der Charakter einen Schild, kostet ihn eine Aktive Abwehr damit nur 3 Tic
 **Schneller Jäger** · passiv · _Jagdkunst_
 Der Jäger arbeitet besonders zügig: Seine Proben zur Suche nach tierischer Nahrung benötigen nur 1 Stunde statt der üblichen 3.
 
-**Schneller Sammler** · passiv · _Pflanzen sammeln_
+**Schneller Sammler** · passiv · _Pflanzen sammeln · Botanik_
 Der Sammler arbeitet besonders zügig: Seine Proben zum Suchen von Kräutern, Zutaten und pflanzlicher Nahrung benötigen nur 1 Stunde statt der üblichen 3.
 
 **Selbstopfer** · aktiv · _Zähigkeit_

@@ -17,6 +17,13 @@ Nachschlageteil: alle Vorteile mit GP-Kosten, Wählbarkeit und Kategorie. Das Sy
 >
 > **18 der 125 Vorteile haben noch keinen Regeltext** — sie sind unten jeweils mit einem eingeklappten Hinweis gekennzeichnet. Acht davon stehen zudem ohne GP-Kosten (`? GP`). Die vollständige Aufstellung samt dem, was jeweils fehlt, steht im Parkplatz von [[Meta/Aufgaben]].
 
+> [!abstract] Gaben sind eine Sorte für sich
+> **19 Vorteile tragen im Kopf das Wort *Gabe*** — und alle kosten **12 GP**. Sie sind keine gewöhnlichen Vorteile, sondern **tragen einen eigenen Wert** und werden wie Talente gesteigert (siehe [[Steigerung#Gaben|Steigerung]]). Die 12 GP kaufen den Zugang, die Abenteuerpunkte das Können.
+>
+> Sie haben deshalb als einzige Vorteile **eigene Meisterschaften**: [[Meisterschaften – Gaben]].
+>
+> *Auflösen · Bergespür · Drachenauge · Einschüchterndes Gebrüll · Farbwandel · Galopp · Gefahreninstinkt · Glamour · Gottkind · Heilsames Schnurren · Kaheryt · Landweben · Prophezeien · Seelenform · Spiegelweben · Sprachenweber · Tierempathie · Traumfresser · Traumweben*
+
 ---
 
 **Affinität zu Elementarwesen** · 5 GP · frei wählbar · _Elementarwesen_

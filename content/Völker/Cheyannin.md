@@ -24,6 +24,16 @@ Spezialisiert auf Schutz und Verteidigung — die genauen magischen Fähigkeiten
 ## Bekannte Cheyannin
 
 - [[Anvarael]] / [[Horus]] — Beschützer der Pharaonenfamilie von Baryia
+- [[Mikayrion]] / [[Der Große Kyubie]] — **einer der Obersten des Ordens**, ein alter Feuerphaerie. Beschützt [[Nerayan]] an der Seite von [[Neraiyda]] und ist Wächtergott von Aristea
+
+> [!important] Cheyannin werden zu Göttern
+> **Beide bekannten Cheyannin werden als Götter verehrt** — [[Anvarael]] als [[Horus]], [[Mikayrion]] als „der Wächter" und als [[Der Große Kyubie]].
+>
+> Das ist vermutlich kein Zufall: Wer Jahrhunderte lang ein Reich oder eine Familie beschützt, wird irgendwann angebetet. Der Orden produziert Götter, weil sein Auftrag genau das ist, was Menschen an Göttern suchen.
+>
+> Beachte die [[Kosmologie/Kosmologie von Ryssea|Schöpfungshierarchie]]: Phaerie stehen eigentlich **über** den Göttern. Cheyannin-Götter sind also keine gewöhnlichen Götter, sondern Phaerie, die verehrt werden.
+
+<!-- TODO: Gibt es weitere Cheyannin, die zu Göttern wurden? Ist das die Regel oder die Ausnahme? -->
 
 ## Notizen
 

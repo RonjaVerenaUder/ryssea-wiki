@@ -25,7 +25,7 @@ publish: true
 > **Offene Fragen:**
 > - Ein Aspekt des Zwielichts selbst?
 > - Eine kosmische Kraft die existiert um Welten zu "recyceln"?
-> - Ein gefallener/verdorbener [[Kosmologie/Der Weltenweber|Weltenweber]]?
+> - Ein gefallener/verdorbener [[Kosmologie/Weltenweber|Weltenweber]]?
 > - Etwas das zwischen den Iterationen lebt und zurückkehrt?
 >
 > **Sichtbare Effekte:**

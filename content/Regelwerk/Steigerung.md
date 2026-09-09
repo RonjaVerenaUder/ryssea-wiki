@@ -65,6 +65,16 @@ Abgeleitete Werte (wie geistige Lebenspunkte, Lebenspunkte, Initiative, Resisten
 
 Je weiterer Heldenstufe steigt der erreichbare Talentwert um **3** und der Preis je Punkt um **2 AP**. Der Höchstwert richtet sich dabei stets nach der Heldenstufe (siehe [[Steigerung#Maximale Talentpunkte|Maximale Talentpunkte]]).
 
+### Gaben
+
+**[[Vorteile|Gaben]] tragen einen eigenen Wert** und werden **wie Talente** gesteigert — dieselben Kostenbänder, derselbe Höchstwert je Heldenstufe.
+
+Die **12 GP** einer Gabe kaufen den **Zugang**: dass der Charakter sie überhaupt hat. Was er damit kann, wächst danach über **Abenteuerpunkte** wie jedes Talent. Eine frisch erworbene Gabe steht bei **0**.
+
+Das ist keine Feinheit, sondern der Grund, warum Gaben überhaupt besser werden können: Ihre Proben laufen auf drei [[Eigenschaften]], und ohne eigenen Wert bestünde ihr Grundwert **allein** aus dem Eigenschaftsanteil — eine Gabe wäre ein Leben lang so gut wie am ersten Tag.
+
+Auf ihre **Meisterschaften** ([[Meisterschaften – Gaben]]) gelten die gewöhnlichen **vier Schwellen** bei Wert 9, 12, 15 und 18.
+
 ### Sprachen & Schwerpunkte
 
 | | Sprachen | Schwerpunkt |
@@ -88,7 +98,7 @@ Für **Magie- und Priestertalente** setzt sich die Reihe nach demselben Muster f
 | **Kosten** | 25 AP | 30 AP | 35 AP |
 
 > [!info] Warum nur die Magie sieben Stufen hat
-> Die Zauberei kennt lange Meisterschaftsketten, die eine Fähigkeit über mehrere Stufen ausbauen — *Effektwürfel*, *Komponente weglassen*, *Zauber verkürzen*. Sie in vier Schwellen zu pressen würde ihre letzten Glieder erdrücken. Alle übrigen Talentkategorien bleiben bei **vier** Schwellen.
+> Die Zauberei kennt lange Meisterschaftsketten, die eine Fähigkeit über mehrere Stufen ausbauen — *Effektwürfel*, *Komponente weglassen*, *Zauber verkürzen*. Sie in vier Schwellen zu pressen würde ihre letzten Glieder erdrücken. Alle übrigen Kategorien bleiben bei **vier** Schwellen — auch die **Gaben**, die zwar keine Talente sind, aber einen Wert nach demselben Muster tragen.
 
 ### Zauber
 
@@ -192,6 +202,8 @@ Viele Personen benötigen kundige Lehrer, um sich neues Wissen und neue Talente 
 
 > [!info] Optional
 > Die folgenden Angaben sind Faustregeln. Die Entscheidung liegt im Konsens der Gruppe und ist als vollkommen optional zu verstehen.
+
+Wer die Ressource **[[Ressourcen#Mentor|Mentor]]** besitzt, bringt seinen Lehrmeister schon mit: Ein Mentor ist ausdrücklich jemand, der „als Lehrmeister für seltene Kenntnisse dienen" kann. Ob er für eine bestimmte Steigerung der Richtige ist, entscheidet die Spielleitung.
 
 **[[Eigenschaften]]:** Können innerhalb der Grenzen des Heldenlevels ohne Lehrmeister beliebig gesteigert werden.
 

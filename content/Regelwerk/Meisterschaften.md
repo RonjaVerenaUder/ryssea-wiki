@@ -19,6 +19,8 @@ Manche Meisterschaften tragen ein Schlagwort, auf das sich andere Meisterschafte
 
 **Aufmunterung** — Die Meisterschaft hebt einem Gefährten die Stimmung. Eine Aufmunterung richtet sich stets an **eine** Person in Hörweite; Meisterschaften wie *Gruppenmaskottchen* erweitern diesen Kreis.
 
+**Modifikation** — Die Meisterschaft verändert die **Zauberparameter beim Konstruieren** (siehe [[Magieregeln#Zauberparameter|Zauberparameter]]) — Ausführungsdauer, Komponenten oder Komplexität. Sie wird beim Aufbau des Zaubers angesagt, nicht nachträglich. Alle Modifikationen stehen in [[Meisterschaften – Zauberei]].
+
 **Paarkampf** — Die Meisterschaft lässt **Tierführer und Tiergefährte einander im Kampf unterstützen**. Eine Paarkampf-Unterstützung ist stets eine Reaktion und richtet sich auf den Angriff des jeweils anderen; sie steht erst wieder zur Verfügung, wenn der Unterstützende eine eigene Aktion ausgeführt hat. Dazu zählen *Gefährte im Kampf*, *Verbesserter Gefährte im Kampf* und die Kette *Schwert und Pranke I/II*.
 
 ## Vollendete Meisterschaft
@@ -31,19 +33,19 @@ Jede Talentkategorie kennt auf ihrer **höchsten Schwelle** eine Krönung: diese
 | Kampftalente | **Kampfmeister** |
 | Wissenstalente | **Koryphäe** |
 | Handwerkstalente | **Altmeister** |
-| Magie- und Priestertalente | *noch offen* |
+| Magie- und Priestertalente | **Erzmagier** |
 
 Die Namen unterscheiden sich, die Regel nicht. Wird sie einmal geändert, muss sie in allen Einträgen geändert werden.
 
 ## Vollständige Listen nach Kategorie
 
 - [[Meisterschaften – Allgemein]] — 252 Meisterschaften
-- [[Meisterschaften – Handwerk]] — 120 Meisterschaften
+- [[Meisterschaften – Handwerk]] — 117 Meisterschaften
 - [[Meisterschaften – Kampf]] — 87 Meisterschaften
-- [[Meisterschaften – Wissen]] — 102 Meisterschaften
-- [[Meisterschaften – Zauberei]] — 21 Meisterschaften *(Entwurf: Werte erstmals beziffert)*
+- [[Meisterschaften – Wissen]] — 101 Meisterschaften
+- [[Meisterschaften – Zauberei]] — 271 Meisterschaften
 
-Damit sind alle fünf Kategorien kanonisiert — zusammen **582 Meisterschaften**.
+Damit sind alle fünf Kategorien kanonisiert — zusammen **828 Meisterschaften**. *Schneller Sammler* gehört dabei zwei Talenten zugleich (*Pflanzen sammeln · Botanik*) und wird nur einmal gezählt; im [[Meisterschaften – Talentregister|Talentregister]] erscheint er unter beiden.
 
 ## Nach Talent nachschlagen
 

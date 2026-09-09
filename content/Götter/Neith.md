@@ -14,7 +14,8 @@ Göttin auf [[Atlas/Baryia/Baryia (Splitter)|Baryia]], der die Familie von [[Nei
 |              |                                                                  |
 | ------------ | ---------------------------------------------------------------- |
 | **Splitter** | [[Atlas/Baryia/Baryia (Splitter)\|Baryia]]                       |
-| **Aspekte**  | Wasser, Eis, Schutz, Jagd, Landweben                             |
+| **Aspekte**  | Wasser, Eis, Schutz (inkl. Hüten/Totenkult), Landweben          |
+| **Wesen**    | Schutzgöttin, keine Kampfgöttin — ihre Geweihten führen den Kampf für sie |
 
 ## Hintergrund
 
@@ -23,6 +24,14 @@ War [[Landweber|Landweberin]] und Schülerin von [[Chepreh]] an der Landweber-Ak
 Nach dem Streit zwischen Horus- und Neith-Geweihtenschaft wurde der Glaube an Neith verboten — ihre Tempel für verflucht erklärt. Die Hüterfamilie ([[Neitha|Neithas]] Familie) hat seit Generationen auf Rückgewinnung gewartet.
 
 Bekannt als Schutzgöttin der Pharaonenfamilie. War nach Familienüberlieferung mit [[Seth]] befreundet.
+
+## Wesen: Schutzgöttin, keine Kampfgöttin
+
+Neith ist eine **bewahrende, defensive Gottheit** — ihre Domänen sind Schutz, Wasser und Eis sowie das [[Landweber|Landweben]]. Sie erobert nicht und führt keinen Krieg. Als Landweberin bringt sie sich (wie alle Landweber) bewusst *nicht* physisch in Gefahr: Landweber sind zu wertvoll und zu verletzlich, um an vorderster Front zu stehen.
+
+Der **Schutzaspekt** ist umfassend gedacht — er schließt das *Hüten* des Anvertrauten ein: Grenzen, Schwellen und die Toten. Von hier stammt Neiths Facette im **Totenkult** (Bewahrung und Bewachung der Verstorbenen), die aber dem Schutzgedanken untergeordnet ist, nicht einem eigenen Kriegs- oder Jagdaspekt.
+
+**Die Rolle der Geweihten:** Weil Neith selbst nicht kämpft, übernehmen ihre Anhänger den Schutz und den Kampf *für* sie. Eine Geweihte wie [[Neitha]] ist damit nicht die Kriegerin einer Kriegsgöttin, sondern **die Waffe einer Göttin, die selbst keine führt** — der Schutzgedanke wird durch die Geweihten in aktive Verteidigung übersetzt. Das prägt auch die [[Geweihte Glefe der Neith|geweihte Glefe]]: eine Schutz- und Bewahrer-Waffe (abweisendes Wasser/Eis, bindend-hüllendes Landweben), kein Werkzeug der Eroberung.
 
 ## Bekannte Anhänger
 

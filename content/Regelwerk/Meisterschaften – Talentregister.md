@@ -715,11 +715,11 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 ### Alchemie
 
-*14 Meisterschaften* · [[Meisterschaften – Handwerk]]
+*13 Meisterschaften* · [[Meisterschaften – Handwerk]]
 
 **Schwelle 1** — Der richtige Griff · Effizienz · Kräuterarznei
 
-**Schwelle 2** — Begabter Alchemist · Begabter Handwerker · Harmonisierte Alchemie · Sparsam
+**Schwelle 2** — Begabter Handwerker · Harmonisierte Alchemie · Sparsam
 
 **Schwelle 3** — Abhärtung durch Gewöhnung · Kräutersud · Signatur
 
@@ -1053,11 +1053,11 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 ### Medicus
 
-*19 Meisterschaften* · [[Meisterschaften – Handwerk]]
+*18 Meisterschaften* · [[Meisterschaften – Handwerk]]
 
 **Schwelle 1** — Der richtige Griff · Effizienz · Felddiagnose · Heilungsgeschick · Lebensretter
 
-**Schwelle 2** — Arzneikunde · Begabter Handwerker · Begabter Heiler · Harmonisierte Heilkunde · Heilung fördern · Sparsam · Tierarzt
+**Schwelle 2** — Arzneikunde · Begabter Handwerker · Harmonisierte Heilkunde · Heilung fördern · Sparsam · Tierarzt
 
 **Schwelle 3** — Signatur · Spezialist für alle Wesen · Wundarzt
 
@@ -1092,11 +1092,11 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 ### Schifffahrt
 
-*19 Meisterschaften* · [[Meisterschaften – Handwerk]]
+*18 Meisterschaften* · [[Meisterschaften – Handwerk]]
 
 **Schwelle 1** — Beine des Seemanns · Blick auf die Sterne · Der richtige Griff · Effizienz · Seebär · Wellenleser
 
-**Schwelle 2** — Begabter Handwerker · Begabter Seemann · Kosar · Sicher durch den Sturm · Sparsam
+**Schwelle 2** — Begabter Handwerker · Kosar · Sicher durch den Sturm · Sparsam
 
 **Schwelle 3** — Held der Meere · Kapitän der verfaulten Nussschale · Meine Karte ist das Firmament · Signatur
 
@@ -1499,9 +1499,9 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 ### Peitsche
 
-*29 Meisterschaften* · [[Meisterschaften – Kampf]]
+*30 Meisterschaften* · [[Meisterschaften – Kampf]]
 
-**Schwelle 1** — Abdrängen · Crit-Meister · Der Krug, mein Schild · Harter Stil · Improvisation · Improvisierte Parierwaffe · Kampf mit zwei Waffen · Rückzugsgefecht · Schild umschlagen · Schild und Pranke · Schwert und Pranke I · Umklammern · Umreißen · Verteidiger · Verwirrung · Weicher Stil
+**Schwelle 1** — Abdrängen · Crit-Meister · Der Krug, mein Schild · Gefährte im Kampf · Harter Stil · Improvisation · Improvisierte Parierwaffe · Kampf mit zwei Waffen · Rückzugsgefecht · Schild umschlagen · Schild und Pranke · Schwert und Pranke I · Umklammern · Umreißen · Verteidiger · Verwirrung · Weicher Stil
 
 **Schwelle 2** — Beidhändige Abwehr · Beidhändiger Angriff · Entwaffnen · Geduldiger Gefährte · Schwert und Pranke II · Verbesserter Crit-Meister · Verbesserter Gefährte im Kampf
 
@@ -1568,21 +1568,304 @@ Nachschlagehilfe für die Charaktererstellung: Welche Meisterschaften stehen ein
 
 Kopfzeilen, die auf eine Gruppe zielen statt auf ein einzelnes Talent. Die Waffengruppen sind in [[Meisterschaften – Kampf#Waffengruppen|Meisterschaften – Kampf]] definiert; *alle Magieklassen* meint die Klassen aus [[Magieklassen (Regelwerk)|Magieklassen]] und bleibt so lange ungeteilt, bis [[Talente]] die Magie- und Priestertalente führt.
 
+### Adept
+
+*5 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Gefasstes Gefüge · Verschmolzener Schlag
+
+**Schwelle 3** — Vollendeter Schlag · Wirkung im Schlag
+
+**Schwelle 4** — Zwei Wege, ein Griff
+
+
+### Akademiemagier
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Auswendige Formeln · Feldforschung · Formelblick · Signatur lesen
+
+**Schwelle 3** — Arkane Spurensuche · Doppelte Herleitung · Zerlegte Matrix · Zweite Schule
+
+**Schwelle 4** — Enzyklopädisches Gedächtnis · Handschrift des Meisters
+
+
+### Alchemist
+
+*11 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Doppelter Ansatz · Fremde Zunge · Griffbereit · Wurfphiole · Zungenprobe
+
+**Schwelle 3** — Bodensatz · Nachgebraut · Notfallphiole · Rezeptkunst
+
+**Schwelle 4** — Gegenrezept · Zwei Wirkungen in einer Phiole
+
+
 ### alle Magieklassen
 
-*21 Meisterschaften* · [[Meisterschaften – Zauberei]]
+*25 Meisterschaften* · [[Meisterschaften – Zauberei]]
 
 **Schwelle 1** — Effektwürfel I · Komponente weglassen I
 
-**Schwelle 2** — Effektwürfel II · Hauptkomponente weglassen I · Routinierter Zauberer I · Zauber verkürzen I · Zauberaffinitätskontrolle I · Zauberkomplexität verringern
+**Schwelle 2** — Effektwürfel II · Hauptkomponente weglassen I · Routinierter Zauberer I · Weiterer Sinn · Zauber verkürzen I · Zauberaffinitätskontrolle I · Zauberkomplexität verringern
 
 **Schwelle 3** — Effektwürfel III · Komponente weglassen II
 
-**Schwelle 4** — Effektwürfel IV · Hauptkomponente weglassen II · Routinierter Zauberer II · Zauberaffinitätskontrolle II
+**Schwelle 4** — Effektwürfel IV · Getäuschte Magiesicht · Hauptkomponente weglassen II · Routinierter Zauberer II · Zauberaffinitätskontrolle II
 
 **Schwelle 5** — Effektwürfel V · Komponente weglassen III · Zauber verkürzen II
 
-**Schwelle 6** — Hauptkomponente weglassen III · Routinierter Zauberer III · Zauberaffinitätskontrolle III
+**Schwelle 6** — Hauptkomponente weglassen III · Nahtloser Trug · Routinierter Zauberer III · Zauberaffinitätskontrolle III
 
-**Schwelle 7** — Zauber verkürzen III
+**Schwelle 7** — Erzmagier · Zauber verkürzen III
+
+
+### Antimagier
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Fallenblick · Günstiger Kurs · Handschrift lesen
+
+**Schwelle 3** — Blanke Analyse · Durchschaute Illusion · Erzwungene Formel · Gegenspruch aus dem Stand · Zerlegtes Gefüge
+
+**Schwelle 4** — Formel und Geste zugleich · Kein Schleier hält
+
+
+### Barde
+
+*15 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Stimme statt Instrument
+
+**Schwelle 2** — Anhaltender Klang · Ein Lied für viele · Schmeichelnde Weise · Weittragender Vers
+
+**Schwelle 3** — Bannender Vortrag · Betörende Kadenz · Ganz im Klang · Kein Ohr nötig · Ruf über das Feld · Verhallende Melodie
+
+**Schwelle 4** — Ewiger Nachhall · Schlachtgesang · Unerschöpfliches Repertoire · Wille im Klang
+
+
+### Beschwörer
+
+*9 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Angemessenes Auftreten · Kreis aus dem Stegreif · Wesenskunde
+
+**Schwelle 3** — Feste Fesseln · Sprache der Wesen · Vertrauter Umgang · Zwiefache Beschwörung
+
+**Schwelle 4** — Dauerhafter Pakt · Gebieter
+
+
+### Bestienmeister
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Rascher Ruf · Weiter Nebel · Zunge der Tiere
+
+**Schwelle 3** — Herrisches Wort · Nicht nur Tiere · Tiefer Nebel · Zwei aus dem Nebel
+
+**Schwelle 4** — Arche im Zwielicht · Der Nebel gibt zurück · Zweiter Ritualgegenstand
+
+
+### Druide
+
+*14 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Natürliche Heilung · Ortsgeist · Reine Gabe · Ruf der Wildnis · Vertraute Umwelt
+
+**Schwelle 3** — Bund der Wildnis · Funke genügt · Kraft des lebendigen Landes · Tiefe Wurzeln · Wuchernde Ranken · Zweiter Vertrauter
+
+**Schwelle 4** — Die Umwelt gehorcht · Eins mit dem Land · Stimme des Landes
+
+
+### Elementarist
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Elementarer Ruf · Elementsicht · Gegenpol · Tiefe Vertrautheit
+
+**Schwelle 3** — Elementarbund · Elementarer Einklang · Gegenströmung
+
+**Schwelle 4** — Beide Seiten des Prismas · Der Fokus im Blut · Wesen des Elements
+
+
+### Geschossmeister
+
+*11 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Eingeflochtene Geste · Gezeichneter Pfeil · Markierendes Geschoss · Ruhiger Atem
+
+**Schwelle 3** — Auge am Pfeil · Geladener Schuss · Gestellte Schneise · Vollendeter Schuss · Wirkung im Schuss
+
+**Schwelle 4** — Verstärktes Geschoss · Wachsames Feld
+
+
+### Golembauer
+
+*9 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Herz aus Seelenschatten · Kleiner Fokus · Zweckbau
+
+**Schwelle 3** — Aus der Ferne geführt · Wirt für Wesen · Zwei Seelen
+
+**Schwelle 4** — Dämonenwirt · Selbstläufer · Unversehrte Seele
+
+
+### Heiler
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Aderlass · Beides gelernt · Ferndiagnose
+
+**Schwelle 3** — Seelenwunden · Selbstlose Kraft · Triage · Wache Nacht
+
+**Schwelle 4** — Durch Rauch und Dunkel · Genommen und gegeben · Wider den Tod
+
+
+### Hexenmeister
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Blutzoll · Ferne Hand · Frisches Blut
+
+**Schwelle 3** — Blick durch das Blut · Rote Ernte · Vielfache Fetische · Weitender Fluch
+
+**Schwelle 4** — Aus jeder Wunde · Dorfbann · Unlöschbar
+
+
+### Kampfmagier
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Gepanzert gewirkt · Kraft im Spruch · Schild für die Linie · Waffe und Fokus
+
+**Schwelle 3** — Feuer aus der zweiten Reihe · Ganz aus Kraft · Vorgehaltener Schild
+
+**Schwelle 4** — Beidhändig gewirkt · Unverrückbare Linie · Wucht und Wille
+
+
+### Mesmer
+
+*13 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Eine Handbewegung
+
+**Schwelle 2** — Aus dem Gedächtnis · Dichter Trug · Vertrautes Handwerk · Zerbrochenes Bild
+
+**Schwelle 3** — Weites Zerbersten · Zerbrich, was durchschaut ist · Zersprungener Verstand
+
+**Schwelle 4** — Blind gewirkt · Erfundene Vorlage · Zerbrochener Mut
+
+**Schwelle 5** — Kettenschlag · Vollendeter Trug
+
+
+### Nekromant
+
+*11 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Gefolge der Toten · Knochen genügt · Leichenschneider · Letzte Worte
+
+**Schwelle 3** — Geteilte Seele · Letzter Dienst · Neue Gestalt · Stille Legion
+
+**Schwelle 4** — Heerbann · Ungetüm · Unversehrte Seele
+
+
+### Paladin
+
+*10 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Geübter Block · Herausforderung · Weiter Schild · Zeichen des Ordens
+
+**Schwelle 3** — Fels in der Brandung · Schild für viele · Zorn auf mich
+
+**Schwelle 4** — Prinzipientreu · Unbrechbarer Wall · Unübersehbar
+
+
+### Schamane
+
+*12 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Knochenwurf
+
+**Schwelle 2** — Geisterblick · Rat der Ahnen · Traumbote · Vertraute Stimmen
+
+**Schwelle 3** — Ferner Schlaf · Gerufenes Zeichen · Letztes Geleit · Zweiter Geist
+
+**Schwelle 4** — Heimschickung
+
+**Schwelle 6** — Eindeutiges Zeichen
+
+**Schwelle 7** — Schwellengänger
+
+
+### Schurke
+
+*12 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Dietrich aus Magie
+
+**Schwelle 2** — Blindes Werk · Kalte Spur · Zweite Haut · Überzeugendes Etwas
+
+**Schwelle 3** — Das Schloss erzählt · Durch das Schlüsselloch · Gesicherter Verschluss · Verhüllter Beutel
+
+**Schwelle 4** — Stiller Wächter · Tiefe Verhüllung
+
+**Schwelle 5** — Verhüllte Gefährten
+
+
+### Tierkrieger
+
+*12 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Rat der Totems
+
+**Schwelle 2** — Eingefahren · Geteilte Sinne · Weiteres Totem · Würdig befunden
+
+**Schwelle 3** — Gestalt nach Wahl · Rascher Wechsel · Tiefer eingefahren · Vielstimmige Gattung
+
+**Schwelle 4** — Der Aufmerksamkeit wert · Zeichen im Fleisch · Zwei Geister zugleich
+
+
+### Verwandler
+
+*11 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 2** — Anatomien im Kopf · Verborgenes Siegel · Weites Siegel
+
+**Schwelle 3** — Aufgenommene Gestalt · Fernes Siegel · Verliehenes Merkmal · Vielsiegler · Zähes Siegel
+
+**Schwelle 4** — Siegel im Fleisch
+
+**Schwelle 5** — Siegel über die Ferne
+
+**Schwelle 7** — Gewandeltes Selbstbild
+
+
+### Verzauberer
+
+*8 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Werk gelesen
+
+**Schwelle 2** — Fremder Fokus · Rollenschreiber
+
+**Schwelle 3** — Ersatzfokus · Fetisch für fremde Hand · Fremde Feder · Sauberer Bau
+
+**Schwelle 4** — Werk ohne Meister
+
+
+### Zauberzirkel
+
+*13 Meisterschaften* · [[Meisterschaften – Zauberei]]
+
+**Schwelle 1** — Eingespielt
+
+**Schwelle 2** — Ausgeglichene Pole · Fester Sprecher · Geteilte Last · Stimme im Kreis I
+
+**Schwelle 3** — Getragener Kreis · Prisma · Stimme im Kreis II · Weiter Kreis
+
+**Schwelle 4** — Über den eigenen Rang
+
+**Schwelle 5** — Stimme im Kreis III · Zwei Kreise
+
+**Schwelle 6** — Zwielichtkreis
 

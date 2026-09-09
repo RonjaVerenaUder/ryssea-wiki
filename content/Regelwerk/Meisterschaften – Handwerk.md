@@ -10,7 +10,7 @@ Meisterschaften – Handwerk
 
 Handwerks-Meisterschaften, gruppiert nach [[Talente#Meisterschaften|Schwelle]]. Zurück zur [[Meisterschaften|Übersicht]]. Nach Talent nachschlagen: [[Meisterschaften – Talentregister|Talentregister]].
 
-*120 Meisterschaften.*
+*117 Meisterschaften.*
 
 > [!info] Acht gelten für alle Handwerkstalente
 > *Der richtige Griff*, *Effizienz*, *Begabter Handwerker*, *Sparsam*, *Signatur*, *Altmeister*, *Die Hände des Meisters* und *Meisterwerk* gelten für **alle Handwerkstalente** zugleich. Die übrigen Einträge gehören einzelnen Talenten und bilden ab, was nur dieses Handwerk kann.
@@ -179,17 +179,9 @@ Werden Kräuter oder Alchemika zur Heilung eingesetzt, heilt der Patient 3 Schad
 **Auf den Schützen gebaut** · aktiv · _Holzwaffenbau_
 Der Handwerker fertigt eine Fernkampfwaffe für einen bestimmten Schützen. Dieser erhält damit einen Bonus in Höhe von 1 Punkt auf Angriffe; jeder andere erleidet einen Malus in Höhe von 2 Punkten.
 
-**Begabter Alchemist** · aktiv · _Alchemie_
-Der Alchemist darf einen Schicksalspunkt nachträglich einsetzen, um für die aktuelle Alchemie-Probe einen Bonus in Höhe seiner Logik zu erhalten.
-
 **Begabter Handwerker** · aktiv · _alle Handwerkstalente_
-Der Handwerker darf einen Schicksalspunkt nachträglich einsetzen, um für die aktuelle Probe auf dieses Handwerkstalent einen Bonus in Höhe seiner Fingerfertigkeit zu erhalten.
-
-**Begabter Heiler** · aktiv · _Medicus_
-Der Heiler darf einen Schicksalspunkt nachträglich einsetzen, um für die aktuelle Medicus-Probe einen Bonus in Höhe seiner Logik zu erhalten.
-
-**Begabter Seemann** · aktiv · _Schifffahrt_
-Der Charakter darf einen Schicksalspunkt nachträglich einsetzen, um für die aktuelle Schifffahrt-Probe einen Bonus in Höhe seiner Konstitution zu erhalten.
+Der Handwerker darf einen [[Schicksalspunkte|Schicksalspunkt]] nachträglich einsetzen, um für die aktuelle Probe einen Bonus in Höhe **einer Eigenschaft des genutzten Talents** zu erhalten. Welche das ist, legt er beim Erwerb fest.
+Mehrfach wählbar — jedes Mal für ein neues Handwerkstalent.
 
 **Bewegliches Werk** · aktiv · _Schnitzerei_
 Der Handwerker schnitzt Gelenke, Scharniere und einfache Mechanismen aus Holz, die dauerhaft halten.

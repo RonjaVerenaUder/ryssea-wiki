@@ -165,7 +165,7 @@ Kämpft nicht direkt. Heilt, unterstützt, schafft mit Illusionen Ablenkungen we
 - **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Mag ihn. Vertraut ihm — auch nachdem klar wurde wie jung er eigentlich ist. Kompetent, und im Moment die einzige Lösung die sie für das Zeitproblem haben.
 - **[[Charaktere/Helden/Team Synfathia/Jashari N'Baaka|Jashari]]** — Spätestens nach der Tempel-Episode: ziemlich cool. Sollte aber lernen ihr Temperament etwas zu zügeln (Stichwort Magier).
 - **[[Charaktere/Helden/Team Synfathia/Yuliya Astel|Yuliya]]** — Weiß nicht so recht was er von ihr halten soll. Da ist mehr Geheimnistuerei als vielleicht gut wäre — das ist ihm aufgefallen.
-- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Kann ihn nicht einschätzen. Hält ihn für etwas zu fanatisch in seinem Glauben verhaftet. Macht lieber einen Bogen.
+- **[[Charaktere/Helden/Team Synfathia/Theobald von Braunsfurt|Theobald]]** — Kann ihn nicht einschätzen. Hält ihn für etwas zu fanatisch in seinem Glauben verhaftet. Macht lieber einen Bogen.
 
 ### Zu NPCs
 

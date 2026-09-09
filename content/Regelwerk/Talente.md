@@ -276,5 +276,17 @@ Alle Talente mit ihren drei [[Eigenschaften]] und ihren [[Talente#Schwerpunkte|S
 
 ### Magie- und Priestertalente
 
-> [!warning] Noch nicht ausgearbeitet
-> Die Magie- und Priestertalente fehlen bislang — auch in den Roh-Notizen. Für die Zauberklassen siehe vorerst [[Magieklassen (Regelwerk)|Magieklassen]]. Getrackt in [[Meta/Aufgaben]].
+Diese Kategorie hat als einzige **sieben** Meisterschaftsschwellen (siehe [[Steigerung#Meisterschaften|Steigerung]]). Sie besteht aus dreierlei:
+
+**Die Magieklassen sind Talente.** Jede der 33 Magieklassen ist zugleich ein Talent mit eigenem Talentwert — wer Elementarist ist, hat *Elementarist [Blitz]* als Talent. Sie stehen in [[Magieklassen (Regelwerk)|Magieklassen]].
+
+**Klassenunabhängige Magie-Talente** kann jeder Zaubernde lernen, gleich welcher Klasse:
+
+| Talent | Probe | Schwerpunkte |
+|---|---|---|
+| **[[Zauberzirkel]]** | — | gemeinsam gewirkte Zauber: Sprecher, Mitsprechen, gegensätzliche Elemente |
+
+**Priestertalente** hat der Kanon noch gar nicht — etwa *Segnen*, das auf bestehenden Heldenbögen bereits neben den Magietalenten steht.
+
+> [!warning] Größtenteils noch nicht ausgearbeitet
+> Ausgearbeitet ist bislang allein der **[[Zauberzirkel]]**. Die Eigenschaften-Kombinationen der Magieklassen und die gesamte Priesterseite fehlen — auch in den Roh-Notizen. Getrackt in [[Meta/Aufgaben]].

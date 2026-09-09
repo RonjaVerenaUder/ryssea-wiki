@@ -91,7 +91,7 @@ _Licht,_
 
 **Eigenschaften:** ENT · CH · IN
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer reduziert die Angst des Ziels für eine Stunde um (Stufe*W6+TaW)/5 Punkten.
 
@@ -108,7 +108,7 @@ _Pflanze,_
 
 **Eigenschaften:** BW · CH · IN
 **Auslöseprobe:** Zauberprobe gegen die körperliche Resistenz
-**Abwehr:** körperliche Resistenz
+**Abwehr:** Körperliche Resistenz
 
 Der Zauberer erhöht die Beweglichkeit der in der Zone von 5 Schritt Radius befindlichen Personen für 200 Ticks um (Stufe*W6+TaW)/10.
 
@@ -159,7 +159,7 @@ _Licht,_
 
 **Eigenschaften:** IN · CH · IN
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer erhöht die Intuition der in der Zone von 5 Schritt Radius befindlichen Personen für 200 Ticks um (Stufe*W6+TaW)/10.
 
@@ -176,7 +176,7 @@ _Zwielicht_
 
 **Eigenschaften:** LG · ENT · IN
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Das Gebet erschafft um die Anwenderin eine Zone der Friedfertigkeit und des Gleichgewichts. Bei
 Einsetzen der Wirkung wird die Anwenderin sanft von den glitzernden Farben des Regenbogens
@@ -257,7 +257,7 @@ _Feuer, Wasser_ · Heilung
 
 **Eigenschaften:** IN · CH · FF
 **Auslöseprobe:** einfache Zauberprobe
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer reduziert den Zustand Brennend pro 5 Punkte um eine Stufe. Der Zauberer besitzt Stufe*W6+TaW Punkte. Die übrigen Punkte werden als Heilung genutzt.
 
@@ -291,7 +291,7 @@ _Licht, Schatten_ · Illusion, Stärkung
 
 **Eigenschaften:** IN · LG · LG
 **Auslöseprobe:** einfache Zauberprobe
-**Abwehr:** körperliche Resistenz
+**Abwehr:** Körperliche Resistenz
 
 Der Zauberer erhält einen Bonus auf seine Heimlichkeitsproben von Stufe*W6+TaW für die Dauer von einer Spielrunde
 
@@ -325,7 +325,7 @@ _Feuer_ · Schaden
 
 **Eigenschaften:** ENT · KO · KK
 **Auslöseprobe:** einfache Zauberprobe (bei freiwilligem Ziel Grundwert halbiert)
-**Abwehr:** körperliche Resistenz
+**Abwehr:** Körperliche Resistenz
 
 Der Zauber hüllt sein Opfer in Flammen ein. Pro 5 Punkte erhält das Opfer eine Stufe Brennend. Die restlichen Punkte fügen dem Opfer Schaden zu. Die gesamt Punktzahl entspricht Stufe*W6+TaW.
 
@@ -394,7 +394,7 @@ _Metall, Eis, Wasser, Erde, Pflanze_
 
 **Eigenschaften:** ENT · IN · KO
 **Auslöseprobe:** Zauberprobe gegen die körperliche Resistenz
-**Abwehr:** körperliche Resistenz
+**Abwehr:** Körperliche Resistenz
 
 Der Zauberer erhöht seinen Rüstungschautz für den die Dauer ders Zaubers um (Stufe mal W6+ TaW)/6 Punkte.
 
@@ -646,7 +646,7 @@ _Licht, Schatten,_
 
 **Eigenschaften:** ENT · IN · CH
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer hebt die Wahrscheinlichkeit während der Zauberdauer eine kritischen Erfolg zu landen. Pro angefangenen 7 Punkten erhält er eine weitere Zahl auf dem W10. Er erhält durch den Zauber Stufe*W6+TaW Punkte.
 
@@ -678,7 +678,7 @@ _Blitz, Luft_ · Stärkung
 
 **Eigenschaften:** BW · IN · KO
 **Auslöseprobe:** einfache Zauberprobe (bei freiwilligem Ziel Grundwert halbiert)
-**Abwehr:** Körperliche Resistenzswert - Aktiv: Zähigkeits-Probe
+**Abwehr:** Körperliche Resistenz
 
 Der Zauber stellt dem Zauberer zusätzlich (Stufe*W6+TaW)/2 Ticks zur Verfügung. Die er zu jeder Zeit im Kampf
 
@@ -883,7 +883,7 @@ _Pflanze, Wasser,_
 
 **Eigenschaften:** ENT · LG · KO
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer verbessert seine Möglichkeiten eine Krankheit zu identifizieren. Er erhält für die nächste Medicus-Probe zur Erkennung einer Krankheit einen Bonus von Stufe*W6+TaW auf seinen Grundwert.
 
@@ -968,7 +968,7 @@ _Pflanze,_
 
 **Eigenschaften:** IN · LG · FF
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer erhält für die Wirkungsdauer (Stufe*W6+TaW)/2 TaP auf Sinnenschärfe. Die er auf die 5 Ziele gleichmäßig aufteilen muss.
 
@@ -1102,7 +1102,7 @@ _Pflanze, Wasser,_
 
 **Eigenschaften:** ENT · IN · FF
 **Auslöseprobe:** Zauberprobe gegen die körperliche Resistenz
-**Abwehr:** körperliche Resistenz
+**Abwehr:** Körperliche Resistenz
 
 Der Zauberer kann mit diesem Zauber den Zustand Sterbend heilen. Dafür muss er die Summe der Sterbend-Stufen *5 ausgeben. Er erhält dafür Stufe*W6+TaW Punkte. Alle übrig gebliebenen Punkte werden zur Heilung des Patienten in LeP angerechnet.
 
@@ -1238,7 +1238,7 @@ _Zwielicht_
 
 **Eigenschaften:** LG · ENT · IN
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Gesegnete darf eine Probe wiederholen und das günstigere Ergebnis wählen, ganz so, als hätte
 er den Vorteil Glück . Allerdings ist dies nur bei Talenten möglich, die dem Wesen der Gottheit des
@@ -1352,7 +1352,7 @@ Das verzauberte Tier hat eine um (Stufe*W6+TaW)/2 verbesserte Loyalität gegenü
 
 ## Verbesserte Wahrnehmung
 _Pflanze_ · Stärkung
-*Erhöht die Sinnesschärfe*
+*Erhöht die Sinnenschärfe*
 
 **Klasse:** Adept, Akademiemagier, Geschossmeister, Pflanze-Elementarist, Schurke, Tierkrieger, Verwandler · **Komplexität:** 6*Stufe · **GLeP:** 11+4*Stufe · **Ausführung:** 40 Ticks · **Reichweite:** Berührung · **Wirkungsdauer:** 200 Ticks · **Ziel:** 1 · **Zone:** nein
 
@@ -1386,7 +1386,7 @@ Gegenstand verjüngert sich um (Stufe*W6+TaW)/4 Minuten. => Meisterschaften für
 
 ## Verstärkte Sinne
 Stärkung
-*Verbessert Sinnesschärfe*
+*Verbessert Sinnenschärfe*
 
 **Klasse:** Adept, Akademiemagier, Geschossmeister, Pflanze-Elementarist, Schurke, Tierkrieger, Verwandler · **Komplexität:** 2*Stufe · **GLeP:** 11+4*Stufe · **Ausführung:** 40 Ticks · **Reichweite:** Berührung · **Wirkungsdauer:** 200 Ticks · **Ziel:** 1 · **Zone:** nein
 
@@ -1463,7 +1463,7 @@ _Pflanze, Eis,_
 
 **Eigenschaften:** ENT · IN · KO
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer kann mit seinen Zauberpunkten von Stufe*W6+TaW, für 5 Punkte den Zustand Schlafend erzeugen. Die restlichen Punkten dienen als Heilung des Ziels.
 
@@ -1480,7 +1480,7 @@ _Pflanze, Metall,_
 
 **Eigenschaften:** ENT · IN · KO
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer belegt ein "Opfer" mit diesem Zeichen. Während der Wirkungsdauererhlten alle Geschosse die vom Zauberer auf ihn abgeschossen das Merkmal Stumpf und der Schaden wird um (Stufe*W6+TaW-5)erhöht.
 
@@ -1497,7 +1497,7 @@ _Pflanze, Metall,_
 
 **Eigenschaften:** ENT · IN · KK
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer belegt ein "Opfer" mit diesem Zeichen. Während der Wirkungsdauer sinkt der RS um (Stufe*W6+TaW)/3 für alle Geschosse die vom Zauberer auf ihn abgeschossen werden.
 
@@ -1514,7 +1514,7 @@ _Pflanze, Luft, Blitz,_
 
 **Eigenschaften:** ENT · IN · IN
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer belegt ein "Opfer" mit diesem Zeichen. Während der Wirkungsdauer erhöht sich der Schwierigkeitswert um Stufe*W6+TaW für alle Geschosse die vom Zauberer auf ihn abgeschossen werden.
 
@@ -1531,7 +1531,7 @@ _Pflanze, Metall,_
 
 **Eigenschaften:** ENT · IN · FF
 **Auslöseprobe:** Zauberprobe gegen die geistige Resistenz
-**Abwehr:** geistige Resistenz
+**Abwehr:** Geistige Resistenz
 
 Der Zauberer belegt ein "Opfer" mit diesem Zeichen. Während der Wirkungsdauer erhöht sich der Schaden um Stufe*W6+TaW für alle Geschosse die vom Zauberer auf ihn abgeschossen werden.
 

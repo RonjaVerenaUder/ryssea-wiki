@@ -184,7 +184,7 @@ Yuliya steht hinten und hilft mit Heilung und magischer Analyse. Direkten Kampf 
 - **[[Charaktere/Helden/Team Synfathia/Fenvarion al'Ichilin|Fenvarion]]** — Widersprüchlich. Als ehemaliger Dämonenjäger löst er leichtes Unbehagen aus, gleichzeitig spürt Yuliya eine unerklärliche Vertrautheit. Sie ist sich sicher, ihm schon einmal begegnet zu sein. Der Friedensvertrag zwischen Phaerie und Dämonen beruhigt sie — und sie lebt ja noch.
 - **[[Charaktere/Helden/Team Synfathia/Jashari N'Baaka|Jash]]** — Eine gute Freundin.
 - **[[Charaktere/Helden/Team Synfathia/Kaito (Heiler-Prototyp)|Kaito]]** — Guter Heiler, aber oft sehr merkwürdig. Yuliyas Urteil: "Ein Kyulie mit Problemen."
-- **[[Charaktere/Helden/Team Synfathia/Theobald|Theobald]]** — Noch nicht sicher. Kulturell und wegen seines Glaubens eher problematisch — Scheiterhaufen-Gefahr als Dämonin. Yuliya ist vorsichtig, sie kennt ihn noch nicht lange genug um ihm zu vertrauen.
+- **[[Charaktere/Helden/Team Synfathia/Theobald von Braunsfurt|Theobald]]** — Noch nicht sicher. Kulturell und wegen seines Glaubens eher problematisch — Scheiterhaufen-Gefahr als Dämonin. Yuliya ist vorsichtig, sie kennt ihn noch nicht lange genug um ihm zu vertrauen.
 
 ### Zu NPCs
 

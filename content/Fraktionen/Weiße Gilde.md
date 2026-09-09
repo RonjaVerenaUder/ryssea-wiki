@@ -24,6 +24,6 @@ Magierorganisation in [[Fraystein]].
 
 ## Merkmale
 
-Mitglieder tragen eine Akademierobe mit dem Rohalsmal auf der Brust.
+Mitglieder tragen eine Akademierobe mit dem **Sevriansmal** auf der Brust — der Auszeichnung für die besten Abschlüsse eines Jahrgangs. Benannt nach Sevrian; wer das war, weiß niemand mehr.
 
 <!-- TODO: Struktur, Philosophie, Ränge, Beziehung zu anderen Fraktionen, Akademie-Details -->
